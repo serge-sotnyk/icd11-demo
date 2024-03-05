@@ -1,0 +1,165 @@
+ 
+Amondys 45® (Casimersen ) (for New Jersey Only)  Page 1 of 4 
+UnitedHealthcare Community Plan  Medical Benefit Drug Policy  Effective 05/01/2023 
+Proprietary Information of UnitedHealthcare. Copyright 2023 United HealthCare Services, Inc.  
+  
+ 
+UnitedHealthcare® Community Plan  
+Medica l  Benefit Drug Policy  
+Amondys 45® (Casimersen)  (for New Jersey Only)  
+Policy Number : CSNJ2023D0105 H  
+Effective  Date : May 1, 202 3  Instructions for Use  
+ 
+Table of Contents  Page  
+Application  ..................................................................................... 1  
+Coverage Rationale  ....................................................................... 1  
+Applicable Codes  .......................................................................... 2  
+Background .................................................................................... 2  
+Clinical Evidence  ........................................................................... 2  
+U.S. Food and Drug Administration  ............................................. 3  
+References  ..................................................................................... 3  
+Policy History/Revision Information  ............................................. 3  
+Instructions for Use  ....................................................................... 3  
+ 
+Application 
+ 
+This Medical Benefit Drug Policy only applies to the state of New Jersey . 
+ 
+Coverage Rationale  
+ Amondys 45 (casimersen) may be covered for the treatment of Duchenne muscular dystrophy (DMD) in patients who 
+meet all of the following criteria : 
+ For initial therapy, all of the following:  
+o Diagnosis of Duchenne muscular dystrophy by, or  in consultation with, a neurologist with expertise in the diagnosis of 
+DMD; and 
+o Submission of medical records (e.g., chart notes, laboratory values) confirming the mutation of the DMD gene is 
+amenable to exon 45 skipping; and 
+o Submission of medical records  (e.g., chart notes) that provides baseline status of the patient prior to starting therapy 
+(e.g., confirming that the patient is walking without needing an assistive device such as a cane, walker, wheelchair, 
+etc.); and 
+o Amondys 45 is prescribed by, or in consultation with, a neurologist with expertise in the treatment of DMD; and 
+o Amondys 45 dosing for DMD is in accordance with the United States Food and Drug Administration approved labeling;  
+and 
+o Amondys 45 is not used con comitantly with other exon skipping therapies for DMD; and  
+o Initial authorization will be for no more than 6 months  
+ For continuation of therapy, all  of the following:  
+o Amondys 45 is prescribed by, or in consultation with, a neurologist with expertise in the treatment of DMD; and 
+o Submission of medical records (e.g., chart notes) confirming that the patient is receiving clinical benefit ( e.g., walking 
+without needing an assistive device such as a  cane, walker, wheelchair, etc.); and 
+o Amondys 45 dosing for DMD is in accordance with the United States Food and Drug Administration approved labeling; and 
+o Amondys 45 is not used concomitantly with other exon skipping therapies for DMD; and  
+o Reauthorization will be for no more than 12 months  
+ Related  Polic ies 
+None  
+ 
+Amondys 45® (Casimersen ) (for New Jersey Only)  Page 2 of 4 
+UnitedHealthcare Community Plan  Medical Benefit Drug Policy  Effective 05/01/2023 
+Proprietary Information of UnitedHealthcare. Copyright 2023 United HealthCare Services, Inc.  
+ Amondys 45 will not be covered for other forms of muscular dystrophy.  
+ 
+Applicable Codes  
+ 
+The following list(s) of procedure and/or diagnosis codes is provided for reference purposes only and may not be all inclusiv e. 
+Listing of a code in this policy does not imply that the service described by the code is a covered or non -covered health service. 
+Benefit coverage for health services is determined by federal, state, or contractual requirements and applicable laws that m ay 
+require coverage for a specific service. The inclusion of a code does not imply any right to reimbursement or guarantee claim  
+payment. Other Policies and Guidelines may apply.  
+ 
+HCPCS Code  Description  
+J1426  Injection, casimersen, 10 mg  
+ 
+Diagnosis Code  Description  
+G71.01  Duchenne or Becker muscular dystrophy  
+ 
+Background  
+ Duchenne muscular dystrophy (DMD) is an X -linked disease that affects 1 in 3,600 to  6,000 live male births. DMD occurs as a 
+result of mutations (mainly deletions) in the dystrophin gene. These mutations lead to an absence or a defect of the protein,  
+dystrophin, resulting in progressive muscle degeneration, leading to loss of ambulation a nd additional respiratory, orthopedic, 
+and cardiac complications. If left untreated, mean age of death is approximately 19 years of age.
+2-4  
+ Amondys 45 (c asimersen ) is an antisense oligonucleotide of the phosphorodiamidate morpholino oligomer (PMO) subcla ss. 
+PMOs are synthetic molecules in which the five- membered ribofuranosyl rings found in natural DNA and RNA are replaced by a 
+six-membered morpholino ring. Each morpholino ring is linked through an uncharged phosphorodiamidate moiety rather than 
+the negatively charged phosphate linkage that is present in natural DNA and RNA. Each phosphorodiamidate morpholino 
+subunit contains one of the heterocyclic bases found in DNA (adenine, cytosine, guanine, or thymine).
+1  
+ 
+Casimersen is designed to bind to exon 45 of  dystrophin pre -mRNA, resulting in exclusion of this exon during mRNA 
+processing in patients with genetic mutations that are amenable to exon 45 skipping. Approximately 8% of DMD patients have out-of-frame deletion mutations amenable to exon 45 skipping. Exon skipping is intended to allow for production of an internally 
+truncated dystrophin protein.
+1 
+ Eteplirsen (Exondys 51
+®) was the first PMO approved by the US Food and Drug Administration for  treatment of DMD patients 
+with confirmed genetic mutations amenable to exon 51 skipping. Approximately 13% of DMD patients have out -of-frame 
+deletion mutations amenable to exon 51 skipping. This indication was approved under accelerated approval based on an increase in dystrophin in skeletal muscle observed in some patients treated with eteplirsen. A clinical benefit of eteplirsen has not been established.
+5 Golodirsen (Vyondys 53®) and viltolarsen (Viltepso®) were the second and third exon skipping agents 
+approved by the U.S. Food and Drug Administration  for treatment of DMD patients with confirmed genetic mutations amenable 
+to exon 53 skipping. Approximately 8% of DMD patients have out -of-frame deletion mutations amenable to exon 53 skipping. 
+Both of these agents were also approved under accelerated approval based on an increase in dystrophin in skeletal muscle observed in treated patients.  
+ 
+Clinical Evidence  
+ Casimersen is indicated for the treatment of Duchenne muscular dystrophy (DMD) in patients who have a confirmed mutation of the DMD gene that is amenable to exon 45 skipping.
+1 
+ ESSENCE is an ongoing 96 -week, Phase 3, double -blind, placebo controlled, randomized clinical trial that will evaluate the 
+efficacy of golodirsen and casimersen in ambulatory DMD patients with out -of-frame deletion mutations amenable to  skipping 
+exon 53 and exon 45, respectively. The study will enroll 222 boys from 7 to 13 years of age with genotypically confirmed DMD and 6MWT ≥ 300 m and ≤ 450 m. The primary endpoint is the change from baseline to Week 96 in 6MWT. Following the 96 - 
+Amondys 45® (Casimersen ) (for New Jersey Only)  Page 3 of 4 
+UnitedHealthcare Community Plan  Medical Benefit Drug Policy  Effective 05/01/2023 
+Proprietary Information of UnitedHealthcare. Copyright 2023 United HealthCare Services, Inc.  
+ week double -blind period, all patients began or are to begin an additional 48 week open -label treatment period. Interim efficacy 
+was assessed based on change from baseline in the dystrophin protein level (measured as % of the dystrophin level in healthy 
+subject s, i.e., percent of normal determined by Western Blot) at Week 48. Interim results from 43 evaluable patients (n = 27, 
+casimersen; n = 16, placebo) who had a muscle biopsy at Week 48 of the double- blind period have been reported. Patients 
+randomized to cas imersen had a baseline mean dystrophin level of 0.93% of normal. At week 48, the mean dystrophin level 
+increased 0.81% to 1.74% of normal. Patients randomized to placebo had a baseline mean dystrophin level of 0.54% of normal. At week 48, the mean dystroph in level increased 0.22% to 1.15% of normal. A clinically  meaningful change in level of dystrophin 
+has not yet been established in humans. As such, the clinical significance of these results is not clear.
+1, 8 
+ 
+Casimersen has not been studied in DMD that is  not amenable to exon 45 skipping, or in other forms of muscular dystrophy 
+(e.g., Becker muscular dystrophy).1 
+ 
+U.S. Food and Drug Administration (FDA)  
+ 
+This section is to be used for informational purposes only. FDA approval alone is not a basis for cover age. 
+ Amondys 45 is indicated for the treatment of Duchenne muscular dystrophy (DMD) in patients who have a confirmed mutation of the DMD gene that is amenable to exon 45 skipping. This indication is approved under accelerated approval based on an 
+increase in dystrophin in skeletal muscle observed in patients treated with Amondys 45. Continued approval for this indication 
+may be contingent upon verification of a clinical benefit in confirmatory trials.
+1  
+ 
+References  
+ 
+1. Amondys 45 [package insert]. Cambridge, MA: Sarepta Therapeutics, Inc, February 2021.  
+2. Bushby K, Finkel R, Birnkrant DJ, Case LE, Clemens PR, Cripe L, et al. Diagnosis and management of Duchenne muscular 
+dystrophy, part 1: diagnosis, and pharmacological and psychosocial management. Lancet Neurol;  2010 Jan; 9(1):77 93.  
+3. Bushby K, Finkel R, Birnkrant DJ, et al. (2010) Diagnosis and management of Duchenne muscular dystrophy, part 2: implementation of multidisciplinary care. Lancet Neurol; 2010 Jan; 9(2):177 -189. 
+4. Birnkrant DJ, Bushby K, Bann CM, et al. Diagnosis and management of Duchenne muscular dystrophy, part 1: diagnosis, 
+and neuromuscular, rehabilitation, endocrine, and gastrointestinal and nutritional management. Lancet Neurol. 
+2018;17(3):251- 267. doi: 10.1016/S1474- 4422(18)30024.  
+5. Exondys 51 [pac kage insert]. Cambridge, MA: Sarepta Therapeutics, Inc, January 2022. 
+6. Vyondys 53 [package insert]. Cambridge, MA: Sarepta Therapeutics, Inc, February 2021.  
+7. Viltepso [package insert]. Paramus NJ: NS Pharma, Inc , March 2021. 
+8. Study of SRP -4045 and SRP -4053 in  DMD Patients (ESSENCE) . 
+https://clinicaltrials.gov/ct2/show/NCT02500381?term=golodirsen&cond=Duchenne+Muscular+Dystrophy&rank=3
+. 
+Acces sed February 4, 2023. 
+ 
+Policy History/Revision Information  
+ 
+Date  Summary of Changes  
+05/01/2023  Supporting Information  
+ Updated Background  and References  sections to reflect the most current information  
+ Archived previous policy version CS2022D0105G  
+ 
+Instructions for Use  
+ 
+This Medical Benefit Drug Policy provides assistance in interpreting UnitedHealthcare standard benefit plans. When deciding 
+coverage, the member specific benefit plan document must be referenced as the terms of the member specific benefit plan 
+may differ from the standard plan. In the event of a conflict, the member specific benefit plan document governs. Before usin g  
+Amondys 45® (Casimersen ) (for New Jersey Only)  Page 4 of 4 
+UnitedHealthcare Community Plan  Medical Benefit Drug Policy  Effective 05/01/2023 
+Proprietary Information of UnitedHealthcare. Copyright 2023 United HealthCare Services, Inc.  
+ this policy, please check the member specific benefit plan document and any applicable federal or state mandates. 
+UnitedHealthcare reserves the right to modify its Policies and Guidelines as necessary. This Medical Benefit Drug Policy is provided for informational purposes. It does not constitute medical advice.  
+ UnitedHealthcare may also use tools developed  by third parties, such as the InterQual
+® criteria , to assist us in administering 
+health benefits. UnitedHealthcare Medical Benefit Drug Policies are intended to be used in connection with the independent professional medical judgment of a qualified health  care provider and do not constitute the practice of medicine or medical 
+advice.  

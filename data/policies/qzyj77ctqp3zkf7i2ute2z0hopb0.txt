@@ -1,0 +1,976 @@
+ 
+ 
+Genetic Cancer Susceptibility Panels Using Next-Generation 
+Sequencing 
+ 
+Policy #  00382  
+Original Effective Date: 09/18/2013 
+Current Effective Date: 01/01 /2023  
+ 
+ 
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 1 of 20 
+ Applies to all products administered or underwritten by Blue Cross and Blue Shield of Louisiana and its subsidiary, 
+HMO Louisiana, Inc. (collectively referred to as the “Company”), unless otherwise provided in the applicable contract. 
+Medical technology is constantly evolving, and we reserve the right to review and update Medical 
+Policy periodically. 
+ 
+Note:  Germline  Genetic Testing for Hereditary Breast/Ovarian Cancer Syndrome and Other High-
+Risk Cancers (BRCA1, BRCA2, PALB2) is addressed separately in medical policy 00047. 
+  
+Note:  Genetic Testing for Lynch Syndrome and Other Inherited Colon Cancer Syndromes is 
+addressed separately in medical policy 00190. 
+ 
+Note: Genetic Testing for Li-Fraumeni Syndrome is addressed separately in medical policy 00424. 
+ 
+Note: Germline Genetic Testing for Gene Variants Associated With Breast Cancer in Individuals at 
+High Breast Cancer Risk (CHEK2, ATM, and BARD1) is addressed separately in medical policy 
+00504.  
+ 
+Note: Use of Common Genetic Variants (single nucleotide Variants) to Predict Risk of Nonfamilial 
+Breast Cancer is addressed separately in medical policy 00268. 
+ 
+Note: Genetic Testing for PTEN Hamartoma Tumor Syndrome is addressed separately in medical 
+policy 00417. 
+ 
+Note:  Germline Genetic Testing for Pancreatic Cancer Susceptibility Genes is addressed separately 
+in medical policy 00706 . 
+ 
+Note:  Genetic Testing for Familial Cutaneous Malignant Melanoma is addressed separately in 
+medical policy 00206. 
+ 
+ 
+  
+ 
+Genetic Cancer Susceptibility Panels Using Next -Generation Sequencing  
+ 
+Policy #  00382  
+Original Effective Date:  09/18/2013  
+Current Effective Date:  01/01/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be  reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 2 of 20 
+Services Are Considered Investigational  
+Coverage is not available for investigational medical treatments or procedures, drugs, devices or 
+biological products. 
+ 
+Based on review of available data, the Company considers general genetic cancer susceptibility 
+panel testing to be investigational;*  however, when the coverage criteria of other policies are met 
+(see related policies above), then limited genetic cancer susceptibility panels including only the gene 
+variants for which a given member qualifies may be considered to be eligible for coverage.** 
+ 
+Policy Guidelines  
+Genetics Nomenclature Update 
+The Human Genome Variation Society nomenclature is used to report information on variants found 
+in DNA and serves as an international standard in DNA diagnostics. It is being implemented for 
+genetic testing medical evidence review updates starting in 2017 (see Table PG1). The Society’s 
+nomenclature is recommended by the Human Variome Project, the Human Genome Organization, 
+and by the Human Genome Variation Society itself. 
+ 
+The American College of Medical Genetics and Genomics and the Association for Molecular 
+Pathology standards and guidelines for interpretation of sequence variants represent expert opinion 
+from both organizations, in addition to the College of American Pathologists. These 
+recommendations primarily apply to genetic tests used in clinical laboratories, including genotyping, 
+single genes, panels, exomes, and genomes. Table PG2 shows the recommended standard 
+terminology −“pathogenic,” “likely pathogenic,” “uncertain significance,” “likely benign,” and 
+“benign” -to describe variants identified that cause Mendelian disorders. 
+ 
+Table PG1. No menclature to Report on Variants Found in DNA  
+Previous  Updated  Definition  
+Mutation  Disease -associated 
+variant  Disease -associated change in the DNA sequence  
+ Variant  Change in the DNA sequence   
+ 
+Genetic Cancer Susceptibility Panels Using Next -Generation Sequencing  
+ 
+Policy #  00382  
+Original Effective Date:  09/18/2013  
+Current Effective Date:  01/01/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be  reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 3 of 20 
+ Familial variant  Disease -associated variant identified in a proband for use in 
+subsequent targeted genetic testing in first -degree relatives  
+ 
+Table PG2. ACMG -AMP Standards and Guidelines for Variant Classification  
+Variant Classification  Definition  
+Pathogenic  Disease -causing change in the DNA sequence  
+Likely pathogenic  Likely disease -causing change in the DNA sequence  
+Variant of uncertain significance  Change in DNA sequence with uncertain effects on disease  
+Likely benign  Likely benign change in the DNA sequence  
+Benign  Benign change in the D NA sequence  
+ACMG: American College of Medical Genetics and Genomics; AMP: Association for Molecular 
+Pathology. 
+ 
+Genetic Counseling 
+Genetic counseling is primarily aimed at individuals who are at risk for inherited disorders, and 
+experts recommend formal genetic counseling in most cases when genetic testing for an inherited 
+condition is considered. The interpretation of the results of genetic tests and the understanding of 
+risk factors can be very difficult and complex. Therefore, genetic counseling will assist individuals 
+in understanding the possible benefits and harms of genetic testing, including the possible impact of 
+the information on the individual's family. Genetic counseling may alter the utilization of genetic 
+testing substantially and may reduce inappropriate testing. Genetic counseling should be performed 
+by an individual with experience and expertise in genetic medicine and genetic testing methods. 
+ 
+Background/Overview  
+Genetic Testing for Cancer Susceptibility 
+Genetic testing for cancer susceptibility may be approached by a focused method that involves 
+testing for gene(s) that may be the cause of the heritable or familial cancer. Panel testing with next-
+generation sequencing (NGS) involves evaluating sequence variants in multiple genes at one time. 
+  
+ 
+Genetic Cancer Susceptibility Panels Using Next -Generation Sequencing  
+ 
+Policy #  00382  
+Original Effective Date:  09/18/2013  
+Current Effective Date:  01/01/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be  reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 4 of 20 
+Multiple commercial companies and medical center laboratories offer genetic testing panels that use 
+NGS methods for hereditary cancers. Next-generation sequencing is one of several methods that use 
+massively parallel platforms to allow the sequencing of large stretches of DNA. Panel testing is 
+potentially associated with greater efficiencies in the evaluation of genetic diseases; however, it may 
+provide information on genetic variants of uncertain clinical significance or findings that would not 
+lead to changes in patient management. 
+ 
+Genes Included in Next-Generation Sequencing Panels 
+The following summarizes the function and disease association of major genes included in NGS 
+panels. This summary is not comprehensive. 
+ 
+BRCA1  and BRCA2  Variants 
+BRCA1  and BRCA2  germline variants are associated with hereditary breast and ovarian cancer 
+syndrome, which is associated most strongly with increased susceptibility to breast cancer at an early 
+age, bilateral breast cancer, male breast cancer, ovarian cancer, cancer of the fallopian tube, and 
+primary peritoneal cancer. BRCA1  and BCRA2  variants are also associated with increased risk of 
+other cancers, including prostate cancer, pancreatic cancer, gastrointestinal cancers, melanoma, and 
+laryngeal cancer. 
+ 
+APC  Variants 
+APC  germline variants are associated with familial adenomatous polyposis (FAP) and attenuated 
+FAP. Familial adenomatous polyposis is an autosomal dominant colon cancer predisposition 
+syndrome characterized by hundreds to thousands of colorectal adenomatous polyps and accounts 
+for about 1% of all colorectal cancers (CRCs). 
+ 
+ATM  Variants 
+ATM is associated with the autosomal recessive condition ataxia-telangiectasia. This condition is 
+characterized by progressive cerebellar ataxia with onset between the ages of 1 and 4 years, 
+telangiectasias of the conjunctivae, oculomotor apraxia, immune defects, and cancer predisposition, 
+particularly leukemia and lymphoma. 
+ 
+BARD1, BRIP1, MRE11A, NBN, RAD50 , and RAD51C  Variants 
+BARD1, BRIP1 , MRE11A , NBN , RAD50 , and RAD51C  are genes in the Fanconi anemia/ BRCA 
+pathway. Variants in these genes are estimated to confer up to a 4-fold increase in the risk of breast  
+ 
+Genetic Cancer Susceptibility Panels Using Next -Generation Sequencing  
+ 
+Policy #  00382  
+Original Effective Date:  09/18/2013  
+Current Effective Date:  01/01/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be  reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 5 of 20 
+cancer. This pathway is also associated with a higher risk of ovarian cancer and, less often, pancreatic 
+cancer. 
+ 
+BMPR1A  and SMAD4 Variants 
+BMPR1A  and SMAD4  are genes mutated in juvenile polyposis syndrome and account for 45% to 
+60% of cases. Juvenile polyposis syndrome is an autosomal dominant disorder that predisposes to 
+the development of polyps in the gastrointestinal tract. Malignant transformation can occur, and the 
+risk of gastrointestinal cancer has been estimated from 9% to 50%. 
+ 
+CHEK2  Variants 
+CHEK2  gene variants confer an increased risk of developing several different types of cancer, 
+including breast, prostate, colon, thyroid, and kidney. CHEK2  regulates the function of the BRCA1 
+protein in DNA repair and has been associated with familial breast cancers. 
+ 
+CDH1  Variants  
+CDH1 is a tumor suppressing gene located on chromosome 16q22.1 that encodes the cell -to-cell 
+adhesion protein E -cadherin. Germline variants in the CDH1 gene have been associated with an 
+increased risk of developing hereditary diffuse gastric cancer (DGC) and lobular breast cancer. A 
+diagnosis of HDGC can be confirmed by ge netic testing, although 20% to 40% of families with 
+suspected HDGC do not have a CDH1 variant on genetic testing. Pathogenic CDH1 variants have 
+been described in Maori families in New Zealand, and individuals of Maori ethnicity have a higher 
+prevalence of diffuse -type gastric cancer than non -Maori New Zealanders . CDH1 germline variants 
+are associated with lobular breast cancer in women and with hereditary diffuse gastric cancer 
+(DGC) . The estimated cumulative risk of gastric cancer for CDH1 variant carriers by age 80 years 
+is 70% for men and 56% for women. CDH1 variants are associated with a lifetime risk of 39% to 
+52% of lobular breast cancer.  
+ 
+EPCAM, MLH1, MSH2, MSH6, and PMS2  Variants 
+EPCAM , MLH1 , MSH2 , MSH6, and  PMS2  are mismatch repair genes associated with Lynch 
+syndrome (hereditary nonpolyposis CRC). Lynch syndrome is estimated to cause 2% to 5% of all 
+colon cancers. Lynch syndrome is associated with a significantly increased risk of several types of 
+cancer-colon cancer (60% to 80% lifetime risk), uterine/endometrial cancer (20% to 60% lifetime 
+risk), gastric cancer (11% to 19% lifetime risk), and ovarian cancer (4% to 13% lifetime risk). The  
+ 
+Genetic Cancer Susceptibility Panels Using Next -Generation Sequencing  
+ 
+Policy #  00382  
+Original Effective Date:  09/18/2013  
+Current Effective Date:  01/01/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be  reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 6 of 20 
+risks of other types of cancer, including the small intestine, hepatobiliary tract, upper urinary tract, 
+and brain, are also elevated. 
+ 
+MUTYH  Variants 
+MUTYH  germline variants are associated with an autosomal recessive form of hereditary polyposis. 
+It has been reported that 33% and 57% of patients with clinical FAP and attenuated FAP, 
+respectively, who are negative for variants in the APC  gene, have MUTYH  variants. 
+ 
+PALB2  Variants 
+PALB2  germline variants are associated with an increased risk of pancreatic and breast cancer. 
+Familial pancreatic and/or breast cancer due to PALB2  variants are inherited in an autosomal 
+dominant pattern. 
+ 
+PTEN  Variants 
+PTEN  variants are associated with PTEN  hamartoma tumor syndrome (PHTS), which includes 
+Cowden syndrome (CS), Bannayan-Riley-Ruvalcaba syndrome, and Proteus syndrome. Cowden 
+syndrome is characterized by a high risk of developing tumors of the thyroid, breast, and 
+endometrium. Affected persons have a lifetime risk of up to 50% for breast cancer, 10% for thyroid 
+cancer, and 5% to 10% for endometrial cancer. 
+ 
+STK11 Variants 
+STK11  germline variants are associated with Peutz-Jeghers syndrome, an autosomal dominant 
+disorder, with a 57% to 81% risk of developing cancer by age 70, of which gastrointestinal and 
+breast cancers are the most common. 
+ 
+TP53  Variants 
+TP53 variants are associated with Li-Fraumeni syndrome. People with TP53 variants have a 50% 
+risk of developing any of the associated cancers by age 30 and a lifetime risk up to 90%, including 
+sarcomas, breast cancer, brain tumors, and adrenal gland cancers. 
+ 
+NF1  Variants 
+The NF1 gene encodes a negative regulator in the ras signal transduction pathway. Variants in the 
+NF1 gene have been associated with neurofibromatosis type 1, juvenile myelomonocytic leukemia, 
+malignant peripheral nerve sheath tumor, brain cancer, breast cancer, and Watson syndrome.  
+ 
+Genetic Cancer Susceptibility Panels Using Next -Generation Sequencing  
+ 
+Policy #  00382  
+Original Effective Date:  09/18/2013  
+Current Effective Date:  01/01/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be  reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 7 of 20 
+RAD51D  Variants 
+RAD51D  germline variants are associated with familial breast and ovarian cancers. 
+ 
+CDK4  Variants 
+Cyclin-dependent kinase-4 is a protein-serine kinase involved in cell cycle regulation. Variants in 
+the CDK4  gene are associated with a variety of cancers, particularly cutaneous melanoma. 
+ 
+CDKN2A  Variants 
+The CDKN2A  gene encodes proteins that act as multiple tumor suppressors through their 
+involvement in 2 cell cycle regulatory pathways: the p53 pathway and the RB1 pathway. Variants 
+or deletions in CDKN2A are frequently found in multiple types of tumor cells. Germline variants in 
+CDKN2A  have been associated with the risk of melanoma, along with pancreatic and central nervous 
+system cancers. 
+ 
+RET  Variants 
+RET encodes a receptor tyrosine kinase; variants in this gene are associated with multiple endocrine 
+neoplasia syndromes (types IIA and IIB) and medullary thyroid carcinoma. 
+ 
+SDHA, SDHB, SDHC, SDHD , and SDHAF2  Variants 
+SDHA , SDHB , SDHC , SDHD , and SDHAF2  gene products are involved in the assembly and function 
+of a component of the mitochondrial respiratory chain. Germline variants in these genes are 
+associated with the development of paragangliomas, pheochromocytomas, gastrointestinal stromal 
+tumors, and a PTEN -negative Cowden-like syndrome. 
+ 
+TMEM127  Variants 
+TMEM127  germline variants are associated with the risk of pheochromocytomas. 
+ 
+VHL  Variants 
+VHL  germline variants are associated with Hippel-Lindau syndrome, an autosomal dominant 
+familial cancer syndrome. This syndrome is associated with various malignant and benign tumors, 
+including central nervous system tumors, renal cancers, pheochromocytomas, and pancreatic 
+neuroendocrine tumors. 
+ 
+  
+ 
+Genetic Cancer Susceptibility Panels Using Next -Generation Sequencing  
+ 
+Policy #  00382  
+Original Effective Date:  09/18/2013  
+Current Effective Date:  01/01/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be  reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 8 of 20 
+FH Variants 
+FH variants are associated with renal cell and uterine cancers. 
+ 
+FLCN  Variants 
+FLCN  acts as a tumor suppressor gene; variants in this gene are associated with the autosomal 
+dominant Birt-Hogg-Dube syndrome, which is characterized by hair follicle hamartomas, kidney 
+tumors, and CRC. 
+ 
+MET Variants 
+MET  is a proto-oncogene that acts as the hepatocyte growth factor receptor. MET variants are 
+associated with hepatocellular carcinoma and papillary renal cell carcinoma. 
+ 
+MITF  Variants 
+Microphthalmia-associated transcription factor (encoded by the MITF gene) is a transcription factor 
+involved in melanocyte differentiation. MITF variants lead to several auditory-pigmentary 
+syndromes, including Waardenburg syndrome type 2 and Tietze syndrome. MITF variants are also 
+associated with melanoma and renal cell carcinoma. 
+ 
+TSC1  Variants 
+TSC1  and TSC2  encode the proteins hamartin and tuberin, which are involved in cell growth, 
+differentiation, and proliferation. Variants in these genes are associated with the development of 
+tuberous sclerosis complex, an autosomal dominant syndrome characterized by skin abnormalities, 
+developmental delay, seizures, and multiple types of cancers, including central nervous system 
+tumors, renal tumors (including angiomyolipomas, renal cell carcinomas), and cardiac 
+rhabdomyomas. 
+ 
+XRCC2  Varian ts 
+XRCC2  encodes proteins thought to be related to the RAD51 protein product that is involved in 
+DNA double-stranded breaks. Variants may be associated with Fanconi anemia and breast cancer. 
+ 
+FANCC  Variants 
+FANCC  is one of several DNA repair genes that mutate in Fanconi anemia, which is characterized 
+by bone marrow failure and a high predisposition to multiple types of cancer. 
+  
+ 
+Genetic Cancer Susceptibility Panels Using Next -Generation Sequencing  
+ 
+Policy #  00382  
+Original Effective Date:  09/18/2013  
+Current Effective Date:  01/01/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be  reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 9 of 20 
+AXIN2  Variants 
+AXIN2  variants are associated with FAP syndrome, although the phenotypes associated with AXIN2  
+variants do not appear to be well-characterized. 
+ 
+Hereditary Cancer and Cancer Syndromes 
+Genetic testing for breast and ovarian cancer syndromes is evaluated in separate policies. 
+ 
+Genetic testing for Li-Fraumeni syndrome is evaluated in a separate policy.  
+ 
+Cowden syndrome is a part of PHTS and is the only PHTS disorder associated with a documented 
+predisposition to malignancies. Genetic testing for CS is a separate policy. 
+ 
+Genetic testing for hereditary colon cancer syndromes is addressed in a separate policy. 
+ 
+Genetic testing for familial pancreatic testing is evaluated in a separate policy. 
+ 
+FDA or Other Governmental Regulatory Approval  
+U.S. Food and Drug Administration (FDA) 
+Clinical laboratories may develop and validate tests in-house and market them as a laboratory 
+service; laboratory-developed tests must meet the general regulatory standards of the Clinical 
+Laboratory Improvement Amendments. Laboratories that offer laboratory-developed tests must be 
+licensed by the Clinical Laboratory Improvement Amendments for high-complexity testing. To date, 
+the U.S. FDA has chosen not to require any regulatory review of these tests. 
+ 
+Rationale/Source  
+This medical policy was developed through consideration of peer-reviewed medical literature 
+generally recognized by the relevant medical community, U.S. Food and Drug Administration 
+approval status, nationally accepted standards of medical practice and accepted standards of medical 
+practice in this community, technology evaluation centers, reference to federal regulations, other 
+plan medical policies, and accredited national guidelines. 
+ 
+Commercially available cancer susceptibility gene panels can test for multiple variants associated 
+with a specific type of cancer or can include variants associated with a wide variety of cancers. Some  
+ 
+Genetic Cancer Susceptibility Panels Using Next -Generation Sequencing  
+ 
+Policy #  00382  
+Original Effective Date:  09/18/2013  
+Current Effective Date:  01/01/2023 
+ 
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be  reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 10 of 20 
+of these variants are associated with inherited cancer syndromes. The cancer type(s), as well as a 
+cancer history involving multiple family members,  increase the clinical concern for the presence of 
+a heritable genetic variant. It has been proposed that variant testing using next-generation sequencing 
+(NGS) technology to analyze multiple genes at one time (panel testing) can optimize genetic testing 
+in these patients compared with sequencing single genes. 
+ 
+There is limited evidence on clinical validity for many of the genes in expanded panels. Most studies 
+have been retrospective. These studies have reported on the frequency with which well-known 
+cancer susceptibility variants are identified using large panels and variably have reported the VUS 
+rate. The VUS rates increased in proportion with panel size, reaching nearly 50% for large gene 
+panels. Although it may be possible to evaluate the clinical validity of some of the genes found on 
+these panels, the clinical validity of expanded cancer susceptibility panels, which include variants 
+associated with unknown or variable cancer risk, are of uncertain clinical validity. 
+ 
+Data are lacking for the clinical utility of multi-gene panels for inherited cancer susceptibility panels. 
+There are management guidelines for syndromes with high penetrance, which have clinical utility in 
+that they inform clinical decision making and result in the prevention of adverse health outcomes. 
+Clinical management recommendations for the inherited conditions associated with low- to-moderate 
+penetrance are not standardized, and the clinical utility of genetic testing for these variants is 
+uncertain and could potentially lead to harm. Also, high VUS rates have been reported with the use 
+of these panels. 
+ 
+Summary of Evidence 
+For individuals who have a personal and/or family history suggesting an inherited cancer syndrome 
+who receive expanded gene panel testing, the evidence includes reports describing the diagnostic 
+yield of expanded gene panels. Relevant outcomes are overall survival, disease-specific survival, 
+and test validity. Studies of gene panel testing for genetic cancer risk assessment have reported 
+primarily on the frequency with which variants are identified. The rates of variants of uncertain 
+significance for gene panels are significant and increase in proportion with panel size, reaching 
+nearly 50% for large gene panels. Variants included in these panels are associated with varying levels 
+of risk of developing cancer. Published data on clinical utility are lacking, and it is unknown whether 
+the use of these panels improves health outcomes. Only some variants included on panels are 
+associated with a high risk of developing a well-defined cancer syndrome for which there are 
+established clinical management guidelines. Many expanded panels include genetic variants 
+   
+ 
+Genetic Cancer Susceptibility Panels Using Next -Generation Sequencing  
+ 
+Policy #  00382  
+Original Effective Date:  09/18/2013  
+Current Effective Date:  01/01/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be  reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 11 of 20 
+considered to be of moderate or low penetrance, and clinical management recommendations for 
+these genes are not well -defined. The lack of clinical management pathways for variants of uncertain 
+clinical significa nce increases the potential for harm. The evidence is insufficient to determine that 
+the technology results in an improvement in the net health outcome.  
+ 
+Supplemental Information  
+The purpose of the following information is to provide reference material. Inclusion does not imply 
+endorsement or alignment with the evidence review conclusions. 
+ 
+Practice Guidelines and Position Statements 
+Guidelines or position statements will be considered for inclusion in ‘Supplemental Information’ if 
+they were issued by, or jointly by, a US professional society, an international society with US 
+representation, or National Institute for Health and Care Excellence (NICE). Priority will be given 
+to guidelines that are informed by a systematic review, include strength of evidence ratings, and 
+include a description of management of conflict of interest. 
+ 
+American Society of Clinical Oncology 
+In 2015, the American Society of Clinical Oncology (ASCO) issued a policy statement on genetic 
+and genomic testing for cancer susceptibility. The update addressed the application of next-
+generation sequencing (NGS) and confirmed that panel testing may also identify variants in genes 
+associated with moderate or low cancer risks, variants in high-penetrance genes that would not have 
+been evaluated based on the presenting personal or family history, and variants of uncertain 
+significance in a substantial proportion of patient cases. Further, the statement indicated there is little 
+consensus as to which genes should be included on panels for cancer susceptibility testing. 
+ 
+In 2020, ASCO published a guideline on germline and somatic tumor testing in epithelial ovarian 
+cancer. Based on a systematic review of evidence and expert panel input, ASCO recommended that 
+women with epithelial ovarian cancer should be offered germline testing for BRCA1/2  and other 
+specified ovarian susceptibility genes with a multi-gene panel. It was considered more practical to 
+evaluate a minimum of the 10 genes that have been associated with inherited risk of ovarian cancer 
+in a panel in comparison to testing BRCA1 and BRCA2  alone. 
+ 
+  
+ 
+Genetic Cancer Susceptibility Panels Using Next -Generation Sequencing  
+ 
+Policy #  00382  
+Original Effective Date:  09/18/2013  
+Current Effective Date:  01/01/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be  reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 12 of 20 
+National Comprehensive Cancer Network 
+Breast and Ovarian Cancers  
+National Comprehensive Cancer Network (NCCN) guidelines on genetic/familial high-risk 
+assessment for breast, ovarian cancers, and/or pancreatic cancer (v.2.2022) include the following on 
+multi-gene testing: 
+• "An individual's personal and/or family history may be explained by more than one 
+inherited cancer syndrome; thus, phenotype-directed testing based on personal and family 
+history through a tailored multi-gene panel test is often more efficient and cost-effective 
+and increases the yield of detecting a pathogenic/likely pathogenic variant in a gene that 
+will impact medical management for the individual or their at-risk family members. 
+• There may also be a role for multi-gene testing in individuals who have tested negative for 
+a single syndrome, but whose personal or family history remains suggestive of an inherited 
+susceptibility. 
+• Some individuals may carry a pathogenic/likely pathogenic germline variants in more than 
+one cancer susceptibility gene..." 
+ 
+The NCCN defines a "tailored" multi-gene panel test as a "disease-focused multi-gene panel of 
+clinically actionable cancer susceptibility genes, in contrast to large multi-gene panels of uncertain 
+or unknown clinical relevance."  The NCCN cautions that multi-gene panels may include moderate-
+risk genes that have limited data on the degree of cancer risk and no clear guidelines on risk 
+management. As more genes are testing, the likelihood of finding variants of uncertain significance 
+increases. Multi-gene panel testing also increases the likelihood of finding pathogenic/likely 
+pathogenic variants without clear significance. 
+ 
+Colorectal Cancer  
+The NCCN guidelines on genetic/familial high-risk assessment for colorectal cancer (v.1.2022) state 
+that “when more than one gene can explain an inherited cancer syndrome, multi -gene testing is more 
+efficient than single- gene testing, or sequential single syndrome testing" and “there is also a role for 
+multi-gene testing in individuals who have tested negative (indeterminate) for a single syndrome, 
+but whose personal or family history remains strongly suggestive of an inherited susceptibility." 
+However, the NCCN cautioned about the increased likelihood of finding variants of uncertain 
+significance, which increases with the number of genes included in the panel, and that gene panels 
+can include moderate-risk genes that may not be clinically actionable. 
+  
+ 
+Genetic Cancer Susceptibility Panels Using Next -Generation Sequencing  
+ 
+Policy #  00382  
+Original Effective Date:  09/18/2013  
+Current Effective Date:  01/01/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be  reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 13 of 20 
+Collaborative Group of the Americas on Inherited Gastrointestinal Cancer 
+In 2020, the Collaborative Group of the Americas on Inherited Gastrointestinal Cancer published a 
+position statement on multi-gene panel testing for patients with colorectal cancer and/or polyposis. 
+Recommendations were based on the evidence, professional society recommendations endorsing 
+testing of a given gene, and opinion of the expert panel. The group noted the variability in genes 
+included in commercially available panels and recommended that multi-gene panels include a 
+minimum of 11 specific genes associated with defective mismatch repair (Lynch syndrome) and 
+polyposis syndromes. Additional genes to be considered had low to moderately increased risk, had 
+limited data of colorectal cancer risk, or causation for colorectal cancer was not proven. 
+ 
+U.S. Preventive Services Task Force Recommendations 
+The U.S. Preventive Services Task Force (2019) has recommended that primary care providers 
+screen women with a personal or family history of breast, ovarian, tubal, or peritoneal cancer or who 
+have an ancestry associated with BRCA1/2  gene mutations with an appropriate brief familial risk 
+assessment tool. Women with positive screening results should receive genetic counseling and if 
+indicated after counseling, BRCA  testing (grade B recommendation). The use of genetic cancer 
+susceptibility panels was not specifically mentioned. 
+ 
+Medicare National Coverage 
+In January 2020, the Centers for Medicare and Medicaid Services (CMS) determined that NGS is 
+covered for patients with breast or ovarian cancer when the diagnostic test is performed in a Clinical 
+Laboratory Improvement Amendments (CLIA)- certified laboratory AND the test has approval or 
+clearance by the U.S. FDA (CAG-00450R). 
+ 
+CMS states that local Medicare carriers may determine coverage of NGS for management of the 
+patient for any cancer diagnosis with a clinical indication and risk factor for germline testing of 
+hereditary cancers when performed in a CLIA-certified laboratory. 
+ 
+Ongoing and Unpublished Clinical Trials 
+Some currently ongoing and unpublished trials that might influence this review are listed in Table 
+1. 
+ 
+ 
+  
+ 
+Genetic Cancer Susceptibility Panels Using Next -Generation Sequencing  
+ 
+Policy #  00382  
+Original Effective Date:  09/18/2013  
+Current Effective Date:  01/01/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be  reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 14 of 20 
+Table 1. Summary of Key Trials  
+NCT No.  Trial Name  Planned 
+Enrollment  Completion 
+Date  
+Ongoing     
+NCT03688204  Clinical Implementation of a Polygenic Risk Score 
+(PRS) for Breast Cancer: Impact on Risk Estimates, 
+Management Recommendations, Clinical 
+Outcomes, and Patient Perception  118 Nov 2020  
+NCT: national clinical trial.  
+ 
+References  
+1. Susswein LR, Marshall ML, Nusbaum R, et al. Pathogenic and likely pathogenic variant 
+prevalence among the first 10,000 patients referred for next -generation cancer panel testing. 
+Genet Med. Aug 2016; 18(8): 823 -32. PMID 26681312  
+2. Richards CS, Bale S, Bellissimo DB, et al. ACMG recommendations for standards for 
+interpretat ion and reporting of sequence variations: Revisions 2007. Genet Med. Apr 2008; 
+10(4): 294 -300. PMID 18414213  
+3. LaDuca H, Stuenkel AJ, Dolinsky JS, et al. Utilization of multigene panels in hereditary cancer 
+predisposition testing: analysis of more than 2,000  patients. Genet Med. Nov 2014; 16(11): 830 -
+7. PMID 24763289  
+4. O'Leary E, Iacoboni D, Holle J, et al. Expanded Gene Panel Use for Women With Breast Cancer: 
+Identification and Intervention Beyond Breast Cancer Risk. Ann Surg Oncol. Oct 2017; 24(10): 
+3060 -3066 . PMID 28766213  
+5. Couch FJ, Shimelis H, Hu C, et al. Associations Between Cancer Predisposition Testing Panel 
+Genes and Breast Cancer. JAMA Oncol. Sep 01 2017; 3(9): 1190 -1196. PMID 28418444  
+6. Buys SS, Sandbach JF, Gammon A, et al. A study of over 35,000 women  with breast cancer 
+tested with a 25 -gene panel of hereditary cancer genes. Cancer. May 15 2017; 123(10): 1721 -
+1730. PMID 28085182  
+7. Langer LR, McCoy H, Kidd J, et al. A study of patients with ovarian cancer tested with a 25 -
+gene hereditary cancer panel. J C ommunity Support Oncol. 2016;14(7):314 -319.  
+ 
+Genetic Cancer Susceptibility Panels Using Next -Generation Sequencing  
+ 
+Policy #  00382  
+Original Effective Date:  09/18/2013  
+Current Effective Date:  01/01/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be  reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 15 of 20 
+8. Kurian, AW, Hughes, E, Handorf, EA, et al. Breast and ovarian cancer penetrance estimates 
+derived from germline multiple -gene sequencing results in women. JCO Precision Oncology. 
+2017; 1:1 -12. 
+9. Pearlman R, Frankel  WL, Swanson BJ, et al. Prospective Statewide Study of Universal 
+Screening for Hereditary Colorectal Cancer: The Ohio Colorectal Cancer Prevention Initiative. 
+JCO Precis Oncol. 2021; 5. PMID 34250417  
+10. Cragun D, Radford C, Dolinsky JS, et al. Panel -based tes ting for inherited colorectal cancer: a 
+descriptive study of clinical testing performed by a US laboratory. Clin Genet. Dec 2014; 86(6): 
+510-20. PMID 24506336  
+11. Rosenthal ET, Bernhisel R, Brown K, et al. Clinical testing with a panel of 25 genes associated 
+with increased cancer risk results in a significant increase in clinically significant findings across 
+a broad range of cancer histories. Cancer Genet. Dec 2017; 218 -219: 58 -68. PMID 29153097  
+12. Idos GE, Kurian AW, Ricker C, et al. Multicenter pros pective cohort study of the diagnostic 
+yield and patient experience of multiplex gene panel testing for hereditary cancer risk. DOI: 
+10.1200/PO.18.00217 JCO Precision Oncology  
+13. Lumish HS, Steinfeld H, Koval C, et al. Impact of Panel Gene Testing for Heredit ary Breast and 
+Ovarian Cancer on Patients. J Genet Couns. Oct 2017; 26(5): 1116 -1129. PMID 28357778  
+14. Eliade M, Skrzypski J, Baurand A, et al. The transfer of multigene panel testing for hereditary 
+breast and ovarian cancer to healthcare: What are the implic ations for the management of patients 
+and families?. Oncotarget. Jan 10 2017; 8(2): 1957 -1971. PMID 27779110  
+15. Kurian AW, Hare EE, Mills MA, et al. Clinical evaluation of a multiple -gene sequencing panel 
+for hereditary cancer risk assessment. J Clin Oncol. J ul 01 2014; 32(19): 2001 -9. PMID 
+24733792  
+16. Robson ME, Bradbury AR, Arun B, et al. American Society of Clinical Oncology Policy 
+Statement Update: Genetic and Genomic Testing for Cancer Susceptibility. J Clin Oncol. Nov 
+01 2015; 33(31): 3660 -7. PMID 26324357  
+17. Konstantinopoulos PA, Lacchetti C, Annunziata CM. Germline and Somatic Tumor Testing in 
+Epithelial Ovarian Cancer: ASCO Guideline Summary. JCO Oncol Pract. Aug 2020; 16(8): 
+e835 -e838. PMID 32074015  
+18. Heald B, Hampel H, Church J, et al. Collaborative Group of  the Americas on Inherited 
+Gastrointestinal Cancer Position statement on multigene panel testing for patients with colorectal 
+cancer and/or polyposis. Fam Cancer. Jul 2020; 19(3): 223 -239. PMID 32172433  
+19. U.S. Preventive Services Task Force (USPSTF). BRCA -Related Cancer: Risk Assessment, 
+Genetic Counseling, and Genetic Testing.  
+ 
+Genetic Cancer Susceptibility Panels Using Next -Generation Sequencing  
+ 
+Policy #  00382  
+Original Effective Date:  09/18/2013  
+Current Effective Date:  01/01/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be  reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 16 of 20 
+https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/brca -related -cancer -
+risk-assessment -genetic -counseling -and-genetic -testing.  
+20. U.S. Food and Drug Administration. Eval uation of automatic class II designation for clonoSEQ 
+Assay; Decision summary https://www.accessdata.fda.gov/cdrh_docs/reviews/DEN170080.pdf . 
+21. National Comprehensive Care Network . NCCN Clinical Practice Guidelines in Oncology: 
+Multiple Myeloma. Version 3.2022. 
+https://www.nccn.org/professionals/physician_gls/pdf/myeloma.pdf . 
+22. National Comprehensive Car e Network. NCCN clinical care practice guidelines in Oncology: 
+Chronic lymphocytic leukemia/ small lymphocytic lymphoma. Version 1.202. 
+https://www.nccn.org/professionals/physicia n_gls/pdf/cll.pdf . 
+23. National Comprehensive Care Network. NCCN Clinical Practice Guidelines in Oncology: Acute 
+Lymphoblastic Leukemia. Version 2.2021. 
+https://www.nccn.org/professio nals/physician_gls/pdf/all.pdf . 
+24. National Comprehensive Cancer Network (NCCN). NCCN Clinical Practice Guidelines in 
+Oncology: Genetic/Familial High -Risk Assessment: Breast, Ovarian, and Pancreatic Version 
+1.2022. https://www.nccn.org/professionals/physician _gls/pdf/genetics_bop.pdf.  
+25. Food & Drug Administration. Premarket Approval: BRACAnalysis CDx. 2019. 
+https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P140020S019 . 
+26. National Comprehensive Cancer Network (NCCN). Clinical Practice Guidelines in Onc ology: 
+Pancreatic Adenocarcinoma. Version 2.2021. 
+https://www.nccn.org/professionals/physician_gls/pdf/pancreatic.pdf . 
+27. National Comprehensive Cancer Network (NCCN) Clinical Practice Guidelines in Oncology: 
+Prostate Cancer. Version 1.2023; 
+https://www.nccn.org/professionals/physician_gls/pdf/p rostate.pdf . 
+28. National Comprehensive Cancer Network (NCCN). NCCN Clinical Practice Guidelines in 
+Oncology: Cutaneous Melanoma. Version 3.2022; 
+https://www.nccn.org/professionals/physician_gls/pdf/cutaneous_melanoma.pdf.   
+29. National Comprehensive Cancer Netwo rk (NCCN). NCCN Clinical Practice Guidelines in 
+Oncology: Non -Small Cell Lung Cancer. Version 5.2022; 
+https://www.nccn.org/professionals/physician_gls/pdf/nscl.pdf . 
+30. National Comp rehensive Cancer Network (NCCN). NCCN Clinical Practice Guidelines in 
+Oncology: Colon Cancer. Version 1.2022; 
+https://www.nccn.org/professionals/physician_gls/pdf/colon.pdf .  
+ 
+Genetic Cancer Susceptibility Panels Using Next -Generation Sequencing  
+ 
+Policy #  00382  
+Original Effective Date:  09/18/2013  
+Current Effective Date:  01/01/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be  reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 17 of 20 
+31. National Comprehensive Cancer Network (NCCN). NCCN Clinical Practice Guidelines in 
+Oncology: Breast Cancer. Version 4.2022; 
+https://www.nccn.org/professionals/physician_gls/pdf/br east.pdf . 
+32. National Comprehensive Cancer Network (NCCN). NCCN Clinical Practice Guidelines in 
+Oncology: Ovarian Cancer. Version 5.2022; 
+https://www.nccn.org/professionals/physician_gls/pdf/ovarian.pdf.  
+ 
+Policy History  
+Original Effective Date: 09/18/2013 
+Current Effective Date: 01 /01/2023 
+09/05/2013 Medical Policy Committee review 
+09/18/2013 Medical Policy Implementation Committee approval. New policy. 
+09/04/2014 Medical Policy Committee review 
+09/17/2014 Medical Policy Implementation Committee approval. No change to coverage. 
+01/01/2015 Coding Update 
+09/03/2015 Medical Policy Committee review 
+09/23/2015 Medical Policy Implementation Committee approval. No change to coverage. 
+09/08/2016 Medical Policy Committee review 
+09/21/2016 Medical Policy Implementation Committee approval. No change to coverage. 
+01/01/2017 Coding update: Removing ICD-9 Diagnosis Codes 
+12/07/2017 Medical Policy Committee review 
+12/20/2017 Medical Policy Implementation Committee approval. No change to coverage. 
+12/06/2018 Medical Policy Committee review 
+12/19/2018 Medical Policy Implementation Committee approval. No change to coverage. 
+Added policy guidelines.  
+06/17/2019 Coding update 
+12/05 /2019  Medical Policy Committee review 
+12/11 /2019  Medical Policy Implementation Committee approval. No change to coverage. 
+Coding update  
+12/03 /2020  Medical Policy Committee review 
+12/09 /2020  Medical Policy Implementation Committee approval. No change to coverage. 
+12/02 /2021  Medical Policy Committee review  
+ 
+Genetic Cancer Susceptibility Panels Using Next -Generation Sequencing  
+ 
+Policy #  00382  
+Original Effective Date:  09/18/2013  
+Current Effective Date:  01/01/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be  reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 18 of 20 
+12/08 /2021  Medical Policy Implementation Committee approval. Investigational statement 
+reworded. 
+03/08/2022 Coding Update 
+03/25/2022 Coding Update 
+04/13/2022 Coding Update 
+12/01/2022 Medical Policy Committee review 
+12/14/2022 Medical Policy Implementation Committee approval. No change to coverage. 
+Senate bill review.  
+Next Scheduled Review Date: 12/202 3 
+ 
+Coding  
+The five character codes included in the Blue Cross Blue Shield of Louisiana Medical Policy 
+Coverage Guidelines are obtained from Current Procedural Terminology (CPT®)‡, copyright 202 1 
+by the American Medical Association (AMA). CPT is developed by the AMA as a listing of 
+descriptive terms and five character identifying codes and modifiers for reporting medical services 
+and procedures performed by physician. 
+ 
+The responsibility for the content of Blue Cross Blue Shield of Louisiana Medical Policy Coverage 
+Guidelines is with Blue Cross and Blue Shield of Louisiana and no endorsement by the AMA is 
+intended or should be implied.  The AMA disclaims responsibility for any consequences or liability 
+attributable or related to any use, nonuse or interpretation of information contained in Blue Cross 
+Blue Shield of Louisiana Medical Policy Coverage Guidelines.  Fee schedules, relative value units, 
+conversion factors and/or related components are not assigned by the AMA, are not part of CPT, 
+and the AMA is not recommending their use.  The AMA does not directly or indirectly practice 
+medicine or dispense medical services.  The AMA assumes no liability for data contained or not 
+contained herein.  Any use of CPT outside of Blue Cross Blue Shield of Louisiana Medical Policy 
+Coverage Guidelines should refer to the most current Current Procedural Terminology which 
+contains the complete and most current listing of CPT codes and descriptive terms. Applicable 
+FARS/DFARS apply. 
+ 
+CPT is a registered trademark of the American Medical Association. 
+  
+ 
+Genetic Cancer Susceptibility Panels Using Next -Generation Sequencing  
+ 
+Policy #  00382  
+Original Effective Date:  09/18/2013  
+Current Effective Date:  01/01/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be  reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 19 of 20 
+Codes used to identify services associated with this policy may include (but may not be limited to) 
+the following:  
+Code Type  Code  
+CPT 81437, 81438, 81479  
+Delete code effective 4/1/2022: 0048U, 0131U, 0132U, 0133U, 0134U, 
+0135U  
+Delete code effective 5/1/2022: 0012M  
+Add code effective 01/01/2023: 81442  
+Delete codes effective 01/01/2023: 0049U, 81162, 81163, 81164, 81165, 
+81166, 81167, 81201, 81202, 81203, 81206, 81207, 81208, 81210, 
+81212, 81215, 81216, 81217, 81235, 81270, 81275, 81276, 81287, 
+81292, 81293, 81294, 81295, 81296, 81297, 81298, 81299, 81300, 
+81309, 81317, 81318, 81319, 81321, 81322, 81323, 81345, 81432, 
+81433, 8144 3, 81455  
+HCPCS  No codes  
+ICD-10 Diagnosis  All related diagnoses  
+ 
+*Investigational – A medical treatment, procedure, drug, device, or biological product is 
+Investigational if the effectiveness has not been clearly tested and it has not been incorporated into 
+standard medical practice. Any determination we make that a medical treatment, procedure, drug, 
+device, or biological product is Investigational will be based on a consideration of the following: 
+A. Whether the medical treatment, procedure, drug, device, or biological product can be 
+lawfully marketed without approval of the U.S. Food and Drug Administration (FDA) and 
+whether such approval has been granted at the time the medical treatment, procedure, drug, 
+device, or biological product is sought to be furnished; or 
+B. Whether the medical treatment, procedure, drug, device, or biological product requires 
+further studies or clinical trials to determine its maximum tolerated dose, toxicity, safety, 
+effectiveness, or effectiveness as compared with the standard means of treatment or 
+diagnosis, must improve health outcomes, according to the consensus of opinion among 
+experts as shown by reliable evidence, including: 
+1. Consultation with technology evaluation center(s); 
+2. Credible scientific evidence published in peer-reviewed medical literature generally 
+recognized by the relevant medical community; or  
+ 
+Genetic Cancer Susceptibility Panels Using Next -Generation Sequencing  
+ 
+Policy #  00382  
+Original Effective Date:  09/18/2013  
+Current Effective Date:  01/01/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be  reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 20 of 20 
+3. Reference to federal regulations. 
+ 
+‡ Indicated trademarks are the registered trademarks of their respective owners. 
+ 
+NOTICE:  If the Patient’s health insurance contract contains language that differs from the 
+BCBSLA Medical Policy definition noted above, the definition in the health insurance contract will 
+be relied upon for specific coverage determinations. 
+ 
+NOTICE:  Medical Policies are scientific based opinions, provided solely for coverage and 
+informational purposes. Medical Policies should not be construed to suggest that the Company 
+recommends, advocates, requires, encourages, or discourages any particular treatment, procedure, 
+or service, or any particular course of treatment, procedure, or service. 

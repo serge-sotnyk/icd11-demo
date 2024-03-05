@@ -1,0 +1,510 @@
+Policy Attachment
+Attachment to Policy #
+11.08.17k
+Attachment:
+C
+Policy #:
+11.08.17k
+Description:
+ICD-10 CM Codes Eligible to be Reported for Debridement of mycotic hypertrophic toe nails (E13.3513 - I87.093),
+Continued
+Title:
+Debridement of Mycotic and Symptomatic Non-Mycotic Hypertrophic Toe Nails
+INTERNATIONAL CLASSIFICATION OF DISEASES (ICD-10) DIAGNOSIS CODES ASSOCIATED WITH 
+DEBRIDEMENT
+OF MYCOTIC HYPERTROPHIC TOE NAILS
+ 
+(continued)
+E13.3513
+Other specified diabetes mellitus with proliferative diabetic retinopathy with
+macular edema, bilateral
+E13.3519
+Other specified diabetes mellitus with proliferative diabetic retinopathy with
+macular edema, unspecified eye
+E13.3521
+Other specified diabetes mellitus with proliferative diabetic retinopathy with
+traction retinal detachment involving the macula, right eye
+E13.3522
+Other specified diabetes mellitus with proliferative diabetic retinopathy with
+traction retinal detachment involving the macula, left eye
+E13.3523
+Other specified diabetes mellitus with proliferative diabetic retinopathy with
+traction retinal detachment involving the macula, bilateral
+E13.3529
+Other specified diabetes mellitus with proliferative diabetic retinopathy with
+traction retinal detachment involving the macula, unspecified eye
+E13.3531
+Other specified diabetes mellitus with proliferative diabetic retinopathy with
+traction retinal detachment not involving the macula, right eye
+E13.3532
+Other specified diabetes mellitus with proliferative diabetic retinopathy with
+traction retinal detachment not involving the macula, left eye
+E13.3533
+Other specified diabetes mellitus with proliferative diabetic retinopathy with
+traction retinal detachment not involving the macula, bilateral
+E13.3539
+Other specified diabetes mellitus with proliferative diabetic retinopathy with
+traction retinal detachment not involving the macula, unspecified eye
+E13.3541
+Other specified diabetes mellitus with proliferative diabetic retinopathy with
+combined traction retinal detachment and rhegmatogenous retinal
+detachment, right eye
+E13.3542
+Other specified diabetes mellitus with proliferative diabetic retinopathy with
+combined traction retinal detachment and rhegmatogenous retinal
+detachment, left eye
+E13.3543
+Other specified diabetes mellitus with proliferative diabetic retinopathy with
+combined traction retinal detachment and rhegmatogenous retinal
+detachment, bilateral
+E13.3549
+Other specified diabetes mellitus with proliferative diabetic retinopathy with
+combined traction retinal detachment and rhegmatogenous retinal
+detachment, unspecified eye
+E13.3551
+Other specified diabetes mellitus with stable proliferative diabetic
+retinopathy, right eye
+E13.3552
+Other specified diabetes mellitus with stable proliferative diabetic
+retinopathy, left eye
+E13.3553
+Other specified diabetes mellitus with stable proliferative diabetic
+retinopathy, bilateral
+E13.3559
+Other specified diabetes mellitus with stable proliferative diabetic
+retinopathy, unspecified eye
+E13.3591
+Other specified diabetes mellitus with proliferative diabetic retinopathy
+without macular edema, right eye
+E13.3592
+Other specified diabetes mellitus with proliferative diabetic retinopathy
+without macular edema, left eyeE13.3593
+Other specified diabetes mellitus with proliferative diabetic retinopathy
+without macular edema, bilateral
+E13.3599
+Other specified diabetes mellitus with proliferative diabetic retinopathy
+without macular edema, unspecified eye
+E13.36
+Other specified diabetes mellitus with diabetic cataract
+E13.37X1
+Other specified diabetes mellitus with diabetic macular edema, resolved
+following treatment, right eye
+E13.37X2
+Other specified diabetes mellitus with diabetic macular edema, resolved
+following treatment, left eye
+E13.37X3
+Other specified diabetes mellitus with diabetic macular edema, resolved
+following treatment, bilateral
+E13.37X9
+Other specified diabetes mellitus with diabetic macular edema, resolved
+following treatment, unspecified eye
+E13.39
+Other specified diabetes mellitus with other diabetic ophthalmic
+complication
+E13.40
+Other specified diabetes mellitus with diabetic neuropathy, unspecified
+E13.41
+Other specified diabetes mellitus with diabetic mononeuropathy
+E13.42
+Other specified diabetes mellitus with diabetic polyneuropathy
+E13.43
+Other specified diabetes mellitus with diabetic autonomic (poly)neuropathy
+E13.44
+Other specified diabetes mellitus with diabetic amyotrophy
+E13.49
+Other specified diabetes mellitus with other diabetic neurological
+complication
+E13.51
+Other specified diabetes mellitus with diabetic peripheral angiopathy
+without gangrene
+E13.52
+Other specified diabetes mellitus with diabetic peripheral angiopathy with
+gangrene
+E13.59
+Other specified diabetes mellitus with other circulatory complications
+E13.610
+Other specified diabetes mellitus with diabetic neuropathic arthropathy
+E13.618
+Other specified diabetes mellitus with other diabetic arthropathy
+E13.620
+Other specified diabetes mellitus with diabetic dermatitis
+E13.621
+Other specified diabetes mellitus with foot ulcer
+E13.622
+Other specified diabetes mellitus with other skin ulcer
+E13.628
+Other specified diabetes mellitus with other skin complications
+E13.630
+Other specified diabetes mellitus with periodontal disease
+E13.638
+Other specified diabetes mellitus with other oral complications
+E13.641
+Other specified diabetes mellitus with hypoglycemia with coma
+E13.649
+Other specified diabetes mellitus with hypoglycemia without coma
+E13.65
+Other specified diabetes mellitus with hyperglycemia
+E13.69
+Other specified diabetes mellitus with other specified complication
+E13.8
+Other specified diabetes mellitus with unspecified complications
+E13.9
+Other specified diabetes mellitus without complications
+E52
+Niacin deficiency [pellagra]
+E53.0
+Riboflavin deficiency
+E53.1
+Pyridoxine deficiency
+E53.8
+Deficiency of other specified B group vitamins
+E53.9
+Vitamin B deficiency, unspecified
+E75.21
+Fabry (-Anderson) disease
+E75.22
+Gaucher disease
+E75.240
+Niemann-Pick disease type A
+E75.241
+Niemann-Pick disease type B
+E75.242
+Niemann-Pick disease type C
+E75.243
+Niemann-Pick disease type D
+â€‹E75.244â€‹
+â€‹Niemann-Pick disease type A/B
+E75.248
+Other Niemann-Pick diseaseE75.249
+Niemann-Pick disease, unspecified
+E75.3
+Sphingolipidosis, unspecified
+E77.0
+Defects in post-translational modification of lysosomal enzymes
+E77.1
+Defects in glycoprotein degradation
+E77.8
+Other disorders of glycoprotein metabolism
+E77.9
+Disorder of glycoprotein metabolism, unspecified
+E85.1
+Neuropathic heredofamilial amyloidosis
+E85.2
+Heredofamilial amyloidosis, unspecified
+E85.3
+Secondary systemic amyloidosis
+E85.4
+Organ-limited amyloidosis
+E85.81
+Light chain (AL) amyloidosis
+E85.82
+Wild-type transthyretin-related (ATTR) amyloidosis
+E
+85.8
+9
+Other amyloidosis
+E85.9
+Amyloidosis, unspecified
+G12.21
+Amyotrophic lateral sclerosis
+G12.25
+Progressive spinal muscle atrophy
+G13.0
+Paraneoplastic neuromyopathy and neuropathy
+G13.1
+Other systemic atrophy primarily affecting central nervous system in
+neoplastic disease
+G35
+Multiple sclerosis
+G60.0
+Hereditary motor and sensory neuropathy
+G60.1
+Refsum's disease
+G60.2
+Neuropathy in association with hereditary ataxia
+G60.3
+Idiopathic progressive neuropathy
+G60.8
+Other hereditary and idiopathic neuropathies
+G60.9
+Hereditary and idiopathic neuropathy, unspecified
+G61.0
+Guillain-Barre syndrome
+G61.1
+Serum neuropathy
+G61.81
+Chronic inflammatory demyelinating polyneuritis
+G61.89
+Other inflammatory polyneuropathies
+G61.9
+Inflammatory polyneuropathy, unspecified
+G62.0
+Drug-induced polyneuropathy
+G62.1
+Alcoholic polyneuropathy
+G62.2
+Polyneuropathy due to other toxic agents
+G62.81
+Critical illness polyneuropathy
+G62.82
+Radiation-induced polyneuropathy
+G62.89
+Other specified polyneuropathies
+G62.9
+Polyneuropathy, unspecified
+G63
+Polyneuropathy in diseases classified elsewhere
+G64
+Other disorders of peripheral nervous system
+G65.0
+Sequelae of Guillain-Barre syndrome
+G65.1
+Sequelae of other inflammatory polyneuropathy
+G65.2
+Sequelae of toxic polyneuropathy
+G90.09
+Other idiopathic peripheral autonomic neuropathy
+G99.0
+Autonomic neuropathy in diseases classified elsewhere
+I70.201
+Unspecified atherosclerosis of native arteries of extremities, right leg
+I70.202
+Unspecified atherosclerosis of native arteries of extremities, left leg
+I70.203
+Unspecified atherosclerosis of native arteries of extremities, bilateral legs
+I70.208
+Unspecified atherosclerosis of native arteries of extremities, other extremity
+I70.209
+Unspecified atherosclerosis of native arteries of extremities, unspecified
+extremityI70.211
+Atherosclerosis of native arteries of extremities with intermittent
+claudication, right leg
+I70.212
+Atherosclerosis of native arteries of extremities with intermittent
+claudication, left leg
+I70.213
+Atherosclerosis of native arteries of extremities with intermittent
+claudication, bilateral legs
+I70.218
+Atherosclerosis of native arteries of extremities with intermittent
+claudication, other extremity
+I70.219
+Atherosclerosis of native arteries of extremities with intermittent
+claudication, unspecified extremity
+I70.221
+Atherosclerosis of native arteries of extremities with rest pain, right leg
+I70.222
+Atherosclerosis of native arteries of extremities with rest pain, left leg
+I70.223
+Atherosclerosis of native arteries of extremities with rest pain, bilateral legs
+I70.228
+Atherosclerosis of native arteries of extremities with rest pain, other
+extremity
+I70.229
+Atherosclerosis of native arteries of extremities with rest pain, unspecified
+extremity
+I70.231
+Atherosclerosis of native arteries of right leg with ulceration of thigh
+I70.232
+Atherosclerosis of native arteries of right leg with ulceration of calf
+I70.233
+Atherosclerosis of native arteries of right leg with ulceration of ankle
+I70.234
+Atherosclerosis of native arteries of right leg with ulceration of heel and
+midfoot
+I70.235
+Atherosclerosis of native arteries of right leg with ulceration of other part of
+foot
+I70.238
+Atherosclerosis of native arteries of right leg with ulceration of other part of
+lower leg
+I70.239
+Atherosclerosis of native arteries of right leg with ulceration of unspecified
+site
+I70.241
+Atherosclerosis of native arteries of left leg with ulceration of thigh
+I70.242
+Atherosclerosis of native arteries of left leg with ulceration of calf
+I70.243
+Atherosclerosis of native arteries of left leg with ulceration of ankle
+I70.244
+Atherosclerosis of native arteries of left leg with ulceration of heel and
+midfoot
+I70.245
+Atherosclerosis of native arteries of left leg with ulceration of other part of
+foot
+I70.248
+Atherosclerosis of native arteries of left leg with ulceration of other part of
+lower leg
+I70.249
+Atherosclerosis of native arteries of left leg with ulceration of unspecified
+site
+I70.25
+Atherosclerosis of native arteries of other extremities with ulceration
+I70.261
+Atherosclerosis of native arteries of extremities with gangrene, right leg
+I70.262
+Atherosclerosis of native arteries of extremities with gangrene, left leg
+I70.263
+Atherosclerosis of native arteries of extremities with gangrene, bilateral legs
+I70.268
+Atherosclerosis of native arteries of extremities with gangrene, other
+extremity
+I70.269
+Atherosclerosis of native arteries of extremities with gangrene, unspecified
+extremity
+I70.291
+Other atherosclerosis of native arteries of extremities, right leg
+I70.292
+Other atherosclerosis of native arteries of extremities, left leg
+I70.293
+Other atherosclerosis of native arteries of extremities, bilateral legs
+I70.298
+Other atherosclerosis of native arteries of extremities, other extremity
+I70.299
+Other atherosclerosis of native arteries of extremities, unspecified extremity
+I70.90
+Unspecified atherosclerosis
+I70.91
+Generalized atherosclerosis
+I73.00
+Raynaud's syndrome without gangreneI73.01
+Raynaud's syndrome with gangrene
+I73.1
+Thromboangiitis obliterans [Buerger's disease]
+I73.81
+Erythromelalgia
+I73.89
+Other specified peripheral vascular diseases
+I73.9
+Peripheral vascular disease, unspecified
+I77.1
+Stricture of artery
+I77.6
+Arteritis, unspecified
+I79.1
+Aortitis in diseases classified elsewhere
+I79.8
+Other disorders of arteries, arterioles and capillaries in diseases classified
+elsewhere
+I80.00
+Phlebitis and thrombophlebitis of superficial vessels of unspecified lower
+extremity
+I80.01
+Phlebitis and thrombophlebitis of superficial vessels of right lower extremity
+I80.02
+Phlebitis and thrombophlebitis of superficial vessels of left lower extremity
+I80.03
+Phlebitis and thrombophlebitis of superficial vessels of lower extremities,
+bilateral
+I80.10
+Phlebitis and thrombophlebitis of unspecified femoral vein
+I80.11
+Phlebitis and thrombophlebitis of right femoral vein
+I80.12
+Phlebitis and thrombophlebitis of left femoral vein
+I80.13
+Phlebitis and thrombophlebitis of femoral vein, bilateral
+I80.201
+Phlebitis and thrombophlebitis of unspecified deep vessels of right lower
+extremity
+I80.202
+Phlebitis and thrombophlebitis of unspecified deep vessels of left lower
+extremity
+I80.203
+Phlebitis and thrombophlebitis of unspecified deep vessels of lower
+extremities, bilateral
+I80.209
+Phlebitis and thrombophlebitis of unspecified deep vessels of unspecified
+lower extremity
+I80.221
+Phlebitis and thrombophlebitis of right popliteal vein
+I80.222
+Phlebitis and thrombophlebitis of left popliteal vein
+I80.223
+Phlebitis and thrombophlebitis of popliteal vein, bilateral
+I80.229
+Phlebitis and thrombophlebitis of unspecified popliteal vein
+I80.231
+Phlebitis and thrombophlebitis of right tibial vein
+I80.232
+Phlebitis and thrombophlebitis of left tibial vein
+I80.233
+Phlebitis and thrombophlebitis of tibial vein, bilateral
+I80.239
+Phlebitis and thrombophlebitis of unspecified tibial vein
+I80.241
+Phlebitis and thrombophlebitis of right peroneal vein
+I80.242
+Phlebitis and thrombophlebitis of left peroneal vein
+I80.243
+Phlebitis and thrombophlebitis of peroneal vein, bilateral
+I80.249
+Phlebitis and thrombophlebitis of unspecified peroneal vein
+I80.251
+Phlebitis and thrombophlebitis of right calf muscular vein
+I80.252
+Phlebitis and thrombophlebitis of left calf muscular vein
+I80.253
+Phlebitis and thrombophlebitis of calf muscular vein, bilateral
+I80.259
+Phlebitis and thrombophlebitis of unspecified calf muscular vein
+I80.291
+Phlebitis and thrombophlebitis of other deep vessels of right lower extremity
+I80.292
+Phlebitis and thrombophlebitis of other deep vessels of left lower extremity
+I80.293
+Phlebitis and thrombophlebitis of other deep vessels of lower extremity,
+bilateral
+I80.299
+Phlebitis and thrombophlebitis of other deep vessels of unspecified lower
+extremity
+I80.3
+Phlebitis and thrombophlebitis of lower extremities, unspecified
+I87.001
+Postthrombotic syndrome without complications of right lower extremity
+I87.002
+Postthrombotic syndrome without complications of left lower extremity
+I87.003
+Postthrombotic syndrome without complications of bilateral lower extremityI87.009
+Postthrombotic syndrome without complications of unspecified extremity
+I87.011
+Postthrombotic syndrome with ulcer of right lower extremity
+I87.012
+Postthrombotic syndrome with ulcer of left lower extremity
+I87.013
+Postthrombotic syndrome with ulcer of bilateral lower extremity
+I87.019
+Postthrombotic syndrome with ulcer of unspecified lower extremity
+I87.021
+Postthrombotic syndrome with inflammation of right lower extremity
+I87.022
+Postthrombotic syndrome with inflammation of left lower extremity
+I87.023
+Postthrombotic syndrome with inflammation of bilateral lower extremity
+I87.029
+Postthrombotic syndrome with inflammation of unspecified lower extremity
+I87.031
+Postthrombotic syndrome with ulcer and inflammation of right lower
+extremity
+I87.032
+Postthrombotic syndrome with ulcer and inflammation of left lower extremity
+I87.033
+Postthrombotic syndrome with ulcer and inflammation of bilateral lower
+extremity
+I87.039
+Postthrombotic syndrome with ulcer and inflammation of unspecified lower
+extremity
+I87.091
+Postthrombotic syndrome with other complications of right lower extremity
+I87.092
+Postthrombotic syndrome with other complications of left lower extremity
+I87.093
+Postthrombotic syndrome with other complications of bilateral lower
+extremity
+Version Effective Date:
+10/1/2021
+Version Issued Date:
+10/1/2021
+Version Reissued Date:
+3/8/2023

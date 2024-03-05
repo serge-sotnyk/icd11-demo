@@ -1,0 +1,602 @@
+ 
+ 
+Medical and Drug
+Policies
+Policies & Guidelines
+Advanced Imaging
+Draft Policies
+Autism Spectrum Mandate
+Behavioral Health
+Blue Advantage Policies
+Advanced Imaging
+Draft Policies
+Genetic Testing
+Draft Genetic Testing Policies
+Medical Policies
+Draft Policies
+Final Policies
+Provider-Administered Drug Policies (Excluding Oncology)
+Current Provider-Administered Drug Policies
+Draft Provider-Administered Drug Policies
+Previous Provider-Administered Drug Policies
+Provider-Administered Oncology Drug Policies
+Current Provider-Administered Oncology Drug Policies
+Draft Provider-Administered Oncology Drug Policies
+Previous Provider-Administered Oncology Drug Policies
+Radiation Therapy
+Draft Policies
+Chronic Condition Management
+Genetic Testing
+Draft Genetic Testing Policies
+HealthSmartRx Smart RxAssist Program
+Hemophilia Drugs
+Draft Hemophilia Drug Policies
+Final Hemophilia Drug Policies
+Hemophilia Drug Prior Authorization
+PEEHIP Hemophilia Drug Program
+Medical Policies
+Draft Medical Policies
+Final Medical Policies
+Provider-Administered Drug Policies (Excluding Oncology)
+Draft Provider-Administered Drug Policies
+Final Provider-Administered Drug Precertification Policies
+Mandatory Site of Service
+Provider-Administered Drug Claim Edit Policies
+Voluntary Site of Service
+Provider-Administered Oncology Drug Policies
+Current Provider-Administered Oncology Drug Policies
+Draft Provider-Administered Oncology Drug Policies
+Radiation Therapy
+Draft Policies
+Self-Administered Drug Policies
+Draft Self-Administered Drug Policies
+Final Self-Administered Drug Policies
+Self-Administered Drug Prior Authorization Forms
+Transgender Services
+ 
+mp-156
+ 
+Print
+ 
+ 
+BackAutologous Chondrocyte Implantation for Focal Articular Cartilage Lesions
+Policy Number: MP-156
+Latest Review Date: April 2023
+Category:  Surgery                                                                 
+Policy Grade:  A
+POLICY:
+Autologous chondrocyte implantation may be considered medically necessary for the treatment of disabling full-thickness articular
+cartilage defects of the knee caused by acute or repetitive trauma, when all of the following criteria are met:
+The patient is skeletally mature with documented closure of growth plates and not considered an appropriate candidate for
+total knee arthroplasty or other reconstructive knee surgery (e.g., age greater than 15 and less than 55 years); AND
+Focal, full-thickness (grade III or IV) unipolar lesions of the patella or the weight-bearing surface of the femoral condyles or
+trochlea at least 1.5 cm
+ in size; AND
+Documented minimal to absent degenerative changes in the surrounding articular cartilage (Outerbridge grade II or less), and
+normal-appearing hyaline cartilage surrounding the border of the defect; AND
+Normal knee biomechanics or alignment and stability achieved concurrently with autologous chondrocyte implantation.
+Autologous chondrocyte implantation for all other joints, including talar, and any indications other than those listed above
+is considered investigational.
+Prophylactic harvesting of cells during other reconstructive or reparative procedures for possible future implantation is considered
+not medically necessary.
+DESCRIPTION OF PROCEDURE OR SERVICE:
+A variety of procedures are being developed to resurface articular cartilage defects. Autologous chondrocyte implantation (ACI)
+involves harvesting chondrocytes from healthy tissue, expanding the cells in vitro, and implanting the expanded cells into the
+chondral defect under a periosteal or fibrin patch. Second- and third- generation techniques include combinations of autologous
+chondrocytes, scaffolds, and growth factors. This procedure may be performed at the same time as other surgical procedures such
+as repair of tendons or ligaments, osteotomies for realignment of a joint, or meniscal allograft transplantation.
+Damaged articular cartilage typically fails to heal on its own and can be associated with pain, loss of function, and disability, and may
+lead to debilitating osteoarthritis over time.  These manifestations can severely impair an individual’s activities of daily living and
+adversely affect the quality of life. 
+Conventional treatment options include debridement, subchondral drilling, microfracture, and abrasion arthroplasty. Debridement
+involves the removal of synovial membrane, osteophytes, loose articular debris, and diseased cartilage and is capable of producing
+symptomatic relief. Subchondral drilling, microfracture, and abrasion arthroplasty attempt to restore the articular surface by
+inducing the growth of fibrocartilage into the chondral defect. Compared with the original hyaline cartilage, fibrocartilage has less
+capability to withstand shock or shearing force and can degenerate over time, often resulting in the return of clinical symptoms.
+Osteochondral grafts and autologous chondrocyte implantation (ACI) attempt to regenerate hyaline-like cartilage and thereby
+restore durable function. Osteochondral grafts for the treatment of articular cartilage defects are discussed in Medical Policy #248,
+Autografts and Allografts in the Treatment of Focal Articular Cartilage Lesions.
+With ACI, a region of healthy articular cartilage is identified and biopsied through arthroscopy. The tissue is sent to a facility licensed
+by the U.S. Food and Drug Administration (FDA) where it is minced and enzymatically digested, and the chondrocytes are separated
+by filtration. The isolated chondrocytes are cultured for 11 to 21 days to expand the cell population, tested, and then shipped back
+for implantation. With the patient under general anesthesia, an arthrotomy is performed, and the chondral lesion is excised up to
+the normal surrounding cartilage. Methods to improve the first-generation ACI procedure have been developed, including the use of
+a scaffold or matrix-induced autologous chondrocyte implantation (MACI) composed of biocompatible carbohydrates, protein
+polymers, or synthetics. The only FDA-approved MACI product to date is supplied in a sheet, which is cut to size and fixed with fibrin
+glue. This procedure is considered technically easier and less time consuming than the first-generation technique, which required
+suturing of a periosteal or collagen patch and injection of chondrocytes under the patch.
+Desired features of articular cartilage repair procedures are the ability (1) to be implanted easily, (2) to reduce surgical morbidity, (3)
+not to require harvesting of other tissues, (4) to enhance cell proliferation and maturation, (5) to maintain the phenotype, and (6) to
+integrate with the surrounding articular tissue. In addition to the potential to improve the formation and distribution of hyaline
+cartilage, use of a scaffold with MACI eliminates the need for harvesting and suture of a periosteal or collagen patch. A scaffold
+without cells may also support chondrocyte growth.
+KEY POINTS:
+The most recent literature update was performed through February 16, 2023.
+Summary of Evidence
+For individuals who have focal articular cartilage lesion(s) of the weight-bearing surface of the femoral condyles, trochlea, or patella
+who receive ACI, the evidence includes systematic reviews, randomized controlled trials, and observational studies. Relevant
+2outcomes are symptoms, change in disease status, morbid events, functional outcomes, and quality of life. There is a large body of
+evidence on ACI for the treatment of focal articular cartilage lesions of the knee. For large lesions, ACI results in better outcomes
+than microfracture, particularly in the long term. In addition, there is a limit to the size of lesions that can be treated with
+osteochondral autograft transfer, due to a limit on the number of osteochondral cores that can be safely harvested. As a result, ACI
+has become the established treatment for large articular cartilage lesions in the knee. In 2017, first-generation ACI with a collagen
+cover was phased out and replaced with an ACI preparation that seeds the chondrocytes onto a bioresorbable collagen sponge.
+Although the implantation procedure for this second-generation ACI is less technically demanding, studies to date have not shown
+improved outcomes compared with first-generation ACI. Some evidence has suggested an increase in hypertrophy (overgrowth) of
+the new implant that may exceed that of the collagen membrane covered implant. Long-term studies with a larger number of
+patients will be needed to determine whether this hypertrophy impacts graft survival. Based on mid-term outcomes that
+approximate those of first-generation ACI and the lack of alternatives, secondgeneration ACI may be considered an option for large
+disabling full-thickness cartilage lesions of the knee. The evidence is sufficient to determine that the technology results in a
+meaningful improvement in the net health outcome.
+For individuals who have focal articular cartilage lesions of joints other than the knee who receive autologous chondrocyte
+implantation, the evidence includes case series, systematic reviews of case series, and a network meta-analysis of prospective(none
+of which evaluated autologous chondrocyte implantation) and retrospective studies. Relevant outcomes are symptoms, change in
+disease status, morbid events, functional outcomes, and quality of life. The greatest amount of literature is for ACI of the talus.
+Comparative trials are needed to determine whether ACI improves outcomes for lesions in joints other than the knee. The evidence
+is insufficient to determine the effects of the technology on health outcomes.
+Practice Guidelines and Position Statements
+American Academy of Orthopaedic Surgeons
+In its 2010 guidelines on the diagnosis and treatment of osteochondritis dissecans (OCD), the American Academy of Orthopaedic
+Surgeons (AAOS) was unable to recommend for or against a specific cartilage repair technique in symptomatic skeletally immature
+or mature patients with an unsalvageable osteochondritis dissecans lesion.  This recommendation of insufficient evidence was
+based on a systematic review that found four level IV studies that addressed cartilage repair techniques for an unsalvageable OCD
+lesion. Since each of the level IV articles utilized different techniques, different outcome measures, and differing lengths of follow-up,
+the work group deemed that the evidence for any specific technique was inconclusive.
+National Institute for Health and Clinical Excellence
+In 2018, the National Institute for Health and Care Excellence updated its 2005 guidance on the use of autologous chondrocyte
+implantation. The NICE recommendations are stated below:
+“… as an option for treating symptomatic articular cartilage defects of the femoral condyle and patella of the knee (International
+Cartilage Repair Society grade III or IV) in adults, only if:
+the person has not had previous surgery to repair articular cartilage defects;
+there is minimal osteoarthritic damage to the knee (as assessed by clinicians experienced in investigating knee cartilage
+damage using a validated measure for knee osteoarthritis); and
+the defect is over 2 cm
+."
+ 
+U.S. Preventive Services Task Force Recommendations
+Not applicable.
+KEY WORDS:
+Autologous chondrocyte transplantation (ACT), autologous chondrocyte implant (ACI), articular cartilage, chondrocytes, Carticel®,
+osteochrondritis dissecans (OCD), ChondroCelect, BioCart II, Cartilix, MACI®, Cartipatch, NeoCart, Hyalograft C
+APPROVED BY GOVERNING BODIES:
+The culturing of chondrocytes is considered by the U.S. Food and Drug Administration (FDA) to fall into the category of manipulated
+autologous structural (MAS) cells, which are subject to a biologic licensing requirement. In 1997, Carticel received FDA approval for
+the repair of clinically significant, “...symptomatic cartilaginous defects of the femoral condyle (medial lateral or trochlear) caused by
+acute or repetitive trauma.…”
+In 2016, MACI® (matrix-induced autologous chondrocyte implantation [ACI]; Vericel), received FDA approval for the repair of
+symptomatic, full-thickness cartilage defects of the knee in adult patients. MACI® consists of autologous chondrocytes which are
+cultured onto a bio-resorbable porcine-derived collagen membrane. In 2017, production of Carticel was phased out and MACI® is
+the only ACI product that is available in the U.S.
+A number of other second-generation methods for implanting autologous chondrocytes in a biodegradable matrix are currently in
+development or testing or are available outside of the United States. They include Atelocollagen (Koken), a collagen gel; Bioseed® C
+(BioTissue Technologies), a polymer scaffold; CaReS (Ars Arthro), collagen gel; Cartilix (Biomet), a polymer hydrogel; Chondron
+(Sewon Cellontech), a fibrin gel; Hyalograft C (Fidia Advanced Polymers), a hyaluronic acid-based scaffold; NeoCart (Histogenics), an
+ACI with a 3-dimensional chondromatrix in a phase 3 trial; and Novocart®3D (Aesculap Biologics), a collagenchondroitin sulfate
+scaffold in a phase 3 trial. ChondroCelect® (TiGenix), characterized as a chondrocyte implantation with a completed phase 3 trial,
+uses a gene marker profile to determine in vivo cartilage-forming potential and thereby optimizes the phenotype (e.g., hyaline
+2cartilage vs fibrocartilage) of the tissue produced with each ACI cell batch. Each batch of chondrocytes is graded based on the
+quantitative gene expression of a selection of positive and negative markers for hyaline cartilage formation. Both Hyalograft C and
+ChondroCelect® have been withdrawn from the market in Europe. In 2020, the FDA granted breakthrough status to Agili-C
+(CartiHeal, Ltd.), a proprietary cell-free biocompatible and biodegradable tapered-shape implant for the treatment of cartilage
+lesions in arthritic and non-arthritic joints that, when implanted into a pre-prepared osteochondral hole, acts as a 3D scaffold that
+potentially supports and promotes the regeneration of the articular cartilage and its underlying subchondral bone. Agili-C was FDA-
+approved in 2021 for treatment of knee-joint surface lesions with a treatable area of 1 to 7 cm
+without severe osteoarthritis.
+BENEFIT APPLICATION:
+Coverage is subject to member’s specific benefits.  Group specific policy will supersede this policy when applicable.
+ITS: Home Policy provisions apply
+FEP contracts: Special benefit consideration may apply.  Refer to member’s benefit plan. 
+CODING:
+CPT codes:
+27412
+Autologous chondrocyte implantation, knee
+27899
+Unlisted procedure, leg or ankle
+29870-29887                       
+Code range, arthroscopy of the knee
+ 
+ 
+HCPCS:
+J7330
+Autologous cultured chondrocytes, implant
+S2112
+Arthroscopy, knee, surgical for harvesting of cartilage (chondrocyte cells)
+ 
+REFERENCES:
+1
+. 
+Abane L, Anract P, Boisgard S, et al. A comparison of patient-specific and conventional instrumentation for total knee
+arthroplasty: a multicentre randomised controlled trial. Bone Joint J. Jan 2015; 97-B(1): 56-63.
+2
+. 
+Abane L, Zaoui A, Anract P, et al. Can a Single-Use and Patient-Specific Instrumentation Be Reliably Used in Primary Total Knee
+Arthroplasty? A Multicenter Controlled Study. J Arthroplasty. Jul 2018; 33(7): 2111-2118.
+3
+. 
+Abdel MP, Parratte S, Blanc G, et al. No benefit of patient-specific instrumentation in TKA on functional and gait outcomes: a
+randomized clinical trial. Clin Orthop Relat Res. Aug 2014; 472(8): 2468-76.
+4
+. 
+Alvand A, Khan T, Jenkins C, et al. The impact of patient-specific instrumentation on unicompartmental knee arthroplasty: a
+prospective randomised controlled study. Knee Surg Sports Traumatol Arthrosc. Aug 22 2017.
+5
+. 
+American Academy of Orthopaedic Surgeons Surgical Management of Osteoarthritis of the Knee Evidence-Based Clinical
+Practice Guideline. www.aaos.org/smoak2cpg Published December 02, 2022.
+6
+. 
+Anderl W, Pauzenberger L, Kolblinger R, et al. Patient-specific instrumentation improved mechanical alignment, while early
+clinical outcome was comparable to conventional instrumentation in TKA. Knee Surg Sports Traumatol Arthrosc. Jan 2016;
+24(1): 102-11.
+7
+. 
+Bali K, Walker P, Bruce W. Custom-fit total knee arthroplasty: our initial experience in 32 knees. J Arthroplasty. Jun 2012; 27(6):
+1149-54.
+8
+. 
+Barke S, Musanhu E, Busch C, et al. Patient-matched total knee arthroplasty: does it offer any clinical advantages?. Acta Orthop
+Belg. Jun 2013; 79(3): 307-11.
+9
+. 
+Barrack RL, Ruh EL, Williams BM, et al. Patient specific cutting blocks are currently of no proven value. J Bone Joint Surg Br. Nov
+2012; 94(11 Suppl A): 95-9.
+10
+. 
+Barrett W, Hoeffel D, Dalury D, et al. In-vivo alignment comparing patient specific instrumentation with both conventional and
+computer assisted surgery (CAS) instrumentation in total knee arthroplasty. J Arthroplasty. Feb 2014; 29(2): 343-7.
+11
+. 
+Boonen B, Schotanus MG, Kerens B, et al. No difference in clinical outcome between patient-matched positioning guides and
+conventional instrumented total knee arthroplasty two years post-operatively: a multicentre, double-blind, randomised
+controlled trial. Bone Joint J. Jul 2016; 98-B(7):939-944.
+12
+. 
+Boonen B, Schotanus MG, Kerens B, et al. Intra-operative results and radiological outcome of conventional and patient-specific
+surgery in total knee arthroplasty: a multicentre, randomised controlled trial. Knee Surg Sports Traumatol Arthrosc. Oct 2013;
+21(10): 2206-12.
+13
+. 
+Boonen B, Schotanus MG, Kort NP. Preliminary experience with the patient-specific templating total knee arthroplasty. Acta
+Orthop. Aug 2012; 83(4): 387-93.
+14
+. 
+Calliess T, Bauer K, Stukenborg-Colsman C, et al. PSI kinematic versus non-PSI mechanical alignment in total knee arthroplasty:
+a prospective, randomized study. Knee Surg Sports Traumatol Arthrosc. Jun 2017; 25(6):1743-1748.
+15
+. 
+Chareancholvanich K, Narkbunnam R, Pornrattanamaneewong C. A prospective randomised controlled study of patientspecific
+cutting guides compared with conventional instrumentation in total knee replacement. Bone Joint J. Mar 2013; 95-B(3): 354-9.
+16
+. 
+Chen JY, Chin PL, Tay DK, et al. Functional Outcome and Quality of Life after Patient-Specific Instrumentation in Total Knee
+2  Arthroplasty. J Arthroplasty. Oct 2015; 30(10): 1724-8.
+17
+. 
+Chen JY, Yeo SJ, Yew AK, et al. The radiological outcomes of patient-specific instrumentation versus conventional total knee
+arthroplasty. Knee Surg Sports Traumatol Arthrosc. Mar 2014; 22(3): 630-5.
+18
+. 
+Chotanaphuti T, Wangwittayakul V, Khuangsirikul S, et al. The accuracy of component alignment in custom cutting blocks
+compared with conventional total knee arthroplasty instrumentation: prospective control trial. Knee. Jan 2014; 21(1): 185-8.
+19
+. 
+Cucchi D, Menon A, Zanini B, et al. Patient-Specific Instrumentation Affects Perioperative Blood Loss in Total Knee Arthroplasty.
+J Knee Surg. Jun 2019; 32(6): 483-489.
+20
+. 
+Daniilidis K, Tibesku CO. A comparison of conventional and patient-specific instruments in total knee arthroplasty. Int Orthop.
+Mar 2014; 38(3): 503-8.
+21
+. 
+De Vloo R, Pellikaan P, Dhollander A, et al. Three-dimensional analysis of accuracy of component positioning in total knee
+arthroplasty with patient specific and conventional instruments: A randomized controlled trial. Knee. Dec 2017; 24(6): 1469-
+1477.
+22
+. 
+DeHaan AM, Adams JR, DeHart ML, et al. Patient-specific versus conventional instrumentation for total knee arthroplasty:
+perioperative and cost differences. J Arthroplasty. Nov 2014; 29(11): 2065-9.
+23
+. 
+Ferrara F, Cipriani A, Magarelli N, et al. Implant positioning in TKA: comparison between conventional and patient-specific
+instrumentation. Orthopedics. Apr 2015; 38(4): e271-80.
+24
+. 
+Gan Y, Ding J, Xu Y, et al. Accuracy and efficacy of osteotomy in total knee arthroplasty with patient-specific navigational
+template. Int J Clin Exp Med. 2015; 8(8): 12192-201.
+25
+. 
+Gong S, Xu W, Wang R, et al. Patient-specific instrumentation improved axial alignment of the femoral component, operative
+time and perioperative blood loss after total knee arthroplasty. Knee Surg Sports Traumatol Arthrosc. Apr 2019; 27(4): 1083-
+1095.
+26
+. 
+Hamilton WG, Parks NL, Saxena A. Patient-specific instrumentation does not shorten surgical time: a prospective, randomized
+trial. J Arthroplasty. Sep 2013; 28(8 Suppl): 96-100.
+27
+. 
+Hampton MJ, Blakey CM, Anderson AA, et al. Minimum 5-Year Outcomes of a Multicenter, Prospective, Randomized Control
+Trial Assessing Clinical and Radiological Outcomes of Patient-Specific Instrumentation in Total Knee Arthroplasty. J
+Arthroplasty. Jan 22 2022.
+28
+. 
+Heyse TJ, Tibesku CO. Improved femoral component rotation in TKA using patient-specific instrumentation. Knee. Jan 2014;
+21(1): 268-71.
+29
+. 
+Huijbregts HJ, Khan RJ, Fick DP, et al. Component alignment and clinical outcome following total knee arthroplasty: a
+randomised controlled trial comparing an intramedullary alignment system with patient-specific instrumentation. Bone Joint J.
+Aug 2016; 98-B(8): 1043-9.
+30
+. 
+IOM (Institute of Medicine). 2011. Clinical Practice Guidelines We Can Trust. Washington, DC: The National Academies Press.
+31
+. 
+Kassab S, Pietrzak WS. Patient-specific positioning guides versus manual instrumentation for total knee arthroplasty: an
+intraoperative comparison. J Surg Orthop Adv. 2014; 23(3): 140-6.
+32
+. 
+Khuangsirikul S, Lertcharoenchoke T, Chotanaphuti T. Rotational alignment of femoral component between custom cutting
+block and conventional technique in total knee arthroplasty. J Med Assoc Thai. Feb 2014; 97 Suppl 2: S47-51.
+33
+. 
+Kosse NM, Heesterbeek PJC, Schimmel JJP, et al. Stability and alignment do not improve by using patient-specific
+instrumentation in total knee arthroplasty: a randomized controlled trial. Knee Surg Sports Traumatol Arthrosc. Nov 28 2017.
+34
+. 
+Kotela A, Kotela I. Patient-specific computed tomography based instrumentation in total knee arthroplasty: a prospective
+randomized controlled study. Int Orthop. Oct 2014; 38(10): 2099-107.
+35
+. 
+Kotela A, Lorkowski J, Kucharzewski M, et al. Patient-Specific CT-Based Instrumentation versus Conventional Instrumentation in
+Total Knee Arthroplasty: A Prospective Randomized Controlled Study on Clinical Outcomes and In-Hospital Data. Biomed Res
+Int. 2015; 2015: 165908. 
+36
+. 
+Kurtz S, Ong K, Lau E, et al. Projections of primary and revision hip and knee arthroplasty in the United States from 2005 to
+2030. J Bone Joint Surg Am. Apr 2007; 89(4):780-785.
+37
+. 
+Lin Y, Cai W, Xu B, et al. Patient-Specific or Conventional Instrumentations: A Meta-analysis of Randomized Controlled Trials.
+Biomed Res Int. 2020; 2020: 2164371.
+38
+. 
+MacDessi SJ, Jang B, Harris IA, et al. A comparison of alignment using patient specific guides, computer navigation and
+conventional instrumentation in total knee arthroplasty. Knee. Mar 2014; 21(2): 406-9.
+39
+. 
+Mannan A, Akinyooye D, Hossain F. A meta-analysis of functional outcomes in patient-specific instrumented knee arthroplasty.
+J Knee Surg. Sep 2017; 30(7):668-674.
+40
+. 
+Mannan A, Smith TO. Favourable rotational alignment outcomes in PSI knee arthroplasty: A Level 1 systematic review and
+meta-analysis. Knee. Mar 2016; 23(2):186-190.
+41
+. 
+Marimuthu K, Chen DB, Harris IA, et al. A multi-planar CT-based comparative analysis of patient-specific cutting guides with
+conventional instrumentation in total knee arthroplasty. J Arthroplasty. Jun 2014; 29(6): 1138-42.
+42
+. 
+Maus U, Marques CJ, Scheunemann D, et al. No improvement in reducing outliers in coronal axis alignment with patient-
+specific instrumentation. Knee Surg Sports Traumatol Arthrosc. Oct 25 2017.
+43
+. 
+McGrory BJ, Weber KL, Jevsevar DS, et al. Surgical Management of Osteoarthritis of the Knee: Evidence-based Guideline. J Am
+Acad Orthop Surg. Aug 2016; 24(8): e87-93.
+44
+. 
+Molicnik A, Naranda J, Dolinar D. Patient-matched instruments versus standard instrumentation in total knee arthroplasty: a
+prospective randomized study. Wien Klin Wochenschr. Dec 2015; 127 Suppl 5: S235-40.
+45
+. 
+Nabavi A, Olwill CM. Early outcome after total knee replacement using computed tomography-based patient-specific cutting
+blocks versus standard instrumentation. J Orthop Surg (Hong Kong). Aug 2015; 23(2): 182-4. PMID
+46
+. 
+Nam D, Park A, Stambough JB, et al. The Mark Coventry Award: Custom Cutting Guides Do Not Improve Total Knee
+Arthroplasty Clinical Outcomes at 2 Years Followup. Clin Orthop Relat Res. Jan 2016; 474(1): 40-6.
+47
+. 
+Nankivell M, West G, Pourgiezis N. Operative efficiency and accuracy of patient-specific cutting guides in total knee
+replacement. ANZ J Surg. Jun 2015; 85(6): 452-5.
+48
+. 
+Ng VY, DeClaire JH, Berend KR, et al. Improved accuracy of alignment with patient-specific positioning guides compared withmanual instrumentation in TKA. Clin Orthop Relat Res. Jan 2012; 470(1): 99-107.
+49
+. 
+Noble JW, Moore CA, Liu N. The value of patient-matched instrumentation in total knee arthroplasty. J Arthroplasty. Jan 2012;
+27(1): 153-5.
+50
+. 
+Nunley RM, Ellison BS, Ruh EL, et al. Are patient-specific cutting blocks cost-effective for total knee arthroplasty?. Clin Orthop
+Relat Res. Mar 2012; 470(3): 889-94.
+51
+. 
+Parratte S, Blanc G, Boussemart T, et al. Rotation in total knee arthroplasty: no difference between patient-specific and
+conventional instrumentation. Knee Surg Sports Traumatol Arthrosc. Oct 2013; 21(10): 2213-9.
+52
+. 
+Pfitzner T, Abdel MP, von Roth P, et al. Small improvements in mechanical axis alignment achieved with MRI versus CT-based
+patient-specific instruments in TKA: a randomized clinical trial. Clin Orthop Relat Res. Oct 2014; 472(10): 2913-22.
+53
+. 
+Pietsch M, Djahani O, Zweiger Ch, et al. Custom-fit minimally invasive total knee arthroplasty: effect on blood loss and early
+clinical outcomes. Knee Surg Sports Traumatol Arthrosc. Oct 2013; 21(10): 2234-40.
+54
+. 
+Renson L, Poilvache P, Van den Wyngaert H. Improved alignment and operating room efficiency with patient-specific
+instrumentation for TKA. Knee. Dec 2014; 21(6): 1216-20.
+55
+. 
+Roh YW, Kim TW, Lee S, et al. Is TKA using patient-specific instruments comparable to conventional TKA? A randomized
+controlled study of one system. Clin Orthop Relat Res. Dec 2013; 471(12): 3988-95.
+56
+. 
+Schotanus MGM, Boonen B, van der Weegen W, et al. No difference in mid-term survival and clinical outcome between
+patientspecific and conventional instrumented total knee arthroplasty: a randomized controlled trial. Knee Surg Sports
+Traumatol Arthrosc. May 2019; 27(5): 1463-1468.
+57
+. 
+Silva A, Sampaio R, Pinto E. Patient-specific instrumentation improves tibial component rotation in TKA. Knee Surg Sports
+Traumatol Arthrosc. Mar 2014; 22(3): 636-42.
+58
+. 
+Stronach BM, Pelt CE, Erickson JA, et al. Patient-specific instrumentation in total knee arthroplasty provides no improvement in
+component alignment. J Arthroplasty. Sep 2014; 29(9): 1705-8.
+59
+. 
+Tammachote, NN, Panichkul, PP, Kanitnate, SS. Comparison of Customized Cutting Block and Conventional Cutting Instrument
+in Total Knee Arthroplasty: A Randomized Controlled Trial. J Arthroplasty, 2017 Nov 8;33(3).
+60
+. 
+Thienpont E, Grosu I, Paternostre F, et al. The use of patient-specific instruments does not reduce blood loss during minimally
+invasive total knee arthroplasty?. Knee Surg Sports Traumatol Arthrosc. Jul 2015; 23(7): 2055-60. 
+61
+. 
+Thienpont E, Schwab PE, Fennema P. Efficacy of patient-specific instruments in total knee arthroplasty: a systematic review and
+meta-analysis. J Bone Joint Surg Am. Mar 15 2017; 99(6):521-530.
+62
+. 
+Van Leeuwen J, Snorrason F, Rohrl SM. No radiological and clinical advantages with patient-specific positioning guides in total
+knee replacement. Acta Orthop. Feb 2018; 89(1):89-94.
+63
+. 
+Victor J, Dujardin J, Vandenneucker H, et al. Patient-specific guides do not improve accuracy in total knee arthroplasty: a
+prospective randomized controlled trial. Clin Orthop Relat Res. Jan 2014; 472(1): 263-71.
+64
+. 
+Vide J, Freitas TP, Ramos A, et al. Patient-specific instrumentation in total knee arthroplasty: simpler, faster and more accurate
+than standard instrumentation-a randomized controlled trial. Knee Surg Sports Traumatol Arthrosc. Aug 2017; 25(8): 2616-
+2621
+65
+. 
+Vundelinckx BJ, Bruckers L, De Mulder K, et al. Functional and radiographic short-term outcome evaluation of the Visionaire
+system, a patient-matched instrumentation system for total knee arthroplasty. J Arthroplasty. Jun 2013; 28(6): 964-70.
+66
+. 
+Woolson ST, Harris AH, Wagner DW, et al. Component alignment during total knee arthroplasty with use of standard or custom
+instrumentation: a randomized clinical trial using computed tomography for postoperative alignment measurement. J Bone
+Joint Surg Am. Mar 05 2014; 96(5): 366-72.
+67
+. 
+Yaffe M, Luo M, Goyal N, et al. Clinical, functional, and radiographic outcomes following total knee arthroplasty with
+patientspecific instrumentation, computer-assisted surgery, and manual instrumentation: a short-term follow-up study. Int J
+Comput Assist Radiol Surg. Sep 2014; 9(5): 837-44.
+68
+. 
+Yan CH, Chiu KY, Ng FY, et al. Comparison between patient-specific instruments and conventional instruments and computer
+navigation in total knee arthroplasty: a randomized controlled trial. Knee Surg Sports Traumatol Arthrosc. Dec 2015; 23(12):
+3637-45.
+69
+. 
+Zhu M, Chen JY, Chong HC, et al. Outcomes following total knee arthroplasty with CT-based patient-specific instrumentation.
+Knee Surg Sports Traumatol Arthrosc. Aug 2017; 25(8): 2567-2572.
+POLICY HISTORY:
+Medical Policy Group, April 2004 (1)
+Medical Policy Administration Committee, April 2004
+Available for comment June 30-July 15, 2004
+Medical Policy Group, May 2005 (2)
+Medical Policy Administration Committee, June 2005
+Available for comment June 16-July 30, 2005
+Medical Policy Group, April 2007 (1)
+Medical Policy Administration Committee, May 2007
+Available for comment May 8-June 21, 2007
+Medical Review Group, November 2009 (2)
+Medical Policy Administration Committee, December 2009
+Available for comment December 4, 2009-January 19, 2010Medical Policy Group, March 2010 (3)
+Medical Policy Administration Committee April 2010
+Available for comment April 15-May 29, 2010
+Medical Policy Group, June 2011; Updated Policy, Key Points & References
+Medical Policy Administration Committee July 2011
+Available for comment July 6 through August 22, 2011
+Medical Policy Group, June 2012 (3): 2012 Update includes Key Points and References
+Medical Policy Panel, June 2013
+Medical Policy Group, June 2013 (3): 2013 Updates to Title, Description, Policy Statement, Key Points, References, and Key words;
+removed “Transplantation” and replaced with “Implantation” and removed “and Other Cell-based Treatments of” from title; and
+treatments with autologous minced cartilage and allogeneic minced cartilage or cartilage cells from policy statements
+Available for comment June 27 through August 10, 2013
+Medical Policy Group, September 2013 (3): ad hoc clarification statement added to policy sections noting prophylactic harvesting of
+cells for possible future implantation does not meet criteria for coverage
+Medical Policy Panel, June 2014
+Medical Policy Group, June 2014 (3):  2014 Updates to Description, Key Points & References; no change in policy statement
+Medical Policy Panel, June 2015
+Medical Policy Group, July 2015 (2): 2015 Updates to Description, Key Points, and References, no change to policy statement.
+Medical Policy Panel, October 2015
+Medical Policy Group, October 2015 (2): 2015 Updates to Policy, Key Points, Approved by Governing Bodies, and References;
+updated policy statement to include coverage criteria for focal, full-thickness unipolar lesions of the patella.
+Medical Policy Administration Committee November 2015
+Medical Policy Panel, April 2017
+Medical Policy Group, April 2017 (7): 2017 Updates to Description, Key Points, Approved by Governing Bodies, and References. Policy
+statement- updated policy statement to include coverage for matrix induced autologous chondrocyte implantation; deleted policy
+statement prior to June 13, 2013.
+Medical Policy Administration Committee, May 2017
+Available for comment April 26 through June 10, 2017
+Medical Policy Panel, December 2017
+Medical Policy Group, December 2017 (7): 2017 Updates to Description, Key Points and References. No change in Policy Statement.
+Medical Policy Panel, April 2019
+Medical Policy Group, April 2019 (7): 2019 Updates to Key Points and References. Removed old policy statement prior to November
+2015. No change in intent.  
+Medical Policy Panel, April 2020
+Medical Policy Group, April 2020 (7): Updates to Key Points and References. Deleted policy statement prior to April 30, 2017. No
+change in intent.  
+Medical Policy Group, January 2021 (7): Clarification to Policy Statement. No change in intent.
+Medical Policy Panel, April 2021
+Medical Policy Group, April 2021 (7): Updates to Key Points, Approved by Governing Bodies, and References. Policy section updated
+to remove not medically necessary from statement regarding use of autologous chondrocyte implantation in all other joints. No
+change in intent.
+Medical Policy Panel, April 2022
+Medical Policy Group, April 2022 (7): Updates to Key Points and References. No change to policy statements.
+Medical Policy Panel, April 2023
+Medical Policy Group, April 2023 (7): Updates to Key Points, Approved by Governing Bodies, Benefit Application, and References.  No
+change to Policy Statement. 
+ 
+This medical policy is not an authorization, certification, explanation of benefits, or a contract. Eligibility and benefits are determined on a
+case-by-case basis according to the terms of the member’s plan in effect as of the date services are rendered. All medical policies are basedCPT codes, descriptions and data copyright ©BCBSPREVIOUSYEAR American Medical Association. All rights reserved. Applicable FARS/DFARS apply.
+CDT codes, descriptions and data copyright ©BCBSPREVIOUSYEAR American Dental Association. All rights reserved.
+© BCBSCURRENTYEAR Blue Cross and Blue Shield of Alabama is an independent licensee of the Blue Cross and Blue Shield Association. 
+on (i) research of current medical literature and (ii) review of common medical practices in the treatment and diagnosis of disease as of the
+date hereof. Physicians and other providers are solely responsible for all aspects of medical care and treatment, including the type, quality,
+and levels of care and treatment.
+This policy is intended to be used for adjudication of claims (including pre-admission certification, pre-determinations, and pre-procedure
+review) in Blue Cross and Blue Shield’s administration of plan contracts.
+The plan does not approve or deny procedures, services, testing, or equipment for our members. Our decisions concern coverage only. The
+decision of whether or not to have a certain test, treatment or procedure is one made between the physician and his/her patient. The plan
+administers benefits based on the member’s contract and corporate medical policies. Physicians should always exercise their best medical
+judgment in providing the care they feel is most appropriate for their patients. Needed care should not be delayed or refused because of a
+coverage determination.
+As a general rule, benefits are payable under health plans only in cases of medical necessity and only if services or supplies are not
+investigational, provided the customer group contracts have such coverage.
+The following Association Technology Evaluation Criteria must be met for a service/supply to be considered for coverage:
+1
+. 
+The technology must have final approval from the appropriate government regulatory bodies;
+2
+. 
+The scientific evidence must permit conclusions concerning the effect of the technology on health outcomes;
+3
+. 
+The technology must improve the net health outcome;
+4
+. 
+The technology must be as beneficial as any established alternatives;
+5
+. 
+The improvement must be attainable outside the investigational setting.
+Medical Necessity means that health care services (e.g., procedures, treatments, supplies, devices, equipment, facilities or drugs) that a
+physician, exercising prudent clinical judgment, would provide to a patient for the purpose of preventing, evaluating, diagnosing or treating
+an illness, injury or disease or its symptoms, and that are:
+1
+. 
+In accordance with generally accepted standards of medical practice; and
+2
+. 
+Clinically appropriate in terms of type, frequency, extent, site and duration and considered effective for the patient’s illness, injury or
+disease; and
+3
+. 
+Not primarily for the convenience of the patient, physician or other health care provider; and
+4
+. 
+Not more costly than an alternative service or sequence of services at least as likely to produce equivalent therapeutic or diagnostic
+results as to the diagnosis or treatment of that patient’s illness, injury or disease.
+ 
+ 

@@ -1,0 +1,615 @@
+ 
+MEDICAL POLICY – 8.01.520  
+Hematopoietic Cell Transplantation for Acute 
+Lymphoblastic Leukemia  
+BCBSA Ref. Policy:  8.01.32  
+Effective Date:  Apr. 1, 2023  
+Last Revised:  Mar. 20 , 2023 
+Replaces:  8.01.32  RELATED MEDICAL POLICIES:  
+8.01.01  Adoptive Immunotherapy  
+8.01.26  Hematopoietic Cell Transplantation for Acute Myeloid Leukemia  
+8.01.30  Hematopoietic Cell Transplantation for Chronic Myeloid  Leukemia  
+ 
+Select a hyperlink below to be directed to that section.  
+POLICY CRITERIA   |  DOCUMENTATION REQUIREMENTS   |  CODING   
+RELATED INFORMATION   |  EVIDENCE REVIEW   |  REFERENCES   |  HISTORY  
+∞ Clicking this icon returns you to the hyperlinks menu above.  
+ 
+Introduction  
+Acute lympho cytic leukemia (ALL) is a cancer that starts from a certain  form of early white blood 
+cells known as lymphocytes. One way of treating ALL is to do a hematopoietic stem cell 
+transplant.  
+Hematopoietic stem cells are cells that form within the bone marrow and can become many 
+different types of blood cells. In a hematopoietic stem cell transplant, stem cells can be taken 
+from a donor  or the patient before the patien t receives  high dose chemotherapy . The harvested 
+stem cells are then given to the patient, just like in a transfusion. It is hoped that these new stem cells will then settle into the bone marrow and start producing normal blood cells.  If the 
+hematopoietic stem cells are harvested from another person, it is called an allogeneic transplant. If the cells come from the patient, it is called an autologous stem cell transplant. This policy discusses when different types of hematopoietic stem cell transplants might be medically necessary to treat ALL. 
+ 
+Note:    The Introduction section is for your general knowledg e and is not to be taken  as policy coverage criter ia. The 
+rest of the policy uses specific words and concepts familiar to medical professionals. It is intend ed for 
+providers . A provider can be a person, such as a doctor, nurse, psycholog ist, or dentist. A provider also can 
+be a place where medical care is  given, l ike a hospital, clinic, or lab.  This policy informs them about when a 
+service may be covered.  
+8.01.520_PBC (03-20-2023) 
+ 
+ 
+   
+ 
+ 
+   
+Page | 2 of 18  ∞  
+Policy Coverage Criteria   
+ 
+The use of donor leukocyte infusions to treat relapse after high- dose chemotherapy (HDC) with 
+allogeneic HCT for either children or adults is addressed  in a separate medical policy (s ee 
+Related Policies ). 
+ 
+Service  Medical Necessity  
+Autologous or allogeneic 
+HCT for children  Autologous or allogeneic hematopoietic cell transplantation 
+(HCT) may be considered medically necessary to treat 
+childhood acute lymphoblastic leukemia (ALL) for ANY of the 
+following:  
+• First complete remission (CR1) but at high risk of relapse (see 
+Related Information  for high -risk factors)  
+OR 
+• Second or greater re missio n (CR2 or >2)  
+ 
+Allogeneic HCT may be considered medically necessary to treat 
+relapsing ALL after a prior autologous HCT  or prior 
+chemotherapy . 
+Autologous or allogeneic 
+HCT for adults  Autologous hematopoietic cell transplantation (HCT) may be 
+considered medically necessary to treat adult acute 
+lymphoblastic leukemia (ALL) in:  
+• First complete remission (CR1) for any relapse risk level (see 
+Related Information  for risk factors)  
+ Allogeneic HCT may be considered medically necessary to treat adult ALL for ANY of the following:  
+• First complete remiss ion (CR1) for any relapse risk level  
+OR 
+• Second or greater remission  (CR2 or >)  
+OR 
+• Relapsing ALL after a prior autologous HCT  or prior 
+chemotherapy  Page | 3 of 18  ∞ Service  Medical Necessity  
+Reduced -intensity 
+conditioning allogeneic  
+HCT Reduced -intensity conditioning (RIC) allogeneic HCT may be 
+considered medically necessary as a treatment of ALL in 
+individual s who are in complete marrow and extramedullary 
+first or second remission  (CR1 or 2) , and who for medical 
+reasons (see Related Information ), would be unable to tolerate 
+a standard myeloablative conditioning regimen.  
+ 
+Service  Investigational  
+Autologous HCT  for adults  Autologous HCT is considered investigational to treat adult 
+ALL for the following:  
+• Second or greater remission  (CR2 or >)  
+OR 
+• Those with refractory disease  
+ 
+Documentation Requirements  
+The individual ’s medical records submitted for review should document that medical 
+necessity criteria are met. The record should include clinical documentation of:  
+• Diagnosis/ condition  
+• History and physical examination documenting the severity of the condition  
+• Number of remissions individual  has had  
+• Risk factors for relapse  
+ 
+Coding   
+ 
+Code  Description  
+CPT 
+38230  Bone marrow harvesting for transplantation; allogeneic  
+38240  Hematopoietic progenitor cell (HPC); allogeneic transplantation per donor  
+38241  Hematopoietic progenitor cell (HPC); autologous transplantation  
+HCPCS  
+S2142  Cord blood -derived stem -cell transplantation, allogeneic  Page | 4 of 18  ∞ Code  Description  
+S2150  Bone marrow or blood -derived stem cells (peripheral or umbilical), allogeneic or 
+autologous, harvesting, transplantation and related complications; including: pheresis 
+and cell preparation/storage; marrow ablative therapy; drugs, supplies, hospitalization 
+with outpatient follow -up; medical/surgical, diagnostic, emergency, and rehabilitative 
+service; and the number of days of pre - and post -transplant c are in the global 
+definition  
+Note :  CPT codes, descriptions and materials are copyrighted by the American Medical Association (AMA). HCPCS codes, descriptions and materials are copyrighted by Centers for Medicare Services (CMS).  
+ 
+Related Information   
+ 
+Relapse Risk Prognostic Factors  
+Childhood Acute Lymphoblastic Leukemia  (ALL) 
+Adverse prognostic factors in children include the following: age younger than one year or more 
+than nine years, male sex, white blood cell count at presentation above 50,000/μL, hypodiploidy 
+(<45 chromosomes), translocation involving chromosomes 9 and 22 (t[9;22])  or BCR/ABL fusion, 
+translocation involving chromosomes 4 and 11 (t[4;11])  or MLL/AF4 fusion, and ProB or T -
+lineage immunophenotype. Several risk stratification schema exist, but, in general, the following 
+findings help define children at high risk of relapse: ( 1) poor response to initial therapy including 
+poor response to prednisone prophase defined as an absolute blast count of 1000/μL or greater, 
+or poor treatment response to induction therapy at six weeks with high -risk having 1% or higher 
+minimal residual disease measured by flow cytometry ; (2) all children with T -cell phenotype and 
+(3) individuals with e ither the t(9;22) or t(4;11) regardless of early response measures.  
+ 
+Adult Acute Lymphoblastic Leukemia  (ALL) 
+Risk factors for relapse are less well -defined  in adults , but an  individual with any of the following 
+may be considered at high risk for relapse: age older than 35 years, leukocytosis at presentation 
+of greater than 30,000/μL (B -cell lineage) or greater than 100,000/μL (T -cell lineage), “ poor 
+prognosis” genetic abnormalities like the Philadelphia chromosome (t[ 9;22] ), extramedullary 
+disease , and time to attain complete remission longer than 4 weeks.  
+ Page | 5 of 18  ∞ Reduced Intensity Conditioning  
+Some individual s for whom a conventional myeloablative allogeneic hematopoietic cell 
+transplantation (HCT)  could be curative may be co nsidered candidates for reduced intensity 
+conditioning (RIC) allogeneic HCT. Such individuals include those whose age (typically older 
+than 60 years) or co morbidities ( e.g., liver or kidney dysfunction, generalized debilitation, prior 
+intensive che motherapy  including autologous or allogeneic HCT , low Karnofsky Performance 
+Status) precludes use of a standard myeloablative conditioning regimen.  
+Note:  Unless otherwise specified in the text of this Policy, it is assumed that the term “allogeneic 
+HCT” re fers to the use of a myeloablative pretransplant conditioning regimen  and a non- self 
+donor . 
+The ideal allogeneic donors are human leukocyte antigen (HLA) -identical siblings, matched at 
+the H LA-A, -B and DR  (antigen -D related)  loci on each arm of the chromo some 6 . Related 
+donors mismatched at one locus are also considered suitable donors. A matched, unrelated 
+donor identified through the National Marrow Donor Registry is typically the next option 
+considered. Recently, there has been interest in haploidentica l donors, typically a parent or a 
+child of the patient, where usually there is sharing of only three of the six major 
+histocompatibility antigens. Most  individuals will have such a donor . The risk of morbidity ( e.g., 
+graft -versus -host disease)  may be higher than with HLA -matched donors; however , as medical 
+treatments improve, the risks of graft -versus -host disease with haploidentical donors are 
+approaching those similar to HLA -matched donors.  
+ 
+Benefit Application  
+The following considerations may supersede this policy:  
+• State mandates requiring coverage for autologous bone marrow transplantation offered as part of clinical trials of autologous bone marrow transplantation approved by the 
+National Institutes of Health  (NIH) .  
+• Some plans may participate in voluntary programs offering coverage for individuals 
+participating in clinical trials approved by the N IH for cancer chemotherapies, including 
+autologous bone marrow transplantation.  
+• Some contracts  may include specific  conditions in which autologous bone marrow 
+transplantation would be considered eligible for coverage.  Page | 6 of 18  ∞  
+Evidence Review   
+ 
+Description  
+Acute lymphoblastic leukemia (ALL) is a heterogeneous disease with different genetic variations 
+resulting in distinct bio logic subtypes. Individual s are stratified to risk -adapted therapy 
+according to certain clinical and genetic risk factors that predict an outcome. Therapy may include hematopoietic cell transplantation (HCT).  
+ 
+Background  
+Acute Lymphoblastic Leukemia  
+Acute lymphoblastic leukemia (ALL) is a heterogeneous disease with different genetic variations resulting in distinct biologic subtypes. Individual s are stratified by certain clinical and genetic risk 
+factors that predict an outcome,  with risk -adapted therapy tailoring treatment based on the 
+predicted risk of relapse.
+1 Two of the most important factors predictive of risk are patient age 
+and white blood cell count at diagnosis.1 Certain genetic characteristics of leukemic cells 
+strongl y influence prognosis. Clinical and biologic factors predicting clinical outcomes and 
+relapse risk are summarized in the Policy Criteria  section.2 
+ 
+Childhood Acute Lymphoblastic Leukemia  
+ALL is the most common cancer diagnosed in children; it represents ne arly 25% of cancers in 
+children younger than 15 years.3 Remission of disease is now typically achieved with pediatric 
+chemotherapy regimens in 98% of children with ALL, with up to 85% long -term survival rates. 
+Survival rates have improved with the identification of effective drugs and combination 
+chemotherapy through large, randomized  trials, integration of pre -symptomatic central nervous 
+system prophylaxis, and intensification and risk -based stratification of treatment.2 The prognosis 
+after the first relapse is related to the length of the original remission. For example, leukemia -
+free survival is 40% to 50% for children whose first remission was longer than 3 years compared with 10% to 15% for those who relapse less than 3 years after treatment. Thus, HCT  may be a Page | 7 of 18  ∞ strong consideration in those with short remissions. At present, the comparative outcomes with 
+autologous or allogeneic HCT (allo -HCT) are unknown.  
+ 
+Adult ALL  
+In adults, ALL accounts for 20% of acute leukemias . Between 60% and 80% of adults with ALL 
+can be expected to achieve a complete response after induction chemotherapy; how ever, 
+individuals who experience a relapse after remission usually die within 1 year .4 Differences in the 
+frequency of genetic abnormalities that characterize adult ALL vs childhood ALL help, in part, 
+explain differences in outcomes between the two groups. For example, the “good prognosis” genetic abnormalities, such as hyperdiploidy and translocation of chromosomes 12 and 21, are seen much less commonly in adult ALL, whereas they are some of the most com mon in 
+childhood ALL. Conversely, “poor prognosis” genetic abnormalities such as the Philadelphia chromosome (translocation of chromosomes 9 and 22) are seen in 25% to 30% of adult ALL but infrequently in childhood ALL. Other adverse prognostic factors in adult ALL include age greater 
+than 35 years, poor performance status, male sex, and leukocytosis at presentation of greater 
+than 30 ,000/μL (B -cell lineage) or greater than 100 ,000/μL (T -cell lineage).  
+ 
+Hematopoietic Cell Transplantation  
+HCT is a procedure in which hematopoietic stem cells are intravenously infused to restore bone 
+marrow and immune function in cancer patients who receive bone marrow -toxic doses of 
+cytotoxic drugs with or without whole -body radiotherapy. Hematopoietic stem cells may be 
+obtain ed from the transplant recipient (autologous HCT) or a donor (allo -HCT). They can be 
+harvested from bone marrow, peripheral blood, or umbilical cord blood shortly after delivery of 
+neonates.  
+Immunologic compatibility between infused hematopoietic stem cel ls and the recipient is not an 
+issue in autologous HCT. In allogeneic stem cell transplantation, immunologic compatibility between donor and patient is a critical factor for achieving a successful outcome. Compatibility 
+is established by typing of human le ukocyte antigens (HLA) using cellular, serologic, or 
+molecular techniques. HLA refers to the gene complex expressed at the HLA -A, -B, and -DR 
+(antigen -D related) loci on each arm of chromosome 6. An acceptable donor will match the 
+patient at all or most of  the HLA loci.  
+ Page | 8 of 18  ∞ Conditioning for Hematopoietic Cell Transplantation  
+Conventional Conditioning  
+The conventional (“classical”) practice of allo-HCT involves admini stration of cytotoxic agents 
+(e.g., cyclophosphamide, busulfan) with or without total body irradiation at doses sufficient to 
+cause bone marrow ablation  in the recipient. Intense conditioning regimens are limited to 
+individuals whose health status is sufficient to tolerate the procedure of body irradiation at 
+doses sufficient to cause bone marrow ablation in the recipient. The beneficial treatment effect 
+of this procedure is due to a combination of the initial eradication of malignant cells and 
+subsequent graft -versus -malignancy effect mediated by non -self-immunologic effector cells. 
+While the slower graft- versus -malignancy effect is considered the potentially curative 
+component, it may be overwhelmed by  substantial adverse effects . These include opportunistic 
+infections secondary to loss of endogenous bone marrow function and organ da mage or failure 
+caused by the cytotoxic drugs. Subsequent to graft infusion in allo -HCT, immunosuppressant  
+drugs are required to minimize graft rejection and graft -versus -host disease  (GVHD) , which 
+increases susceptibility to opportunistic infections.  
+The success of autologous HCT is predicated on the potential  of cytotoxic chemotherapy , with 
+or without radi otherapy,  to eradicate cancerous cells from the blood and bone marrow. This 
+permits subsequent engraftment and repopulation of bone marrow with presumab ly normal 
+hematopoietic stem cells obtained from the patient before undergoing bone marrow ablation. 
+Therefore,  autologous HCT is typically performed as consolidation therapy when the individual’s 
+disease is in complete remission.  Individual s who undergo autologous HCT are also susceptible 
+to chemotherapy -related toxicities and opportunistic infections prior to engraftment, but not 
+GVHD . 
+ 
+Reduced  Intensity Conditioning for Allogeneic HCT  
+RIC refers to the pretransplan t use of lower doses or less intense regimens of cytotoxic drugs or 
+radiotherapy than are used in conventional full -dose myeloablative conditioning treatments. 
+Although the definition of RIC is  variable , with numerous versions employed, all regimens seek 
+to balance the competing effects of relapse due to residual disease  and non-relapse mortality . 
+The goal of RIC is to reduce disease burden and to minimize associated treatment- related 
+morbidity and non -relapse mortality in the period during which the beneficial graft -versus -
+malignancy effect of allogeneic transplantation develops.  These RIC regimens  range  from being  
+nearly totally myeloablative, to minimally myeloablative with lymphoablation, with intensity 
+tailored to specific disease and patient condition.  Individual s who undergo RIC with allogeneic Page | 9 of 18  ∞ HCT initially demonstrate donor cell engraftment and bone marrow mixed chimerism. Most will 
+subsequently convert to full- donor chimerism. For the purposes of this p olicy, the term 
+“reduced -intensity condi tioning” will refer to all conditioning regimens intended to be non -
+myeloablative.  
+ 
+Summary of Evidence  
+For individuals who have childhood ALL in first complete remission (CR1) at high risk of relapse, 
+remission, or refractory ALL who receive autologous HCT, the evidence includes randomized 
+controlled trials (RCTs) and systematic reviews. The r elevant outcomes are overall survival, 
+disease -specific survival, and treatment- related  mortality and morbidity. For children with high 
+risk ALL in first complete remission (CR1) or with relapsed ALL, studies have suggested that HCT is associated with fewer relapses but higher death rates due to treatment -related toxicity. 
+However, f or a subset of high -risk individual s in second complete remission or beyond or with 
+relapsed disease, autologous HCT is a treatment option. This conclusion is supported by an 
+evidence -based systematic review and position statement from the American Society  for Blood 
+and Marrow Transplantation  (ASBMT) . The evidence is sufficient to determine that the 
+technology results in an  improvement in the net health outcome.  
+For individuals who  have childhood ALL in CR1  at high -risk of relapse, remission, or refractory 
+ALL who receive allogeneic HCT (allo -HCT), the evidence includes RCTs and systematic reviews. 
+The relevant outcomes are overall survival , disease -specific survival , and treatment -related 
+mortality and morbidity. For children with high -risk ALL in CR1 or wi th relapsed ALL, studies 
+have suggested that allo -HCT is associated with fewer relapses but higher death rates due to 
+treatment -related toxicity. However, f or a subset of these high-risk individuals in second 
+complete remission or beyond or with relapsed disease, allo -HCT is a treatment option. This 
+conclusion is further supported by an evidence -based systematic review and position statement 
+from the A SBMT . The evidence is sufficient to dete rmine that the technology results in a n 
+improvement in the net health outcome.  
+For individuals who have adult ALL in CR1, subsequent remission, or refractory ALL who receive 
+autologous HCT, the evidence includes RCTs and systematic reviews. The relevant outcomes are 
+overall survival, disease -specific survival, and treatment -related mortality and morbidity. Current 
+evidence supports the use of autologous HCT for adults with high- risk ALL in CR1, whose health 
+status is sufficient to tolerate the procedure. The evidence is sufficient to determine that the technology results in a n improvement in the net health outcome.  Page | 10  of 18  ∞ For individuals who have adult ALL in first complete remission or subsequent remission, or 
+refractory ALL who receive allo -HCT, the evidence incl udes RCTs , systematic reviews. The 
+relevant outcomes are overall survival, disease- specific survival, and treatment -related mortality 
+and morbidity. Current evidence supports the use of myeloablative allogeneic HCT (allo -HCT) for 
+adults with any risk level ALL, whose health status is sufficient to tolerate the procedure. RIC 
+allo-HCT may be considered for individual s who demonstrate complete marrow and 
+extramedullary first or second remission and who could be expected to benefit from a myeloablative allo -HCT, but for medical reasons would not tolerate a myeloablative 
+conditioning regimen. The evidence is sufficient to determine that the technology results in a n 
+improvement in the net health outcome.  
+For individuals who have relapse d after a prior auto logous HCT for adult or childhood  ALL who 
+receive allo -HCT, the evidence includes case series. The r elevant outcomes are overall survival, 
+disease -specific survival, and treatment- related mortality and morbidity. Evidence reviews have 
+identified only small  case series with short term follow -up which was considered i nadequate 
+evidence of benefit. The evidence is suffi cient  to determine that the technology results in an 
+improvement in the net health outcome . 
+ 
+Ongoing and Unpublished Clinical Trials  
+Some currently ongoing trials that might influence this review are listed in Table 1 . 
+ 
+Table 1. Summary of Key Trials  
+NCT No.  Trial Name  Planned 
+Enrollment  Completion 
+Date  
+Ongoing  
+NCT03314974  Myeloablative Allogeneic Hematopoietic Cell 
+Transplantation  Using a Related or Unrelated Donor for 
+the Treatment of Hematological Diseases  300 Nov 2025  
+NCT01949129  Allogeneic  Stem Cell Transplantation  for Children and 
+Adolescents With  Acute Lymphoblastic Leukaemia  1000  Apr 202 6 
+NCT0423 2241  Matched Unrelated vs Haploidentical Donor for Allogenic 
+Stem Cell Transplantation in Patients With Acute Leukemia 
+With Identical GVHD Prophylaxis - A Randomized 
+Prospective European Trial  440 Nov 2024  Page | 11  of 18  ∞ NCT No.  Trial Name  Planned 
+Enrollment  Completion 
+Date  
+NCT05031897  A 2 Step Approach to Haploidentical Transplant Using 
+Radiation -Based Reduced -Intensity Conditioning  67 Oct 2024  
+Unpublished  
+NCT01700946  A Phase II Study of Therapy for Pediatric Relapsed or 
+Refractory Precursor B -Cell Acute Lymphoblastic Leukemia 
+and Lymphoma  80 Jul 2021  
+NCT: national clinical trial  
+ 
+Clinical Input Received from Physician Specialty Societies and Academic 
+Medical Centers  
+The purpose of the following information is to provide reference material. Inclusion does not 
+imply endorsement or alignment with the policy  conclusions.  
+While the various physician specialty societies and academic medical centers may collaborate with and make recommendations during this process, through the provision of appropriate reviewers , input received does not represent an endorsement or position statement by the 
+physician specialty societies or academ ic medical ce nters, unless otherwise noted.  
+ 
+2013 Input  
+In response to requests, input was received from one  medical society, two academic medical 
+centers, and three  physicians from Blue Distinction Centers while this policy was under review in 
+2013. In ge neral, input supported most existing policy statements. However, most reviewers 
+disagreed that allogeneic hematopoietic cell transplantation (allo -HCT) is considered 
+investigational to treat relapsing acute lymphoblastic leukemia (ALL) after a prior autolo gous 
+HCT in either children or adults. Given a scarcity of evidence on this topic, with no substantial 
+trials likely to be forthcoming,  that allo-HCT after failed autologous HCT has been shown to be 
+of clinical benefit in other hematologic malignancies and  is potentially curative, and that  RIC 
+allo-HCT is considered medically necessary to treat relapsed or refractory ALL following failure 
+of an auto -HCT, the policy statements were revised to medical necessity for  this indication in  
+children and adults.  
+ Page | 12  of 18  ∞ Practice Guidelines and Position Statements  
+Guidelines or position statements will be considered for inclusion if they were issued by, or 
+jointly by, a US professional society, an international society with US representation, or National 
+Institute for Health and Care Excellence (NICE). Priority will be given to guidelines that are 
+informed by a systematic review, include strength of evidence ratings, and include a description 
+of man agement of conflict of interest.  
+ 
+National Comprehensive Cancer Network  
+Current National Comprehensive Cancer Network guidelines (v. 1.2022 ) for ALL indicate allo-HCT 
+is appropriate for consolidation treatment of most poor -risk (e.g., the Philadelphia 
+chromosome -positive , relapsed or  refractory) individual s with ALL.4 The guidelines state that for 
+appropriately fit older adults with ALL who are achieving remission, “consideration of autologous or reduced -intensity allogeneic stem cell transplantation may be appropriate.” In 
+addition, the guidelines note that chronologic age is not a good surrogate for fitness for therapy and that patient should be evaluated on an individual basis.  
+Current National Comprehensive Cancer Network guidelines  (v.1.2023 ) for pediatric ALL say that 
+"Allogeneic HSCT has demonstrated improved clinical outcomes in pediatric ALL patients with evidence of certain high -risk features and/or persistent disease. In addition, survival rates appear 
+to be comparable regard less of the stem cell source (matched related, matched unrelated, cord 
+blood, or haploidentical donor) ”. The guidelines state that the benefit of allo -HCT in infants is 
+still controversial.
+3 
+ 
+The American Society for Transplantation and Cellular Therapy  
+In 2020 , the guidelines from  the American Society for Transplantation and Cellular Therapy 
+(previously known as the American Society for Blood and Marrow Transplantation) were 
+published  on indications for autologous and allo -HCT. Recommendations were intend ed to 
+describe the current consensus on the use of HCT in and out  of the clinical trial 
+setting.31Recommendations on ALL are listed in Table 2 . 
+ Page | 13  of 18  ∞ Table 2. Guidelines for Autologous and Allogeneic HCT  in ALL  
+Indication  Children (Age <18 Years)  Adults (Age  ≥18 Years)   
+Allogeneic  
+HCT Autologous  
+HCT Allogeneic 
+HCT Autologous 
+HCT 
+First complete response, standard -risk N N S N 
+First complete response, high -risk S N S N 
+Second complete response  S N S N 
+At least third complete response  C N S N 
+Not in remission  C N S N 
+ALL: acute lymphoblastic leukemia; C: clinical evidence available; HCT: hematopoietic cell transplantation; N: not 
+generally recommended; S: standard of care.  
+ 
+Medicare National Coverage  
+There is a national coverage determination for stem cell transplantation (110.23; formerly 
+110.81),37 portions of which are highlighted below : 
+Nationally Covered Indications  
+I. Allogeneic Hematopoietic Stem Cell Transplantation (HSCT)  
+a. Effective … 1978, for the treatment of leukemia, leukemia in remission, or aplastic anemia 
+when it is reasonable and necessary,  
+II. Autologous Stem Cell Transplantation (AuSCT)  
+a. Effective … 1989, AuSCT is considered reasonable and necessary … for the 
+following conditions and is covered under Medicare for patients with:  
+1. Acute leukemia in remission who have a high probability of relapse and who have no human leucocyte antigens (HLA) -matched;  
+ 
+Regulatory Status  
+The U.S. Food and Drug Administration regulates human cells and tissues intended for implantation, transplantation, or infusion through the Center for Biologics Evaluation and Page | 14  of 18  ∞ Research, under Code of Federal Regulation Title 21, parts 1270 and 1271. Hematopoietic stem 
+cells are included in these regulations.  
+ 
+References   
+ 
+1. Carroll WL, Bhojwani D, Min DJ, et al. Pediatric acute lymphoblastic leukemia. Hematology Am Soc Hematol Educ Program. 
+2003: 102- 31. PMID 14633779 
+2. Pieters R, Carroll WL. Biology and treatment of acute lymphoblastic leukemia. Pediatr Clin North Am. Feb 2008; 55(1): 1 -20, ix. 
+PMID 18242313  
+3. National Comprehensive Cancer Network (NCCN). NCCN Clinical Practice Guidelines in Oncology:  Pediatric Acute 
+Lymphoblastic Leukemia. Version 1.2023. https://www.nccn.org/professionals/physician_gls/pdf/ped_all.pdf. Accessed November 22, 2022.  
+4. National Comprehensive Cancer Network (NCCN). NCCN Clinical Practice Guidelines in Oncology: Acute lympho blastic 
+leukemia. Version 1.2022. https://www.nccn.org/professionals/physician_gls/pdf/all.pdf . Accessed November 23, 2022.  
+5. Blue Cross and Blue  Shield Association Technology Evaluation Center (TEC). 1990 TEC Evaluations.Page 254.  
+6. Blue Cross and Blue Shield Association Technology Evaluation Center (TEC). 1987 TEC Evaluations.Page 243.  
+7. Lawson SE, Harrison G, Richards S, et al. The UK experience in treating relapsed childhood acute lymphoblastic leukaemia: a report on the medical research council UKALLR1 study. Br J Haematol. Mar 2000; 108(3): 531- 43. PMID 10759711 
+8. Ribera JM, Ortega JJ, Oriol A, et al. Comparison of intensive chemotherapy, allogeneic, or autologous stem -cell transplantation 
+as postremission treatment for children with very high risk acute lymphoblastic leukemia: PETHEMA ALL -93 Trial. J Clin Oncol. 
+Jan 01 2007; 25(1): 16- 24. PMID 17194902 
+9. Oliansky DM, Camitta B, Gaynon P, et al. Role o f cytotoxic therapy with hematopoietic stem cell transplantation in the treatment 
+of pediatric acute lymphoblastic leukemia: update of the 2005 evidence -based review. Biol Blood Marrow Transplant. Apr 2012; 
+18(4): 505- 22. PMID 22209888 
+10. Harrison G, Richards S, Lawson S, et al. Comparison of allogeneic transplant versus chemotherapy for relapsed childhood acute 
+lymphoblastic leukaemia in the MRC UKALL R1 trial. MRC Childhood Leukaemia Working Party. Ann Oncol. Aug 2000; 11(8): 999-1006. PMID 11038037 
+11. Wheeler KA, Richards SM, Bailey CC, et al. Bone marrow transplantation versus chemotherapy in the treatment of very high -risk 
+childhood acute lymphoblastic leukemia in first remission: results from Medical Research Council UKALL X and XI. Blood. Oct 0 1 
+2000; 96(7): 2412- 8. PMID 11001892 
+12. Pulsipher MA, Boucher KM, Wall D, et al. Reduced -intensity allogeneic transplantation in pediatric patients ineligible for 
+myeloablative therapy: results of the Pediatric Blood and Marrow Transplant Consortium Study ONC0313. Blood. Aug 13 2009; 114(7): 1429- 36. PMID 19528536 
+13. Trujillo ÁM, Karduss AJ, Suarez G, et al. Haploidentical Hematopoietic Stem Cell Transplantation with Post -Transplantation 
+Cyclophosphamide in Children with High -Risk Leukemia Using a Reduced -Intensity Conditioni ng Regimen and Peripheral Blood 
+as the Stem Cell Source. Transplant Cell Ther. May 2021; 27(5): 427.e1- 427.e7. PMID 33965184 
+14. Blue Cross and Blue Shield Association Technology Evaluation Center (TEC). High -dose chemotherapy with autologous stem -
+cell support  in the treatment of adult acute lymphoblastic leukemia. TEC Assessments. 1997;Volume 12:Tab 25.  Page | 15  of 18  ∞ 15. Ribera JM, Oriol A, Bethencourt C, et al. Comparison of intensive chemotherapy, allogeneic or autologous stem cell 
+transplantation as post -remission treatment for adult patients with high -risk acute lymphoblastic leukemia. Results of the 
+PETHEMA ALL -93 trial. Haematologica. Oct 2005; 90(10): 1346- 56. PMID 16219571 
+16. Yanada M, Matsuo K, Suzuki T, et al. Allogeneic hematopoietic stem cell transplantation as part of postremission therapy improves survival for adult patients with high -risk acute lymphoblastic leukemia: a metaanalysis. Cancer. Jun 15 2006; 106(12): 
+2657- 63. PMID 16703597 
+17. Gupta V, Richards S, Rowe J, et al. Allogeneic, but not autologous, hematopoietic cell transplantation improves survival only among younger adults with acute lymphoblastic leukemia in first remission: an individual patient data meta -analysis. Blood. Jan 
+10 2013; 121(2): 339- 50. PMID 23165481 
+18. Goldstone AH, Richards SM, Laza rus HM, et al. In adults with standard -risk acute lymphoblastic leukemia, the greatest benefit is 
+achieved from a matched sibling allogeneic transplantation in first complete remission, and an autologous transplantation is less effective than conventional consolidation/maintenance chemotherapy in all patients: final results of the International ALL Trial (MRC UKALL XII/ECOG E2993). Blood. Feb 15 2008; 111(4): 1827- 33. PMID 18048644  
+19. Fielding AK, Rowe JM, Richards SM, et al. Prospective outcome data on 267 unselected adult patients with Philadelphia chromosome -positive acute lymphoblastic leukemia confirms superiority of allogeneic transplantation over chemotherapy in 
+the pre -imatinib era: results from the International ALL Trial MRC UKALLXII/ECOG2993. Blood. May 07 2009; 113(19): 4489- 96. 
+PMID 19244158  
+20. Cornelissen JJ, van der Holt B, Verhoef GE, et al. Myeloablative allogeneic versus autologous stem cell transplantation in ad ult 
+patients with acute lymphoblastic leukemia in first remission: a prospective sibli ng donor versus no -donor comparison. Blood. 
+Feb 05 2009; 113(6): 1375 -82. PMID 18988865 
+21. Giebel S, Labopin M, Socié G, et al. Improving results of allogeneic hematopoietic cell transplantation for adults with acute  
+lymphoblastic leukemia in first complete remission: an analysis from the Acute Leukemia Working Party of the European Society for Blood and Marrow Transplantation. Haematologica. Jan 2017; 102(1): 139- 149. PMID 27686376  
+22. Dinmohamed AG, Szabó A, van der Mark M, et al. Improved survival in adult pati ents with acute lymphoblastic leukemia in the 
+Netherlands: a population -based study on treatment, trial participation and survival. Leukemia. Feb 2016; 30(2): 310 -7. PMID 
+26286115 
+23. Pidala J, Djulbegovic B, Anasetti C, et al. Allogeneic hematopoietic cell transplantation for adult acute lymphoblastic leukemia (ALL) in first complete remission. Cochrane Database Syst Rev. Oct 05 2011; 2011(10): CD008818. PMID 21975786 
+24. Owattanapanich W, Leelakanok N, Sanpakit K, et al. A Comparison of the Clinical Outcomes of Haploidentical Transplantation and Other Graft Sources in Acute Lymphoblastic Leukemia: A Systematic Review and Meta -Analysis. Clin Lymphoma Myeloma 
+Leuk. Mar 2022; 22(3): 174- 191. PMID 34802994 
+25. Abdul Wahid SF, Ismail NA, Mohd -Idris MR, et al. Comparison of  reduced -intensity and myeloablative conditioning regimens 
+for allogeneic hematopoietic stem cell transplantation in patients with acute myeloid leukemia and acute lymphoblastic leukemia: a meta -analysis. Stem Cells Dev. Nov 01 2014; 23(21): 2535- 52. PMID 25072307 
+26. Gutierrez -Aguirre CH, Gomez -Almaguer D, Cantu -Rodríguez OG, et al. Non- myeloablative stem cell transplantation in patients 
+with relapsed acute lymphoblastic leukemia: results of a multicenter study. Bone Marrow Transplant. Sep 2007; 40(6): 535- 9. 
+PMID 17618317  
+27. Mohty M, Labopin M, Tabrizzi R, et al. Reduced intensity conditioning allogeneic stem cell transplantation for adult patients  
+with acute lymphoblastic leukemia: a retrospective study from the European Group for Blood and Marrow Transpl antation. 
+Haematologica. Feb 2008; 93(2): 303- 6. PMID 18245655 
+28. Cho BS, Lee S, Kim YJ, et al. Reduced -intensity conditioning allogeneic stem cell transplantation is a potential therapeutic 
+approach for adults with high -risk acute lymphoblastic leukemia in remission: results of a prospective phase 2 study. Leukemia. 
+Oct 2009; 23(10): 1763- 70. PMID 19440217 
+29. Rosko A, Wang HL, de Lima M, et al. Reduced intensity conditioned allograft yields favorable survival for older adults with B -cell 
+acute lymphoblastic leuk emia. Am J Hematol. Jan 2017; 92(1): 42- 49. PMID 27712033 Page | 16  of 18  ∞ 30. Blue Cross and Blue Shield Association Technology Evaluation Center (TEC). Salvage high -dose chemotherapy with allogeneic 
+stem -cell support for relapse or incomplete remission following high -dose ch emotherapy with autologous stem -cell 
+transplantation for hematologic malignancies. TEC Assessments. 2000;Volume 15:Tab 9.  
+31. Kanate AS, Majhail NS, Savani BN, et al. Indications for Hematopoietic Cell Transplantation and Immune Effector Cell Therapy:  
+Guidelin es from the American Society for Transplantation and Cellular Therapy. Biol Blood Marrow Transplant. Jul 2020; 26(7): 
+1247- 1256. PMID 32165328 
+32. Centers for Medicare and Medicaid Services. National Coverage Determination (NCD) for Stem Cell Transplantation F ormerly 
+110.8.1 (110.23). 2016; https://www.cms.gov/m edicare -coverage- database/details/ncd -
+details.aspx?NCDId=366&ncdver=1&MCDIndexType=2&mcdtypename=Potential+National+Coverage+Determination
++(NCD)+Topics&bc=AAAAQAAAAAAA& . Accessed February 9, 2023. 
+ 
+History   
+ 
+Date  Comments  
+06/27/00  Add to Therapy Section - New Policy — replaces 8.01.15, original master policy on 
+HDC for miscellaneous malignancies.  However, policy statement is unchanged.  
+12/21/00  Replace Policy - Policy statement revised to state that allogeneic transplant after a 
+prior failed autotransplant is considered investigational, based on 2000 Tec 
+Assessment.  
+06/17/03  Replace Policy - Policy updated w/expanded rationale and new references; policy 
+statement unchanged.  
+08/12/03  Replace Policy - Reviewed and recommended for adoption without any changes by 
+Company Oncology Advisory Panel July 22, 2003.  
+12/14/04  Replace Policy - Policy reviewed w/literature search; update added on clinical trials and 
+NCCN guidelines; policy statement unchanged.  
+01/10/06  Replace Policy - Polic y reviewed with literature search; no change to policy statement.  
+06/02/06  Disclaimer and Scope update - No other changes  
+10/09/07  Replace Policy - Policy reviewed with BCBSA literature update through March 2007.  
+NCI clinical trials updated; NCCN guidelines information unchanged.  New references 
+added; Policy statement unchanged.  
+11/12/07  Code updated - CPT code 86817 removed as directed by RPIW.  
+05/13/08  New PR status - Policy statement regarding HDC and allogeneic SCT to treat relapsing 
+ALL aft er a prior course of HDC and autologous SCT changed from investigational to 
+medically necessary for children and adults. Reviewed and recommended by the OAP 
+on February 21, 2008. Replaces BC.8.01.32, status changed from BC to PR.  
+05/12/09  Replace Policy - Policy revised with literature search. Clinical input received. New policy 
+statement added that RIC allogeneic SCT may be considered medically necessary in 
+select patients in complete remission. Policy titles changed to: “Hematopoietic Stem Page | 17  of 18  ∞ Date  Comments  
+Cell Transplan tation for Acute Lymphocytic Leukemia”. Reviewed and recommended 
+by the OAP on February 19, 2009.  
+12/08/09  Code Update - 86817 added back to the policy.  
+02/09/10  Code Update - New 2010 codes added.  
+11/09/10  Replace Policy - Policy statement updated. Allogeneic HCT considered medically 
+necessary for any risk level in first complete remission. Updated with literature review 
+and references. References added. Reviewed by the OAP on August 19, 2010.  
+09/15/11  Replace Policy – Policy updated with l iterature review; no change in policy statement.  
+03/23/12  Replace policy. Policy updated with literature review; no change in policy statement. 
+References added, removed and reordered. Reviewed and recommended by OAP on February 16, 2012.  
+08/01/12  Update  Related Policies Titles: 8.01.21, 8.01.22, 8.01.29, 8.01.30, 8.01.31, 8.01.35, 
+8.01.514. Policy 8.01.507 was changed to 8.01.17.  
+02/01/13  Update Related Policies, change title of policy 8.01.21.  
+03/20/13  The following codes were removed from the policy, as they were not suspending and 
+just informational: HCPCS J9000-J9999 and Q0083 – Q0085.  
+07/24/13  Replace policy. Policy statements formatted for readability. References 13,22,34,28 
+added; others renumbered/removed. Policy statement unchanged.  
+09/30/13  Update Related Policies. Change title to policy 8.01.31.  
+10/18/13  Update Related Policies. Change title to policy 8.01.17.  
+12/03/13  Coding Update. Add ICD -10 codes.  
+02/27/14  Update Related Policies. Change title to 8.01.30.  
+03/21/14  Update Related Policies. Remove 8.01.514 as it was deleted.  
+04/18/14  Update Related Policies. Delete 8.01.20 and replace with 8.01.529.  
+07/31/14  Annual Review. Policy updated with literature review; no change in policy statements. 
+Related Policies updat ed; only those related to leukemia remain; all others removed.  
+03/13/15  Update Related Policies. Add 8.01.01  
+07/14/15  Annual Review. Policy updated with literature search ; no change to policy statement. 
+References updated.  ICD-9 and ICD -10 procedure code s removed; they were listed for 
+informational purposes only.  
+07/01/16  Annual Review,  approved June 14, 2016. Literature review. No change to policy 
+statement. Discussion wording updated.  Clinical trial reviews updated.  
+09/30 /16 Coding Update. Remove CPT 86817 from coding section.  
+11/04/16  Coding update. Removed codes that are transplant benefit related.  Page | 18  of 18  ∞ Date  Comments  
+04/01/ 17 Annual Review , approved March 14, 2017 . Policy updated with literature review 
+through November 9, 2016; references 28- 29 and 32 adde d. Policy statements 
+unchanged.  
+06/09/17  Coding update; updated description for CPT codes 38230, 38240, and 38241.  
+11/10 /17 Policy moved into new format; no change to policy statements.  
+05/01 /18 Annual Review, approved April 3 , 2018. Policy updated with literature review through 
+November 2017; references updated. Reference 35*  added. Policy statements 
+unchanged.  
+05/01 /19 Annual Review, approved April 18 , 2019.  Policy updated with litera ture review through 
+November 2018; no references added. Policy statements unchanged.  
+05/01 /20 Annual Review, approved April 23 , 2020.  Policy updated with literature review through 
+November 2019; no references added; reference on NCCN guidelines updated. Policy 
+statements unchanged.  
+04/01 /21 Annual Revi ew, approved March 18 , 2021.  Policy updated with literature review 
+through November 13, 2020; references on NCCN guidelines updated. Minor edits to 
+2013 Clinical Input summary to increase consistency with Supplemental Information 
+section; intent unchanged. Policy statements unchanged.  
+04/01 /22 Annual Review, approved March 8 , 2022.  Policy updated with literature review through 
+November 29, 2021; reference added and NCCN guidelines updated. Policy statements 
+unchanged.  
+10/01/22  Coding update.  Removed HCPCS code S2140.  
+04/01 /23 Annual Review, approved March 20 , 2023.  Policy updated with literature review 
+through November 29, 2022; one  reference added. Minor editorial refinements to 
+policy statements; intent unchanged.  Changed the wording from "patient" to 
+"individual" throughout the policy for standardization.  
+ 
+Disclaimer : This medical policy is a guide in evaluating the medical necessity of a particular service or treatment. The 
+Company adopts policies after careful review of published peer -reviewed scientific literature, national guidelines and 
+local standards of practic e. Since medical technology is constantly changing, the Company reserves the right to review 
+and update policies as appropriate. Member contracts differ in their benefits. Always consult the member benefit 
+booklet or contact a member service representative to determine coverage for a specific medical service or supply. 
+CPT codes, descriptions and materials are copyrighted by the American Medical Association (AMA). © 2023 Premera 
+All Rights Reserved.  
+Scope : Medical policies are systematically developed guide lines that serve as a resource for Company staff when 
+determining coverage for specific medical procedures, drugs or devices. Coverage for medical services is subject to the limits and conditions of the member benefit plan. Members and their providers should consult the member benefit booklet or contact a customer service representative to determine whether there are any benefit limitations applicable to this service or supply. This medical policy does not apply to Medicare Advantage.  Premera Blue Cross is a n independent licensee of the Blue Cross Blue Shield Association  serving businesses and residents of Alaska and Washington State, excluding C lark County.   
+052493  (07-01-2021) Discrimination is Against the Law  
+Premera Blue Cross  (Premera) complies with applicable Federal and Washington state civil rights laws and does not discriminate on the basis of race, 
+color, national o rigin, age, disability, sex, gender identity, or sexual orientation . Premera does not exclude people or treat them differently because of race, 
+color, national origin, age, disability , sex, gender identity, or sexual orientation.  Premera  provides free aids and services to people with disabilities to 
+communica te effectively with us, such as q ualified sign language interpreters  and w ritten information in other formats (large print, audio, accessible 
+electronic formats, other formats) . Premera p rovides fre e language services to people whose primary language is not English, such as  qualified interpreters  
+and i nformation written in other languages . If you need these services, contact the Civil Rights Coordinator.  If you believe that Premera has failed to 
+provide these services or discriminated in another way on the basis of race, color, national origin, age, disability, sex, gender identity, or sexual orientation , 
+you can file a grievance with:  Civil Rights Coordinator ─ Complaints and Appeals , PO Box 91102 , Seattle, WA 98111 , Toll free : 855-332-4535 , Fax: 425-918-5592 , 
+TTY: 711 , Email  AppealsDepartmentInquiries@Premera.com . You can file a grievance in person or by mail, fax, or email.  If you need help filing a 
+grievance, the Civil Rights Coordinator is available to help you.  You can also file a civil rights complaint with the U.S. Department of Health and Human 
+Services, Office for Civil Rights, electronically through the Office for Civil Righ ts Complaint Portal, available at  https://ocrportal.hhs.gov/ocr/portal/lobby.jsf , 
+or by mail or phone at:  U.S. Department of Health and Human Services,  200 Independence Ave SW, Room 509F, HHH B uilding , Washington, D.C. 20201, 
+1-800-368-1019,  800-537-7697 (TDD). Complaint forms are available at  http://www.hhs.gov/ocr/office/file/index.html .  
+Washington  residents : You can also file a civil rights complaint wi th the Washington State Office of the Insurance Commissioner, electronically through 
+the Office of the Insurance Commissioner Complaint Portal available at https://www.insurance.wa.gov/file -complaint -or-check -your-complaint -status , or by 
+phone at 800 -562-6900, 360 -586-0241 (TDD). Complaint forms are available at https: //fortress.wa.gov/oic/onlineservices/cc/pub/complaintinformation.aspx .  
+Alaska  residents : Contact the Alaska Division of Insurance via email at insurance@alaska.gov , or by phone at 907-269-7900 or 1 -800-INSURAK  (in-state, 
+outside Anchorage) . 
+Language Assistance  
+ATENCIÓN : si habla español, tiene a su disposición servicios gratuitos de asistencia lingüística. Llame al 800 -722-1471  (TTY: 711).  
+PAUNAWA : Kung nagsasalita ka ng Tagalog , maaari kang gumamit ng mga serbisyo ng tulong sa wika nang walang bayad. Tumawag sa  800-722-1471  (TTY: 711).  
+注意：如果您使用繁體中文，您可以免費獲得語言援助服務。請致電  800-722-1471  (TTY：711）。 
+CHÚ Ý : Nếu bạn nói Tiếng Việt, có các dịch vụ hỗ trợ ngôn ngữ miễn phí dành cho b ạn.  Gọi số 800-722-1471  (TTY: 711). 
+주의: 한국어를  사용하시는  경우, 언어 지원 서비스를  무료로  이용하실  수 있습니다 . 800-722-1471  (TTY: 711)  번으로  전화해  주십시오 . 
+ВНИМАНИЕ : Если вы говорите на русском языке, то вам доступны бесплатные услуги перевода.  Звоните  800-722-1471  (телетайп: 711). 
+LUS CEEV : Yog tias koj hais lus Hmoob , cov kev pab txog lus, muaj  kev pab dawb  rau koj. Hu rau 800-722-1471  (TTY:  711).  
+MO LOU SILAFIA : Afai e te tautala  Gagana fa'a Sāmoa, o loo iai auaunaga  fesoasoan, e fai fua e leai se totogi, mo oe,  Telefoni mai:  800-722-1471  (TTY: 711).  
+ໂປດຊາບ: ຖ້າວ່າ ທ່ານເວ ້າພາສາ ລາວ, ການບໍລິການຊ່ວຍເຫ  ຼື ອດ້ານພາສາ, ໂດຍບໍ່ເສ ັ ຽຄ່າ, ແມ່ນມ ີພ້ອມໃຫ້ທ່ານ. ໂທຣ 800-722-1471  (TTY: 711) . 
+注意事項 ：日本語を話される場合、無料の言語支援をご利用いただけます。 800-722-1471  （TTY:711）まで、お電話にてご連絡ください。  
+PAKDAAR : Nu saritaem ti Ilocano, ti serbisyo para ti baddang ti lengguahe nga awanan bayadna, ket sidadaan para kenyam.  Awagan ti  800-722-1471  (TTY: 711).  
+УВАГА!  Якщо ви розмовляєте українською мовою, ви можете звернутися до безкоштовної служби мовної підтримки.  Тел ефонуйте за 
+номером 800 -722-1471  (телетайп:  711). 
+ប្រយ័ត្ន៖   បរើសិនជាអ្នកនិយាយ  ភាសាខ្មែរ , បសវាជំនួយខ្ននកភាសា បោយមិនគិត្ឈ្ ន ួល គឺអាចមានសំរារ់រំបរ ើ អ្នក។  ចូរ ទូរស័ព្ទ   800-722-1471 ( TTY: 711)។ 
+ማስታወሻ :  የሚናገሩት  ቋንቋ ኣማርኛ  ከሆነ የትርጉም  እርዳታ ድርጅቶች፣  በነጻ ሊያግዝዎት  ተዘጋጀተዋል፡  ወደ ሚከተለው  ቁጥር ይደውሉ  800-722-1471 (መስማት  ለተሳናቸው : 711). 
+XIYYEEFFANNAA : Afaan  dubbattu  Oroomiffa , tajaajila  gargaarsa  afaanii , kanfaltiidhaan  ala, ni argama . Bilbilaa  800-722-1471 ( TTY: 711).  
+ملحوظة:  إذا كنت تتحدث اذكر اللغة، فإن خدمات المساعدة اللغوية تتوافر لك بالمجان.  اتصل برقم   1471-722-800    :(رقم هاتف الصم والبكم711 .) 
+ਧਿਆਨ  ਧਿਓ: ਜੇ ਤੁਸੀਂ ਪੰਜਾਬੀ  ਬੋਲਿੇ ਹੋ, ਤਾਂ ਭਾਸ਼ਾ ਧ ਿੱਚ ਸਹਾਇਤਾ  ਸੇ ਾ ਤੁਹਾਡੇ ਲਈ ਮੁਫਤ ਉਪਲਬਿ  ਹੈ। 800-722-1471 (TTY:  711) 'ਤੇ ਕਾਲ ਕਰੋ। 
+เรียน : ถ้าคุณพูดภาษาไทยคุณสามารถใช้บริการช่วยเหลือทางภาษาได้ฟรี  โทร 800-722-1471  (TTY: 711).  
+ACHTUNG : Wenn Sie Deutsch sprechen, stehen Ihnen kostenlos sprachliche Hilfsdienstleistungen zur Verfügung. Rufnummer: 800 -722-1471  (TTY: 711).  
+UWAGA : Jeżeli mówisz po polsku, możesz skorzystać z bezpłatnej pomocy językowej. Zadzwoń pod numer 800 -722-1471  (TTY: 711).  
+ATANSYON : Si w pale Kreyòl Ayisyen, gen sèvis èd pou lang ki disponib gratis pou ou.  Rele 800 -722-1471  (TTY: 711).  
+ATTENTION  : Si vous parlez français, des services d'aide linguistique vous sont proposés gratuitement.  Appelez le 800 -722-1471  (ATS :  711).  
+ATENÇÃO : Se fala português, encontram -se disponíveis serviços linguísticos, grátis.  Ligue para 800 -722-1471  (TTY: 711).  
+ATTENZIONE : In caso la lingua parlata sia l'italiano, sono disponibili servizi di assistenza linguistica gratuiti. Chiamare il numero  800-722-1471  (TTY: 711).   
+ توجه: اگر به زبان فارسی گفتگو می کنید، تسهیالت زبانی بصورت رايگان برای شما فراهم می باشد. با   (TTY: 711) 1471-722-800   .تماس بگیريد 

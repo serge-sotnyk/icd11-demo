@@ -1,0 +1,1097 @@
+ 
+ 
+Hematopoietic Cell Transplantation for Autoimmune Diseases  
+ 
+Policy #  00050  
+Original Effective Date: 01/28/2002 
+Current Effective Date: 01/09 /2023  
+ 
+ 
+©2022 Blue Cross and Blue Shield of Louisiana 
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company. 
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 1 of 23 
+ 
+Applies to all products administered or underwritten by Blue Cross and Blue Shield of Louisiana and its subsidiary, 
+HMO Louisiana, Inc. (collectively referred to as the “Company”), unless otherwise provided in the applicable contract. 
+Medical technology is constantly evolving, and we reserve  the right to review and update Medical Policy periodically.  
+ 
+When Services May Be Eligible for Coverage  
+Coverage for eligible medical treatments or procedures, drugs, devices or biological products may 
+be provided only if: 
+• Benefits are available in the member’s contract/certificate, and  
+• Medical necessity criteria and guidelines are met. 
+ 
+Based on review of available data, the Company may consider a utologous hematopoietic cell 
+transplantation  (HCT) as a treatment of systemic sclerosis/scleroderma if all of the following 
+conditions are met  to be eligible for coverage:**  
+  
+Patient Selection Criteria 
+Coverage eligibility will be considered when all of the following criteria are met: 
+• Adult patients <60 years of age; AND  
+• Maximum  duration of  condition  of 5 years; AND  
+• Modified Rodnan Scale Scores  >15; AND  
+• Internal organ involvement indicated by the followi ng measurements:  
+o Pulmonary: diffusing capacity of carbon monoxide (DLCo) < 80% of predicted 
+value; decline of forced vital capacity (FVC) of > 10% in last 12 months; pulmonary 
+fibrosis; ground glass appearance on high resolution chest CT; OR  
+o Renal: sclero derma related renal disease; AND  
+• The individual does not have the following internal organ involvement indicated by the 
+following measurements:  
+o Cardiac: left ventricular ejection fraction < 50%; tricuspid annual plane systolic 
+excursion < 1.8 cm; pulmonary  artery systolic pressure >40 mm Hg; mean pulmonary 
+artery pressure > 25 mm Hg  
+o Pulmonary: DLCo < 40% of predicted value; FVC < 45% of predicted value  
+o Renal: creatinine clearance < 40 ml/minute; AND  
+• History of < 6 months treatment with cyclophosphamide; AND   
+ 
+Hematopoietic Cell Transplantation for Autoimmune Diseases  
+ 
+Policy #  00050  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  01/09/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 2 of 23 
+• No active gastric antral vascular ectasia; AND  
+• Progression of disease despite treatment with immunosuppressive therapies like 
+mycophenolate mofetil.  
+ 
+Notes 
+• Medical records will need to be provided, including but not limited to history of disease and 
+previous treatment, recent Modified Rodnan Scale Score, pulmonary function testing (PFT) 
+including diffusing capacity of carbon monoxide (DLCo) and serial forced vital capacity 
+(FVC) measurements, high resolution chest CT report, renal function and heart testing 
+reports. 
+• Autologous HCT should be considered for patients with systemic sclerosis (SSc) only if the 
+condition is rapidly progressing and the prognosis for survival is poor. An important factor 
+influencing the occurrence of treatment -related adverse effects and response to treatment is 
+the level of internal organ involvement. If organ involvement is severe and irreversible, HCT 
+is not recommended.  
+• Modified Ro dnan Scale Score: This score consists of an evaluation of patient’s skin thickness 
+rated by clinical palpation using a 0 –3 scale (0=normal skin; 1=mild thickness; 2=moderate 
+thickness; 3=severe thickness with inability to pinch the skin into a fold) for ea ch of 17 
+surface anatomic areas of the body: face, anterior chest, abdomen, (right and left separately), 
+fingers, forearms, upper arms, thighs, lower legs, dorsum of hands and feet. These individual 
+values are added and the sum is defined as the total skin  score.  
+ 
+When Services Are Considered Investigational  
+Coverage is not available for investigational medical treatments or procedures, drugs, devices or 
+biological products.  
+ 
+Based on review of available data, the Company considers autologous or allogeneic hematopoietic 
+cell transplantation  as a treatment of autoimmune diseases, including, but not limited to, the 
+following  to be investigational :* 
+• Multiple sclerosis  
+• Systemic lupus erythematosus  
+• Juvenile idiopathic or rheumatoid arthritis  
+• Chronic in flammatory demyelinating polyneuropathy   
+ 
+Hematopoietic Cell Transplantation for Autoimmune Diseases  
+ 
+Policy #  00050  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  01/09/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 3 of 23 
+• Type 1 diabetes.  
+ 
+The use of autologous hematopoietic cell transplantation as a treatment of systemic 
+sclerosis/scleroderma when patient selection criteria are not met is considered to be 
+investigational.*  
+ 
+Background/Overview  
+Autoimmune Disease Treatment 
+Immune suppression is a common treatment strategy for many of these diseases, particularly 
+rheumatic diseases (eg, rheumatoid arthritis, systemic lupus erythematosus, scleroderma). Most 
+patients with autoimmune disorders respond to conventional therapies, which consist of anti-
+inflammatory agents, immunosuppressants, and immunomodulating drugs; however, conventional 
+drug therapies are not curative, and a proportion of patients suffer from autoimmune diseases that 
+range from severe to recalcitrant to rapidly progressive. It is for this group of patients with severe 
+autoimmune disease that alternative therapies have been sought, including hematopoietic cell 
+transplantation (HCT). The primary concept underlying the use of HCT for these diseases is this: 
+ablating and “resetting” the im mune system can alter the disease process by inducing a sustained 
+remission that possibly leads to cure.  
+ 
+Hematopoietic Cell Transplantation 
+HCT is a procedure in which hematopoietic stem cells are intravenously infused to restore bone 
+marrow and immune function in cancer patients who receive bone marrow-toxic doses of cytotoxic 
+drugs with or without whole-body radiotherapy. Hematopoietic stem cells may be obtained from the 
+transplant recipient (autologous HCT) or a donor (allogeneic HCT [allo-HCT]). They can be 
+harvested from bone marrow, peripheral blood, or umbilical cord blood shortly after delivery of 
+neonates.  
+ 
+Immunologic compatibility between infused hematopoietic stem cells and the recipient is not an 
+issue in autologous HCT. In allogeneic stem cell transplantation, immunologic compatibility 
+between donor and patient is a critical factor for achieving a successful outcome. Compatibility is 
+established by typing of human leukocyte antigens (HLA) using cellular, serologic, or molecular 
+techniques. HLA refers to the gene complex expressed at the HLA-A, -B, and -DR (antigen- D  
+ 
+Hematopoietic Cell Transplantation for Autoimmune Diseases  
+ 
+Policy #  00050  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  01/09/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 4 of 23 
+related) loci on each arm of chromosome six. An acceptable donor will match the patient at all or 
+most of the HLA loci. 
+ 
+Conditioning for Hematopoietic Cell Transplantation 
+Conventional Conditioning 
+The conventional (“classical”) practice of allo -HCT involves administration of cytotoxic agents 
+(e.g., cyclophosphamide, busulfan) with or without total body irradiation at doses sufficient to cause 
+bone marrow ablation in the recipient. The beneficial treatment effect of this procedure is due to a 
+combination of the initial eradication of malignant cells and subsequent graft-versus-malignancy 
+(GVM) effect mediated by non-self-immunologic effector cells. While the slower GVM effect is 
+considered the potentially curative component, it may be overwhelmed by existing disease in the 
+absence of pretransplant conditioning. Intense conditioning regimens are limited to patients who are 
+sufficiently medically fit to tolerate substantial adverse effects. These include opportunistic 
+infections secondary to loss of endogenous bone marrow function and organ damage or failure 
+caused by cytotoxic drugs. Subsequent to graft infusion in allo-HCT, immunosuppressant drugs are 
+required to minimize graft rejection and graft-versus-host disease, which increases susceptibility to 
+opportunistic infections. 
+ 
+The success of autologous HCT is predicated on the potential of cytotoxic chemotherapy, with or 
+without radiotherapy, to eradicate cancerous cells from the blood and bone marrow. This permits 
+subsequent engraftment and repopulation of the bone marrow with presumably normal 
+hematopoietic stem cells obtained from the patient before undergoing bone marrow ablation. 
+Therefore, autologous HCT is typically performed as consolidation therapy when the patient’s 
+disease is in complete remission. Patients who undergo autologous HCT are also susceptible to 
+chemotherapy-related toxicities and opportunistic infections before engraftment, but not GVH 
+disease. 
+ 
+Reduced-Intensity Conditioning Allogeneic Hematopoietic Cell Transplantation 
+Reduced-Intensity Conditioning (RIC) refers to the pretransplant use of lower doses of cytotoxic 
+drugs or less intense regimens of radiotherapy than are used in traditional full-dose myeloablative 
+conditioning treatments. Although the definition of RIC is variable, with numerous versions 
+employed, all regimens seek to balance the competing effects of relapse due to residual disease and 
+non-relapse mortality. The goal of RIC is to reduce disease burden and to minimize associated 
+treatment-related morbidity and non-relapse mortality in the period during which the beneficial  
+ 
+Hematopoietic Cell Transplantation for Autoimmune Diseases  
+ 
+Policy #  00050  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  01/09/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 5 of 23 
+GVM effect of allogeneic transplantation develops. RIC regimens range from nearly total 
+myeloablative to minimally myeloablative with lymphoablation, with intensity tailored to specific 
+diseases and patient condition. Patients who undergo RIC with allo -HCT initially demonstrate donor 
+cell engraftment and bone marrow mixed chimerism. Most will subsequently convert to full -donor 
+chime rism. In this review, the term reduced -intensity conditioning  will refer to all conditioning 
+regimens intended to be nonmyeloablative.  
+ 
+FDA or Other Governmental Regulatory Approval  
+U.S. Food and Drug Administration (FDA) 
+The FDA regulates human cells and tissues intended for implantation, transplantation, or infusion 
+through the Center for Biologics Evaluation and Research, under Code of Federal Regulation title 
+21, parts 1270 and 1271. Hematopoietic stem cells are included in these regulations. 
+ 
+Ratio nale/Source  
+This medical policy was developed through consideration of peer-reviewed medical literature 
+generally recognized by the relevant medical community, U.S. Food and Drug Administration 
+approval status, nationally accepted standards of medical practice and accepted standards of medical 
+practice in this community, technology evaluation centers, reference to federal regulations, other 
+plan medical policies, and accredited national guidelines. 
+ 
+Most patients with autoimmune disorders respond to conventional drug therapies; however, 
+conventional drug therapies are not curative-and a proportion of patients suffer from autoimmune 
+diseases that range from the severe to the recalcitrant to the rapidly progressive. It is in this group of 
+patients with severe autoimmune disease that alternative therapies have been sought, including HCT. 
+ 
+For individuals with multiple sclerosis who receive HCT, the evidence includes 2 randomized 
+controlled trials (RCTs), systematic reviews, and several nonrandomized studies. Relevant outcomes 
+are overall survival (OS), health status measures, quality of life (QOL), and treatment-related 
+mortality (TRM) and morbidity. One RCT compared HCT with mitoxantrone, and the trial reported 
+intermediate outcomes (number of new T2 magnetic resonance imaging lesions); the group 
+randomized to HCT developed significantly fewer lesions than the group receiving conventional 
+therapy. The other RCT compared nonmyeloablative HCT results in patients with continued disease-
+modifying therapy and found a benefit to HCT in prolonged time to disease progression. The findings  
+ 
+Hematopoietic Cell Transplantation for Autoimmune Diseases  
+ 
+Policy #  00050  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  01/09/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 6 of 23 
+of the nonrandomized studies revealed improvements in clinical parameters following HCT 
+compared with baseline. Adverse event rates were high, and most studies reported treatment -related  
+deaths. Controlled trials (with appropriate comparator therapies) reporting on clinical outcomes are 
+needed to demonstrate efficacy. The evidence is insufficient to determine that the technology results 
+in an improvement in the net health outcome.  
+ 
+For individuals with systemic sclerosis/scleroderma who receive HCT, the evidence includes 3 RCTs 
+and observational studies. The R elevant  outcomes are OS, symptoms, health status measures, QOL, 
+and TRM  and morbidity. All 3 RCTs compared cyclophosphamide condit ioning plus autologous 
+HCT with cyclophosphamide alone. Patients in the RCTs were adults <60 years of age, maximum  
+duration of disease of 5 years, with modified Rodnan skin scores >15, and internal organ 
+involvement. Patients with severe and irreversible o rgan involvement were excluded from the trials. 
+Short -term results of the RCTs show higher rates of adverse events and TRM  among patients 
+receiving autologous HCT compared with patients receiving chemotherapy alone. However, long -
+term improvements (four ye ars) in clinical outcomes such as modified Rodnan skin scores  and forced 
+vital capacity, as well as overall mortality in patients receiving HCT compared with patients 
+receiving cyclophosphamide alone, were  consistently reported in all RCTs. Due to sample s ize 
+limitations in 2 of the RCTs, statistical significance was found only in the larger RCT. The evidence 
+is sufficient to determine that the technology results in a meaningful improvement in net health 
+outcomes.  
+ 
+For individuals with systemic lupus erythe matosus who receive HCT, the evidence includes a 
+systematic review and case series. The relevant  outcomes are OS, symptoms, QOL , and TRM  and 
+morbidity. Studies were heterogeneous in conditioning regimens and source of cells. The largest 
+series (n=50) repor ted an overall 5 -year survival rate of 84% and the probability of disease -free 
+survival was 50%. Additional data are needed from controlled studies to demonstrate efficacy. The 
+evidence is insufficient to determine the effects of the technology on health o utcomes.  
+ 
+For individuals with juvenile idiopathic or rheumatoid arthritis who receive HCT, the evidence 
+includes registry data and a case series. The relevant  outcomes are OS, symptoms, QOL , and TRM  
+and morbidity. The registry included 50 patients with ju venile idiopathic or rheumatoid arthritis. The 
+overall drug -free remission rate was approximately 50% in the registry patients and 69% in the 
+smaller case series. Additional data are needed from controlled studies to demonstrate efficacy. The 
+evidence is i nsufficient to determine the effects of the technology on health outcomes.   
+ 
+Hematopoietic Cell Transplantation for Autoimmune Diseases  
+ 
+Policy #  00050  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  01/09/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 7 of 23 
+For individuals with chronic inflammatory demyelinating polyneuropathy who receive HCT, the 
+evidence includes 1 observational study and case reports. Relevant outcomes are OS, symptoms, 
+health status measures, QOL, and TRM and morbidity. Additional data are needed from controlled 
+studies to demonstrate efficacy. The evidence is insufficient to determine that the technology results 
+in an improvement in the net health outcome. 
+ 
+For individuals with type 1 diabetes who receive HCT, the evidence includes case series and 2 meta-
+analyses. Relevant outcomes are OS, symptoms, health status measures, QOL, and TRM and 
+morbidity. While a substantial proportion of patients tended to become insulin -free after HCT, 
+remission rates were high. The meta-analyses revealed that HCT may improve HbA1 and C-peptide 
+levels compared with baseline values and compared with insulin. One meta-analysis found that HCT 
+is more effective in patients with type 1 diabetes compared with type 2 diabetes, and when the 
+treatment is administered soon after the diagnosis. Certain factors limit the conclusions that can be 
+drawn about the overall effectiveness of HCT in treating diabetes; those factors are heterogeneity in 
+the stem cell types, cell number infused, and infusion methods. The evidence is insufficient to 
+determine that the technology results in an improvement in the net health outcome. 
+ 
+For individuals with other autoimmune diseases (eg, Crohn disease, immune cytopenias, relapsing 
+polychondritis) who receive HCT, the evidence includes 1 RCT and small retrospective studies. 
+Relevant outcomes are OS, symptoms, health status measures, QOL, and TRM and morbidity. The 
+RCT was conducted on patients with Crohn disease. At 1 year follow-up, 1 patient in the control 
+group and 2 patients in the HCT group achieved remission. Data are needed from additional 
+controlled studies to demonstrate efficacy. The evidence is insufficient to determine that the 
+technology results in an improvement in the net health outcome. 
+ 
+Supplemental Information  
+Practice Guidelines and Position Statements 
+Guidelines or position statements will be considered for inclusion in ‘Supplemental Information' if 
+they were issued by, or jointly by, a US professional society, an international society with US 
+representation, or National Institute for Health and Care Excellence (NICE). Priority will be given 
+to guidelines that are informed by a systematic review, include strength of evidence ratings, and 
+include a description of management of conflict of interest. 
+  
+ 
+Hematopoietic Cell Transplantation for Autoimmune Diseases  
+ 
+Policy #  00050  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  01/09/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 8 of 23 
+American Society for Blood and Marrow Transplantation 
+In 2020, the American Society for Transplantation and Cellular Therapy published consensus 
+guidelines on the use of HCT to treat specific conditions in and out of the clinical trial setting. Table 
+1 summarizes recommendations for specific indications addressed in this guideline. 
+ 
+Table 1. Recommendations  for the Use of  HCT to Treat Autoimmune Diseases  
+Indications fo r HCT in Pediatric Patients (Generally 
+<18 y)  Allogeneic HCTa Autologous HCTa 
+Juvenile rheumatoid arthritis  D R 
+Systemic sclerosis  D R 
+Other autoimmune and immune dysregulation disorders  R N 
+Indications for HCT in Adults >18 y    
+Multiple sclerosis  N C 
+Systemic sclerosis  N S 
+Rheumatoid arthritis  N D 
+Systemic lupus erythematosus  N D 
+Crohn disease  N D 
+Polymyositis -dermatomyositis  N D 
+HCT: hematopoietic cell transplantation.  
+a “Standard of care (S): This category includes indications that are well defined and are generally 
+supported by evidence in the form of high quality clinical trials and/or observational studies (eg, 
+through CIBMTR or EBMT).” “Standard of care, clinical evid ence available (C): This category 
+includes indications for which large clinical trials and observational studies are not available. 
+However, HCT/immune effector cell therapy (IECT) has been shown to be an effective therapy with 
+acceptable risk of morbidity  and mortality in sufficiently large single - or multi -center cohort studies. 
+HCT/IECT can be considered as a treatment option for individual patients after careful evaluation 
+of risks and benefits. As more evidence becomes available, some indications may b e reclassified as 
+‘Standard of Care’.” "Standard of care, rare indication (R): Indications included in this category are  
+ 
+Hematopoietic Cell Transplantation for Autoimmune Diseases  
+ 
+Policy #  00050  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  01/09/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 9 of 23 
+rare diseases for which clinical trials and observational studies with sufficient number of patients are 
+not currently feasible because of their very low incidence. How-ever, single-center or multicenter or 
+registry studies in relatively small cohorts of patients have shown HCT/IECT to be effective 
+treatment with acceptable risks of morbidity and mortality. For patients with diseases in this 
+category, HCT/IECT can be considered as a treatment option for individual patients after careful 
+evaluation of risks and benefits." “Developmental; (D): Developmental indications include diseases 
+where pre-clinical and/or early phase clinical studies show HCT/IECT to be a promising treatment 
+option. HCT/IECT is best pursued for these indications as part of a clinical trial. As more evidence 
+becomes available, some indications may be reclassified as ‘Standard of Care, Clinical Evidence 
+Available’ or ‘Standard of Care’.” “Not generally recommended (N): HCT/IECT is not currently 
+recommended for these indications where evidence and clinical practice do not support the routine 
+use of HCT/IECT. However, this recommendation does not preclude investigation of HCT/IECT as 
+a potential treatment and may be pursued for these indications within the context of a clinical trial. 
+ 
+U.S. Preventive Services Task Force Recommendations 
+Not applicable. 
+ 
+Medicare National Coverage 
+There are numerous autoimmune diseases, and the Centers for Medicare & Medicaid Services has 
+not issued a national coverage determination for stem cell transplantation for each disease. A 
+general national coverage determination for stem cell transplantation (110.23; formerly 110.8.1) 
+states as listed in Table 2. 
+ 
+Table 2. Nationally Covered and Noncovered Indications for HCT  
+Covered and Noncovered Indications  
+Nationally covered indications  
+Allogeneic HCT  
+“Effective...1978, for the treatment of leukemia, leukemia in remission, or aplastic anemia when it 
+is reasonable and  necessary”  
+“Effective...1985, for the treatment of severe combined immunodeficiency disease (SCID) and for 
+the treatment of Wiskott -Aldrich  syndrome”   
+ 
+Hematopoietic Cell Transplantation for Autoimmune Diseases  
+ 
+Policy #  00050  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  01/09/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 10 of 23 
+Covered and Noncovered Indications  
+“Effective...2010, for the treatment of Myelodysplastic Syndromes (MDS) pursuant to Coverage 
+with Evidence Developme nt (CED) in the context of a Medicare -approved, prospective 
+clinical  study”  
+Autologous HCT  
+"Effective...1989, [autologous HCT] is considered reasonable and necessary … for the following 
+conditions and is covered under Medicare for patients with:  
+• Acute le ukemia in remission who have a high probability of relapse and who have no human 
+leukocyte antigens (HLA) -matched;  
+• Resistant non -Hodgkin's lymphomas or those presenting with poor prognostic features 
+following an initial response;  
+• Recurrent or refractory ne uroblastoma; or,  
+• Advanced Hodgkin's disease who have failed conventional therapy and have no HLA -
+matched donor."  
+"Effective...2000, single [autologous HCT] is only covered for Durie -Salmon Stage II or III patients 
+that fit the following requirements:  
+• Newly diagnosed or responsive multiple myeloma. This includes those patients with 
+previously untreated disease, those with at least a partial response to prior chemotherapy 
+(defined as a 50% decrease either in measurable paraprotein [serum and/or urine] or  in bone 
+marrow infiltration, sustained for at least 1 month), and those in responsive relapse; and  
+• Adequate cardiac, renal, pulmonary, and hepatic function.”  
+"Effective...2005, when recognized clinical risk factors are employed to select patients for 
+transplantation, high dose melphalan (HDM) together with [autologous HCT] is reasonable and 
+necessary for Medicare beneficiaries of any age group with primary amyloid light chain (AL) 
+amyloidosis who meet the following criteria:  
+• Amyloid deposition in 2 or few er organs; and,   
+ 
+Hematopoietic Cell Transplantation for Autoimmune Diseases  
+ 
+Policy #  00050  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  01/09/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 11 of 23 
+Covered and Noncovered Indications  
+• Cardiac left ventricular ejection fraction (EF) greater than 45%.”  
+Nationally noncovered indications  
+Allogeneic HCT  
+"Effective...1996, through January 26, 2016, allogeneic [HCT] is not covered as treatment for 
+multiple myeloma."  
+Autologous HCT  
+"Insufficient data exist to establish definite conclusions regarding the efficacy of [autologous HCT] 
+for the following conditions:  
+• Acute leukemia not in remission;  
+• Chronic granulocytic leukemia;  
+• Solid tumors (other than neuroblastoma);  
+• Up to October 1, 2000, multiple myeloma;  
+• Tandem transplantation (multiple rounds of [autologous HCT]) for patients with multiple 
+myeloma;  
+• Effective...2000, non primary AL amyloidosis; and,  
+• Effective...2000 through March 14, 2005, primary AL amyloidosis for Me dicare 
+beneficiaries age 64 or older.  
+In these cases, [autologous HCT] is not considered reasonable and necessary...and is not 
+covered  under  Medicare."  
+HCT: hematopoietic cell transplantation. 
+ 
+Ongoing and Unpublished Clinical Trials 
+Some currently ongoing and unpublished trials that might influence this review are listed in Table 
+3. 
+ 
+  
+ 
+Hematopoietic Cell Transplantation for Autoimmune Diseases  
+ 
+Policy #  00050  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  01/09/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 12 of 23 
+Table 3. Summary of Key Trials  
+NCT No.  Trial Name  Planned 
+Enrollment  Completion 
+Date  
+Ongoing     
+NCT02674217  Outpatient Hematopoietic Grafting in Patients with 
+Multiple Sclerosis Employing Autologous Non -
+cryopreserved Peripheral Blood Stem Cells: a 
+Feasibility Study  200 Dec 2025  
+NCT03069170  Safety and Efficacy of Immuno -Modulation and 
+Autologous Bone -Marrow Derived Stem Cell 
+Transplantation for the  Treatment of Multiple Sclerosis  50 Jan 2021  
+NCT03113162  Evaluation of the Safety and Efficacy of Reduced -
+Intensity Immunoablation and Autologous 
+Hematopoietic Stem Cell Transplantation (AHSCT) in 
+Multiple Sclerosis  15 May 2022  
+NCT01895244  High -dose Chemotherapy and Transplantation of 43+ 
+Selected Stem Cells for Progressive Systemic Sclerosis 
+- Modification According to Manifestation  44 Sep 2022  
+NCT03477500  Randomized Autologous Hematopoietic Stem Cell 
+Transplantation Versus Alemtuzumab for  Patients with 
+Relapsing Remitting Multiple Sclerosis  100 Mar 2024  
+NCT04047628  A Multicenter Randomized Controlled Trial of Best 
+Available Therapy Versus Autologous Hematopoietic 
+Stem Cell Transplant for Treatment -Resistant 
+Relapsing Multiple Sclerosis (ITN077AI)  156 Oct 2029  
+NCT03219359  Maintenance in Autologous Stem Cell Transplant for 
+Crohn's Disease (MASCT - CD) 50 Aug 2022  
+NCT00716066  High -Dose Immunosuppressive Therapy Using 
+Carmustine , Etoposide, Cytarabine, and Melphalan 40 Dec 2027   
+ 
+Hematopoietic Cell Transplantation for Autoimmune Diseases  
+ 
+Policy #  00050  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  01/09/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 13 of 23 
+NCT No.  Trial Name  Planned 
+Enrollment  Completion 
+Date  
+(BEAM) + Thymoglobulin Followed by Syngeneic or 
+Autologous Hematopoietic Cell Transplantation for 
+Patients With Autoimmune Neurologic Diseases  
+NCT04971005  Ocrelizumab or Alemtuzumab Compared With 
+Autologo us Hematopoietic Stem Cell Transplantation 
+in Multiple Sclerosis - a Phase -2 Randomi zed 
+Controlled Trial (COAST)  50 Aug 2027  
+NCT05029336  Autologous Stem Cell Transplant (ASCT) for 
+Autoimmune Diseases  20 May 2031  
+Unpublished     
+NCT03000296  Autologous Unselected Hematopoietic Stem Cell 
+Transplantation for Refractory Crohn’s Disease  50 Mar 2020  
+NCT03562208a Autologous Bone Marrow Transplant in Chronic 
+Insulin Dependent Diabetic Patients Phase II Clinical 
+Trial  100 Jun 2020  
+NCT00750971  An Ope n-Label, Phase II Multicenter Cohort Study of 
+Immunoablation with Cyclophosphamide and 
+Antithymocyte -Globulin and Transplantation of 
+Autologous CD34 -Enriched Hematopoietic Stem Cells 
+versus Currently Available Immunosuppressive 
+/Immunomodulatory Therapy fo r Treatment of 
+Refractory Systemic Lupus Erythematosus  30 Aug 2020  
+NCT: national clinical trial.  
+a Denotes industry sponsored or co -sponsored trial.  
+ 
+ 
+  
+ 
+Hematopoietic Cell Transplantation for Autoimmune Diseases  
+ 
+Policy #  00050  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  01/09/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 14 of 23 
+References  
+1. Nikolov NP, Pavletic  SZ. Technology Insight: hematopoietic stem cell transplantation for 
+systemic rheumatic disease. Nat Clin Pract Rheumatol. Apr 2008; 4(4): 184 -91. PMID 18285764  
+2. Milanetti F, Abinun M, Voltarelli JC, et al. Autologous hematopoietic stem cell transplantation  
+for childhood autoimmune disease. Pediatr Clin North Am. Feb 2010; 57(1): 239 -71. PMID 
+20307720  
+3. Sullivan KM, Muraro P, Tyndall A. Hematopoietic cell transplantation for autoimmune disease: 
+updates from Europe and the United States. Biol Blood Marrow Trans plant. Jan 2010; 16(1 
+Suppl): S48 -56. PMID 19895895  
+4. Reston JT, Uhl S, Treadwell JR, et al. Autologous hematopoietic cell transplantation for multiple 
+sclerosis: a systematic review. Mult Scler. Feb 2011; 17(2): 204 -13. PMID 20921236  
+5. Sormani MP, Muraro PA, Schiavetti I, et al. Autologous hematopoietic stem cell transplantation 
+in multiple sclerosis: A meta -analysis. Neurology. May 30 2017; 88(22): 2115 -2122. PMID 
+28455383  
+6. Ge F, Lin H, Li Z, et al. Efficacy and safety of autologous hematopoietic stem -cell 
+transplantation in multiple sclerosis: a systematic review and meta -analysis. Neurol Sci. Mar 
+2019; 40(3): 479 -487. PMID 30535563  
+7. Snarski E, Milczarczyk A, Halaburda K, et al. Immunoablation and autologous hematopoietic 
+stem cell transplantation in the treatm ent of new -onset type 1 diabetes mellitus: long -term 
+observations. Bone Marrow Transplant. Mar 2016; 51(3): 398 -402. PMID 26642342  
+8. Mancardi GL, Sormani MP, Gualandi F, et al. Autologous hematopoietic stem cell 
+transplantation in multiple sclerosis: a phase  II trial. Neurology. Mar 10 2015; 84(10): 981 -8. 
+PMID 25672923  
+9. Burt RK, Balabanov R, Burman J, et al. Effect of Nonmyeloablative Hematopoietic Stem Cell 
+Transplantation vs Continued Disease -Modifying Therapy on Disease Progression in Patients 
+With Relapsi ng-Remitting Multiple Sclerosis: A Randomized Clinical Trial. JAMA. Jan 15 
+2019; 321(2): 165 -174. PMID 30644983  
+10. Fassas A, Kimiskidis VK, Sakellari I, et al. Long -term results of stem cell transplantation for 
+MS: a single -center experience. Neurology. Mar 2 2 2011; 76(12): 1066 -70. PMID 21422458  
+11. Shevchenko JL, Kuznetsov AN, Ionova TI, et al. Autologous hematopoietic stem cell 
+transplantation with reduced -intensity conditioning in multiple sclerosis. Exp Hematol. Nov 
+2012; 40(11): 892 -8. PMID 22771495   
+ 
+Hematopoietic Cell Transplantation for Autoimmune Diseases  
+ 
+Policy #  00050  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  01/09/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 15 of 23 
+12. Shevchen ko JL, Kuznetsov AN, Ionova TI, et al. Long -term outcomes of autologous 
+hematopoietic stem cell transplantation with reduced -intensity conditioning in multiple sclerosis: 
+physician's and patient's perspectives. Ann Hematol. Jul 2015; 94(7): 1149 -57. PMID 2 5711670  
+13. Mancardi GL, Sormani MP, Di Gioia M, et al. Autologous haematopoietic stem cell 
+transplantation with an intermediate intensity conditioning regimen in multiple sclerosis: the 
+Italian multi -centre experience. Mult Scler. Jun 2012; 18(6): 835 -42. PMI D 22127896  
+14. Burt RK, Balabanov R, Han X, et al. Association of nonmyeloablative hematopoietic stem cell 
+transplantation with neurological disability in patients with relapsing -remitting multiple 
+sclerosis. JAMA. Jan 20 2015; 313(3): 275 -84. PMID 25602998  
+15. Burman J, Iacobaeus E, Svenningsson A, et al. Autologous haematopoietic stem cell 
+transplantation for aggressive multiple sclerosis: the Swedish experience. J Neurol Neurosurg 
+Psychiatry. Oct 2014; 85(10): 1116 -21. PMID 24554104  
+16. Atkins HL, Bowman M, Allan D,  et al. Immunoablation and autologous haemopoietic stem -cell 
+transplantation for aggressive multiple sclerosis: a multicentre single -group phase 2 trial. Lancet. 
+Aug 06 2016; 388(10044): 576 -85. PMID 27291994  
+17. Nash RA, Hutton GJ, Racke MK, et al. High -dose immunosuppressive therapy and autologous 
+HCT for relapsing -remitting MS. Neurology. Feb 28 2017; 88(9): 842 -852. PMID 28148635  
+18. Muraro PA, Pasquini M, Atkins HL, et al. Long -term Outcomes After Autologous 
+Hematopoietic Stem Cell Transplantation for Multiple  Sclerosis. JAMA Neurol. Apr 01 2017; 
+74(4): 459 -469. PMID 28241268  
+19. Kvistad SAS, Lehmann AK, Trovik LH, et al. Safety and efficacy of autologous hematopoietic 
+stem cell transplantation for multiple sclerosis in Norway. Mult Scler. Dec 2020; 26(14): 1889 -
+1897. PMID 31833798  
+20. Boffa G, Massacesi L, Inglese M, et al. Long -Term Clinical Outcomes of Hematopoietic Stem 
+Cell Transplantation in Multiple Sclerosis. Neurology. Jan 20 2021. PMID 33472915  
+21. Burt RK, Han X, Quigley K, et al. Real -world application of autolo gous hematopoietic stem cell 
+transplantation in 507 patients with multiple sclerosis. J Neurol. Oct 11 2021. PMID 34633525  
+22. Milanetti F, Bucha J, Testori A, et al. Autologous hematopoietic stem cell transplantation for 
+systemic sclerosis. Curr Stem Cell Res  Ther. Mar 2011; 6(1): 16 -28. PMID 20955159  
+23. Host L, Nikpour M, Calderone A, et al. Autologous stem cell transplantation in systemic 
+sclerosis: a systematic review. Clin Exp Rheumatol. Sep -Oct 2017; 35 Suppl 106(4): 198 -207. 
+PMID 28869416   
+ 
+Hematopoietic Cell Transplantation for Autoimmune Diseases  
+ 
+Policy #  00050  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  01/09/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 16 of 23 
+24. Shouval R, Furie N , Raanani P, et al. Autologous Hematopoietic Stem Cell Transplantation for 
+Systemic Sclerosis: A Systematic Review and Meta -Analysis. Biol Blood Marrow Transplant. 
+May 2018; 24(5): 937 -944. PMID 29374527  
+25. Burt RK, Shah SJ, Dill K, et al. Autologous non -myeloablative haemopoietic stem -cell 
+transplantation compared with pulse cyclophosphamide once per month for systemic sclerosis 
+(ASSIST): an open -label, randomised phase 2 trial. Lancet. Aug 06 2011; 378(9790 ): 498 -506. 
+PMID 21777972  
+26. van Laar JM, Farge D, Sont JK, et al. Autologous hematopoietic stem cell transplantation vs 
+intravenous pulse cyclophosphamide in diffuse cutaneous systemic sclerosis: a randomized 
+clinical trial. JAMA. Jun 25 2014; 311(24): 2490 -8. PMID 25058083  
+27. Sullivan KM, Goldmuntz EA, Keyes -Elstein L, et al. Myeloablative Autologous Stem -Cell 
+Transplantation for Severe Scleroderma. N Engl J Med. Jan 04 2018; 378(1): 35 -47. PMID 
+29298160  
+28. Vonk MC, Marjanovic Z, van den Hoogen FH, et al. Long -term follow -up results after 
+autologous haematopoietic stem cell transplantation for severe systemic sclerosis. Ann Rheum 
+Dis. Jan 2008; 67(1): 98 -104. PMID 17526554  
+29. Ioannidis JP, Vlachoyiannopoulos PG, Haidich AB, et al. Mortality in systemic sclerosis: an 
+international meta -analysis of individual patient data. Am J Med. Jan 2005; 118(1): 2 -10. PMID 
+15639201  
+30. Nash RA, McSweeney PA, Crofford LJ, et al. High -dose immunosuppressive therapy and 
+autologous hematopoietic cell transplantation for severe systemic scle rosis: long -term follow -up 
+of the US multicenter pilot study. Blood. Aug 15 2007; 110(4): 1388 -96. PMID 17452515  
+31. Henes JC, Schmalzing M, Vogel W, et al. Optimization of autologous stem cell transplantation 
+for systemic sclerosis -- a single -center longterm  experience in 26 patients with severe organ 
+manifestations. J Rheumatol. Feb 2012; 39(2): 269 -75. PMID 22247352  
+32. Henes J, Oliveira MC, Labopin M, et al. Autologous stem cell transplantation for progressive 
+systemic sclerosis: a prospective non -intervention al study from the European Society for Blood 
+and Marrow Transplantation Autoimmune Disease Working Party. Haematologica. Feb 01 2021; 
+106(2): 375 -383. PMID 31949011  
+33. van Bijnen S, de Vries -Bouwstra J, van den Ende CH, et al. Predictive factors for treatment -
+related mortality and major adverse events after autologous haematopoietic stem cell 
+transplantation for systemic sclerosis: results of a long -term follow -up multicentre study. Ann 
+Rheum Dis. Aug 2020; 79(8): 1084 -1089. PMID 32409324   
+ 
+Hematopoietic Cell Transplantation for Autoimmune Diseases  
+ 
+Policy #  00050  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  01/09/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 17 of 23 
+34. Leone A, Radin M, Alm arzooqi AM, et al. Autologous hematopoietic stem cell transplantation 
+in Systemic Lupus Erythematosus and antiphospholipid syndrome: A systematic review. 
+Autoimmun Rev. May 2017; 16(5): 469 -477. PMID 28279836  
+35. Burt RK, Traynor A, Statkute L, et al. Nonmyelo ablative hematopoietic stem cell transplantation 
+for systemic lupus erythematosus. JAMA. Feb 01 2006; 295(5): 527 -35. PMID 16449618  
+36. Song XN, Lv HY, Sun LX, et al. Autologous stem cell transplantation for systemic lupus 
+erythematosus: report of efficacy and  safety at 7 years of follow -up in 17 patients. Transplant 
+Proc. Jun 2011; 43(5): 1924 -7. PMID 21693301  
+37. Leng XM, Jiang Y, Zhou DB, et al. Good outcome of severe lupus patients with high -dose 
+immunosuppressive therapy and autologous peripheral blood stem ce ll transplantation: a 10 -year 
+follow -up study. Clin Exp Rheumatol. May -Jun 2017; 35(3): 494 -499. PMID 28240594  
+38. Cao C, Wang M, Sun J, et al. Autologous peripheral blood haematopoietic stem cell 
+transplantation for systemic lupus erythematosus: the observati on of long -term outcomes in a 
+Chinese centre. Clin Exp Rheumatol. May -Jun 2017; 35(3): 500 -507. PMID 28375828  
+39. Burt RK, Han X, Gozdziak P, et al. Five year follow -up after autologous peripheral blood 
+hematopoietic stem cell transplantation for refractory, c hronic, corticosteroid -dependent 
+systemic lupus erythematosus: effect of conditioning regimen on outcome. Bone Marrow 
+Transplant. Jun 2018; 53(6): 692 -700. PMID 29855561  
+40. Saccardi R, Di Gioia M, Bosi A. Haematopoietic stem cell transplantation for autoimmun e 
+disorders. Curr Opin Hematol. Nov 2008; 15(6): 594 -600. PMID 18832930  
+41. M F Silva J, Ladomenou F, Carpenter B, et al. Allogeneic hematopoietic stem cell transplantation 
+for severe, refractory juvenile idiopathic arthritis. Blood Adv. Apr 10 2018; 2(7): 777 -786. PMID 
+29618462  
+42. Kazmi MA, Mahdi -Rogers M, Sanvito L. Chronic inflammatory demyelinating 
+polyradiculoneuropathy: a role for haematopoietic stem cell transplantation?. Autoimmunity. 
+Dec 2008; 41(8): 611 -5. PMID 18958756  
+43. Lehmann HC, Hughes RA, Hartung HP.  Treatment of chronic inflammatory demyelinating 
+polyradiculoneuropathy. Handb Clin Neurol. 2013; 115: 415 -27. PMID 23931793  
+44. Peltier AC, Donofrio PD. Chronic inflammatory demyelinating polyradiculoneuropathy: from 
+bench to bedside. Semin Neurol. Jul 2012; 32(3): 187 -95. PMID 23117943  
+45. Burt RK, Balabanov R, Tavee J, et al. Hematopoietic stem cell transplantation for chronic 
+inflammatory demyelinating polyradiculoneuropathy. J Neurol. Nov 2020; 267(11): 3378 -3391. 
+PMID 32594300   
+ 
+Hematopoietic Cell Transplantation for Autoimmune Diseases  
+ 
+Policy #  00050  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  01/09/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 18 of 23 
+46. Sun SY, Gao Y, Liu GJ, et al. Ef ficacy and Safety of Stem Cell Therapy for T1DM: An Updated 
+Systematic Review and Meta -Analysis. J Diabetes Res. 2020; 2020: 5740923. PMID 33102605  
+47. El-Badawy A, El -Badri N. Clinical Efficacy of Stem Cell Therapy for Diabetes Mellitus: A 
+Meta -Analysis. PLoS  One. 2016; 11(4): e0151938. PMID 27073927  
+48. Cantu -Rodriguez OG, Lavalle -Gonzalez F, Herrera -Rojas MA, et al. Long -Term Insulin 
+Independence in Type 1 Diabetes Mellitus Using a Simplified Autologous Stem Cell Transplant. 
+J Clin Endocrinol Metab. May 2016; 10 1(5): 2141 -8. PMID 26859103  
+49. Xiang H, Chen H, Li F, et al. Predictive factors for prolonged remission after autologous 
+hematopoietic stem cell transplantation in young patients with type 1 diabetes mellitus. 
+Cytotherapy. Nov 2015; 17(11): 1638 -45. PMID 2631 8272  
+50. Walicka M, Milczarczyk A, Snarski E, et al. Lack of persistent remission following initial 
+recovery in patients with type 1 diabetes treated with autologous peripheral blood stem cell 
+transplantation. Diabetes Res Clin Pract. Sep 2018; 143: 357 -363. P MID 30036612  
+51. Hawkey CJ, Allez M, Clark MM, et al. Autologous Hematopoetic Stem Cell Transplantation for 
+Refractory Crohn Disease: A Randomized Clinical Trial. JAMA. Dec 15 2015; 314(23): 2524 -
+34. PMID 26670970  
+52. Lindsay JO, Allez  M, Clark M, et al. Autologous stem -cell transplantation in treatment -
+refractory Crohn's disease: an analysis of pooled data from the ASTIC trial. Lancet Gastroenterol 
+Hepatol. Jun 2017; 2(6): 399 -406. PMID 28497755  
+53. Brierley CK, Castilla -Llorente C, Labopi n M, et al. Autologous Haematopoietic Stem Cell 
+Transplantation for Crohn's Disease: A Retrospective Survey of Long -term Outcomes From the 
+European Society for Blood and Marrow Transplantation. J Crohns Colitis. Aug 29 2018; 12(9): 
+1097 -1103. PMID 29788233  
+54. Bryant A, Atkins H, Pringle CE, et al. Myasthenia Gravis Treated With Autologous 
+Hematopoietic Stem Cell Transplantation. JAMA Neurol. Jun 01 2016; 73(6): 652 -8. PMID 
+27043206  
+55. Kanate AS, Majhail NS, Savani BN, et al. Indications for Hematopoietic Cell Tra nsplantation 
+and Immune Effector Cell Therapy: Guidelines from the American Society for Transplantation 
+and Cellular Therapy. Biol Blood Marrow Transplant. Jul 2020; 26(7): 1247 -1256. PMID 
+32165328  
+56. Centers for Medicare & Medicaid Services. National Coverag e Determination (NCD) for Stem 
+Cell Transplantation (Formerly 110.8.1) (110.23). 2016; https://www.cms.gov/medicare -
+coverage -database/details/ncd -details.aspx?NCDId=366.  
+  
+ 
+Hematopoietic Cell Transplantation for Autoimmune Diseases  
+ 
+Policy #  00050  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  01/09/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 19 of 23 
+Policy History  
+Original Effective Date: 01/28/2002 
+Current Effective Date: 01 /09/2023 
+12/06/2001 Medical Policy Committee review  
+01/28/2002 Managed Care Advisory Council approval  
+06/24/2002 Format revision. No substance change to policy.  
+05/07/2004 Medical Director review  
+05/1820/04 Medical Policy Committee review  
+06/28/2004 Managed Care Advisory Council approval. Format revision. No substance change 
+to policy.  
+06/07/2006 Medical Director review 
+06/21/2006 Medical Policy Committee approval. Format revisions, FDA/Governmental, 
+Rationale/Source. Coverage eligibility unchanged. 
+08/06/2008 Medical Director review 
+08/20/2008 Medical Policy Committee approval. No change to coverage eligibility.  
+08/06/2009 Medical Policy Committee approval 
+08/26/2009 Medical Policy Implementation Committee approval. No change to coverage 
+eligibility. Title changed.  
+07/01/2010 Medical Policy Committee approval 
+07/21/2010 Medical Policy Implementation Committee approval. No change to coverage 
+eligibility. 
+07/07/2011 Medical Policy Committee approval 
+07/20/2011 Medical Policy Implementation Committee approval. Added indications of juvenile 
+idiopathic arthritis and diabetes mellitus to policy statement as investigational.  
+06/28/2012 Medical Policy Committee review 
+07/27/2012 Medical Policy Implementation Committee approval. Coverage eligibility 
+unchanged. 
+03/04/2013 Coding update 
+08/01/2013 Medical Policy Committee review 
+08/21/2013 Medical Policy Implementation Committee approval. Coverage eligibility 
+unchanged. 
+09/04/2014 Medical Policy Committee review  
+ 
+Hematopoietic Cell Transplantation for Autoimmune Diseases  
+ 
+Policy #  00050  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  01/09/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 20 of 23 
+09/17/2014 Medical Policy Implementation Committee approval. Chronic inflammatory 
+demyelinating polyneuropathy added as investigational.  
+08/03/2015 Coding update: ICD10 Diagnosis code section added; ICD9 Procedure code section 
+removed. 
+12/03/2015 Medical Policy Committee review 
+12/16/2015 Med ical Policy Implementation Committee approval. Coverage eligibility 
+unchanged. 
+12/01/2016 Medical Policy Committee review 
+12/21/2016 Medical Policy Implementation Committee approval. Coverage eligibility 
+unchanged. 
+01/01/2017 Coding update: Removing ICD-9 Diagnosis Codes  
+12/07/2017 Medical Policy Committee review 
+12/20/2017 Medical Policy Implementation Committee approval. Coverage eligibility 
+unchanged. The word stem removed from title and body of policy.  
+12/06/2018 Medical Policy Committee review 
+12/19/2018 Medical Policy Implementation Committee approval. Coverage eligibility 
+unchanged. 
+12/05/2019 Medical Policy Committee review 
+12/11/2019 Medical Policy Implementation Committee approval.  Policy statement for systemic 
+sclerosis was changed from “investigational” to “ eligible for coverage ” with 
+criteria.  
+12/03/2020 Medical Policy Committee review 
+12/09/2020 Medical Policy Implementation Committee approval. No change to coverage. 
+12/02/2021 Medical Policy Committee review 
+12/08/2021 Medical Policy Implementation Committee approval. No active gastric antral 
+vascular ectasia was added to patient selection criteria statement. 
+12/01 /2022  Medical Policy Committee review 
+12/14 /2022  Medical Policy Implementation Committee approval. No change to coverage. 
+Next Scheduled Review Date: 12/2023  
+ 
+Coding  
+The five character codes included in the Blue Cross Blue Shield of Louisiana Medical Policy 
+Coverage Guidelines are obtained from Current Procedural Terminology (CPT®)‡, copyright 20 21  
+ 
+Hematopoietic Cell Transplantation for Autoimmune Diseases  
+ 
+Policy #  00050  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  01/09/2023 
+ 
+by the American Medical Association (AMA). CPT is developed by the AMA as a listing of 
+descriptive terms and five character identifying codes and modifiers for reporting medical services 
+and procedures performed by physician. 
+ 
+The responsibility for the content of Blue Cross Blue Shield of Louisiana Medical Policy Coverage 
+Guidelines is with Blue Cross and Blue Shield of Louisiana and no endorsement by the AMA is 
+intended or should be implied.  The AMA disclaims responsibility for any consequences or liability 
+attributable or related to any use, nonuse or interpretation of information contained in Blue Cross 
+Blue Shield of Louisiana Medical Policy Coverage Guidelines.  Fee schedules, relative value units, 
+conversion factors and/or related components are not assigned by the AMA, are not part of CPT, 
+and the AMA is not recommending their use.  The AMA does not directly or indirectly practice 
+medicine or dispense medical services.  The AMA assumes no liability for data contained or not 
+contained herein.  Any use of CPT outside of Blue Cross Blue Shield of Louisiana Medical Policy 
+Coverage Guidelines should refer to the most current Current Procedural Terminology which 
+contains the complete and most current listing of CPT codes and descriptive terms. Applicable 
+FARS/DFARS apply. 
+ 
+CPT is a registered trademark of the American Medical Association. 
+ 
+Codes used to identify services associated with this policy may include (but may not be limited to) 
+the following: 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 21 of 23 
+Code Type  Code  
+CPT 38204, 38205, 38206, 38207, 38208, 38209, 38210, 38211, 38212, 
+38213, 38214, 38215, 38230, 38232, 38240, 38241, 38242, 38243  
+HCPCS  S2140, S2142, S2150  
+ICD-10 Diagnosis  E10.10 -E10.9 , G35, M05.10 -M06.9 , M08.00 -M08.99 , M32.0 -M32.9 , 
+M34.0 -M34.9  
+ 
+*Investigational – A medical treatment, procedure, drug, device, or biological product is 
+Investigational if the effectiveness has not been clearly tested and it has not been incorporated into 
+standard medical practice. Any determination we make that a medical treatment, procedure, drug, 
+device, or biological product is Investigational will be based on a consideration of the following:   
+ 
+Hematopoietic Cell Transplantation for Autoimmune Diseases  
+ 
+Policy #  00050  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  01/09/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 22 of 23 
+A. Whether the medical treatment, procedure, drug, device, or biological product can be 
+lawfully marketed without approval of the U.S. Food and Drug Administration (FDA) and 
+whether such approval has been granted at the time the medical treatment, procedure, drug, 
+device, or biological product is sought to be furnished; or 
+B. Whether the medical treatment, procedure, drug, device, or biological product requires 
+further studies or clinical trials to determine its maximum tolerated dose, toxicity, safety, 
+effectiveness, or effectiveness as compared with the standard means of treatment or 
+diagnosis, must improve health outcomes, according to the consensus of opinion among 
+experts as shown by reliable evidence, including: 
+1. Consultation with technology evaluation center(s); 
+2. Credible scientific evidence published in peer-reviewed medical literature generally 
+recognized by the relevant medical community; or 
+3. Reference to federal regulations. 
+ 
+**Medically Necessary (or “Medical Necessity”) - Health care services, treatment, procedures, 
+equipment, drugs, devices, items or supplies that a Provider, exercising prudent clinical judgment, 
+would provide to a patient for the purpose of preventing, evaluating, diagnosing or treating an illness, 
+injury, disease or its symptoms, and that are: 
+A. In accordance with nationally accepted standards of medical practice; 
+B. Clinically appropriate, in terms of type, frequency, extent, level of care, site and duration, 
+and considered effective for the patient's illness, injury or disease; and 
+C. Not primarily for the personal comfort or convenience of the patient, physician or other 
+health care provider, and not more costly than an alternative service or sequence of services 
+at least as likely to produce equivalent therapeutic or diagnostic results as to the diagnosis or 
+treatment of that patient's illness, injury or disease. 
+For these purposes, “nationally accepted standards of medical practice” means standards that are 
+based on credible scientific evidence published in peer-reviewed medical literature generally 
+recognized by the relevant medical community, Physician Specialty Society recommendations and 
+the views of Physicians practicing in relevant clinical areas and any other relevant factors. 
+ 
+‡ Indicated trademarks are the registered trademarks of their respective owners. 
+  
+ 
+Hematopoietic Cell Transplantation for Autoimmune Diseases  
+ 
+Policy #  00050  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  01/09/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 23 of 23 
+NOTICE:  If the Patient’s health insurance contract contains language that differs from the 
+BCBSLA Medical Policy definition noted above, the definition in the health insurance contract will 
+be relied upon for specific coverage determinations.  
+ 
+NOTICE:  Medical Policies are scientific based opinions, provided solely for coverage and 
+informational purposes. Medical Policies should not be construed to suggest that the Company 
+recommends, advocates, requires, encourages, or discourages any particular treatment, procedure, 
+or service, or any particular course of treatment, procedure, or service. 

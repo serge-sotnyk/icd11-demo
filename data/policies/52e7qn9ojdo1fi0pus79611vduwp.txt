@@ -1,0 +1,189 @@
+ 
+ 
+EVIDENCE -BASED CRITERIA   ORIGINAL EFFECTIVE DATE:  08/17/21  
+SECTION:  SPECIALTY MEDICAL DRUGS  LAST REVIEW DATE:  08/18/2 2 
+  CURRENT EFFECTIVE DATE:   04/18/ 23 
+ LAST CRITERIA REVISION DATE:  02/16/23  
+NEXT ANNUAL REVIEW DATE:  3RD QTR 2024 ARCHIVE DATE:   
+   
+ 
+ADUHELM™ (aducanumab -avwa)  
+LEQEMBI™ (lecanemab -irmb)  
+ 
+ 
+O1081 .2.docx  Page 1 of 4 
+Non-Discrimination Statement is located at the end of this document.  
+ 
+Coverage for services, procedures, medical devices  and drugs are dependent upon benefit 
+eligibility as outlined in the member's specific benefit plan.  This Evidence -Based Criteria  must be 
+read in its entirety to determine coverage eligibility, if any . 
+ 
+This Evidence -Based Criteria  provides information related to coverage determinations only and 
+does not imply that a service or treatment is clinically appropriate or inappropriate. The provider 
+and the member are responsible for all decisions regarding the appropriateness of care. Pr oviders 
+should provide BCBSAZ complete medical rationale when requesting any exceptions to these 
+guidelines.  
+ 
+The section identified as “ Description ” defines or describes a service, procedure, medical device 
+or drug and is in no way intended as a statement  of medical necessity and/or coverage . 
+ 
+The section identified  as “Criteria ” defines criteria to determine wh ether a service, procedure, 
+medical device or drug is considered medically necessary or experimental or investigational . 
+ 
+State or federal mandates, e.g., FEP program, may dictate that any drug, device or biological 
+product approved by the U.S. Food and Drug Administration (FDA) may not be considered 
+experimental or investigational and thus the drug, device or biological prod uct may be assessed 
+only on the basis of medical necessity.  
+ 
+Evidence -Based Criteria  are subject to change as new information becomes available.  
+ 
+For purposes of this Evidence -Based Criteria , the terms "experimental" and "investigational" are 
+considered to be interchangeable.  
+ 
+BLUE CROSS®, BLUE SHIELD® and the Cross and Shield Symbols are registered service marks of 
+the Blue Cross and Blue Shield Association, an association of independent Blue Cross and Blue 
+Shield Plans. All other trademarks a nd service marks contained in this guideline are the property 
+of their respective owners, which are not affiliated with BCBSAZ.  
+ 
+ 
+ 
+   
+ 
+EVIDENCE -BASED CRITERIA   ORIGINAL EFFECTIVE DATE:  08/17/21  
+SECTION:  SPECIALTY MEDICAL DRUGS  LAST REVIEW DATE:  08/18/2 2 
+  CURRENT EFFECTIVE DATE:   04/18/ 23 
+ LAST CRITERIA REVISION DATE:  02/16/23  
+NEXT ANNUAL REVIEW DATE:  3RD QTR 2024 ARCHIVE DATE:   
+   
+ 
+ADUHELM™ (aducanumab -avwa)  
+LEQEMBI™ (lecanemab -irmb)  
+ 
+ 
+O1081 .2.docx  Page 2 of 4 
+Criteria : 
+ 
+➢ Aduhelm  (aducanumab -avwa)  and Leqembi  (lecanemab -irmb)  are considered experimental or 
+investigational  and will not be covered when any ONE  or more of the following criteria are met:  
+ 
+1. Lack of final approval from the appropriate governmental regulatory bodies (e.g., Food and Drug 
+Administration); or  
+2. Insufficient scientific evidence to permit conclusions concerning the effect on health outcomes; or  
+3. Insufficient evidence to support improvement of the net health outcome; or  
+4. Insufficient evidence to support improvement of the net health outcome as much as , or more 
+than, established alternatives; or  
+5. Insufficient evidence to support improvement outside the investigational setting.  
+ 
+ 
+Description : 
+ 
+Aduhelm (aducanumab -avwa ) is a recombinant human immunoglobulin gamma 1 (IgG1)  and Leqembi 
+(lecanemab -irmb) is a  humanized IgG1 monoclonal antibody . These antibodies are  directed against 
+aggregated soluble and insoluble forms of amyloid beta.  Aduhelm and Leqembi  are indicated for the 
+treatment of Alzheimer’s disease  and should be initiated in patients with mild cognitive impairment or mild 
+dementia stage of disease. There  is no safety or effectiveness data on initiating treatment at earlier or 
+later stages of AD.   Both are approved under accelerated approval based on reduction in amyloid beta 
+plaques in clin ical trials. Continued FDA approval may be contingent upon verification of a clinical benefit 
+in confirmatory trials.  
+ 
+ 
+History : Date : Activity : 
+   
+Pharmacy and Therapeutics Com mittee  02/16/23  Review with addition , new drug and 
+codes  
+Pharmacy and Therapeutics Committee  08/18/22  Review with revisions  
+Medical Policy Panel  08/17/21  Approved guideline  
+Clinical Pharmacist  07/28/21  Development  
+ 
+ 
+Coding : 
+ 
+HCPCS:  C9399, J0172 , J3590  
+ 
+ 
+ 
+ 
+  
+ 
+EVIDENCE -BASED CRITERIA   ORIGINAL EFFECTIVE DATE:  08/17/21  
+SECTION:  SPECIALTY MEDICAL DRUGS  LAST REVIEW DATE:  08/18/2 2 
+  CURRENT EFFECTIVE DATE:   04/18/ 23 
+ LAST CRITERIA REVISION DATE:  02/16/23  
+NEXT ANNUAL REVIEW DATE:  3RD QTR 2024 ARCHIVE DATE:   
+   
+ 
+ADUHELM™ (aducanumab -avwa)  
+LEQEMBI™ (lecanemab -irmb)  
+ 
+ 
+O1081 .2.docx  Page 3 of 4 
+Resources : 
+ 
+Literature reviewed 08/18/22 . We do not include marketing materials, poster boards and non -
+published literature in our review . 
+ 
+1. AduhelmTM (aducanumab -avwa). Prescribing information, Biogen; April 2022, at DailyMed 
+https://dailymed.nlm.nih.gov/dailym ed/. Accessed May 16, 2022.   
+   
+2. Alexander GC, Emerson S, Kesselheim AS. Evaluation of Aducanumab for Alzheimer 
+Disease: Scientific Evidence and Regulatory Review Involving Efficacy, Safety, and Futility. 
+JAMA . 2021 May 4;325(17):1717 -1718.  April 2022, at DailyMed 
+https://dailymed.nlm.nih.gov/dailymed/ . Accessed  January 9, 2023.   
+   
+3.  LeqembiTM (lecanemab -irmb) . Prescribing information, Eisai Inc,; January 2023 ,   
+   
+4. Lin GA, Whittington MD, Synnott  PG, McKenna A, Campbell J, Pearson SD, Rind DM. 
+Aducanumab for Alzheimer’s Disease: Effectiveness and Value; Final Evidence Report and 
+Meeting Summary. Institute for Clinical and Economic Review, August 5, 2021. 
+https://icer.org/assessment/alzheimers -disease -2021/ . Accessed June 14, 2022.   
+   
+5. Press D, Buss SS. Treatment of Alzheimer disease. In: UpToDate, DeKosky ST, Schmader 
+Ke, Yaffe K, Wilterdink JL (Eds),  UpToDate, Waltham MA,: UpToDate Inc. Available at 
+http://uptodate.com . Topic last updated September 30, 2021. Accessed June 14, 2022.   
+   
+6. Sevigny J, Chiao P, Bussiere T, et al. The antibody aducanumab reduces AB plaques in 
+Alzheimer’s disease. Nature . 2016 Sept; 50 -56.  
+ 
+ 
+ 
+ 
+ 
+   
+ 
+EVIDENCE -BASED CRITERIA   ORIGINAL EFFECTIVE DATE:  08/17/21  
+SECTION:  SPECIALTY MEDICAL DRUGS  LAST REVIEW DATE:  08/18/2 2 
+  CURRENT EFFECTIVE DATE:   04/18/ 23 
+ LAST CRITERIA REVISION DATE:  02/16/23  
+NEXT ANNUAL REVIEW DATE:  3RD QTR 2024 ARCHIVE DATE:   
+   
+ 
+ADUHELM™ (aducanumab -avwa)  
+LEQEMBI™ (lecanemab -irmb)  
+ 
+ 
+O1081 .2.docx  Page 4 of 4 
+Non-Discrimination Statement : 
+ 
+Blue Cross Blue Shield of Arizona (BCBSAZ) complies with applicable Federal civil rights laws 
+and does not discriminate on the basis of race, color, national origin, age, disability or sex. 
+BCBSAZ provides appropriate free aids and services, such as qualif ied interpreters and written 
+information in other formats, to people with disabilities to communicate effectively with us. 
+BCBSAZ also provides free language services to people whose primary language is not English, 
+such as qualified interpreters and infor mation written in other languages. If you need these 
+services, call (602) 864 -4884 for Spanish and (877) 475 -4799 for all other languages and other aids 
+and services.  
+ 
+If you believe that BCBSAZ has failed to provide these services or discriminated in anot her way 
+on the basis of race, color, national origin, age, disability or sex, you can file a grievance with: 
+BCBSAZ’s Civil Rights Coordinator, Attn: Civil Rights Coordinator, Blue Cross Blue Shield of 
+Arizona, P.O. Box 13466, Phoenix, AZ 85002 -3466, (602)  864-2288, TTY/TDD (602) 864 -4823, 
+crc@azblue.com . You can file a grievance in person or by mail or email. If you need help filing a 
+grievance BCBSAZ’s Civil Rights Coordinator is available to help you. You can also fi le a civil 
+rights complaint with the U.S. Department of Health and Human Services, Office for Civil Rights 
+electronically through the Office for Civil Rights Complaint Portal, available at 
+https://ocrportal.hhs.gov/ocr/portal/lobby.jsf , or by mail or phone at: U.S. Department of Health 
+and Human Services, 200 Independence Avenue SW., Room 509F, HHH Building, Washington, DC 
+20201, 1 –800–368–1019, 800 –537–7697 (TDD). Complaint forms are available at 
+http://www.hhs.gov/ocr/office/file/ind ex.html  
+ 
+ 

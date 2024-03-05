@@ -1,0 +1,472 @@
+ 
+ 
+Medical and Drug
+Policies
+Policies & Guidelines
+Advanced Imaging
+Draft Policies
+Autism Spectrum Mandate
+Behavioral Health
+Blue Advantage Policies
+Advanced Imaging
+Draft Policies
+Genetic Testing
+Draft Genetic Testing Policies
+Medical Policies
+Draft Policies
+Final Policies
+Provider-Administered Drug Policies (Excluding Oncology)
+Current Provider-Administered Drug Policies
+Draft Provider-Administered Drug Policies
+Previous Provider-Administered Drug Policies
+Provider-Administered Oncology Drug Policies
+Current Provider-Administered Oncology Drug Policies
+Draft Provider-Administered Oncology Drug Policies
+Previous Provider-Administered Oncology Drug Policies
+Radiation Therapy
+Draft Policies
+Chronic Condition Management
+Genetic Testing
+Draft Genetic Testing Policies
+HealthSmartRx Smart RxAssist Program
+Hemophilia Drugs
+Draft Hemophilia Drug Policies
+Final Hemophilia Drug Policies
+Hemophilia Drug Prior Authorization
+PEEHIP Hemophilia Drug Program
+Medical Policies
+Draft Medical Policies
+Final Medical Policies
+Provider-Administered Drug Policies (Excluding Oncology)
+Draft Provider-Administered Drug Policies
+Final Provider-Administered Drug Precertification Policies
+Mandatory Site of Service
+Provider-Administered Drug Claim Edit Policies
+Voluntary Site of Service
+Provider-Administered Oncology Drug Policies
+Current Provider-Administered Oncology Drug Policies
+Draft Provider-Administered Oncology Drug Policies
+Radiation Therapy
+Draft Policies
+Self-Administered Drug Policies
+Draft Self-Administered Drug Policies
+Final Self-Administered Drug Policies
+Self-Administered Drug Prior Authorization Forms
+Transgender Services
+ 
+mp-624
+ 
+Print
+ 
+ 
+BackAmniotic Membrane Grafts for Ophthalmic Indications
+Policy Number: MP-624
+ 
+Latest Review Date: February 2023
+Category:  Vision                                                            
+POLICY:
+Human amniotic membrane grafts (with or without suture [e.g. Prokera®, AmbioDisk
+™
+], and/or with suture or glue) for the
+treatment of the following ophthalmic indications may be considered medically necessary:
+Absence of iris;
+Bullous keratopathy;
+Conjunctivochalasis;
+Corneal degeneration;
+Corneal ectasia, corneal staphyloma, descemetocele or other corneal deformity;
+Corneal ulceration or defect;
+Corneal disorder due to contact lens or recurrent erosion of cornea;
+Corneal perforation when there is active inflammation after corneal transplant requiring adjunctive treatment;
+Following removal of conjunctival lesion(s);
+Hereditary corneal dystrophies;
+Neurotrophic keratoconjunctivitis;
+Ocular burns;
+Stevens-Johnsons Syndrome;
+Partial limbal stem cell deficiency with extensive diseased tissue where selective removal alone is not sufficient;
+Persistent epithelial defects that do not respond to conservative therapy;
+Pterygium;
+Pseudopterygium
+Human amniotic membrane grafts for the treatment of dry eye syndrome and/or any other indication not listed above is considered
+investigational.
+DESCRIPTION OF PROCEDURE OR SERVICE:
+Several commercially available forms of human amniotic membrane (HAM) are available. Amniotic membrane is being evaluated for
+the treatment of a variety of ophthalmic conditions.
+HAM consists of two conjoined layers (the amnion and chorion) to form the innermost lining of the amniotic sac or placenta. When
+prepared for use as an allograft, the membrane is harvested immediately after birth and is cleaned, sterilized, and cryopreserved.
+Many products available using amnion, chorion, amniotic fluid, and umbilical cord are being studied for use in the treatment of a
+variety of ophthalmic conditions. The products are formulated either as patches that can be applied as wound covers, or as
+suspensions, particulates, or connective tissue extractions, which can be injected or applied topically.
+HAM contains collagen, fibronectin, and hyaluronic acid, a combination of growth factors, cytokines, and anti-inflammatory proteins
+(such as interleukin-1 receptor antagonist). There is evidence that the tissue has anti-inflammatory, antifibroblastic, and
+antimicrobial properties. HAM is considered nonimmunogenic and has not been observed to cause a substantial immune response.
+It is believed that these properties are retained in cryopreserved HAM and HAM products, resulting in a readily available tissue with
+regenerative potential.
+The use of a HAM graft fixated by sutures is an established treatment of ophthalmic conditions. HAM products that are inserted like a
+contact lens have been investigated for the treatment of corneal and ocular surface disorders. The availability of HAM opens the
+possibility of regenerative medicine for an array of conditions.
+KEY POINTS:
+The most recent literature update was performed through January 20, 2023.
+Summary of Evidence
+Sutured HAM transplant has been used for many years for the treatment of ophthalmic conditions. Many of these conditions are
+rare, leading to difficulty in conducting randomized control trials (RCTs). Of the evidence available, relevant outcomes are symptoms,
+morbid events, functional outcomes, and quality of life. The rarity, severity, and variability of the ophthalmic condition was taken
+into consideration while evaluating the evidence. Clinical input was sought to help determine whether the use of HAM graft either
+without or with suture fixation for several ophthalmic conditions would provide a clinically meaningful improvement in the net
+health outcome and whether the use is consistent with generally accepted medical practice. In response to requests, clinical input
+was received from two respondents, including one specialty society-level response and one physician-level response identified
+through specialty societies including physicians with academic medical center affiliations.
+Bullous keratopathy as a palliative measure in patients who are not candidates for a curative treatment (e.g.,
+endothelial or penetrating keratoplasty)For individuals who have bullous keratopathy who are not candidates for curative treatment (e.g., endothelial or penetrating
+keratoplasty) who receive HAM, the evidence includes an RCT.  The RCT found no advantage of sutured HAM over the simpler
+stromal puncture procedure for the treatment of pain from bullous keratopathy, however, clinical input supported the use of
+amniotic membrane in individuals with this indication as an alternative to stromal puncture. The evidence is sufficient to determine
+that the technology results in a meaningful improvement in the net health outcome.
+Corneal perforation when corneal tissue is not immediately available
+For individuals who have corneal perforation when corneal tissue is not immediately available who receive sutured HAM, the
+evidence is limited. The standard treatment for corneal perforation is corneal transplantation, however, HAM may provide temporary
+coverage of the severe defect when corneal tissue is not immediately available. The evidence is sufficient to determine that the
+technology results in a meaningful improvement in the net health outcome.
+Corneal perforation when there is active inflammation after corneal transplant requiring adjunctive treatment
+For individuals with corneal perforation with active inflammation after corneal transplant requiring adjunctive treatment who receive
+HAM, the evidence is limited. No comparative evidence was identified for this indication. Clinical input supported the use of HAM in
+individuals with corneal perforation when there is active inflammation after corneal transplant requiring adjunctive treatment. The
+evidence is sufficient to determine that the technology results in a meaningful improvement in the net health outcome.
+Corneal ulcers and melts that do not respond to initial medical therapy
+For individuals who have corneal ulcers and melts that do not respond to initial medical therapy who receive HAM, the evidence
+includes a systematic review of primarily case series and a non-randomized comparative study. The systematic review showed
+healing in 97% of patients with an improvement of vision in 53% of eyes. One retrospective comparative study with 22 patients
+found more rapid and complete epithelialization and more patients with a clinically significant improvement in visual acuity
+following early treatment with self-retained HAM when compared to historical controls. Corneal ulcers and melts are uncommon
+and variable and RCTs are not expected. Clinical input supported the use of HAM in individuals with corneal ulcers and melts that do
+not respond to initial medical therapy. The evidence is sufficient to determine that the technology results in a meaningful
+improvement in the net health outcome.
+Dry eye syndrome
+For individuals who have severe dry eye syndrome who receive HAM, the evidence is limited. In the article, ‘Treatment outcomes in
+the DRy Eye Amniotic Membrane (DREAM) study’, a retrospective chart review was conducted of patients with dry eye syndrome who
+received HAM with at least three months of follow-up was discussed. The patients included in this study were affected by at least one
+of the following indications: severe dry eye, punctate keratitis, filamentary keratitis, exposure keratitis, neurotropic keratitis, and
+corneal epithelial defect. The patients in this study continued to use conventional treatment as per their usual routine. It is theorized
+that the use of HAM can decrease the need for use of prescription medication to alleviate dry eye syndrome, however, evidence for
+patients who are able to eliminate the standard of care treatment from their treatment plan is insufficient. In the article, ‘Sutureless
+Amniotic Membrane ProKera for Ocular Surface Disorders: Short-Term Results’, a retrospective chart review of patients who received
+HAM for ocular surface disorders was discussed. Some success was seen initially in the treatment of dry eye syndrome, however,
+recurrence of the primary pathologic condition occurred. Sutured HAM is not typically used for severe dry eye alone, but may be
+necessary in the face of one or more concomitant diseases discussed in the other sections of this policy. Further, well-designed
+scientific evidence displaying long term effects and a meaningful change in treatment protocol with elimination of use of current
+standard of care is needed. The evidence is insufficient to determine that the technology results in a meaningful improvement in the
+net health outcome when dry eye disease is not accompanied by another disorder.
+Moderate or severe acute ocular chemical burns
+For individuals who have moderate or severe acute ocular chemical burns who receive HAM, the evidence includes RCTs and
+retrospective chare reviews. Evidence includes a total of 197 patients with acute ocular chemical burns who were treated with HAM
+plus medical therapy or medical therapy alone. Two of the three RCTs did not show a faster rate of epithelial healing, and there was
+no significant benefit for other outcomes. In the article, Sutureless Amniotic Membrane ProKera for Ocular Surface Disorders: Short-
+Term Results, a chart review of patients who received HAM reports that treatment is easy to use and reasonably well tolerated, with
+encouraging results in acute moderate chemical injury. Clinical input supported the use of HAM individuals with moderate or severe
+acute ocular chemical burn. The evidence is sufficient to determine that the technology results in a meaningful improvement in the
+net health outcome.
+Moderate or severe Stevens - Johnson syndrome
+For individuals who have moderate or severe Stevens-Johnson syndrome who receive HAM, the evidence includes an RCT that
+reported 25 patients (50 eyes) found improved symptoms and function with HAM compared to medical therapy alone. Clinical input
+supported the use of HAM for this indication. The evidence is sufficient to determine that the technology results in a meaningful
+improvement in the net health outcome.
+Neurotrophic keratitis with ocular surface damage and inflammation that does not respond to conservative therapy
+For individuals who have neurotrophic keratitis with ocular surface damage and inflammation that does not respond to conservative
+therapy who receive HAM, the evidence includes an RCT of 30 patients that showed no benefit of sutured HAM graft compared
+to tarsorrhaphy or bandage contact lens. Clinical input supported the use of HAM in individuals with this indication. The evidence is
+sufficient to determine that the technology results in a clinical meaningful improvement in the net health outcome.
+Neuropathic corneal pain
+For individuals who suffer neuropathic corneal pain, the evidence includes the article, Efficacy of self-retained cryopreservedamniotic membrane for treatment of neuropathic corneal pain, which is a retrospective single center medical record review of nine
+patients that evaluated the efficacy, safety, and tolerability of ProKera for the acute treatment of neuropathic corneal pain. The study
+concludes that the use of HAM represents a novel and promising therapeutic option for patients with neuropathic corneal pain.
+Small sample size (ten eyes of nine patients) and reported placebo effect experienced in one patient (“patient #4 reported
+simultaneous resolution of pain the ProKera® Clear untreated eye”) are limitations of this study. Further studies with larger sample
+size and long term effects is needed to provide efficacy of this treatment. The evidence is insufficient to determine that the
+technology results in a meaningful improvement in the net health outcome.
+Partial limbal stem cell deficiency with extensive diseased tissue where selective removal alone is not sufficient
+For individuals who have partial limbal stem cell deficiency with extensive diseased tissue where selective removal alone is not
+sufficient and receive HAM, the evidence is limited. No RCTs were identified. Improvement in visual acuity has been reported for
+some patients who have received HAM in conjunction with removal of the diseased limbus. Clinical input supported the use of HAM
+in individuals with this indication. The evidence is sufficient to determine that the technology results in a meaningful improvement in
+the net health outcome.
+Persistent epithelial defects and ulceration that do not respond to conservative therapy
+For individuals who have persistent epithelial defects that do not respond to conservative therapy who receive HAM, the evidence is
+limited. No comparative trials were identified on persistent epithelial defects and ulceration. Clinical input for this indication
+supported the use of HAM. The evidence is sufficient to determine that the technology results in a meaningful improvement in the
+net health outcome.
+Pterygium repair when there is insufficient healthy tissue to create a conjunctival autograft
+For individuals who need pterygium repair when there is insufficient healthy tissue to create a conjunctival autograft who receive
+HAM the evidence includes a systematic review of RCTs that found conjunctival or limbal autograft is more effective than HAM graft
+in reducing the rate of pterygium recurrence. However, clinical input supported the use of HAM in individuals with pterygium repair
+when there is insufficient healthy tissue to create a conjunctival autograft. The evidence is sufficient to determine that the
+technology results in a meaningful improvement in the net health outcome.
+Superficial punctate keratitis and filamentary keratitis
+Superficial punctate keratitis is a nonspecific finding typically caused by an identifiable ocular condition. Filamentary keratitis is an
+uncommon condition associated with various kinds of ocular surface diseases or conditions.  The causative condition of these
+findings in a patient may be appropriate for treatment with HAM based on scientific evidence or high quality clinical input that has
+proven HAM is likely to produce a positive outcome in the net health outcome. These causative conditions/indications are listed in
+the policy statement of this medical policy. Due to the paucity of well-designed scientific trials and evidence to demonstrate an
+improvement in net health outcomes in patients with indications not included in our policy statement, such indications are found to
+have insufficient evidence to determine that the technology results in a meaningful improvement in the net health outcome.
+Practice Guidelines and Position Statements
+The purpose of the following information is to provide reference material. Inclusion does not imply endorsement or alignment with
+the evidence review conclusions.
+Tear Film and Ocular Surface Society
+In 2017, the Tear Film and Ocular Surface Society published the Dry Eye Workshop II (DEWS) management and therapy report. The
+report evaluated the evidence on treatments for dry eye and provided a treatment algorithm for dry eye disease management that
+includes four steps.
+U.S. Preventive Services Task Force Recommendations
+Not applicable.
+KEY WORDS:
+Absence of iris, Amniotic membrane transplantation, AMT, dry eye syndrome, keratopathy, bullous keratopathy, conjunctivochalasis,
+corneal degeneration, corneal ectasia, corneal staphyloma, descemetocele, other corneal deformity, corneal ulceration, corneal
+defect, corneal disorder due to contact lens or recurrent erosion of cornea, conjunctival lesion removal, hereditary corneal
+dystrophies, neurotrophic keratoconjunctivitis, ocular burns, pterygium, pseudopterygium, Stevens-Johnsons Syndrome, SJS,
+Prokera, HAM, human amniotic membrane
+APPROVED BY GOVERNING BODIES:
+The U.S. Food and Drug Administration (FDA) regulates human cells and tissues intended for implantation, transplantation, or
+infusion through the Center for Biologics Evaluation and Research, under Code of Federal Regulation (CFR) title 21, parts 1270 and
+1271. Human amniotic membrane products and amniotic fluid products are included in these regulations. In 2017, the FDA
+published clarification of what is considered minimal manipulation and homologous use for human cells, tissues, and cellular and
+tissue-based products (HCT/Ps).
+HCT/Ps are defined as human cells or tissues that are intended for implantation, transplantation, infusion, or transfer into a human
+recipient. If an HCT/P does not meet the criteria below and does not qualify for any of the stated exceptions, the HCT/P will be
+regulated as a drug, device, and/or biological product and applicable regulations and premarket review will be required.An HCT/P is regulated solely under section 361 of the PHS Act and 21 CFR Part 1271 if it meets all of the following criteria:
+1
+. 
+"The HCT/P is minimally manipulated;
+2
+. 
+The HCT/P is intended for homologous use only, as reflected by the labeling, advertising, or other indications of the
+manufacturer’s objective intent;
+3
+. 
+The manufacture of the HCT/P does not involve the combination of the cells or tissues with another article, except for water,
+crystalloids, or a sterilizing, preserving, or storage agent, provided that the addition of water, crystalloids, or the sterilizing,
+preserving, or storage agent does not raise new clinical safety concerns with respect to the HCT/P; and
+4
+. 
+Either:
+The HCT/P does not have a systemic effect and is not dependent upon the metabolic activity of living cells for its primary
+function; or
+The HCT/P has a systemic effect or is dependent upon the metabolic activity of living cells for its primary function, and:
+Is for autologous use;
+Is for allogeneic use in a first-degree or second-degree blood relative; or
+Is for reproductive use."
+The guidance provides the following specific examples of homologous and non-homologous use for amniotic membrane:
+“An amniotic membrane product is applied to the surface of the eye to cover or offer protection from the surrounding environment
+in ocular repair and reconstruction procedures. This is homologous use because serving as a covering and offering protection from
+the surrounding environment are basic functions of amniotic membrane."
+The FDA noted the intention to exercise enforcement discretion for the next 36 months after publication of the guidance.
+In 2003, Prokera
+™
+ was cleared for marketing by FDA through the 510(k) process for the ophthalmic conformer that incorporates
+amniotic membrane (K032104). The FDA determined that this device was substantially equivalent to the Symblepharon Ring. The
+Prokera
+™
+ device is intended “for use in eyes in which the ocular surface cells have been damaged, or underlying stroma is inflamed
+and scarred.” The development of Prokera, a commercially available product, was supported in part by the National Institute of
+Health and the National Eye Institute.
+AmnioClip (FORTECH GmbH) is a ring designed to hold the amniotic membrane in the eye without sutures or glue fixation. A
+mounting device is used to secure the amniotic membrane within the AmnioClip. The AmnioClip currently has CE approval in Europe.
+BENEFIT APPLICATION:
+Coverage is subject to member’s specific benefits.  Group specific policy will supersede this policy when applicable.
+ITS: Home Policy provisions apply.
+FEP: Special benefit consideration may apply. Refer to member’s benefit plan.
+CURRENT CODING:
+CPT Codes:
+65778
+Placement of amniotic membrane on the ocular surface; without sutures
+65779 
+;single layer, sutured
+65780
+Ocular surface reconstruction; amniotic membrane transplantation, multiple layers
+REFERENCES:
+1
+. 
+Bouchard CS, John T. Amniotic membrane transplantation in the management of severe ocular surface disease: indications
+and outcomes. Ocul Surf. Jul 2004; 2(3): 201-11.
+2
+. 
+Chansanti O, Horatanaruang O. The results of amniotic membrane transplantation for symptomatic bullous keratopathy. J
+Med Assoc Thai. 2005; 88 Suppl 9:557-S62.
+3
+. 
+Cheng AM, Zhao D, Chen R, et al. Accelerated restoration of ocular surface health in dry eye disease by self-retained
+cryopreserved amniotic membrane. Ocul Surf. Jan 2016; 14(1):56-63.
+4
+. 
+Clare G, Suleman H, Bunce C, et al. Amniotic membrane transplantation for acute ocular burns. Cochrane Database Syst Rev.
+2012; 9:CD009379.
+5
+. 
+Clearfield E, Muthappan V, Wang X, et al. Conjunctival autograft for pterygium. Cochrane Database Syst Rev. Feb 11 2016;
+2:CD011349.
+6
+. 
+Eslani M, Baradaran-Rafii A, Cheung AY, et al. Amniotic Membrane Transplantation in Acute Severe Ocular Chemical Injury: A
+Randomized Clinical Trial. Am J Ophthalmol. Mar 2019; 199: 209-215.
+7
+. 
+Food and Drug Administration. 510(k) Summary: ProKera
+™
+ Bio-Tissue Inc. (K032104). 2003; https:
+//www.accessdata.fda.gov/cdrh_docs/pdf3/K032104.pdf. Gregory DG. Treatment of acute Stevens-Johnson syndrome and
+toxic epidermal necrolysis using amniotic membrane: A review of 10 consecutive cases. Opthalmology. 2011; 118(5):908-14.
+8
+. 
+IOM (Institute of Medicine). 2011. Clinical Practice Guidelines We Can Trust. Washington, DC: The National Academies Press.
+9
+. 
+John T, Tighe S, Sheha H, et al. Corneal Nerve Regeneration after Self-Retained Cryopreserved Amniotic Membrane in Dry Eye
+Disease. J Ophthalmol. 2017; 2017: 6404918.
+10
+. 
+Kaufman SC, Jacobs DS, Lee WB, et al. Options and adjuvants in surgery for pterygium: a report by the American Academy of
+Ophthalmology. Ophthalmology. Jan 2013; 120(1):201-208.11
+. 
+Kheirkhah A, Casas V, Raju VK, et al. Sutureless amniotic membrane transplantation for partial limbal stem cell deficiency. Am J
+Ophthalmol. May 2008; 145(5): 787-94.
+12
+. 
+Khokhar S, Natung T, Sony P, et al. Amniotic membrane transplantation in refractory neurotrophic corneal ulcers: a
+randomized, controlled clinical trial. Cornea. 2005; 24:654–660.
+13
+. 
+Kim HK, Park HS. Fibrin glue-assisted augmented amniotic membrane transplantation for the treatment of large noninfectious
+corneal perforations. Cornea. 2009; 28(2): 170-76.
+14
+. 
+Liu J, Li L, Li X. Effectiveness of Cryopreserved Amniotic Membrane Transplantation in Corneal Ulceration: A Meta-Analysis.
+Cornea. 2019 Apr; 38(4).
+15
+. 
+McDonald MB, Sheha H, Tighe S, et al. Treatment outcomes in the Dry Eye Amniotic Membrane (DREAM) study. Clin
+Ophthalmol. 2018 Apr 9; 12:677-681.
+16
+. 
+Morkin, M. I. and P. Hamrah. "Efficacy of self-retained cryopreserved amniotic membrane for treatment of neuropathic
+corneal pain." Ocul Surf 2018, 16(1): 132-138.
+17
+. 
+Pachigolla G, Prasher P, Di Pascuale MA, et al. Evaluation of the role of ProKera in the management of ocular surface and
+orbital disorders. Eye Contact Lens. 2009; 35(4):172-175
+18
+. 
+Paris Fdos S, Goncalves ED, Campos MS, et al. Amniotic membrane transplantation versus anterior stromal puncture in bullous
+keratopathy: a comparative study. Br J Ophthalmol. Aug 2013; 97(8):980-984.
+19
+. 
+Parolini O, Soncini M, Evangelista M, et al. Amniotic membrane and amniotic fluid-derived cells: potential tools for
+regenerative medicine? Regen Med. Mar 2009; 4(2):275-291.
+20
+. 
+Prabhasawat P, Tesavibul N, Prakairungthong N, et al. Efficacy of amniotic membrane patching for acute chemical and thermal
+ocular burns. J Med Assoc Thal. 2007; 90: 319-26.
+21
+. 
+Sharma N, Thenarasun SA, Kaur M, et al. Adjuvant role of amniotic membrane transplantation in acute ocular Stevens -
+Johnson syndrome: a randomized control trial. Ophthalmology. Mar 2016; 123(3):484-491.
+22
+. 
+Shay E, Kheirkhah A, Liang L, et al. Amniotic membrane transplantation as a new therapy for the acute ocular manifestations of
+Stevens-Johnson syndrome and toxic epidermal necrolysis. Surv Ophthalmol. 2009; 54(6):686-96.
+23
+. 
+Srinivas S, Mavrikakis E, Jenkins C. Amniotic membrane transplantation for painful bullous keratopathy. Eur J Ophthalmol.
+2007; 17(1):7-10.
+24
+. 
+Suri K, Kosker M, Raber I, et al. Sutureless Amniotic Membrane ProKera for Ocular Surface Disorders. Short-Term Results. Eye
+Contact Lens. 2013;39:341-347
+25
+. 
+Tamhane A, Vajpayee RB, Biswas NR, et al. Evaluation of amniotic membrane transplantation as an adjunct to medicaltherapy
+as compared with medical therapy alone in acute ocular burns. Ophthalmology. Nov 2005; 112(11): 1963-9.
+26
+. 
+Tandon R, Gupta N, Kalaivani M, et al. Amniotic membrane transplantation as an adjunct to medical therapy in acute ocular
+burns. Br J Ophthalmol. 2011; 95(2): 199-204.
+27
+. 
+Toman J, Michael GM, Wisco OJ, et al. Mohs Defect Repair with Dehydrated Human Amnion/Chorion Membrane. Facial Plast
+Surg Aesthet Med. Jan-Feb 2022; 24(1): 48-53.
+28
+. 
+U.S. Food and Drug Administration. Regulatory Considerations for Human Cells, Tissues, and Cellular and Tissue-Based
+Products: Minimal Manipulation and Homologous Use Guidance for Industry and Food and Drug Administration Staff. 2017
+https://www.regulations.gov/document?D=FDA-2017-D-6146-0003 Vlasov A, Sia RK, Ryan DS, et al. Sutureless cryopreserved
+amniotic membrane graft and wound healing after photorefractive keratectomy. J Cataract Refract Surg. Mar 2016; 42(3):435-
+443.
+29
+. 
+Yin HY, Cheng AMS, Tighe S, et al. Self-retained cryopreserved amniotic membrane for treating severe corneal ulcers: a
+comparative, retrospective control study. Sci Rep. Oct 12 2020; 10(1): 17008.
+POLICY HISTORY:
+Medical Policy Group, February 2016 (6):  Newly adopted policy.
+Medical Policy Administration Committee, March 2016
+Available for comment March 4 through May 5, 2016
+Medical Policy Group, May 2016 (3): Updated literature review and clarified/expanded policy statement indications; updated Key
+Words & References
+Medical Policy Administration Committee, May 2016
+Medical Policy Panel, May 2017
+Medical Policy Group, July 2017 (3): 2017 Updates on Description, Key Points, Governing Bodies, Key Words & References; clarified
+policy statements with types of grafts approved to coincide with coding and moved regulatory language to Governing Bodies section
+– no change in intent
+Medical Policy Panel, February 2018
+Medical Policy Group, March 2018 (3):  2018 Updates to Key Points & References; no change in policy statements
+Medical Policy Panel February 2019
+Medical Policy Group, June 2019 (6) Updates to Description, Key Points, Practice Guidelines and References. Policy statement
+updated to include coverage for: Partial limbal stem cell deficiency, Persistent Epithelial defects and corneal perforation after corneal
+transplant.
+Medical Policy Panel, February 2020
+Medical Policy Group, February 2020 (6): Updates to Key Points, Governing Bodies and References.CPT codes, descriptions and data copyright ©BCBSPREVIOUSYEAR American Medical Association. All rights reserved. Applicable FARS/DFARS apply.
+CDT codes, descriptions and data copyright ©BCBSPREVIOUSYEAR American Dental Association. All rights reserved.
+© BCBSCURRENTYEAR Blue Cross and Blue Shield of Alabama is an independent licensee of the Blue Cross and Blue Shield Association. 
+Medical Policy Panel, February 2021
+Medical Policy Group, February 2021 (9): 2021 Updates to Key Points, Governing Bodies, Description, References. Key words added:
+HAM; human amniotic membrane. Policy section updated to remove not medically necessary from statement, no change to intent.
+Medical Policy Panel, February 2022
+Medical Policy Group, February 2022 (9): 2022 Updates to Description, Key Points, References. Policy statement wording “Amniotic
+membrane transplantation” changed to “human amniotic membrane grafts”; “corneal conditions” changed to “ophthalmic
+indications”; “grafts that are with or without fixated using sutures (e.g., Prokera®, AmbioDisk
+™
+), glue fixation, secured under a
+bandage, contact lens, self-contained or unfixated”, changed to “with or without suture [e.g. Prokera®, AmbioDisk
+™
+], and/or with
+suture or glue”. No change to intent of policy statement. Policy statement portion effective prior to June 26, 2019 removed. Title
+changed from "Amniotic Membrane Transplantation for the Ocular Surface" to "Amniotic Membrane Grafts for Ophthalmic
+Indications".
+Medical Policy Group, June 2022 (9): Updates to Description, References. No change to policy statement.
+Medical Policy Panel, February 2023
+Medical Policy Group, February 2023 (9): Update to Key Points, Benefit Application and References; no change to policy statement.
+This medical policy is not an authorization, certification, explanation of benefits, or a contract. Eligibility and benefits are determined on a
+case-by-case basis according to the terms of the member’s plan in effect as of the date services are rendered. All medical policies are based
+on (i) research of current medical literature and (ii) review of common medical practices in the treatment and diagnosis of disease as of the
+date hereof. Physicians and other providers are solely responsible for all aspects of medical care and treatment, including the type, quality,
+and levels of care and treatment.
+This policy is intended to be used for adjudication of claims (including pre-admission certification, pre-determinations, and pre-procedure
+review) in Blue Cross and Blue Shield’s administration of plan contracts.
+The plan does not approve or deny procedures, services, testing, or equipment for our members. Our decisions concern coverage only. The
+decision of whether or not to have a certain test, treatment or procedure is one made between the physician and his/her patient. The plan
+administers benefits based on the member’s contract and corporate medical policies. Physicians should always exercise their best medical
+judgment in providing the care they feel is most appropriate for their patients. Needed care should not be delayed or refused because of a
+coverage determination.
+As a general rule, benefits are payable under health plans only in cases of medical necessity and only if services or supplies are not
+investigational, provided the customer group contracts have such coverage.
+The following Association Technology Evaluation Criteria must be met for a service/supply to be considered for coverage:
+1. The technology must have final approval from the appropriate government regulatory bodies;
+2. The scientific evidence must permit conclusions concerning the effect of the technology on health outcomes;
+3. The technology must improve the net health outcome;
+4. The technology must be as beneficial as any established alternatives;
+5. The improvement must be attainable outside the investigational setting.
+Medical Necessity means that health care services (e.g., procedures, treatments, supplies, devices, equipment, facilities or drugs) that a
+physician, exercising prudent clinical judgment, would provide to a patient for the purpose of preventing, evaluating, diagnosing or treating
+an illness, injury or disease or its symptoms, and that are:
+1. In accordance with generally accepted standards of medical practice; and
+2. Clinically appropriate in terms of type, frequency, extent, site and duration and considered effective for the patient’s illness, injury or
+disease; and
+3. Not primarily for the convenience of the patient, physician or other health care provider; and
+4. Not more costly than an alternative service or sequence of services at least as likely to produce equivalent therapeutic or diagnostic results
+as to the diagnosis or treatment of that patient’s illness, injury or disease.
+ 

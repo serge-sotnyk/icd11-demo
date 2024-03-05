@@ -1,0 +1,530 @@
+ 
+PHARMACY / MEDICAL POLICY – 5.01.593  
+Pharmacologic Treatment of Transthyretin- Mediated 
+Amyloidosis  
+BCBSA Ref. Policy:  5.01.30  
+Effective Date:  Feb. 1 , 2023  
+Last Revised:  Jan. 10, 2023  
+Replaces:  N/A RELATED MEDICAL POLICIES:  
+None  
+ 
+Select a hyperlink below to be directed to that section.  
+POLICY CRITERIA   |  DOCUMENTATION REQUIREMENTS  |  CODING  
+RELATED INFORMATION   |  EVIDENCE REVIEW   |  REFERENCES  |  HISTORY  
+∞ Clicking this icon returns you to the hyperlinks menu above.  
+ 
+Introduction  
+Amyloid is an abnormal protein. There are many different reasons why the body makes amyloid. 
+One cause is a change to the TTR gene. This gene provides instructions to the liver about how to 
+make a ceratin protein. But changes to the TTR gene means this liver  protein is faulty. These 
+faulty liver proteins get deposited throughout the body and build up over time. This condition is 
+known as  hereditary transthyretin- mediated amyloidosis (hATTR). Symptoms like numbness, 
+pain and weakness in the arms and legs, heart problems, and stomach and bowel problems 
+develop as the condition progresses. One way to treat hATTR is to use certain drugs to reduce 
+the amount of TTR protein the liver makes. This policy describes when these types of drugs may 
+be considered medically necessary.  
+ 
+Note:    The Introduction section is for your general knowledg e and is not to be taken  as policy coverage criteria. The 
+rest of the policy uses specific words and concepts familiar to medical professionals. It is intended for 
+providers . A provider can be a person, such as a doctor, nurse, psycholog ist, or dentist. A provider also can 
+be a place where medical care is given, like a hospital, clinic, or lab.  This policy informs them about when a 
+service may be covered.  
+ 
+Policy Coverage Criteria   
+ 
+5.01.593_PBC (01-10-2023) 
+ 
+ 
+   
+ 
+ 
+   
+Page | 2 of 15  ∞ Drug  Medical Necessity  
+Amvuttra ™ (vutrisiran) SC  
+ 
+Managed under pharmacy  
+and medical benefit  Amvuttra ™ (vutrisiran)  may be considered medically necessary 
+for the treatment of polyneuropathy of hereditary transthyretin -mediated amyloidosis when : 
+• Individual  is 18 years of age or older 
+AND  
+• Documented transthyretin (TTR) mutation verified by genetic testing  
+AND  
+• Presence of symptoms consistent with polyneuropathy of hereditary transthyretin amyloidosis 
+o Peripheral sensorimotor polyneuropathy (e.g., tingling or 
+increased pain in the hands or feet, loss of feeling or numbness in the hands or feet, carpal tunnel syndrome, 
+loss of ability to sense temperature, difficulty with fine 
+motor skills, weakness in the legs, difficulty walking)  
+OR 
+o Autonomic neuro pathy (e.g., postural hypotension, sexual 
+dysfunction, recurrent urinary tract infection)  
+AND  
+• Polyneuropathy disability ( PND ) score IIIb or less or familial 
+amyloid polyneuropathy ( FAP) stage 2 or less 
+AND  
+• Not used in combination with the following: TTR stabilizers 
+(e.g., tafamidis, tafamidis meglumine, diflunisal), Onpattro ®, or 
+Tegsedi ® 
+AND  
+• Prescribed by or in consultation with a neurologist 
+AND  
+• Dose prescribed is 25 mg injected subcutaneously once every 3 
+months 
+ 
+Note: Cl inical description of PND score  
+• Score 0 = No symptoms  
+• Score I = Sensory disturbances but preserved walking capability  
+• Score II = Impaired walking capacity but ability to walk without a stick or 
+crutches  
+• Score IIIA = Walking with the help of one stick or crutch 
+• Score IIIB = Walking with the help of two sticks or crutches  Page | 3 of 15  ∞ Drug  Medical Necessity  
+• Score IV = Confined to a wheelchair or bedridden  
+ 
+Note: Clinical description of FAP stage  
+• Stage 0 = No symptoms  
+• Stage 1 = Unimpaired ambulation  
+• Stage 2 = Assistance with ambulation required 
+• Stage 3 = Wheelchair -bound or bedridden  
+Onpattro ® (patisiran) IV  
+ 
+Managed under medical  
+benefit Onpattro ® (patisiran ) may be considered medically necessary 
+for the treatment of polyneuropathy of hereditary transthyretin -mediated amyloidosis when : 
+• Individual  is 18 years of age or older 
+AND  
+• Documented transthyretin (TTR) mutation verified by genetic 
+testing  
+AND  
+• Presence of symptoms consistent with polyneuropathy of 
+hereditary transthyretin amyloidosis 
+o Peripheral sensorimotor polyneuropathy ( e.g., tingling or 
+increased pain in the hands or feet, loss of feeling or 
+numbness in the hands or feet, carpal tunnel syndrome, 
+loss of ability to sense temperature, difficulty with fine 
+motor skills, weakness in the legs, difficulty walking) 
+      OR  
+o Autonomic neuropathy (e.g., postural hypotension, sexual 
+dysfunction, recurrent urinary tract infection)  
+AND  
+• Polyneuropathy disability ( PND ) score IIIb or less or f amilial 
+amyloid polyneuropathy ( FAP) stage 2 or less 
+AND  
+• Not used in combination with the following: TTR stabilizers 
+(e.g., tafamidis,  tafamidis meglumine, diflunisal), Amvuttra ™ 
+(vutrisiran) , or Tegsedi ® (inotersen)  
+AND  
+• Prescribed by or in consultation with a neurologist 
+AND  
+• Dose is based on actual body weight as follows:  
+o For individuals weighing less than 100 kg, the dosage is 0.3 mg/kg once every 3 weeks Page | 4 of 15  ∞ Drug  Medical Necessity  
+o For individual s weighing 100 kg or more, the dosage is 30 
+mg once every 3 weeks 
+ 
+Note:  Clinical description of PND score  
+• Score 0 = No symptoms  
+• Score I = Sensory disturbances but preserved walking capability  
+• Score II = Impaired walking capacity but abili ty to walk without a stick or 
+crutches  
+• Score IIIA = Walking with the help of one stick or crutch 
+• Score IIIB = Walking with the help of two sticks or crutches  
+• Score IV = Confined to a wheelchair or bedridden  
+ 
+Note:  Clinical description of FAP stage  
+• Stage 0 = No symptoms  
+• Stage 1 = Unimpaired ambulation  
+• Stage 2 = Assistance with ambulation required 
+• Stage 3 = Wheelchair -bound or bedridden  
+Tegsedi ® (inotersen) SC  
+ 
+Managed under pharmacy  
+and medical benefit  Tegsedi ® (inotersen ) may be considered medically necessary 
+for the treatment of polyneuropathy of hereditary transthyretin -mediated amyloidosis when : 
+• Individual  is 18 years of age or older 
+AND  
+• Documented transthyretin (TTR) mutation verified by genetic 
+testing  
+AND  
+• Presence of symptoms consistent with polyneuropathy of 
+hereditary transthyretin amyloidosis 
+o Peripheral sensorimotor polyneuropathy (e.g., tingling or 
+increased pain in the hands or feet, loss of feeling or 
+numbness in the hands or feet, carpal tunnel syndrome, 
+loss of  ability to sense temperature, difficulty with fine 
+motor skills, weakness in the legs, difficulty walking)  
+OR 
+o Autonomic neuropathy (e.g., postural hypotension, sexual 
+dysfunction, recurrent urinary tract infection)  
+AND  
+• Polyneuropathy disability ( PND ) score IIIb or less or familial 
+amyloid polyneuropathy ( FAP) stage 2 or less 
+AND  Page | 5 of 15  ∞ Drug  Medical Necessity  
+• Not used in combination with the following: TTR stabilizers 
+(e.g., tafamidis, tafamidis meglumine, diflunisal) , Amvuttra ™ 
+(vutrisiran) , or Onpattro® (patisiran)  
+AND  
+• Prescribed by or in consultation with a neurologist  
+AND  
+• Dose prescribed is 284 mg injected subcutaneously once 
+weekly 
+ 
+Note: Cl inical description of PND score 
+• Score 0 = No symptoms  
+• Score I = Sensory disturbances but preserved walking capability  
+• Score II = Impaired walking capacity but ability to walk without a stick or crutches  
+• Score IIIA = Walking with the help of one stick or crutch 
+• Score IIIB = Walking with the help of two sticks or crutches  
+• Score IV = Confined to a wheelchair or bedridden  
+ Note: Clinical description of FAP stage  
+• Stage 0 = No symptoms  
+• Stage 1 = Unimpaired ambulation  
+• Stage 2 = Assistance with ambulation required 
+• Stage 3 = Wheelcha ir-bound or bedridden  
+Vyndamax ™ (tafamidis) , 
+Vyndaqel® (tafamidis 
+meglumine) oral  
+ Managed under pharmacy 
+benefit Vyndamax ™ (tafamidis)  and Vyndaqel® (tafamidis 
+meglumine) may be considered medically necessary for the 
+treatment of cardiomyopathy of wild type  or hereditary 
+transthyretin -mediated amyloidosis  (ATTR -CM)  when : 
+• Individual  is 18 years of age or older 
+AND  
+• Documented wild type or hereditary transthyretin-media ted 
+amyloidosis is confirmed with presence of amyloid deposits on 
+biopsy specimens  
+AND  
+• Not used in combination with Amvuttra ™ (vutrisiran) , 
+Onpattro® (patisiran) , or Tegsedi ® (inotersen)  
+AND  
+• Prescribed by or in consultation with a cardiologist  
+ Page | 6 of 15  ∞ Drug  Investigational  
+Amvuttra ™ (vutrisiran) , 
+Onpattro ® (patisiran ), 
+Tegsedi® (inotersen), 
+Vyndamax ™ (tafamidis),  
+Vyndaqel® (tafamidis 
+meglumine)  All other uses of Amvuttra ™ (vutrisiran) , Onpattro ® 
+(patisiran ), Tegsedi® (inotersen) , Vyndamax ™ (tafamidis), and 
+Vyndaqel® (tafamidis meglumine) for conditions not outlined 
+in this policy are considered investigational.  
+ 
+Approval  Criteria  
+Initial authorization  All drugs listed in policy  may be approved up to 12 months.  
+Re-authorization criteria  
+for Amvuttra ™, Onpattro ®, 
+and Tegsedi® Continued therapy with Amvuttra ™, Onpattro ®, or Tegsedi ® 
+will be approved for periods of one year if the above drug 
+specific criteria are met and the individual  has shown and 
+continues to show:  
+• Efficacy documented in the medical record indicating positive 
+clinical response ( e.g., improved or stable motor, neurologic, 
+cardiac function, or serum TTR levels)  
+AND  
+• Improvement or stability in one of the following from baseline: 
+PND score or FAP stage  
+AND  
+• Absence of treatment limiting toxicity  
+Re-authorization criteria  
+for Vyndamax ™ and 
+Vyndaqel® Continued therapy with Vyndamax ™ or Vyndaqel®  will be 
+approved for periods of one year if the above Vyndamax ™ and 
+Vyndaqel® criteria are met and the individual has shown and 
+continues to show efficacy documented in the medical record indicating positive clinical response ( e.g., 6-Minute Walk T est 
+[6MWT], Kansas City Cardiomyopathy Questionnaire -Overall 
+Summary [KCCQ -OS] score ). 
+ 
+Documentation Requirements  
+For Amvuttra ™, Onpattro ®, or Tegsedi ® the individual ’s medical records submitted for 
+review should document that medical necessity criteria are met. The record s should include 
+the following:  
+• Office visit notes that contain the relevant history and physical evaluation information 
+AND  Page | 7 of 15  ∞ Documentation Requirements  
+• Documented TTR mutation verified by genetic testing  
+AND  
+• Results of the PND score or FAP stage 
+AND  
+• Dose and frequency of prescribed medication  
+ 
+For Vyndamax ™ or Vyndaqel® the individual ’s medical records submitted for review should 
+document that medical necessity criteria are met. The records should include the following:  
+• Office visit notes that contain the relevant history and physical evaluation information  
+ 
+Coding   
+ 
+Code  Description  
+HCPCS  
+J0222  Injection, patisiran, (Onpattro ®) 0.1 mg  
+J0225  Injection, vutrisiran,  (Amvuttra ™ ) 1 mg (new code effective 1/1/2023)  
+J3590  Unclassified biologics  (Use to report Tegsedi ®) 
+Note:  CPT codes, descriptions and materials are copyrighted by the American Medical Association (AMA). HCPCS 
+codes, descriptions and materials are copyrighted by Centers for Medicare Services (CMS).  
+ 
+Related Information   
+ 
+Consideration of Age  
+Age limits specified in this policy are determined according to FDA -approved indications, where 
+applicable. 
+ Page | 8 of 15  ∞ Benefit Application 
+The drugs in this policy that are administered  orally (Vyndamax ™ and Vyndaqel® ) are managed  
+through the Pharmacy benefit. Drugs administered via IV infusion (Onpattro ®) are managed 
+through the Medical benefit. Drugs administered subcutaneously ( Amvuttra ™ and Tegsedi ®) are 
+managed through both  the Pharmacy benefit  and Medical benefit. 
+ 
+Evidence Review   
+ 
+Description 
+Hereditary transthyretin amyloidosis (hATTR), formerly known as familial amyloidotic 
+polyneuropathy (FAP), is a rare, progressive disorder characterized by the extracellular deposition of TTR protein. hATTR can affect multiple organs and body systems, such as the 
+heart, nervous system, gastrointestinal (GI) tract, and kidney. Symptoms may include autonomic 
+dysfunction, GI dysfunction, ocular manifestation, cardiac manifestation, compromised renal function, or carpal tunnel syndrome. The most common mutation associated with hATTR is 
+Val30Met. Although some mutations are associated mainly with polyneuropathy or cardiomyopathy, most individual s have mixed clinical phenotypes. If untreated, death occurs 
+about 10 years after onset of hATTR.  
+The disease course begins with unimpaired ambulation (FAP stage 1), then requiring ambulation 
+(FAP stage 2), which proceeds to wheelchair confine ment (FAP stage 3), where individuals 
+experience life- impacting symptoms including burning neuropathic pain, loss of sensation in 
+hands and feet, diarrhea/constipation, sexual impotence, and dizziness/fainting . The median 
+survival for individ uals with hATTR with polyneuropathy is reported as 5- 15 years.  
+hATTR affects at least 10,000 people worldwide with about >120 TTR mutations being reported, with about 3,000-5,000 people in the U.S . However, symptoms of hATTR do not always start in 
+one specific organ and the disease is often masked. As a result, these numbers may be underestimated due to under- diagnosis. Quantifying the disease burden in hATTR remains 
+challenging since there is no single test that captures all the symptoms of the condition. Tests 
+demonstrated that both mental and physical health in individuals with hATTR were substantially lower than an age- match controlled group of individuals not receiving treatment. 
+The protein TTR is synthesized and secreted by the liver, where it transports thyroxine and 
+retinol . Mutations in TTR destabilize the protein, causing misfolding into a beta -pleated sheet Page | 9 of 15  ∞ configuration and forming insoluble amyloid fibrils. This mutation results in an autosomal 
+dominant disorder primarily affecting the nerves and heart. With different mutations, 
+symptomatic manifestations may vary even among family members. 
+ 
+Summary of Evidence  
+Amvuttra ™ (vutrisiran)  
+Vutrisiran was studied in a multicenter, open- label, randomized, Phase 3 study, HELIOS -A.1 The 
+trial included 164 individual s with 122 randomized to vutrisiran and 42 to patisiran. Inclusion 
+criteria were ages 18- 85 years, h ereditary transthyretin amyloidosis with polyneuropathy 
+(hATTR -PN), Karnofsky performance status (KPS) ≥60%, polyneuropathy disability ( PND) ≤IIIb, 
+and Neuropathy Impairment Scale (NIS) 5- 130 out of 244 (higher scores indicate greater 
+disability). Exclusion criteria included individuals undergoing liver transplantation and those with 
+New York Heart Association (NYHA) class III or IV heart failure (HF). Individual s were randomized 
+to vutrisiran 25 mg SC every 3 months or patisiran 0.3 mg/kg IV q3 weeks for 18 months. The primary endpoint was change from baseline in Modified Neuropathy Impairment Scale +7 
+(mNIS+7 ) at Month 9. Of note, most comparisons including the primary endpoint compared the 
+vutrisiran group to the placebo arm of the APOLLO trial. The APOLLO trial was a randomized, double- blind, placebo -controlled trial which randomized 225 individuals with hATTR -PN to 
+patisiran or placebo for 18 months.  While the inclusion criteria were similar in both trials, 
+several baseline characteristics differed  between HELIOS -A individuals and the APOLLO placebo 
+group including mNIS+7, Norfolk quality of life in diabetic neuropathy (QoL -DN), and ten meter 
+walk test ( 10-MWT ). At Month 9, the l east square ( LS) mean change in mNIS+7 score was 
+significantly less with vutrisiran (indicating less disability) than with the APOLLO placebo group (-2.24 vs 14.76). Of note, this difference was reported to be statistically significant; however, the 
+p-value was not provided. At 18 months, the difference in LS mean change in mNIS+7 remained 
+significant for vutrisiran ( -0.46 vutrisiran vs 28.1 APOLLO placebo, p=6.50 x10-20). Additionally, 
+all other secondary outcomes also significantly favored vutrisiran (Norfolk QOL -DN, 10- MWT, 
+modified body mass index [mBMI], and Rasch- built Overall Disability Scale [R -ODS]). Vutrisiran 
+was compared to the HELIOS -A patisiran group for the secondary outcome of mean steady state 
+transthyretin ( TTR) reduction from baseline; vutrisiran was noninferior to patisiran at 18 months 
+(median TTR di fference 5.28%, 95% CI 1.17- 9.25, lower limit of CI > -10%).  
+Common adverse events occurring in >10% of individuals were falls, pain in extremity, diarrhea, 
+peripheral edema, urinary tract infection (UTI), arthralgia, dizziness. Arthralgia and pain in 
+extremity occurred more frequently with vutrisiran than APOLLO placebo. Injection- site Page | 10 of 15  ∞ reactions occurred in 4.1% of individuals on vutrisiran. Serious AEs (SAEs) and severe AEs 
+occurred numerically less frequently with vutrisiran than APOLLO placebo or patisiran (SAEs: 
+26% vutrisiran, 40% APOLLO placebo, 43% patisiran; severe AEs: 16%, 36%, 38%, respectively). 
+Two SAEs (dyslipidemia and UTI) were considered related to vutrisiran. No hepatic, hematologic, 
+or renal safety signals were considered related to vutrisiran. No discontinuations due to AEs 
+were considered related to vutrisiran. 
+ 
+Onpattro ® (patisiran)  
+Fair quality evidence from the Phase 2 and APOLLO studies showed that patisiran 0.3 mg/kg 
+intravenously (IV) every three weeks (Q3W) is effective in reducing transthyretin (TTR levels) and 
+improving their modified neuropathy impairment scale+7 (mNIS+7) score, respectively, in adults 
+diagnosed with hereditary transthyretin amyloidosis (hATTR) and neuropathy. The 0.3 mg/kg IV 
+Q3W dosing regimen demonstrated the highest maximum TTR knockdown (KD) and TTR KD at 
+nadir for both dose 1 (94.2% and 83.8%) and dose 2  (96.0% and 86.7%) compared to other 
+dosing regimens (0.01, 0.05,0.15, and 0.3 mg/kg every four weeks [Q4W]). Patisiran showed significant improvement in individuals’ change in mNIS+7 scores from baseline compared to placebo ( -6.03 vs. 27.96), suggesting improvement in autonomic function. This is further proven 
+in the Phase 2 open-label extension (OLE) trial, where individuals were on patisiran for 24 months and had a change in mNIS+7 from baseline of - 7.0. Secondary endpoints in the APOLLO 
+trial saw improved scores as well, most notably in assessing quality of life using the Norfolk 
+quality of life -diabetic neuropathy (QoL -DN) scale (- 6.7 vs. 14.4).  
+Mild to moderate adverse events (AEs) were common in patisiran. Most AEs were infused -
+related reactions (IRRs), which occurred in 10.3% of individuals in the Phase 2 trial and 18.9% of 
+subjects in the patisiran group from the APOLLO trial. The Phase 2 OLE trial demonstrated 
+similar results as well with 22.2% of subjects experiencing IRRs. Researchers attempted to 
+prevent IRRs by pre- medicating individuals with dexamethasone, acetaminophen, an H1 blocker, 
+and an H2 blocker. As a result, pill burden may play a role in adherence and managing AEs. 
+Another common AE was peripheral edema (29.7% in patisiran vs. 22.1% in placebo) which 
+decreased over time with no individual needing to discontinue treatment. The Phase 2 trial 
+reported one individual experiencing a urinary tract infection (UTI), sepsis, nausea, and vomiting. 
+Another individual  reported cellulitis, nausea, and vomiting. Because one individual experienced 
+these symptoms, it is difficult to associate patisiran with these serious adverse events (SAEs). The 
+APOLLO study had 36.5% of the patisiran group experience a SAE. The most common SAE found 
+was diarrhea in 5.4% of individual s. No increase in observed frequency of events for patisiran 
+compared to placebo group by SOC.  Page | 11 of 15  ∞  
+Tegsedi ® (inotersen)  
+In the Phase III trial NEURO -TTR trial, inotersen treatment  slowed the progression of 
+polyneuropathy relative to placebo and stabilized neuropathy- related quality of life (QOL). The 
+statistically significant treatment difference in mNIS+7 reflected progression in the placebo 
+group and delayed progression in the inotersen group, though many inotersen individuals 
+reported improved neuropathy scores. Open-label extension (OLE) data suggest sustained delay 
+of progression of polyneuropathy, though neuropathy- related QOL gain may not be durable. 
+Cardiac endpoints did not differ statistically between the inotersen group and placebo group 
+after 15 months of intervention; however, the trial was not powered to detect differences in 
+cardiac outcomes. A small single- arm open label study shows minimal worsening of left 
+ventricular mass.  
+Five deaths were reported during the study, all of which occurred in the inotersen group, 
+through 15 months of treatment. Four deaths were considered related to disease progression 
+and one death was considered possibly inotersen- related. Safety data show two key concerns 
+with inotersen treatment: thrombocytopenia and glomerulonephritis. Frequent platelet and renal 
+monitoring implemented during the Phase III NEURO- TTR trial suggests thrombocytopenia and 
+decreased renal function may be manageable through enhanced monitoring. Adverse events consi dered related to treatment were more frequently reported by inotersen individuals 
+compared to placebo individuals. Anti- inotersen antibodies were reported in 30.4% of NEURO -
+TTR individuals. These antibodies typically develop after a median of 200 days of treatment and 
+did not appear to affect drug efficacy, but individuals with such antibodies reported more injection site reactions.  
+ 
+Vyndamax ™ and Vyndaqel®  
+Tafamidis was studied in a large, multicenter, placebo -controlled, double- blind, 30- month, 
+Phase 3 trial (ATTR -ACT trial) which randomized 441 individuals with transthyretin amyloid 
+cardiomyopathy (AATR- CM) to tafamidis 80 mg/day, tafamidis 20 mg/day, or placebo. The study 
+included adults up to 90 years of age with confirmed amyloid transthyretin wild type ( ATTRwt ) 
+or amyloid transthyretin due to a mutation (ATTRm) with amyloid cardiac involvement and heart 
+failure ( HF). The primary outcome measures were all -cause mortality and CV- related 
+hospitalization which were assessed hierarchically. The study used the Finkelstein- Schoenfeld 
+method to assess statistical significance. This method pairs each individual in a given strata with 
+every other individual in that strata, assigning a +1 to the better individual  and -1 to the worse Page | 12 of 15  ∞ individual based on all- cause mortality followed by cardiovascular (CV )-related hospitalization if 
+both individuals remain alive. These values are summed to create the test statistic. According to 
+the Finkelstein- Schoenfeld method, pooled tafamidis was superior to placebo over 30 months 
+(p<0.001) with a win ratio of 1.695 (95% CI 1.255- 2.289). All -cause mortality was significantly 
+decreased with pooled tafamidis compared to placebo with a 30% risk reduction (HR 0.7, 95% CI 
+0.51- 0.96).  The risk of CV- related hospitalization significantly decreased with pooled tafamidis 
+compared to placebo (RR 0.68, 95% CI 0.56- 0.81). The least squares (LS) mean change from 
+baseline to month 30 in the 6- minute walk test ( 6MWT ) and the Kansas City Cardiomyopathy 
+Questionnaire – overall summary (KCCQ -OS) both significantly favored pooled tafamidis (6MWT: 
+-55 vs - 131 tafamidis vs placebo, p<0.001; KCCQ -OS -7 vs -21 respectively, p<0.001).  All 
+assessments met criteria for clinical as well as statistical significance. Subgroup assessment 
+found results favored tafamidis in all -cause mortality and CV -hospitalization except for CV-
+related hospitalization in New York Heart Association ( NYHA) Class III individual s which 
+significantly favored placebo. Of note, no difference in all -cause mortality was seen with the 
+20 mg dose of tafamidis compared to the 80 mg dose (26.1% vs 27.8%, respectively, statistical 
+analysis not performed). 
+The prescribing information for tafamidis describes adverse events ( AEs) seen with tafamidis as 
+equivalent to placebo. In the ATTR -ACT trial, none of the AEs seen with tafamidis occurred with 
+an incidence ≥4% greater than the incidence seen with placebo. There are no contraindications 
+or warnings. According to the prescribing information, in the 30- month placebo -controlled  
+study, discontinuation due to AEs occurred in 7% of individuals on Vyndaqel 80 mg, 6% on 
+Vyndaqel 20 mg, and 6% on placebo. Of note, the published ATTR -ACT trial lists dis continuation 
+rates due to treatment -emergent AEs (TEAEs) as 21.2% with tafamidis and 28.8% with placebo 
+and temporary discontinuation due to TEAE as 20.1% and 26%, respectively.  
+ 
+2020  Update  
+A literature search from 12 /1/2019 through 6 /30/2020 did not identify new information 
+requiring change to the medical policy criteria. 
+ 
+2021  Update  
+Reviewed prescribing information for all drugs in policy and conducted a  literature search on the 
+management  of the polyneuropathy and cardiomyopathy  of hereditary transthyretin- mediated Page | 13 of 15  ∞ amyloidosis . No new information was identified that would require changes to the medical 
+policy criteria. 
+ 
+2022  Update  
+Reviewed prescribing information for all drugs in policy and conducted a  literature search on the 
+management  of transthyretin- mediated amyloidosis. No new information was identified that 
+would require changes to the medical policy criteria. 
+  
+References   
+ 
+1. Amvuttra ™ (vutrisiran)  prescribing information. Alnylam Pharmaceuticals, Inc.; Cambridge, MA. Revised June  2022. 
+2. Onpattro ® (patisiran) prescribing information.  Alnylam Pharmaceuticals, Inc.; Cambridge, MA. Revised May  2021. 
+3. Tegsedi ® (inotersen) prescribing information. Akcea Therapeutics, Inc. Revised May  2021. 
+4. What Is Hereditary ATTR Amyloidosis (hATTR)? hATTR Amyloidosis. https://www.hattrguide.com/about- hattr -amyloidosis/ . 
+Accessed April  22, 2022. 
+5. Gertz M. Hereditary ATTR Amyloidosis: Burden of Illness and Diagnostic Challenges. American Journal of Managed Care. 
+2017;23.  
+6. ICER. Institute for Clinical and Economic Review. Inotersen and Patisiran for Hereditary Transthyretin Amyloidosis: Effectiveness 
+and Value. Published October 4, 2018.  
+7. Vyndamax ™ (tafamidis) and Vyndaqel® (tafamidis meglumine) prescribing information. Pfizer Labs . Revised June  2021. 
+8. Maurer MS, Schwartz JH, Gundapaneni B, et al. Tafamidis treatment for patients with transthy -retin amyloid cardiomyopathy. N 
+Engl J Med. 2018;379(11):1007- 1016. 
+9. Maurer MS, Elliott P, Merlini G, et al. Design and rationale of the Phase 3 ATTR -ACT clinical trial (tafamidis in transthyretin 
+cardiomyopathy  clinical tria l). Circ Heart Fail. 2017;10:e003815.  
+10. Fontana M, Rajkumar S, McKenna W, Dardas T. Amyloid cardiomyopathy: Treatment and prognosis . UpToDate, topic last 
+updated Mar 23, 2021. Accessed December 1, 2021.  
+11. González -Duarte A, Adams D, Tournev IL, et al. HELIOS -A: results from the phase 3 study of vutrisiran in patients with hereditary 
+transthyretin- mediated amyloidosis with polyneuropathy [poster]. Presented at: the 71st Annual Scientific Session of the 
+Ameri can College of Cardiology; Washington, DC; April 2 -4, 2022.  
+12. Péus D, Newcomb N, Hofer S. Appraisal of the Karnofsky Performance Scale and proposal of a simple algorithmic system for its 
+evaluation. BMC Med Inform Decis Mak. 2013;13:72.  
+13. Dyck PJ, Gonzάlez -Duarte A, Obici L, et al. Development of measures of polyneuropathy impairment in hATTR amyloidosis: from 
+NIS to mNIS+7. Neurol Sci. 2019;405:116424.  Page | 14 of 15  ∞ 14. Luigetti M, Romano A, Di Paolantonio A, Bisogni G, Sabatelli M. Diagnosis and treatment of hereditary transthyretin amyloidosis 
+(hATTR) polyneuropathy: current perspectives on improving patient care. Ther Clin Risk Manag. 2020;16:109 -123. 
+15. Schmidt HH, Waddington- Cruz M, Botteman MF, et al. Estimating the global prevalence of transthyretin familial amyloid 
+polyneuropathy. Muscle Nerve. 2018;57:829- 837. 
+ 
+History   
+ 
+Date  Comments  
+04/01/19  New policy, approved March 12, 2019. Add to Prescription Drug section.  Onpattro 
+(patisiran) and Tegsedi (inotersen) may be considered medically necessary when 
+criteria are met. They are considered investigational for all other uses.   
+10/01/19  Coding update, added HCPCS code J0222 (new code effective 10/1/19).  
+12/01 /19 Interim Review, approved November 12,  2019.  Added coverage criteria for Vyndamax 
+(tafamidis) and Vyndaqel (tafamidis meglumine). 
+11/01 /20 Annual Review, approved October 22, 2020. No change to policy statement s. Removed 
+HCPCS J3490.  
+01/01/22  Annual Review, approved December 2 , 2021.  No changes to policy statements.  
+06/01 /22 Annual Review, approved May 9 , 2022.  No changes to policy statements.  
+08/01 /22 Interim  Review, approved July 12 , 2022.  Added coverage criteria for Amvuttra 
+(vutrisiran) for the treatment of the polyneuropathy of hereditary transthyretin-
+mediated amyloidosis in adults.  Updated criteria for Onpattro, Tegsedi, Vyndamax, and 
+Vyndaqel documenting these drugs are not to be  used  in combination with Amvuttra.  
+01/01/23  Coding u pdate.  Added new HCPC code J0225 for Amvuttra ™. Removed Amvuttra ™ 
+from HCPC code J3590.  
+02/01 /23 Interim  Review, approved January 10 , 2023.  Removed from Amvuttra the requirement 
+to try and fail Onpattr o or Tegsed i first.  Changed the wording from "patient" to 
+"individual" throughout the policy for standardization. 
+ 
+Disclaimer : This medical policy is a guide in evaluating the medical necessity of a particular servic e or treatment. The 
+Company adopts policies after careful review of published peer -reviewed scientific literature, national guidelines and 
+local standards of practice. Since medical technology is constantly changing, the Company reserves the right to revie w 
+and update policies as appropriate. Member contracts differ in their benefits. Always consult the member benefit 
+booklet or contact a member service representative to determine coverage for a specific medical service or supply. 
+CPT codes, descriptions and materials are copyrighted by the American Medical Association (AMA). © 2023  Premera 
+All Rights Reserved.  Page | 15 of 15  ∞ Scope : Medical policies are systematically developed guidelines that serve as a resource for Company staff when 
+determining coverage for specific medical procedures, drugs or devices. Coverage for medical services is subject to 
+the limits and conditions of the member benefit plan. Members and their providers should consult the member 
+benefit booklet or contact a customer service representative to determine whether there are any benefit limitations 
+applicable to this service or supply. This medical policy does not apply to Medicare Advantage.  Premera Blue Cross is a n independent licensee of the Blue Cross Blue Shield Association  serving businesses and residents of Alaska and Washington State, excluding C lark County.   
+052493  (07-01-2021) Discrimination is Against the Law  
+Premera Blue Cross  (Premera) complies with applicable Federal and Washington state civil rights laws and does not discriminate on the basis of race, 
+color, national o rigin, age, disability, sex, gender identity, or sexual orientation . Premera does not exclude people or treat them differently because of race, 
+color, national origin, age, disability , sex, gender identity, or sexual orientation.  Premera  provides free aids and services to people with disabilities to 
+communica te effectively with us, such as q ualified sign language interpreters  and w ritten information in other formats (large print, audio, accessible 
+electronic formats, other formats) . Premera p rovides fre e language services to people whose primary language is not English, such as  qualified interpreters  
+and i nformation written in other languages . If you need these services, contact the Civil Rights Coordinator.  If you believe that Premera has failed to 
+provide these services or discriminated in another way on the basis of race, color, national origin, age, disability, sex, gender identity, or sexual orientation , 
+you can file a grievance with:  Civil Rights Coordinator ─ Complaints and Appeals , PO Box 91102 , Seattle, WA 98111 , Toll free : 855-332-4535 , Fax: 425-918-5592 , 
+TTY: 711 , Email  AppealsDepartmentInquiries@Premera.com . You can file a grievance in person or by mail, fax, or email.  If you need help filing a 
+grievance, the Civil Rights Coordinator is available to help you.  You can also file a civil rights complaint with the U.S. Department of Health and Human 
+Services, Office for Civil Rights, electronically through the Office for Civil Righ ts Complaint Portal, available at  https://ocrportal.hhs.gov/ocr/portal/lobby.jsf , 
+or by mail or phone at:  U.S. Department of Health and Human Services,  200 Independence Ave SW, Room 509F, HHH B uilding , Washington, D.C. 20201, 
+1-800-368-1019,  800-537-7697 (TDD). Complaint forms are available at  http://www.hhs.gov/ocr/office/file/index.html .  
+Washington  residents : You can also file a civil rights complaint wi th the Washington State Office of the Insurance Commissioner, electronically through 
+the Office of the Insurance Commissioner Complaint Portal available at https://www.insurance.wa.gov/file -complaint -or-check -your-complaint -status , or by 
+phone at 800 -562-6900, 360 -586-0241 (TDD). Complaint forms are available at https: //fortress.wa.gov/oic/onlineservices/cc/pub/complaintinformation.aspx .  
+Alaska  residents : Contact the Alaska Division of Insurance via email at insurance@alaska.gov , or by phone at 907-269-7900 or 1 -800-INSURAK  (in-state, 
+outside Anchorage) . 
+Language Assistance  
+ATENCIÓN : si habla español, tiene a su disposición servicios gratuitos de asistencia lingüística. Llame al 800 -722-1471  (TTY: 711).  
+PAUNAWA : Kung nagsasalita ka ng Tagalog , maaari kang gumamit ng mga serbisyo ng tulong sa wika nang walang bayad. Tumawag sa  800-722-1471  (TTY: 711).  
+注意：如果您使用繁體中文，您可以免費獲得語言援助服務。請致電  800-722-1471  (TTY：711）。 
+CHÚ Ý : Nếu bạn nói Tiếng Việt, có các dịch vụ hỗ trợ ngôn ngữ miễn phí dành cho b ạn.  Gọi số 800-722-1471  (TTY: 711). 
+주의: 한국어를  사용하시는  경우, 언어 지원 서비스를  무료로  이용하실  수 있습니다 . 800-722-1471  (TTY: 711)  번으로  전화해  주십시오 . 
+ВНИМАНИЕ : Если вы говорите на русском языке, то вам доступны бесплатные услуги перевода.  Звоните  800-722-1471  (телетайп: 711). 
+LUS CEEV : Yog tias koj hais lus Hmoob , cov kev pab txog lus, muaj  kev pab dawb  rau koj. Hu rau 800-722-1471  (TTY:  711).  
+MO LOU SILAFIA : Afai e te tautala  Gagana fa'a Sāmoa, o loo iai auaunaga  fesoasoan, e fai fua e leai se totogi, mo oe,  Telefoni mai:  800-722-1471  (TTY: 711).  
+ໂປດຊາບ: ຖ້າວ່າ ທ່ານເວ ້າພາສາ ລາວ, ການບໍລິການຊ່ວຍເຫ  ຼື ອດ້ານພາສາ, ໂດຍບໍ່ເສ ັ ຽຄ່າ, ແມ່ນມ ີພ້ອມໃຫ້ທ່ານ. ໂທຣ 800-722-1471  (TTY: 711) . 
+注意事項 ：日本語を話される場合、無料の言語支援をご利用いただけます。 800-722-1471  （TTY:711）まで、お電話にてご連絡ください。  
+PAKDAAR : Nu saritaem ti Ilocano, ti serbisyo para ti baddang ti lengguahe nga awanan bayadna, ket sidadaan para kenyam.  Awagan ti  800-722-1471  (TTY: 711).  
+УВАГА!  Якщо ви розмовляєте українською мовою, ви можете звернутися до безкоштовної служби мовної підтримки.  Тел ефонуйте за 
+номером 800 -722-1471  (телетайп:  711). 
+ប្រយ័ត្ន៖   បរើសិនជាអ្នកនិយាយ  ភាសាខ្មែរ , បសវាជំនួយខ្ននកភាសា បោយមិនគិត្ឈ្ ន ួល គឺអាចមានសំរារ់រំបរ ើ អ្នក។  ចូរ ទូរស័ព្ទ   800-722-1471 ( TTY: 711)។ 
+ማስታወሻ :  የሚናገሩት  ቋንቋ ኣማርኛ  ከሆነ የትርጉም  እርዳታ ድርጅቶች፣  በነጻ ሊያግዝዎት  ተዘጋጀተዋል፡  ወደ ሚከተለው  ቁጥር ይደውሉ  800-722-1471 (መስማት  ለተሳናቸው : 711). 
+XIYYEEFFANNAA : Afaan  dubbattu  Oroomiffa , tajaajila  gargaarsa  afaanii , kanfaltiidhaan  ala, ni argama . Bilbilaa  800-722-1471 ( TTY: 711).  
+ملحوظة:  إذا كنت تتحدث اذكر اللغة، فإن خدمات المساعدة اللغوية تتوافر لك بالمجان.  اتصل برقم   1471-722-800    :(رقم هاتف الصم والبكم711 .) 
+ਧਿਆਨ  ਧਿਓ: ਜੇ ਤੁਸੀਂ ਪੰਜਾਬੀ  ਬੋਲਿੇ ਹੋ, ਤਾਂ ਭਾਸ਼ਾ ਧ ਿੱਚ ਸਹਾਇਤਾ  ਸੇ ਾ ਤੁਹਾਡੇ ਲਈ ਮੁਫਤ ਉਪਲਬਿ  ਹੈ। 800-722-1471 (TTY:  711) 'ਤੇ ਕਾਲ ਕਰੋ। 
+เรียน : ถ้าคุณพูดภาษาไทยคุณสามารถใช้บริการช่วยเหลือทางภาษาได้ฟรี  โทร 800-722-1471  (TTY: 711).  
+ACHTUNG : Wenn Sie Deutsch sprechen, stehen Ihnen kostenlos sprachliche Hilfsdienstleistungen zur Verfügung. Rufnummer: 800 -722-1471  (TTY: 711).  
+UWAGA : Jeżeli mówisz po polsku, możesz skorzystać z bezpłatnej pomocy językowej. Zadzwoń pod numer 800 -722-1471  (TTY: 711).  
+ATANSYON : Si w pale Kreyòl Ayisyen, gen sèvis èd pou lang ki disponib gratis pou ou.  Rele 800 -722-1471  (TTY: 711).  
+ATTENTION  : Si vous parlez français, des services d'aide linguistique vous sont proposés gratuitement.  Appelez le 800 -722-1471  (ATS :  711).  
+ATENÇÃO : Se fala português, encontram -se disponíveis serviços linguísticos, grátis.  Ligue para 800 -722-1471  (TTY: 711).  
+ATTENZIONE : In caso la lingua parlata sia l'italiano, sono disponibili servizi di assistenza linguistica gratuiti. Chiamare il numero  800-722-1471  (TTY: 711).   
+ توجه: اگر به زبان فارسی گفتگو می کنید، تسهیالت زبانی بصورت رايگان برای شما فراهم می باشد. با   (TTY: 711) 1471-722-800   .تماس بگیريد 

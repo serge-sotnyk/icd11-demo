@@ -1,0 +1,1036 @@
+ 
+ 
+Hematopoietic Cell Transplantation for Acute Lymphoblastic 
+Leukemia  
+ 
+Policy #  00048  
+Original Effective Date: 01/28/2002 
+Current Effective Date: 10/10/2022 
+ 
+ 
+©2022 Blue Cross and Blue Shield of Louisiana 
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company. 
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form o r by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 1 of 21 
+ Applies to all products administered or underwritten by Blue Cross and Blue Shield of Louisiana and its subsidiary, 
+HMO Louisiana, Inc. (collectively referred to as the “Company”), unless otherwise provided in the applicable contract. 
+Medical technology is constantly evolving, and we reserve the right to review and update Medical Policy periodically. 
+ 
+Note: BCR-ABL1 Testing in Chronic Myelogenous Leukemia and Acute Lymphoblastic Leukemia is 
+addressed separately in medical policy 00428. 
+ 
+When Services Are Eligible for Coverage  
+Coverage for eligible medical treatments or procedures, drugs, devices or biological products may 
+be provided only if: 
+• Benefits are available in the member’s contract/certificate, and  
+• Medical necessity criteria and guidelines are met. 
+ 
+Childhood Acute Lymphoblastic Leukemia 
+Based on review of available data, the Company may consider allogeneic or autologous 
+hematopoietic cell transplantation (HCT) to treat childhood acute lymphoblastic leukemia (ALL) in 
+first complete remission but at high risk of relapse to be eligible for coverage.  ** 
+ 
+Based on review of available data, the Company may consider autologous or allogeneic 
+hematopoietic cell transplantation (HCT) to treat childhood acute lymphoblastic leukemia (ALL) in 
+second or greater remission or refractory acute lymphoblastic leukemia (ALL) to be eligible for 
+coverage. **   
+ 
+Based on review of available data, the Company considers allogeneic hematopoietic cell 
+transplantation (HCT) to treat relapsing acute lymphoblastic leukemia (ALL) after a prior autologous 
+hematopoietic cell transplantation (HCT) to be eligible for coverage. **  
+ 
+Adult Acute Lymphoblastic Leukemia 
+Based on review of available data, the Company may consider autologous hematopoietic cell 
+transplantation (HCT) to treat adult acute lymphoblastic leukemia (ALL) in first complete remission 
+but at high risk of relapse to be eligible for coverage. **   
+ 
+Hematopoietic Cell Transplantation for Acute Lymphoblastic Leukemia  
+ 
+Policy #  00048  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  10/10/2022  
+ 
+Based on review of available data, the Company may consider allogeneic hematopoietic cell 
+transplantation (HCT) to treat adult acute lymphoblastic leukemia (ALL) in first complete remission 
+for any risk level to be eligible for coverage. **  
+ 
+Based on review of available data, the Company may consider allogeneic hematopoietic cell 
+transplantation (HCT) to treat adult acute lymphoblastic leukemia (ALL) in second or greater 
+remissions, or in adults with relapsed or refractory acute lymphoblastic leukemia (ALL) to be 
+eligible for coverage. **  
+ 
+Based on review of available data, the Company may consider reduced-intensity conditioning (RIC) 
+allogeneic hematopoietic cell transplantation (HCT) as a treatment of acute lymphoblastic leukemia 
+(ALL) in patients who are in complete marrow and extramedullary first or second remission, and 
+who, for medical reasons, would be unable to tolerate a standard myeloablative conditioning regimen 
+to be eligible for coverage. **  
+ 
+Based on review of available data, the Company considers allogeneic hematopoietic cell 
+transplantation (HCT) to treat relapsing acute lymphoblastic leukemia (ALL) after a prior autologous 
+hematopoietic cell transplantation (HCT) to be eligible for coverage. **  
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 2 of 21 
+ 
+When Services Are Considered Investigational  
+Coverage is not available for investigational medical treatments or procedures, drugs, devices or 
+biological products.  
+ 
+Based on review of available data, the Company considers autologous hematopoietic cell 
+transplantation (HCT) to treat adult acute lymphoblastic leukemia (ALL) in second or greater 
+remission or those with refractory disease to be investigational.*  
+ 
+Policy G uidelines  
+Relapse Risk Prognostic Factors 
+ 
+Childhood Acute Lymphoblastic Leukemia 
+Adverse prognostic factors in children include the following: age younger than 1 year or older than 
+9 years, male sex, white blood cell count at presentation above 50,000/μL, hypodiploidy (<45  
+ 
+Hematopoietic Cell Transplantation for Acute Lymphoblastic Leukemia  
+ 
+Policy #  00048  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  10/10/2022  
+ 
+chromosomes), translocation involving chromosomes 9 and 22 (t[9;22]) or BCR-ABL fusion, 
+translocation involving chromosomes 4 and 11 (t[4;11]) or MLL-AF4 fusion, and ProB or T-lineage 
+immunophenotype. Several risk-stratification schema exist, but, in general, the following findings 
+help define children at high-risk of relapse: (1) poor response to initial therapy including poor 
+response to prednisone prophase defined as an absolute blast count of 1000/μL or greater, or poor 
+treatment response to induction therapy at 6 weeks with high-risk having 1% or higher minimal 
+residual disease measured by flow cytometry; (2) all children with T-cell phenotype; and (3) patients 
+with either the t(9;22) or t(4;11) regardless of early response measures. 
+ 
+Adult Acute Lymphoblastic Leukemia 
+Risk factors for relapse are less well-defined in adults, but a patient with any of the following may 
+be considered at high-risk for relapse: age older than 35 years, leukocytosis at presentation of greater 
+than 30000/μL (B -cell lineage) or greater than 100000/μL (T -cell lineage), “poor prognosis” gen etic 
+abnormalities like the Philadelphia chromosome (t[9;22]), extramedullary disease, and time to attain 
+complete remission longer than 4 weeks. 
+ 
+Reduced-Intensity Conditioning 
+Some patients for whom a conventional myeloablative allogeneic hematopoietic cell transplantation 
+(HCT) could be curative may be considered candidates for reduced-intensity conditioning (RIC) 
+allogeneic HCT (see Background section). Such patients include those whose age (typically >60 
+years) or comorbidities (eg, liver or kidney dysfunction, generalized debilitation, prior intensive 
+chemotherapy including autologous or allogeneic HCT, low Karnofsky Performance Status score) 
+preclude the use of a standard myeloablative conditioning regimen. 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 3 of 21 
+ 
+The ideal allogeneic donors are human leuko cyte antigen (HLA) ’identical siblings, matched at the 
+HLA -A, -B, and DR (antigen -D related) loci on each arm of chromosome 6. Related donors 
+mismatched at one locus are also considered suitable donors. A matched, unrelated donor identified 
+through the Nat ional Marrow Donor Registry is typically the next option considered. Recently, there 
+has been interest in haploidentical donors, typically a parent or a child of the patient, where usually 
+there is sharing of only 3 of the 6 major histocompatibility antige ns. Most patients will have such a 
+donor. The risk of morbidity (eg, graft -versus -host disease [GVHD]) may be higher than with HLA -
+matched donors; however, as medical treatments improve, the risks of GVHD with haploidentical 
+donors are approaching those si milar to HLA -matched donors.   
+ 
+Hematopoietic Cell Transplantation for Acute Lymphoblastic Leukemia  
+ 
+Policy #  00048  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 4 of 21 
+Background/Overview  
+Acute Lymphoblastic Leukemia 
+ 
+Childhood Acute Lymphoblastic Leukemia 
+Acute lymphoblastic leukemia (ALL) is the most common cancer diagnosed in children; it represents 
+nearly 25% of cancers in children younger than 15 years. Remission of disease is now typically 
+achieved with pediatric chemotherapy regimens in 98% of children with ALL, with up to 85% long-
+term survival rates. Survival rates have improved with the identification of effective drugs and 
+combination chemotherapy through large randomized trials, integration of presymptomatic central 
+nervous system prophylaxis, and intensification and risk-based stratification of treatment. The 
+prognosis after the first relapse is related to the length of the original remission. For example, 
+leukemia-free survival is 40% to 50% for children whose first remission was longer than 3 years 
+compared with 10% to 15% for those who relapse less than 3 years after treatment. Thus, 
+hematopoietic cell transplantation (HCT) may be a strong consideration in those with short 
+remissions. At present, the comparative outcomes with autologous or allogeneic HCT (allo -HCT) 
+are unknown. 
+ 
+ALL is a heterogeneous disease with different genetic variations resulting in distinct b iologic 
+subtypes. Patients are stratified by certain clinical and genetic risk factors that predict an outcome, 
+with risk-adapted therapy tailoring treatment based on the predicted risk of relapse. Two of the most 
+important factors predictive of risk are patient age and white blood cell count at diagnosis. Certain 
+genetic characteristics of leukemic cells strongly influence prognosis. Clinical and biologic factors 
+predicting clinical outcomes and relapse risk are summarized in the Policy Guidelines section. 
+ 
+Adult Acute Lymphoblastic Leukemia 
+ALL accounts for 20% of acute leukemias in adults. Between 60% and 80% of adults with ALL can 
+be expected to achieve a complete response after induction chemotherapy; however, only 35¬% to 
+40% can be expected to survive 2 years. Differences in the frequency of genetic abnormalities that 
+characterize adult ALL versus childhood ALL help, in part, explain differences in outcomes between 
+the 2 groups. For example, the “good prognosis” genetic abnormalities, such as hyperdipl oidy and 
+translocation of chromosomes 12 and 21, are seen much less commonly in adult ALL, whereas they 
+are some of the most common in childhood ALL. Conversely, “poor prognosis” genetic 
+abnormalities such as the Philadelphia chromosome (translocation of chromosomes 9 and 22) are  
+ 
+Hematopoietic Cell Transplantation for Acute Lymphoblastic Leukemia  
+ 
+Policy #  00048  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 5 of 21 
+seen in 25% to 30% of adult ALL but infrequently in childhood ALL. Other adverse prognostic 
+factors in adult ALL include age greater than 35 years, poor performance status, male sex, and 
+leukocytosis at presentation of greater than 30000/μL (B -cell lineage) or greater than 100000/μL (T -
+cell lineage). 
+ 
+Hematopoietic Cell Transplantation 
+HCT is a procedure in which hematopoietic stem cells are intravenously infused to restore bone 
+marrow and immune function in cancer patients who receive bone marrow-toxic doses of cytotoxic 
+drugs with or without whole-body radiotherapy. Hematopoietic stem cells may be obtained from the 
+transplant recipient (autologous HCT) or a donor (allo-HCT). They can be harvested from bone 
+marrow, peripheral blood, or umbilical cord blood shortly after delivery of neonates.  
+ 
+Immunologic compatibility between infused hematopoietic stem cells and the recipient is not an 
+issue in autologous HCT. In allogeneic stem cell transplantation, immunologic compatibility 
+between donor and patient is a critical factor for achieving a successful outcome. Compatibility is 
+established by typing of human leukocyte antigens (HLA) using cellular, serologic, or molecular 
+techniques. HLA refers to the gene complex expressed at the HLA- A, -B, and -DR (antigen- D 
+related) loci on each arm of chromosome 6. An acceptable donor will match the patient at all or most 
+of the HLA loci. 
+ 
+Conditioning for Hematopoietic Cell Transplantation 
+ 
+Conventional Conditioning 
+The conventional (“classical”) practice of allo -HCT involves administration of cytotoxic agents 
+(e.g., cyclophosphamide, busulfan) with or without existing disease in the absence of pretransplant 
+conditioning. Intense conditioning regimens are limited to patients whose health status is sufficient 
+to tolerate the procedure of body irradiation at doses sufficient to cause bone marrow ablation in the 
+recipient. The beneficial treatment effect of this procedure is due to a combination of the initial 
+eradication of malignant cells and subsequent graft-versus-malignancy effect mediated by non-self-
+immunologic effector cells. While the slower graft-versus-malignancy effect is considered the 
+potentially curative component, it may be overwhelmed by substantial adverse effects. These include 
+opportunistic infections secondary to loss of endogenous bone marrow function and organ damage 
+or failure caused by cytotoxic drugs. Subsequent to graft infusion in allo-HCT, immunosuppressant  
+ 
+Hematopoietic Cell Transplantation for Acute Lymphoblastic Leukemia  
+ 
+Policy #  00048  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 6 of 21 
+drugs are required to minimize graft rejection and graft-versus-host disease (GVHD), which 
+increases susceptibility to opportunistic infections. 
+ 
+The success of autologous HCT is predicated on the potential of cytotoxic chemotherapy, with or 
+without radiotherapy, to eradicate cancerous cells from the blood and bone marrow. This permits 
+subsequent engraftment and repopulation of the bone marrow with presumably normal 
+hematopoietic stem cells obtained from the patient before undergoing bone marrow ablation. 
+Therefore, autologous HCT is typically performed as consolidation therapy when the patient’s 
+disease is in complete remission. Patients who undergo autologous HCT are also susceptible to 
+chemotherapy-related toxicities and opportunistic infections before engraftment, but not GV HD. 
+ 
+Reduced-Intensity Conditioning Allogeneic Hematopoietic Cell Transplantation 
+Reduced-intensity conditioning (RIC) allogeneic HCT refers to the pretransplant use of lower doses 
+of cytotoxic drugs or less intense regimens of radiotherapy than are used in traditional full-dose 
+myeloablative conditioning treatments. Although the definition of RIC is variable, with numerous 
+versions employed, all regimens seek to balance the competing effects of relapse due to residual 
+disease and non-relapse mortality. The goal of RIC is to reduce disease burden and to minimize 
+associated treatment-related morbidity and non-relapse mortality in the period during which the 
+beneficial graft-versus-malignancy effect of allogeneic transplantation develops. RIC regimens 
+range from nearly total myeloablative to minimally myeloablative with lymphoablation, with 
+intensity tailored to specific diseases and patient condition. Patients who undergo RIC with allo -
+HCT initially demonstrate donor cell engraftment and bone marrow mixed chimerism. Most will 
+subsequently convert to full-donor chimerism. In this review, the term reduced-intensity 
+conditioning will refer to all conditioning regimens intended to be nonmyeloablative. 
+ 
+FDA or Other Governmental Regulatory Approval  
+U.S. Food and Drug Administration (FDA) 
+The U.S. Food and Drug Administration regulates human cells and tissues intended for implantation, 
+transplantation, or infusion through the Center for Biologics Evaluation and Research, under Code 
+of Federal Regulation, Title 21, parts 1270 and 1271. Hematopoietic stem cells are included in these 
+regulations. 
+ 
+  
+ 
+Hematopoietic Cell Transplantation for Acute Lymphoblastic Leukemia  
+ 
+Policy #  00048  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 7 of 21 
+Rationale/Source  
+This medical policy was developed through consideration of peer -reviewed medical literature 
+generally recognized by the relevant medical community, U.S. Food and Drug Administration 
+approval status, nationally accepted standards of medical practice and accepted standards of medical 
+practice in this community, technology evaluation centers, reference to federal regulations, other 
+plan medical policies, and accredited national guidelines.  
+ 
+Acute lymphoblastic leukemia (ALL) is a heterogeneous disease with different genetic variations 
+resulting in distinct biologic subtypes. Patients are stratified to risk-adapted therapy according to 
+certain clinical and genetic risk factors that predict an outcome. Therapy may include hematopoietic 
+cell transplantation (HCT). 
+ 
+Summary of Evidence 
+For individuals who have childhood ALL in first complete remission (CR1) at high-risk of relapse, 
+remission, or refractory ALL who receive autologous HCT, the evidence includes randomized 
+controlled trials (RCTs) and systematic reviews. Relevant outcomes are overall survival (OS), 
+disease-specific survival (DSS), and treatment-related mortality (TRM) and morbidity. For children 
+with high-risk ALL in CR1 or with relapsed ALL, studies have suggested that HCT is associated 
+with fewer relapses but higher death rates due to treatment-related toxicity. However, for a subset of 
+high-risk patients in second complete remission or beyond or with relapsed disease, autologous HCT 
+is a treatment option. This conclusion is further supported by an evidence-based systematic review 
+and position statement from the American Society for Blood and Marrow Transplantation 
+(ASBMT). The evidence is sufficient to determine that the technology results in an improvement in 
+the net health outcome. 
+ 
+For individuals who have childhood ALL in CR1 at high-risk of relapse, remission, or refractory 
+ALL who receive allogeneic HCT (allo-HCT), the evidence includes RCTs and systematic reviews. 
+Relevant outcomes are OS, DSS, and TRM and morbidity. For children with high-risk ALL in CR1 
+or with relapsed ALL, studies have suggested that allo-HCT is associated with fewer relapses but 
+higher death rates due to treatment-related toxicity. However, for a subset of high-risk patients in 
+second complete remission or beyond or with relapsed disease, allo-HCT is a treatment option. This 
+conclusion is further supported by an evidence-based systematic review and position statement from  
+ 
+Hematopoietic Cell Transplantation for Acute Lymphoblastic Leukemia  
+ 
+Policy #  00048  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  10/10/2022  
+ 
+the ASBMT. The evidence is sufficient to determine that the technology results in an improvement 
+in the net health outcome. 
+ 
+For individuals who have adult ALL in CR1, subsequent remission, or refractory ALL who receive 
+autologous HCT, the evidence includes RCTs and systematic reviews. Relevant outcomes are OS, 
+DSS, and TRM and morbidity. Current evidence supports the use of autologous HCT for adults with 
+high-risk ALL in CR1, whose health status is sufficient to tolerate the procedure. The evidence is 
+sufficient to determine that the technology results in an improvement in the net health outcome. 
+ 
+For individuals who have adult ALL in CR1 or subsequent remission or refractory ALL who receive 
+allo-HCT, the evidence includes RCTs, systematic reviews, and observational studies. Relevant 
+outcomes are OS, DSS, and TRM and morbidity. Current evidence supports the use of myeloablative 
+allo-HCT for adults with any risk level ALL, whose health status is sufficient to tolerate the 
+procedure. Reduced-intensity conditioning allo-HCT may be considered for patients who 
+demonstrate complete marrow and extramedullary first or second remission and who could be 
+expected to benefit from a myeloablative allo-HCT, but for medical reasons would not tolerate a 
+myeloablative conditioning regimen. The evidence is sufficient to determine that the technology 
+results in an improvement in the net health outcome. 
+ 
+For individuals who have relapsed after a prior autologous HCT for ALL who receive allo-HCT, the 
+evidence includes case series. Relevant outcomes are OS, DSS, and TRM and morbidity. Evidence 
+reviews have identified only small case series with short-term follow-up, which was considered 
+inadequate evidence of benefit. The evidence is insufficient to determine that the technology results 
+in an improvement in the net health outcome. 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 8 of 21 
+ 
+Supplemental Information  
+Clinical Input From Physician Specialty Societies and Academic Medical Centers 
+While the various physician specialty societies and academic medical centers may collaborate with 
+and make recommendations during this process, through the provision of appropriate reviewers, 
+input received does not represent an endorsement or position statement by the physician specialty 
+societies or academic medical centers, unless otherwise noted. 
+ 
+  
+ 
+Hematopoietic Cell Transplantation for Acute Lymphoblastic Leukemia  
+ 
+Policy #  00048  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 9 of 21 
+2013 Input 
+In response to requests, input was received from 1 medical society, 2 academic medical centers, and 
+3 physicians from Blue Distinction Centers while this policy was under review in 2013. In general, 
+input supported most existing policy statements. However, most reviewers disagreed that allogeneic 
+hematopoietic cell transplantation (allo-HCT) is considered investigational to treat relapsing acute 
+lymphoblastic leukemia (ALL) after a prior autologous HCT in either children or adults. Given a 
+scarcity of evidence on this topic, with no substantial trials likely to be forthcoming, that allo -HCT 
+after failed autologous HCT has been shown to be of clinical benefit in other hematologic 
+malignancies and is potentially curative, and that reduced-intensity conditioning allo-HCT is 
+considered medically necessary to treat ALL in second or greater remission or relapsed or refractory 
+ALL, the policy statements were revised to medical necessity for this indication in children and 
+adults. 
+ 
+Practice Guidelines and Position Statements 
+Guidelines or position statements will be considered for inclusion in ‘Supplemental Information’ if 
+they were issued by, or jointly by, a US professional society, an international society with US 
+representation, or National Institute for Health and Care Excellence (NICE). Priority will be given 
+to guidelines that are informed by a systematic review, include strength of evidence ratings, and 
+include a description of management of conflict of interest. 
+ 
+National Comprehensive Cancer Network 
+Current National Comprehensive Cancer Network guidelines (v.2.2021) for ALL indicate allo-HCT 
+is appropriate for consolidation treatment of most poor risk (eg, the Philadelphia chromosome-
+positive, relapsed, or refractory) patients with ALL. The guidelines state that for appropriately fit 
+older adults with ALL who are achieving remission, “consideration of autologous or reduced -
+intensity allogeneic stem cell transplantation may be appropriate.” In addition, the guidelines note 
+that chronologic age is not a good surrogate for fitness for therapy and that patient should be 
+evaluated on an individual basis. 
+ 
+Current National Comprehensive Cancer Network guidelines (v 1.2022) for pediatric ALL say that 
+"Allogeneic HSCT has demonstrated improved clinical outcomes in pediatric ALL patients with 
+evidence of certain high-risk features and/or persistent disease. In addition, survival rates appear to 
+be comparable regardless of the stem cell source (matched related, matched unrelated, cord blood,  
+ 
+Hematopoietic Cell Transplantation for Acute Lymphoblastic Leukemia  
+ 
+Policy #  00048  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 10 of 21 
+or haploidentical donor)." The guidelines state that the benefit of allo -HCT in infants is still 
+controversial.  
+ 
+The American Society for Transplantation and Cellular Therapy 
+In 2020, the guidelines from The American Society for Transplantation and Cellular Therapy 
+(previously known as the American Society for Blood and Marrow Transplantation) were published 
+on indications for autologous and allo-HCT. Recommendations were intended to describe the current 
+consensus on the use of HCT in and out of the clinical trial setting. Recommendations on ALL are 
+listed in Table 1. 
+ 
+Table 1. Guidelines for Autologous and Allogeneic HCT in ALL  
+Indication  Children (Age <18 Years)  Adults (Age ≥18 
+Years)   
+Allogeneic  HCT  Autologous  HCT  Allogeneic 
+HCT  Autologous 
+HCT  
+First complete response, 
+standard -risk  N  N  S  N 
+First complete response, high -risk  S  N  S  N 
+Second complete response   S  N  S  N 
+At least third complete response   C  N  S  N 
+Not in remission   C  N  S  N 
+ALL: acute lymphoblastic leukemia; C: clinical evidence available; HCT: hematopoietic cell 
+transplantation; N: not generally recommended; S: standard of care. 
+ 
+U.S. Preventive Services Task Force Recommendations 
+Not applicable. 
+ 
+Medicare National Coverage 
+There is a national coverage determination for stem cell transplantation (110.23; formerly 110.81), 
+portions of which are highlighted below:  
+ 
+Hematopoietic Cell Transplantation for Acute Lymphoblastic Leukemia  
+ 
+Policy #  00048  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 11 of 21 
+Nationally Covered Indications 
+ 
+“I. Allogeneic Hematopoietic Stem Cell Transplantation (HSCT)  
+ 
+a) Effective … 1978, for the  treatment of leukemia, leukemia in remission, or aplastic anemia when 
+it is reasonable and necessary,  
+ 
+b) Effective … 1985, for the treatment of severe combined immunodeficiency disease (SCID) and 
+for the treatment of Wiskott -Aldrich syndrome.  
+ 
+c) Effective … 2010, for the treatment of Myelodysplastic Syndromes (MDS) pursuant to Coverage 
+with Evidence Development (CED) in the context of a Medicare -approved, prospective clinical 
+study…  
+ 
+d) Effective for claims with dates of service on or after January 2 7, 2016, allogeneic HSCT for 
+multiple myeloma is covered by Medicare only for beneficiaries with Durie -Salmon Stage II or 
+III multiple myeloma, or International Staging System (ISS) Stage II or Stage III multiple 
+myeloma, and participating in an approved p rospective clinical study that meets the criteria 
+below. There must be appropriate statistical techniques to control for selection bias and 
+confounding by age, duration of diagnosis, disease classification, International Myeloma 
+Working Group (IMWG) classi fication, ISS stage, comorbid conditions, type of 
+preparative/conditioning regimen, graft vs. host disease (GVHD) prophylaxis, donor type and 
+cell source…  
+ 
+e) Effective for claims with dates of service on or after January 27, 2016, allogeneic HSCT for 
+myelofibrosis (MF) is covered by Medicare only for beneficiaries with Dynamic International 
+Prognostic Scoring System (DIPSSplus) intermediate -2 or High primary or secondary MF and 
+participating in an approved prospective clinical study. All Medicare -appro ved studies must use 
+appropriate statistical techniques in the analysis to control for selection bias and potential 
+confounding by age, duration of diagnosis, disease classification, DIPSSplus score, comorbid 
+conditions, type of preparative/conditioning re gimen, GVHD prophylaxis, donor type and cell 
+source…  
+  
+ 
+Hematopoietic Cell Transplantation for Acute Lymphoblastic Leukemia  
+ 
+Policy #  00048  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 12 of 21 
+f) Effective for claims with dates of service on or after January 27, 2016, allogeneic HSCT for sickle 
+cell disease (SCD) is covered by Medicare only for beneficiaries with severe, symptomatic SCD 
+who participate in an approved prospective clinical study.... 
+ 
+II. Autologous Stem Cell Transplantation (AuSCT) 
+a) Effective … 1989, AuSCT is considered reasonable and necessary … for the following conditions 
+and is covered under Medicare for patients with: 
+1. Acute leukemia in remission who have a high probability of relapse and who have no human 
+leukocyte antigens (HLA)-matched; 
+2. Resistant non-Hodgkin's lymphomas or those presenting with poor prognostic features 
+following an initial response; 
+3. Recurrent or refractory neuroblastoma; or, 
+4. Advanced Hodgkin's disease who have failed conventional therapy and have no HLA  
+matched donor. 
+b) Effective … 2000, single AuSCT is only covered for Durie -Salmon Stage II or III patients that fit 
+the following requirements: 
+• Newly diagnosed or responsive multiple myeloma. This includes those patients with 
+previously untreated disease, those with at least a partial response to prior chemotherapy 
+(defined as a 50% decrease either in measurable paraprotein [serum and/or urine] or in 
+bone marrow infiltration, sustained for at least 1 month), and those in responsive relapse; 
+and 
+• Adequate cardiac, renal, pulmonary, and hepatic function. 
+ 
+c) Effective … 2005, when recognized clinical risk factors are employed to select patien ts for 
+transplantation, high dose melphalan (HDM) together with AuSCT is reasonable and necessary for 
+Medicare beneficiaries of any age group with primary amyloid light chain (AL) amyloidosis who 
+meet the following criteria:  
+• Amyloid deposition in 2 or fewer organs; and, 
+• Cardiac left ventricular ejection fraction (EF) greater than 45%.”  
+ 
+Ongoing and Unpublished Clinical Trials 
+Some currently ongoing and unpublished trials that might influence this review are listed in Table 
+2. 
+  
+ 
+Hematopoietic Cell Transplantation for Acute Lymphoblastic Leukemia  
+ 
+Policy #  00048  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 13 of 21 
+Table 2. Summary of Key Trials  
+NCT No.  Trial Name  Planned 
+Enrollment  Completion 
+Date  
+Ongoing     
+NCT03314974  Myeloablative Allogeneic Hematopoietic Cell 
+Transplantation Using a Related or Unrelated Donor 
+for the Treatment of Hematological Diseases  40 Nov 2025  
+NCT01949129  Allogeneic Stem Cell Transplantation for Children 
+and Adolescents With Acute Lymphoblastic 
+Leukemia  1000  Apr 2026  
+NCT04232241  HLA 10/10 Matched Unrelated Donor vs 
+Haploidentical Allogenic  Hematopoietic  Stem Cell 
+Transplantation  440 Nov 2024  
+NCT05031897  Reduced -Intensity Conditioning for the Prevention of 
+Treatment -Related Mortality in Patients Who 
+Undergo a  Hematopoietic Stem Cell Transplant  67 Oct 2024  
+Unpublished     
+NCT01700946  A Phase II Study of Therapy for Pediatric Relapsed or 
+Refract ory Precursor B -Cell Acute Lymphoblastic 
+Leukemia and Lymphoma  94 Jul 2021  
+NCT: national clinical trial.  
+ 
+References  
+1. National Cancer Institute. Childhood Acute Lymphoblastic Leukemia Treatment (PDQ)Health 
+Professional Version. 2021; https://www.cancer.gov/types/leukemia/hp/child -all-treatment -
+pdq#section/_1.  
+2. Pieters R, Carroll WL. Biology and treatment of acute lymphobl astic leukemia. Pediatr Clin 
+North Am. Feb 2008; 55(1): 1 -20, ix. PMID 18242313  
+3. Carroll WL, Bhojwani D, Min DJ, et al. Pediatric acute lymphoblastic leukemia. Hematology 
+Am Soc Hematol Educ Program. 2003: 102 -31. PMID 14633779  
+4. National Cancer Institute. Ad ult Acute Lymphoblastic Leukemia Treatment (PDQ)Health 
+Professional Version. 2021; https://www.cancer.gov/types/leukemia/hp/adult -all-treatment -pdq.   
+ 
+Hematopoietic Cell Transplantation for Acute Lymphoblastic Leukemia  
+ 
+Policy #  00048  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 14 of 21 
+5. Lawson SE, Harrison G, Richards S, et al. The UK experience in treating relapsed childhood 
+acute lymphobla stic leukaemia: a report on the medical research council UKALLR1 study. Br J 
+Haematol. Mar 2000; 108(3): 531 -43. PMID 10759711  
+6. Ribera JM, Ortega JJ, Oriol A, et al. Comparison of intensive chemotherapy, allogeneic, or 
+autologous stem -cell transplantation a s post  remission treatment for children with very high risk 
+acute lymphoblastic leukemia: PETHEMA ALL -93 Trial. J Clin Oncol. Jan 01 2007; 25(1): 16 -
+24. PMID 17194902  
+7. Oliansky DM, Camitta B, Gaynon P, et al. Role of cytotoxic therapy with hematopoietic ste m 
+cell transplantation in the treatment of pediatric acute lymphoblastic leukemia: update of the 
+2005 evidence -based review. Biol Blood Marrow Transplant. Apr 2012; 18(4): 505 -22. PMID 
+22209888  
+8. Harrison G, Richards S, Lawson S, et al. Comparison of allogen eic transplant versus 
+chemotherapy for relapsed childhood acute lymphoblastic leukaemia in the MRC UKALL R1 
+trial. MRC Childhood Leukemia Working Party. Ann Oncol. Aug 2000; 11(8): 999 -1006. PMID 
+11038037  
+9. Wheeler KA, Richards SM, Bailey CC, et al. Bone marrow transplantation versus chemotherapy 
+in the treatment of very high -risk childhood acute lymphoblastic leukemia in first remission: 
+results from Medical Research Council UKALL X and XI. Blood. Oct 01 2000; 96(7): 2412 -8. 
+PMID 11001892  
+10. Ribera JM, Oriol  A, Bethencourt C, et al. Comparison of intensive chemotherapy, allogeneic or 
+autologous stem cell transplantation as post -remission treatment for adult patients with high -risk 
+acute lymphoblastic leukemia. Results of the PETHEMA ALL -93 trial. Haematologic a. Oct 
+2005; 90(10): 1346 -56. PMID 16219571  
+11. Yanada M, Matsuo K, Suzuki T, et al. Allogeneic hematopoietic stem cell transplantation as part 
+of postremission therapy improves survival for adult patients with high -risk acute lymphoblastic 
+leukemia: a metaana lysis. Cancer. Jun 15 2006; 106(12): 2657 -63. PMID 16703597  
+12. Hahn T, Wall D, Camitta B, et al. The role of cytotoxic therapy with hematopoietic stem cell 
+transplantation in the therapy of acute lymphoblastic leukemia in adults: an evidence -based 
+review. Bio l Blood Marrow Transplant. Jan 2006; 12(1): 1 -30. PMID 16399566  
+13. Attal M, Blaise D, Marit G, et al. Consolidation treatment of adult acute lymphoblastic leukemia: 
+a prospective, randomized trial comparing allogeneic versus autologous bone marrow 
+transplanta tion and testing the impact of recombinant interleukin -2 after autologous bone 
+marrow transplantation. BGMT Group. Blood. Aug 15 1995; 86(4): 1619 -28. PMID 7632972   
+ 
+Hematopoietic Cell Transplantation for Acute Lymphoblastic Leukemia  
+ 
+Policy #  00048  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 15 of 21 
+14. Dombret H, Gabert J, Boiron JM, et al. Outcome of treatment in adults with Philadelphia 
+chromosome -positive acute lymphoblastic leukemia --results of the prospective multicenter 
+LALA -94 trial. Blood. Oct 01 2002; 100(7): 2357 -66. PMID 12239143  
+15. Hunault M, Harousseau JL, Delain M, et al. Better outcome of adult acute lymphoblastic 
+leukemia after ear ly genoidentical allogeneic bone marrow transplantation (BMT) than after late 
+high-dose therapy and autologous BMT: a GOELAMS trial. Blood. Nov 15 2004; 104(10): 
+3028 -37. PMID 15256423  
+16. Gupta V, Richards S, Rowe J, et al. Allogeneic, but not autologous, hem atopoietic cell 
+transplantation improves survival only among younger adults with acute lymphoblastic leukemia 
+in first remission: an individual patient data meta -analysis. Blood. Jan 10 2013; 121(2): 339 -50. 
+PMID 23165481  
+17. Goldstone AH, Richards SM, Lazarus  HM, et al. In adults with standard -risk acute lymphoblastic 
+leukemia, the greatest benefit is achieved from a matched sibling allogeneic transplantation in 
+first complete remission, and an autologous transplantation is less effective than conventional 
+consolidation/maintenance chemotherapy in all patients: final results of the International ALL 
+Trial (MRC UKALL XII/ECOG E2993). Blood. Feb 15 2008; 111(4): 1827 -33. PMID 18048644  
+18. Fielding AK, Rowe JM, Richards SM, et al. Prospective outcome data on 267 unsel ected adult 
+patients with Philadelphia chromosome -positive acute lymphoblastic leukemia confirms 
+superiority of allogeneic transplantation over chemotherapy in the pre -imatinib era: results from 
+the International ALL Trial MRC UKALLXII/ECOG2993. Blood. May  07 2009; 113(19): 4489 -
+96. PMID 19244158  
+19. Cornelissen JJ, van der Holt B, Verhoef GE, et al. Myeloablative allogeneic versus autologous 
+stem cell transplantation in adult patients with acute lymphoblastic leukemia in first remission: 
+a prospective sibling donor versus no -donor comparison. Blood. Feb 05 2009; 113(6): 1375 -82. 
+PMID 18988865  
+20. Giebel S, Labopin M, Socie G, et al. Improving results of allogeneic hematopoietic cell 
+transplantation for adults with acute lymphoblastic leukemia in first complete remi ssion: an 
+analysis from the Acute Leukemia Working Party of the European Society for Blood and Marrow 
+Transplantation. Haematologica. Jan 2017; 102(1): 139 -149. PMID 27686376  
+21. Dinmohamed AG, Szabo A, van der Mark M, et al. Improved survival in adult patient s with 
+acute lymphoblastic leukemia in the Netherlands: a population -based study on treatment, trial 
+participation and survival. Leukemia. Feb 2016; 30(2): 310 -7. PMID 26286115   
+ 
+Hematopoietic Cell Transplantation for Acute Lymphoblastic Leukemia  
+ 
+Policy #  00048  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 16 of 21 
+22. Pidala J, Djulbegovic B, Anasetti C, et al. Allogeneic hematopoietic cell trans plantation for adult 
+acute lymphoblastic leukemia (ALL) in first complete remission. Cochrane Database Syst Rev. 
+Oct 05 2011; (10): CD008818. PMID 21975786  
+23. Abdul Wahid SF, Ismail NA, Mohd -Idris MR, et al. Comparison of reduced -intensity and 
+myeloablative c onditioning regimens for allogeneic hematopoietic stem cell transplantation in 
+patients with acute myeloid leukemia and acute lymphoblastic leukemia: a meta -analysis. Stem 
+Cells Dev. Nov 01 2014; 23(21): 2535 -52. PMID 25072307  
+24. Gutierrez -Aguirre CH, Gomez -Almaguer D, Cantu -Rodriguez OG, et al. Non -myeloablative 
+stem cell transplantation in patients with relapsed acute lymphoblastic leukemia: results of a 
+multicenter study. Bone Marrow Transplant. Sep 2007; 40(6): 535 -9. PMID 17618317  
+25. Mohty M, Labopin M, Tabr izzi R, et al. Reduced intensity conditioning allogeneic stem cell 
+transplantation for adult patients with acute lymphoblastic leukemia: a retrospective study from 
+the European Group for Blood and Marrow Transplantation. Haematologica. Feb 2008; 93(2): 
+303-6. PMID 18245655  
+26. Cho BS, Lee S, Kim YJ, et al. Reduced -intensity conditioning allogeneic stem cell 
+transplantation is a potential therapeutic approach for adults with high -risk acute lymphoblastic 
+leukemia in remission: results of a prospective phase 2 st udy. Leukemia. Oct 2009; 23(10): 1763 -
+70. PMID 19440217  
+27. Pulsipher MA, Boucher KM, Wall D, et al. Reduced -intensity allogeneic transplantation in 
+pediatric patients ineligible for myeloablative therapy: results of the Pediatric Blood and Marrow 
+Transplant C onsortium Study ONC0313. Blood. Aug 13 2009; 114(7): 1429 -36. PMID 
+19528536  
+28. Trujillo AM, Karduss AJ, Suarez G, et al. Haploidentical Hematopoietic Stem Cell 
+Transplantation with Post -Transplantation Cyclophosphamide in Children with High -Risk 
+Leukemia Usin g a Reduced -Intensity Conditioning Regimen and Peripheral Blood as the Stem 
+Cell Source. Transplant Cell Ther. May 2021; 27(5): 427.e1 -427.e7. PMID 33965184  
+29. Rosko A, Wang HL, de Lima M, et al. Reduced intensity conditioned allograft yields favorable 
+surviv al for older adults with B -cell acute lymphoblastic leukemia. Am J Hematol. Jan 2017; 
+92(1): 42 -49. PMID 27712033  
+30. National Comprehensive Cancer Network (NCCN). NCCN Clinical Practice Guidelines in 
+Oncology: Acute lymphoblastic leukemia. Version 2.2021. 
+https://www.nccn.org/professionals/physician_gls/pdf/all.pdf.   
+ 
+Hematopoietic Cell Transplantation for Acute Lymphoblastic Leukemia  
+ 
+Policy #  00048  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 17 of 21 
+31. National Comprehensive Cancer Network (NCCN). NCCN Clinical Practice Guidelines in 
+Oncology: Pediatric Acute Lymphoblastic Leukemia. Version 1.2022. 
+https://www.nccn.org/professionals/physician_gl s/pdf/ped_all.pdf.  
+32. Kanate AS, Majhail NS, Savani BN, et al. Indications for Hematopoietic Cell Transplantation 
+and Immune Effector Cell Therapy: Guidelines from the American Society for Transplantation 
+and Cellular Therapy. Biol Blood Marrow Transplant. J ul 2020; 26(7): 1247 -1256. PMID 
+32165328  
+33. Centers for Medicare and Medicaid Services. National Coverage Determination (NCD) for Stem 
+Cell Transplantation Formerly 110.8.1 (110.23). 2016; https://www.cms.gov/medicare -
+coverage -database/details/ncd -
+details.asp x?NCDId=366&ncdver=1&MCDIndexType=2&mcdtypename=Potential+National+
+Coverage+Determination+(NCD)+Topics&bc=AAAAQAAAAAAA&.  
+ 
+Policy History  
+Original Effective Date: 01/28/2002 
+Current Effective Date: 10/10/2022 
+12/06/2001 Medical Policy Committee review 
+03/25/2002 Managed Care Advisory Council approval 
+06/24/2002 Format revision. Policy addresses only Acute Lymphocytic Leukemia. Replaces 
+High Dose Chemotherapy with Hematopoietic Stem Cell Support. 
+03/31/2004 Medical Director review 
+04/20/2004 Medical Policy Committee review. Format revision. No changes to coverage 
+eligibility. 
+04/26/2004 Managed Care Advisory Council approval 
+04/05/2005 Medical Director review 
+04/19/2005 Medical Policy Committee review. Format revisions only. Coverage eligibility 
+unchanged. 05/23/2005 Managed Care Advisory Council approval 
+09/06/2006 Medical Director review 
+09/20/2006 Medical Policy Committee approval. Format changes only. Coverage eligibility 
+unchanged. 
+07/11/2007 Medical Director review 
+07/18/2007 Medical Policy Committee approval. Format revision only. Coverage eligibility 
+unchanged.   
+ 
+Hematopoietic Cell Transplantation for Acute Lymphoblastic Leukemia  
+ 
+Policy #  00048  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 18 of 21 
+07/02/2008 Medical Director review 
+07/16/2008 Medical Policy Committee approval. No change to coverage eligibility. 
+07/02/2009 Medical Director review 
+07/22/2009 Medical Policy Committee approval. Title changed to Hematopoietic Stem-Cell 
+Transplantation for Acute Lymphoblastic Leukemia. Revised policy based on 
+updated research.  
+07/01/2010 Medical Policy Committee approval.  
+07/21/2010 Medical Policy Implementation Committee approval. Policy statement regarding 
+treatment of adult ALL in first complete remission but at high risk of relapse split 
+to address allogeneic and autologous transplant separately. 
+07/07/2011 Medical Policy Committee approval.  
+07/20/2011 Medical Policy Implementation Committee approval. No change to coverage 
+eligibility. 
+06/28/2012 Medical Policy Committee review.  
+07/27/2012 Medical Policy Implementation Committee approval. No change to coverage 
+eligibility. 
+03/04/2013 Coding updated 
+08/01/2013 Medical Policy Committee review 
+08/21/2013 Medical Policy Implementation Committee approval. Revised coverage statements 
+so that allogeneic HSCT may be considered eligible for coverage following a failed 
+autologous HSCT in children or adult patients. 
+09/04/2014 Medical Policy Committee review 
+09/17/2014 Medical Policy Implementation Committee approval. No change to coverage.  
+09/03/2015 Medical Policy Committee review 
+09/23/2015 Medical Policy Implementation Committee approval. No change to coverage.  
+09/08/2016 Medical Policy Committee review 
+09/21/2016 Medical Policy Implementation Committee approval. No change to coverage. 
+01/01/2017 Coding update: Removing ICD-9 Diagnosis Codes  
+09/07/2017 Medical Policy Committee review 
+09/20/2017 Medical Policy Implementation Committee approval. The word stem was removed 
+from title and body of policy. 
+09/06/2018 Medical Policy Committee review 
+09/19/2018 Medical Policy Implementation Committee approval. No change to coverage. 
+09/05/2019 Medical Policy Committee review  
+ 
+Hematopoietic Cell Transplantation for Acute Lymphoblastic Leukemia  
+ 
+Policy #  00048  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 19 of 21 
+09/11/2019 Medical Policy Implementation Committee approval. Coverage eligibility 
+unchanged. 
+09/03/2020 Medical Policy Committee review 
+09/09/2020 Medical Policy Implementation Committee approval. Coverage eligibility 
+unchanged. 
+09/02/2021 Medical Policy Committee review 
+09/08/2021 Medical Policy Implementation Committee approval. Coverage eligibility 
+unchanged. 
+09/01/2022 Medical Policy Committee review 
+09/14/2022 Medical Policy Implementation Committee approval. Coverage eligibility 
+unchanged. 
+Next Scheduled Review Date: 09/2023 
+ 
+Coding  
+The five character codes included in the Blue Cross Blue Shield of Louisiana Medical Policy 
+Coverage Guidelines are obtained from Current Procedural Terminology (CPT®)‡, copyright 20 21 
+by the American Medical Associat ion (AMA). CPT is developed by the AMA as a listing of 
+descriptive terms and five character identifying codes and modifiers for reporting medical services 
+and procedures performed by physician.  
+ 
+The responsibility for the content of Blue Cross Blue Shield of Louisiana Medical Policy Coverage 
+Guidelines is with Blue Cross and Blue Shield of Louisiana and no endorsement by the AMA is 
+intended or should be implied.  The AMA disclaims responsibility for any consequences or liability 
+attributable or related to a ny use, nonuse or interpretation of information contained in Blue Cross 
+Blue Shield of Louisiana Medical Policy Coverage Guidelines.  Fee schedules, relative value units, 
+conversion factors and/or related components are not assigned by the AMA, are not par t of CPT, 
+and the AMA is not recommending their use.  The AMA does not directly or indirectly practice 
+medicine or dispense medical services.  The AMA assumes no liability for data contained or not 
+contained herein.  Any use of CPT outside of Blue Cross Bl ue Shield of Louisiana Medical Policy 
+Coverage Guidelines should refer to the most current  Current  Procedural Terminology which 
+contains the complete and most current listing of CPT codes and descriptive terms. Applicable 
+FARS/DFARS apply.  
+  
+ 
+Hematopoietic Cell Transplantation for Acute Lymphoblastic Leukemia  
+ 
+Policy #  00048  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 20 of 21 
+CPT is a registered trademark of the American Medical Association. 
+ 
+Codes used to identify services associated with this policy may include (but may not be limited to) 
+the following: 
+Code Type  Code  
+CPT 38204, 38205, 38206, 38207, 38208, 38209, 38210, 38211, 38212, 38213, 
+38214, 38215, 38230, 38240, 38241, 38242, 38243  
+Add code effective 11/01/2022: 38232  
+HCPCS  S2140, S2142, S2150  
+ICD-10 Diagnosis  C91.00 -C91.02  
+ 
+*Investigational – A medical treatment, procedure, drug, device, or biological product is 
+Investigational if the effectiveness has not been clearly tested and it has not been incorporated into 
+standard medical practice. Any determination we make that a medical treatment, procedure, drug, 
+device, or biological product is Investigational will be based on a consideration of the following: 
+A. Whether the medical treatment, procedure, drug, device, or biological product can be 
+lawfully marketed without approval of the U.S. Food and Drug Administration (FDA) and 
+whether such approval has been granted at the time the medical treatment, procedure, drug, 
+device, or biological product is sought to be furnished; or 
+B. Whether the medical treatment, procedure, drug, device, or biological product requires 
+further studies or clinical trials to determine its maximum tolerated dose, toxicity, safety, 
+effectiveness, or effectiveness as compared with the standard means of treatment or 
+diagnosis, must improve health outcomes, according to the consensus of opinion among 
+experts as shown by reliable evidence, includin g: 
+1. Consultation with technology evaluation center(s); 
+2. Credible scientific evidence published in peer-reviewed medical literature generally 
+recognized by the relevant medical community; or 
+3. Reference to federal regulations. 
+ 
+**Medically Necessary (or “Medical Necessity”) - Health care services, treatment, procedures, 
+equipment, drugs, devices, items or supplies that a Provider, exercising prudent clinical judgment, 
+would provide to a patient for the purpose of preventing, evaluating, diagnosing or treating an illness, 
+injury, disease or its symptoms, and that are:  
+ 
+Hematopoietic Cell Transplantation for Acute Lymphoblastic Leukemia  
+ 
+Policy #  00048  
+Original Effective Date:  01/28/2002  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 21 of 21 
+A. In accordance with nationally accepted standards of medical practice; 
+B. Clinically appropriate, in terms of type, frequency, extent, level of care, site and duration, 
+and considered effective for the patient's illness, injury or disease; and 
+C. Not primarily for the personal comfort or convenience of the patient, physician or other 
+health care provider, and not more costly than an alternative service or sequence of services 
+at least as likely to produce equivalent therapeutic or diagnostic results as to the diagnosis or 
+treatment of that patient's illness, injury or disease. 
+For these purposes, “nationally accepted standards of medical practice” means standards  that are 
+based on credible scientific evidence published in peer-reviewed medical literature generally 
+recognized by the relevant medical community, Physician Specialty Society recommendations and 
+the views of Physicians practicing in relevant clinical areas and any other relevant factors. 
+ 
+‡ Indicated trademarks are the registered trademarks of their respective owners. 
+ 
+NOTICE:   If the Patient’s health insurance contract contains language that differs from the 
+BCBSLA Medical Policy definition noted above, the definition in the health insurance contract will 
+be relied upon for specific coverage determinations.  
+ 
+NOTICE:   Medical Policies are scientific based opinions, provided solely for coverage and 
+informational purposes. Medical Policies should not be construed to suggest that the Company 
+recommends, advocates, requires, encourages, or discourages any particular treatment, procedure, 
+or service, or any particular course of treatment, procedure, or service. 

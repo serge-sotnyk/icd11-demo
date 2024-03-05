@@ -1,0 +1,159 @@
+1
+Medical Policy Reference Manual
+Medical Policy
+2.01.073 Autologous Stem Cell Therapy for Peripheral Artery Disease
+Original MPC Approval:09/21/2015
+Last Review Date:        03/01/2022
+Last Revision Date:      03/01/2022
+Description
+The buildup of fatty plaques on the interior surface of the arteries of the lower extremities, known as atherosclerosis, 
+leads to peripheral artery disease (PAD), also known as peripheral vascular disease (PVD).  This is a common disorder 
+that can affect both men and women, although it is more often seen in men over age 50.  Contributing factors include 
+diabetes, high cholesterol, hypertension, and smoking. PAD is characterized by narrowing and stiffening of the vessels, 
+leading to reduced circulation to the muscles, which in turn leads to pain, achiness, fatigue, and burning sensation of 
+the legs and feet.  The legs may also appear pale and cool to the touch. The symptoms, referred to as claudication, 
+usually appear during exercise, and go away after rest. As the disease advances, the stage of critical limb ischemia 
+(CLI) may be reached, with severe pain even at rest, ulcers of the skin, muscular atrophy, and significant risk for loss 
+of the limb.
+Treatment for most cases of PAD is conservative, with lifestyle changes and medications.  Exercise is particularly 
+important to stimulate development of collateral vessels to increase blood supply (angiogenesis and arteriogenesis).  
+Surgery in the form of arterial stent placement or vascular bypass surgery is considered in more severe cases, with 
+limb amputation reserved as a last resort.
+The use of peripheral or bone marrow-derived hematopoetic stem cells has been studied as a method of inducing 
+arteriogenesis by enhancement of the physiological repair mechanism.  Various types of stem cells have been 
+evaluated, including:
+• adipose-derived stem cells
+• bone marrow-derived mononuclear cells
+• bone marrow stem cells
+• cytokine-mobilized CD133+ cells
+• granulocyte colony-stimulating factor (GCSF) cells
+• in vitro-expanded, peripheral blood-derived, autologous stem cells
+Policy
+Stem cell therapy for peripheral arterial disease / peripheral vascular disease is considered experimental / 
+investigational as it does not meet TEC criteria #2-5. 
+Policy Guidelines
+Experimental/Investigational
+The term "experimental/investigational" describes services or supplies that are in the developmental stage and are in
+the process of human or animal testing. Services or supplies that do not meet all 5 of the criteria listed below adopted
+by the BlueCross BlueShield Association Technology Evaluation Center (TEC) are deemed to be
+experimental/investigational:
+1. The technology* must have final approval from the appropriate U.S. government regulatory bodies; and
+2. The scientific evidence must permit conclusions concerning the effect of the technology on health outcomes; and
+3. The technology must improve the net health outcome; and
+4. The technology must be as beneficial as any established alternatives; and
+5. The improvement must be attainable outside the investigational settings.2* Technology includes drugs, devices, processes, systems, or techniques
+Rationale:
+1.  The technology must have final approval from the appropriate government regulatory bodies:  
+Injection of autologous stem cells is a procedure and is therefore not subject to FDA regulation.  However, devices 
+used for cell separation may be subject to FDA regulation, and certain such devices are undergoing various stages of 
+clinical trials for purposes of FDA labeling for treatment of PAD.  The FDA notes in their general article on stem cells 
+and their regulation that there are currently no FDA-licensed stem cell treatments.
+2.   The scientific evidence must permit conclusions concerning the effect on health outcomes:  
+The primary outcome measure in stem therapy studies is amputation-free survival.  Other outcomes for evaluating CLI 
+include the Rutherford criteria for limb status, healing of ulcers, the ankle-brachial index (ABI), transcutaneous oxygen 
+pressure, and pain-free walking.  The Rutherford criteria include ankle and toe pressures, level of claudication, rest 
+pain, non-healing of ulcer, and gangrene.
+The available published studies to date consist mainly of small trials.  Most trials focused on the use of bone marrow 
+mononuclear cells.  Of these, there were two prospective clinical studies (n=20 and n=18, respectively), and one 
+controlled comparison study (n=39).  Two studies evaluated cytokine-mobilized cells in one double-blind randomized 
+controlled trial (RCT) (n=10) and an uncontrolled clinical study (n=9).  Two studies examined GCSF-mobilized stem 
+cells in 2 phase I/II clinical trials, n=17 and n=18 respectively. The double-blind RCT yielded results that the authors 
+concluded were a non-significant effect on outcomes measures as compared with sham treatment; they concluded the 
+approach was likely futile.
+Two phase I/II prospective studies were reported using GCSF-mobilized CD-34+ cells.  It was not reported whether 
+any adjunctive therapies were employed.  Follow-up periods extended as long as 208 weeks in one study, and only 
+twelve weeks in the other.  These were small studies, but the authors in both cases concluded the treatment was 
+feasible and safe, with improvement in outcomes measures such as reduced amputations and improvements in pain 
+and ischemia.
+A small (n=20) open-label randomized study employed peripheral autologous stem cells using the VesCell system.  
+The authors reported that after 3 months six amputations were performed on control group patients but none in the 
+study group.  After two years, 3 amputations had been performed in the treatment group.  Other outcomes measures 
+including change in pain score, wound healing and walking ability were also improved in the treatment group.
+Overall, the published studies to date are best described as pilot-level or feasibility-type studies, with small sample 
+sizes, lack of blinding, and lack of detail regarding control groups.  More study using improved designs are needed to 
+reach conclusions regarding health outcomes.  Also, there needs to be some conclusions as to the optimal source for 
+stem cells as there is conflicting outcomes information.
+3.  The technology must improve the net health outcome:  
+The studies so far suggest that stem cell therapy for PAD is a safe procedure, and possibly effective.  However, the 
+studies are small and somewhat weak in design, so there is insufficient evidence to make any judgments about 
+improvements in the net health outcomes.
+4.  The technology must be as effective as any established alternatives:  
+With advanced cases of PAD, where CLI is being experienced, the patient may be offered stent placement or bypass 
+surgery.  It is not known if stem cell therapy is intended as an adjunct to medical and / or surgical care, or whether it is 
+intended as a stand-alone treatment.  Patient selection criteria will need to be established so the role of stem cell 
+therapy can be defined, if at all.  Currently the evidence does not establish that stem cell therapy is at least as effective 
+as conventional treatments.
+5.  The improvement must be attainable outside the investigational settings: 
+The available evidence has not established a net health improvement in the investigational settings.
+Update 2017:
+A search of the peer-reviewed literature was conducted from April 2015 through July 2017.  Findings in the recent 
+literature do not change the above conclusion.  Therefore, the policy statement is unchanged. 3Update 2019:
+A search of the peer-reviewed literature was conducted from August 2017 through August 2019.  Findings in the recent 
+literature do not change the above conclusion.  Therefore, the policy statement is unchanged.
+Update 2022:
+A search of literature was conducted from September 2019 through December 2021. Findings in the recent literature 
+do not change the above conclusion. Therefore, the policy statement is unchanged.
+Benefit Applications
+There are no benefit application guidelines for this Medical Policy.
+Provider Guidelines
+There are no Provider Guidelines for this Medical Policy.
+Cross References to Related Policies and Procedures
+There are no Related Policies for this Medical Policy.
+References
+The following were among the resources reviewed and considered in developing this policy.  By reviewing and 
+considering the resources, CareFirst does not in any way endorse the contents thereof nor assume any liability 
+or responsibility in connection therewith.  The opinions and conclusions of the authors of these resources are 
+their own and may or may not be in agreement with those of CareFirst.
+Aboyans, V., Ricco, J.B., Bartelink, M.E.L., Björck, M., Brodmann, M., Cohnert, T., … ESC Scientific Document Group. 
+(2018, March). 2017 ESC Guidelines on the Diagnosis and Treatment of Peripheral Arterial Diseases, in collaboration 
+with the European Society for Vascular Surgery (ESVS): Document covering atherosclerotic disease of extracranial 
+carotid and vertebral, mesenteric, renal, upper and lower extremity arteries. Endorsed by: the European Stroke 
+Organization (ESO)The Task Force for the Diagnosis and Treatment of Peripheral Arterial Diseases of the European 
+Society of Cardiology (ESC) and of the European Society for Vascular Surgery (ESVS). European Heart Journal, 
+39(9):763-816. doi: 10.1093/eurheartj/ehx095.
+Franz, R.W., Shah, K.J., Pin, R.H., Hankins, T., Hartman, J.F., Wright, M.L.  (2015, September).  Autologous bone 
+marrow mononuclear cell implantation therapy is an effective limb salvage strategy for patients with severe peripheral 
+arterial disease.  Journal of Vascular Surgery, 62(3):673-80. doi: 10.1016/j.jvs.2015.02.059.
+Gao, W., Chen, D., Liu, G., Ran, X. (2019, May). Autologous stem cell therapy for peripheral arterial disease: a 
+systematic review and meta-analysis of randomized controlled trials. Stem Cell Research & Therapy. 10(1):140. doi: 
+10.1186/s13287-019-1254-5.
+Horie, T. Yamazaki, S., Hanada, S., Kobayashi, S., Tsukamoto, T., Haruna, T., … Japan Study Group of Peripheral 
+Vascular Regeneration Cell Therapy (JPRCT). (2018, July).  Outcome from a randomized controlled clinical trial- 
+improvement of peripheral arterial disease by granulocyte colony-stimulating factor-mobilized autologous peripheral-
+blood-mononuclear cell transplantation (IMPACT). Circulation Journal, 82(8):2165-2174. PMID 29877199
+Knoshita, M., Fujita, Y., Katayama, M., et al (2012). Long-term clinical outcome after intramuscular transplantation of 
+granulocyte colony stimulating factor-mobilized CD34 positive cells in patients with critical limb ischemia. 
+Atherosclerosis 224, 440-5.
+Peeters Weem, S.M., Teraa, M., de Borst, G.J., Verhaar, M.C., Moll, F.L.  (2015, Dec).  Bone marrow derived cell 
+therapy in critical limb ischemia: A meta-analysis of randomized placebo controlled trials.  European Journal of Vascular 
+and Endovascular Surgery : The Official Journal of the European Society for Vascular Surgery,  50(6):775-83. doi: 
+10.1016/j.ejvs.2015.08.018. Epub 2015 Oct 12.4Perin, E.C., Murphy, M.P., March, K.L., Bolli, R., Loughran, J., Yang, P.C., . . .  Cardiovascular Cell Therapy Research 
+Network (CCTRN).  (2017, April).  Evaluation of cell therapy on exercise performance and limb perfusion in peripheral 
+artery disease:  The CCTRN PACE Trial (patients with intermittent claudication injected with ALDH bright cells).  
+Circulation, 135(15):1417-1428. doi: 10.1161/CIRCULATIONAHA.116.025707. Epub 2017 Feb 16.
+Poole, J., Mavromatis, K., Binongo, J.N., et al (2013). Effect of progenitor cell mobilization with granulocyte-macrophage 
+colony stimulating factor in patients with peripheral artery disease: a randomized clinical trial. Journal of the American 
+Medical Association 310, 2631-9.
+Powell, R.J., Marston, W.A., Berceli, S. A. et al (2012). Cellular therapy with ixomycel-T to treat critical limb ischemia: 
+The randomized, double-blind, placebo-controlled RESTORE-CLI trial. Molecular Therapy 20, 1280-6.
+Powell, R.J. (2012). Update on clinical trials evaluating the effect of biologic therapy in patients with critical limb 
+ischemia.  Journal of Vascular Surgery 56, 264-6.
+Raval, A.N., Schmuck, E.G., Tefera, G. et al (2014)Bilateral administration of autologous CD133+ cells in ambulatory 
+patients with refractory critical limb ischemia: Lessons learned from a pilot, randomized, double-blind, placebo-
+controlled trial.  Cytotherapy 16, 1720-32.
+Rigato, M., Monami, M., Fadini, G. P.  (2017, January).  Autologous cell therapy for peripheral arterial Disease:  
+Systematic review and meta-analysis of randomized, non-randomized, and non-controlled studies. Circulation 
+Research, https://doi.org/10.1161/CIRCRESAHA.116.309045
+Teraa, M., Sprengers, R.W., Schutgens, R.E., Slaper-Cortenbach, .I.C., van der Graaf, Y., Algra. A., . . . Verhaar, M.C.  
+(2015).  Effect of repetitive intra-arterial infusion of bone marrow mononuclear cells in patients with no-option limb 
+ischemia: the randomized, double-blind, placebo-controlled Rejuvenating Endothelial Progenitor Cells via 
+Transcutaneous Intra-arterial Supplementation (JUVENTAS) trial.  Circulation, 131(10):851-60. doi: 
+10.1161/CIRCULATIONAHA.114.012913.
+UptoDate  (2019, April)  Investigational therapies for treating symptoms of lower extremity peripheral artery disease. 
+Author:  Hess, C.N., Hiatt, W.R.
+Xie B, Luo H, Zhang Y, Wang, Q., Zhou, C., Xu, D. (2018). Autologous stem cell therapy in critical limb ischemia: A 
+meta-analysis of randomized controlled trials. Stem Cells International, 2018:7528464. PMID 29977308
+Wang, Z., Li, D., Cao, J-X., et al (2014). Efficacy of autologous bone marrow mononuclear cell therapy in patients with 
+peripheral arterial disease. Journal of Atherosclerosis and Thrombosis 21, 1183-96. 
+This policy statement relates only to the services or supplies described herein.  Coverage will vary from 
+contract to contract and by line of business and should be verified before applying the terms of the policy.

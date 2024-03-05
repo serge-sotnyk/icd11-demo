@@ -1,0 +1,786 @@
+ 
+MEDICAL POLICY – 7.01.567 
+Surgical Treatments for Lymphedema  and Lipedema 
+BCBSA Ref. Policy:  7.01.162, 7.01.169 , 7.01.173  
+Effective Date:  Feb. 1 , 2023  
+Last Revised:  Jan. 9 , 2023  
+Replaces:  7.01.162  RELATED MEDICAL POLICIES:  
+1.01.18  Pneumatic Compression Pumps for Treatment of Lymphedema and 
+ Venous Ulcers  
+10.01.514  Cosmetic and Reconstructive Services  
+ 
+Select a hyperlink below to be directed to that section.  
+POLICY CRITERIA   |  DOCUMENTATION REQUIREMENTS  |  CODING  
+RELATED INFORMATION   |  EVIDENCE REVIEW   |  REFERENCES  |  HISTORY  
+∞ Clicking this icon returns you to the hyperlinks menu above.  
+ 
+Introduction  
+Lymphatic fluid is a clear fluid that travels throughout the body. Its job is to remove wastes and 
+bacteria from tissue. Lymphedema is swelling when too much lymphatic fluid accumulates in any 
+part of the body. Lymphedema can be a result of certain surgeries or other procedures that 
+remove or affect lymph node drainage . Lymphedema occurs because there are fewer natural 
+channels for the fluid to move through. Typical treatment calls for raising the affected limb , 
+massaging the area, or using pumps that apply light pressure. Certain surgeries are now being 
+studied. These surgeries call for rerouting the flow of lymphatic fluid by connecting lymph vessels to veins, lymph nodes and veins, or lymph vessels to  other lymph vessels. Other 
+surgeries try to reduce swelling by moving other tissue into the surgical area or using sucti on to 
+remove excess fat and proteins. Many  of these surgeries are investigational (unproven). More 
+studies are needed to see how well they work over the long term.  
+ 
+Note:    The Introduction section is for your general knowledge and is not to be taken  as policy coverage criteria. The 
+rest of the policy uses specific words and concepts familiar to medical professionals. It is intended for 
+providers . A provider can be a person, such as a doctor, nurse, psychologist, or dentist. A provider also can 
+be a place where medical care is given, like a hospital, clinic, or lab.  This policy informs them about when a 
+service may be covered.  
+ 
+7.01.567_PBC (01-09-2023) 
+ 
+ 
+   
+ 
+ 
+   
+Page | 2 of 24  ∞ Policy Coverage Criteria   
+ 
+ 
+Treatment  Medically Necessary  
+Lipectomy or liposuction 
+for the treatment of 
+lymphedema or lipedema Lipectomy or liposuction for the treatment of lymphedema or 
+lipedema may be considered medically necessary when the following criteria are met:  
+• There is documentation of significant physical functional impairment (e.g. , difficulty ambulating or performing activities 
+of daily living); and  
+• The individual has not responded to at least 3 consecutive 
+months of optimal medical management (such as conservative 
+treatment with compression garments and manual lymph drainage); and  
+• The plan of care postoperatively is to continue to wear compression garments as instructed to maintain the benefits of 
+treatment ; and  
+• For the diagnosis of lipedema, the individual has all of the 
+following clinical exam findings: (see Table 1 ) 
+o Bilateral symmetric adiposity in the extremities, 
+o Non-pitting edema ; 
+o Tissue in affected areas is soft to palpation; 
+o Tissue in affected areas is tender to palpation  
+• Submission of photographs document the affected extremities 
+requested for treatment  and are consistent with the diagnosis 
+of lipedema or lymphedema  
+ 
+Treatment  Investigational  
+Surgical treatments  The following surgical treatments to treat  lymphedema (eg, 
+upper or lower extremities or genitalia) are considered 
+investigational: 
+• Lymphatic physiologic microsurgery  
+o Lymphatico -lymphatic bypass  
+o Lymphovenous bypass  
+o Lymphaticovenous anastomosis  
+o Autologous lymph node transplantation 
+o Vascularized lymph node transfer Page | 3 of 24  ∞ Treatment  Investigational  
+• Tissue transfer (e .g., omenta l or mesenteric flap)  
+• Reductive/ablative techniques 
+o Direct excision  
+Preventive surgical 
+treatment  Lymphatic physiologic microsurgery performed during nodal 
+dissection or breast reconstruction to prevent lymphedema 
+(including, but not limited to, the Lymphatic Microsurgical 
+Preventing Healing Approach  [LYMPHA] ) in individuals who 
+are being treated for breast cancer is considered 
+investigational  
+Reverse lymphatic 
+mapping  Reverse lymphatic mapping used during lymphatic surgical or 
+liposuction procedures  is considered investigational  
+ 
+Documentation Requirements  
+The individual ’s medical records submitted for review for all conditions should document 
+that medical necessity criteria are met. The record should include the following:  
+• Office visit notes that contain the relevant history and physical (with the specific surgical procedure requested, any physical functional impairment noted, medical management tri ed, 
+post-op plan of care for use of compression garments) 
+• If request is for the treatment of lipedema all of the following clinical exam findings are 
+documented: bilateral symmetric adiposity in the extremities, non -pitting edema, tissue in 
+affected areas is soft to palpation , and tissue in affected areas is tender to palpation  
+• Photographs document the affected extremities requested for treatment  and are consistent 
+with the diagnosis of lipedema or lymphedema   
+ 
+Coding   
+ 
+Code  Description  
+CPT 
+15832  Excision, excessive skin and subcutaneous tissue (includes lipectomy); thigh  
+15833  Excision, excessive skin and subcutaneous tissue (includes lipectomy); leg  
+15836  Excision, excessive skin and subcutaneous tissue (includes lipectomy); arm  
+15839  Excision, excessive skin and subcutaneous tissue (includes lipectomy); other area  Page | 4 of 24  ∞ Code  Description  
+15877  Suction assis ted lipectomy; trunk  
+15878 Suction assisted lipectomy; upper extremity  
+15879  Suction assisted lipectomy; lower extremity  
+38999  Unlisted procedure, hemic or lymphatic system  
+76499  Unlisted diagnostic radiographic procedure  
+Note:  CPT codes, descriptions and materials are copyrighted by the American Medical Association (AMA). HCPCS 
+codes, descriptions and materials are copyrighted by Centers for Medicare Services (CMS).  
+ 
+Related Information   
+ 
+Definition of Terms 
+When specific definitions are not present in a member’s plan, the following definitions will be 
+applied. 
+Physical functional impairment:  In this policy, physical functional impairment means either 
+limitation from normal physical functioning or baseline level of functioning that may include, but 
+is not limited to, problems with ambulation, mobilization, communication, respiration, eating, 
+swallowing, vision, facial expression, skin integrity, distortion of nearby body part(s) or 
+obstruction of an orifice. The physical functional impairment can be due to structure, congenital 
+deformity, pain, or other causes. Physical functional impairment excludes social, emotional and 
+psychological impairments or potential impairments.  
+ 
+Table 1. Comparison of Findings in Lipedema, Lymphedema, and 
+Lifestyle -induced Obesity 
+ Lipedema  Lymphedema  Lifestyle -induced 
+Obesity 
+Sex Women  Women and men  Women and men 
+Adiposity  Bilateral extremities  
+Symmetric  Unilateral or bilateral extremities  
+Asymmetric  Whole body, proportionate  
+Symmetric  Page | 5 of 24  ∞  Lipedema  Lymphedema  Lifestyle -induced 
+Obesity 
+Edema  Nonpitting  
+Minimal change with 
+elevation; minimal change 
+with compression Pitting  
+Reduced by elevation; reduced with 
+compression  None 
+No change with elevation or compression  
+Tissue turgor  Soft Firm Soft 
+Pain Tender to palpation  Usually nontender  None  
+Infection  Rare Common  Rare 
+Source:  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5055019/   Accessed October 5 , 2022 
+ 
+Evidence Review   
+ 
+Description 
+Surgery and radiotherapy for breast cancer can lead to lymphedema and are some  of the most 
+common causes of secondary lymphedema. There is no cure for lymphedema. However, 
+physiologic microsurgical techniques such as lymphaticovenular anastomosis or vascul arized 
+lymph node transfer have been developed that may improve lymphatic circulation, thereby 
+decreasing symptoms and risk of infection.  
+Lymphedema is an accumulation of fluid due to disruption of lymphatic drainage. Lymphedema 
+can be caused by congenital or inherited abnormalities in the lymphatic system (primary 
+lymphedema) but is most often caused by acquired damage to the lymphatic system (secondary 
+lymphedema). 
+Lipedema is a disorder characterized by a large amount of subcutaneous fat in the extremit ies, 
+typically the legs and thighs. The adipose tissue may be painful. In contrast, lymphedema is the 
+accumulation of interstitial fluid due to impaired lymphatic flow. This increase in interstitial fluid 
+may lead to the accumulation and hypertrophy of fat  cells. Liposuction, consisting of the 
+removal of fat cells with a cannula and tumescent anesthesia, is being investigated as a treatment option for both lipedema and lymphedema. Page | 6 of 24  ∞ Background  
+Lymphedema  
+Lymphedema is an abnormal accumulation of interstitial  fluid and fibroadipose tissue in 
+subcutaneous tissues or body cavities. In the extremities, capillaries in the superficial lymphatic 
+system drain the lymph in the skin and subcutaneous tissue, which then flows into the deep 
+system and then the lymph nodes, finally draining into the venous circulation. Accumulation of 
+interstitial lymph fluid occurs when the accumulation of lymph exceeds the capacity of the system to drain. The excessive fluid may cause the accumulation and hypertrophy of fat cells. 
+Primary lymphedema may occur due to congenital anomalies or an inherited condition. 
+Secondary lymphedema has a variety of causes that reduce lymph drainage including surgical removal of lymph nodes, post- radiation fibrosis, scarring of lymphatic channels, obesity, and 
+chronic lymphatic overload. Cancer- associated lymphedema can occur due to obstruction, 
+infiltration, removal of lymph nodes, irradiation, or medications. Nearly all cases of lymphedema 
+in the U.S. are secondary to cancer or cancer treatment.  
+The most  common cancer- associated lymphedema occurs in women who have undergone 
+axillary surgery and/or axillary radiation therapy for breast cancer. The risk of developing arm lymphedema is associated with the extent of axillary lymph node dissection, and there i s a 
+greater risk of lymphedema in breast cancer patients who undergo dissection compared to 
+those who undergo biopsy.  
+ 
+Diagnosis and Staging  
+A diagnosis of secondary lymphedema is based on history (e .g., cancer treatment, trauma) and 
+physical examination (localized, progressive edema and asymmetric limb measurements) when 
+other causes of edema can be excluded. Imaging, such as magnetic resonance imaging, 
+computed tomography, ultrasound, or lymphoscintigraphy, may be used to differentiate lymphedema from other causes of edema in diagnostically challenging cases. 
+Table 2  lists International Society of Lymphology guidance for staging lymphedema based on 
+"softness" or "firmness" of the limb and the changes with an elevation of the limb.
+1 Page | 7 of 24  ∞ Table 2 . Recommendations for Staging Lymphedema 
+Stage  Description  
+Stage 0 (subclinical)  Swelling is not evident and most patients are asymptomatic despite impaired lymphatic 
+transport  
+Stage I (mild)  Accumulation of fluid that subsides (usually within 24 hours) with limb elevation; soft edema 
+that may pit, without evidence of dermal fibrosis  
+Stage II (moderate)  Does not resolve with limb elevation alone; limb may no longer pit on examination  
+Stage III (severe)  Lymphostatic elephantiasis; pitting can be absent; skin has trophic changes  
+ 
+Breast Cancer −Related Lymphedema  
+Breast cancer treatment is one of the most common causes of secondary lymphedema. Both the 
+surgical removal of lymph nodes and radiotherapy are associated with development of 
+lymphedema in individuals with breast cancer.  
+In a systematic review of 72 studies (N=29,612 women), DiSipio et al (2013) reported that 
+approximately 1 in 5 women who survive breast cancer will develop arm lymphedema.2 
+Reviewers reported that risk factors for development of lymphedema that had a strong level of 
+evidence were extensive surgery ( i.e., axillary -lymph-node dissection, greater number of lymph 
+nodes dissected, mastectomy) and being overweight or obese. The incidence of breast cancer-
+related lymphedema was found by DiSipio et al as well as other authors to be up to 30% at 3 
+years after treatment.2,3,4 
+Studies have also suggested that Black breast cancer survivors are nearly 2.2 times more likely to 
+develop breast cancer- related lymphedema compared to White breast cancer survivors.5 These 
+observations may be linked to racial disparities with regards to access to treatment and the types of treatments received. Black women are more likely than White women to undergo 
+axillary lymph node dissection, which is associated with greater morbidity than the less invasive 
+sentinel lymph node biopsy. While this may be explained in part by Black individuals having a 
+higher likelihood of being diagnosed with more aggressive tumors, there is evidence that even 
+when adjusting for stage and grade of tumors, Black women are more likely to undergo ax illary 
+lymph node dissection, putting Black women at greater risk of breast cancer- related 
+lymphedema. Additionally, Black breast cancer survivors, on average, have higher body mass 
+indexes than White breast cancer survivors, which could contribute to development of 
+lymphedema in this setting as well.  
+ Page | 8 of 24  ∞ Management and Treatment  
+Early and ongoing treatment of lymphedema is necessary. Conservative therapy may consist of 
+several features depending on the severity of the lymphedema. Individual s are educated on t he 
+importance of self -care including hygiene practices to prevent infection, maintaining ideal body 
+weight through diet and exercise, and limb elevation. Compression therapy consists of repeatedly applying padding and bandages or compression garments. Manual lymphatic 
+drainage is a light pressure massage , performed by trained physical therapists or by individuals, 
+designed to move fluid from obstructed areas into functioning lymph vessels and lymph nodes. Complete decongestive therapy is a multiphase treatment program involving all of the previously mentioned conservative treatment components at different intensities. Pneumatic 
+compression pumps may also be considered as an adjunct to conservative therapy or as an 
+alternative to self -manual lymphatic drainage in individuals who have difficulty performing self -
+manual lymphatic drainage. In individual s with more advanced lymphedema after fat deposition 
+and tissue fibrosis has occurred, palliative surgery using reductive techniques such as liposuction 
+may be performed. 
+ 
+Table 3 . Physiologic Microsurgical Interventions for Lymphedema  
+Purpose  Surgery  Description  Key Features  
+Bypass or reconstruct 
+obstructed lymph 
+vessels to improve 
+drainage  Lymphatic -lymphatic 
+bypass  Connects functioning lymphatic 
+vessels directly to affected 
+lymphatic vessels; healthy vessels come from donor  site •Lymphedema can develop 
+in donor extremity  
+•Scar ring at  donor  site 
+ 
+Lymphovenous 
+bypass and 
+lymphaticovenular 
+anastomosis Lymphatic vessels in  an affected  
+limb are connected to the venous 
+system  •Outpatient procedure or 
+usually discharged within a day 
+•Quick  return to daily 
+activities  
+Transfer lymph tissue 
+to reestablish 
+lymphatic flow  Autologous lymph 
+node transplantation and vascularized 
+lymph node transfer  Health y lymph nodes are 
+transferred to the affected limb •Inpatient procedure; 
+requires 2 -3 days of 
+hospitalization  
+•Lymphedema can develop 
+in donor extremity  
+ Page | 9 of 24  ∞ Axillary Reverse Mapping  
+Axillary reverse mapping (ARM), involves subcutaneous administration of blue dye, fluorescence 
+(i.e., indocyanine green), or radioisotopes to allow for visualization of the lymphatic drainage 
+pathways of the arm and breast. This visualization is intended to distinguish and enable preservation of axillary lymph nodes and lymphatics in individuals undergoing sentinel lymph 
+node biopsy and/or axillary lymph node dissection. It is believed that because the axilla and 
+breast have mostly separate drainage pathways, the risk of lymphedema is reduced by avoiding 
+the removal of lymph nodes and lymphatics that only drain the axilla identified through ARM. In 
+the event that ARM reveals that the axillary nodes cannot be spared, for example due to crossover of sentinel and axillary nodes, lymphatic physiologic microsurgery has been explored 
+as a method to preserve the axillary nodes, though evidence is limited  
+ 
+Reductive (Excisional or Ablative ) Surgical Interventions 
+Reductive techniques remove fibrous, fatty tissue that has developed from sustained lymphatic 
+fluid stasis. Reductive interventions include direct excision and liposuction procedures.  
+• Direct excision: There are several direct excision procedures for the treatment of extremity 
+and genital lymphedema. Subcutaneous tissue is excised along with the skin and soft tissues 
+to attempt to reduce the volume of the affected area. The resulting defects are then covered 
+with tissue flaps or skin grafts. Wound healing complications and infections have been 
+reported side effects of this type of intervention along with sexual dysfunction, decreased sensation and urethral injury when performed on the genitalia.
+35 
+• Liposuction: Fibrous, fatty issue is removed through multiple small incisions of the affected 
+extremity via a cannula attached to a powered suction device. Compression garments are 
+worn postoperatively and may be required  indefinitely to maintain the adipose tissue 
+volume reduction obtained with this procedure. This technique is intended for individuals 
+with end -stage lymphedema who have not responded to conservative treatments. Minor 
+complications such as occasional paresthesias and wound healing are reported with this 
+technique.35 
+ 
+ Page | 10 of 24  ∞ Liposuction for the Treatment of Lipedema  
+Lipedema is a  rare disorder in which  increased adipose ( fat) tissue builds up under the skin 
+causing non -pitting , symmetric, bilateral  swelling  of the lower extremities; the upper extremities 
+can also be affect ed. Hands and feet characteristically do not swell. It primarily affects women. 
+The cause of lipedema is unknown and there is currently no curative treatment for this 
+condition. Signs and symptoms typically present at puberty, pregnancy, or menopause. Because 
+of this , it is theorized that  there is a hormonal influence on the disorder. Hereditary factors are 
+also thought to play a role in its etiology. Lipedema is often painful  and may present with 
+bruising a long with  sensitivity to touch. This condition  gradually worsens over time and may 
+progress to  a lipo -lymphedema due to the lymphatic load exceeding the lymphatic transport 
+capacity . Lipedema  is often misdiagnosed as obesity or lymphedema but does not generally 
+respond to weight loss, exercise, or elevation of the limbs as do those disorders. Over time, the 
+weight of the excessive fat build- up can impair the ability to walk  and lead to reduced mobility. 
+ 
+Types of Lipedema  
+Type 1: Pelvis, buttocks and hips (saddle bag phenomenon) Type 2: Buttocks to knees with formation of folds of fat around the inner side of the knee Type 3: Buttocks to ankles Type 4: Arms Type 5: Isolated lower leg  
+ 
+Stages of Lipedema  
+Stage 1: Even and smooth skin surface with enlarged subcutaneous fat tissue  
+Stage 2: Uneven skin surface with nodular elevations and indentations of subcutaneous fat and 
+lipomas  
+Stage 3: Large deforming growths of nodular fat or hanging flaps of the thighs and around the 
+knees  
+Stage 4: Large overhangs of tissue, dysfunctional lymphatics with lipedema and lipolyphedema  Page | 11 of 24  ∞ Treatment is aimed at relieving the symptoms. Conservative care with combined decongestive 
+therapy (manual lymphatic drainage and compression garments) is the mainstay  treatment of 
+choice. If there is an inadequate response to conservative or supportive measures, tumescent 
+liposuction has been proposed as the next line of treatment. Tumescent liposuction is a 
+technique whereby local anesthetic, such as diluted lidocaine and epinephrine, is injected into 
+subcutaneous fat and a vibrating cannula  associated with power -assisted liposuction removes 
+the fat. Waterjet assisted liposuction is another method of liposuction that may be used to treat 
+lipedema. This method uses a pressurized stream of saline to dislodge the fat and more gently 
+loosen and remove the fat cells. 
+ 
+Summary of Evidence  
+For individuals who have breast cancer−related secondary lymphedema who receive physiologic 
+microsurgery to treat lymphedema along with continued conservative therapy, the evidence 
+includes a  randomized controlled trial  (RCT), observational studies, and systematic reviews. 
+Relevant outcomes are symptoms, morbid events, functional outcomes, health status measures, 
+quality of life, resource utilization, and treatment -related morbidity. Several physiologic 
+microsurgeries have been developed; examples include lymphaticovenular anastomosis and vascularized lymph node transfer (VLNT) . No RCTs of lymphaticovenular anastomosis or similar 
+surgeries involving the venous system were identified. One RCT of VLNT  with 36 participants has 
+been conducted. Systematic reviews have indicated that the preponderance of the available 
+evidence comes from single- arm clinical series from individual institutions. Surgical technique, 
+outcomes metrics, and follow -up time have varied across these studies. These types of studies 
+might be used for preliminary estimates of the amount of volume reduction expected from surgery, the durability of the reduction in volume, and the rates of adverse events. However, 
+these studies are not adequate for determining the comparative efficacy of physiologic 
+microsurgery vs conservative treatment or decongestive therapy, or the comparative efficacy of 
+different microsurgery techniques. RCTs are needed. The evidence is insufficient to determine 
+that the technology results in an improvement in the net health outcome. 
+For individuals who are undergoing lymphadenectomy for breast cancer who receive 
+physiologic microsurgery to prevent lymphedema, the evidence includes an RCT, observational 
+studies, and systematic reviews. Relevant outcomes are symptoms, change in disease status, 
+morbid events, quality of life, and treatment -related morbidity. Lymphatic Microsurgical 
+Preventing Healing Appro ach (LYMPHA) is a preventive lymphaticovenular anastomosis 
+performed during nodal dissection. One RCT including 46 individuals has been conducted. The 
+trial reported that lymphedema developed in 4% of women in the LYMPHA  group and 30% in Page | 12 of 24  ∞ the control group by 18 months of follow -up. However, because the cumulative incidence of 
+lymphedema after breast cancer treatment approximates 30% at 3 years, longer follow -up is 
+needed to assess the durability of the procedure. The trial methods of randomization and 
+allocation concealment were not described and there was no blinding, potentially introducing 
+bias. The remaining evidence consists of uncontrolled studies and systematic reviews of these studies. The evidence is insufficient to determine that the technology results in an improvement 
+in the net health outcome . 
+For individuals with lipedema who receive liposuction, the evidence includes case series with 
+over 100 patients. Relevant outcomes are symptoms, change in disease status, functional outcomes, and quality of  life. Baseline to post -treatment comparisons provide low quality 
+evidence that liposuction reduces limb circumference and may reduce pain and improve mobility in patients with advanced lipedema who have failed conservative therapy. The 
+durability of the procedure is uncertain, and no studies were identified that compared 
+liposuction to continued decongestive therapy. One such trial is currently in progress and will 
+provide needed information on the benefits and harms of this procedure. The evidence is 
+insufficient to determine that the technology results in an improvement in the net health outcome. 
+ 
+For individuals with lymphedema who receive liposuction, the evidence includes a few small, 
+controlled trials and an uncontrolled observational study with 5 yea r follow -up. Relevant 
+outcomes are symptoms, change in disease status, functional outcomes, and quality of life. The 
+available studies suggest that arm volume can be reduced by the procedure, but follow- up is 
+limited, and the trials have a number of other limitations that include lack of blinding, subjective outcome measures, lack of a physiotherapy control, and small sample size. The most rigorous 
+evidence to date is a consecutive series of over 100 patients with detailed methodology. This 
+series indicates that patients who have failed conservative therapy can have complete reversal of 
+excess volume in the short term and that gains can persist through 5 years of follow -up when 
+compression therapy is continued after surgery. However, no studies were identifi ed that 
+compared liposuction to a decongestive therapy protocol with continued compression. Further 
+study is needed to evaluate the impact of liposuction when compared to a decongestive therapy 
+protocol. The evidence is insufficient to determine that the technology results in an 
+improvement in the net health outcome 
+Randomized controlled trials are needed to prove the benefits of pedicled or laparoscopic free 
+omental lymphatic flap for the management of lymphedema.  Page | 13 of 24  ∞ Reverse mapping using blue dye as a method  for preserving the lymphatic drainage of the arm 
+in breast cancer cases or indo -cyanine green as a technique to identify lymph node drainage 
+patterns to localize lymph nodes in the surgical treatment of lymphedema  are being 
+investigated . Further studies are needed to determine the long -term outcomes of these 
+techniques. The evidence is insufficient to determine that  the technology results in an  
+improvement in the net  health outcome. 
+Despite the lack of strong evidence, clinical guidelines recommend liposuction in individuals 
+with advanced lipedema  and for chronic lymphedema as there is limited treatment available 
+when conservative measures have failed. 
+ 
+Ongoing and Unpublished Clinical Trials  
+Some currently ongoing and unpublished trials that might influence this review are listed in 
+Table 4 . 
+ 
+Table 4 . Summary of Key Trials 
+NCT No.  Trial Name  Planned 
+Enrollment  Completion 
+Date  
+Ongoing  
+NCT02790021  Improving Quality of Survivorship for Breast Cancer -related 
+Lymphedema by Lymphaticovenous Anastomosis: A 
+Randomized Controlled Trial  60 Aug 2022  
+NCT03428581  Preventing Lymphedema in Patients Undergoing Axillary 
+Lymph Node Dissection  Via Axillary Reverse Mapping and 
+Lympho -venous Bypass  264 Feb 2023  
+NCT04272827  Multicenter, Controlled, Randomized, Investigator -blinded 
+Clinical Study on Efficacy and Safety of Surgical Therapy of Lipedema Compared to Complex Physical Decongestive 
+Therapy Alone (LIPLEG)  450 Sep 2025  
+NCT04687956  Effect of Lymphatic Microsurgical Preventing Healing 
+Approach (LYMPHA) for Primary Surgical Prevention of 
+Breast C ancer- related Lymphedema  72 Dec 2027  
+NCT02790021  Improving the Quality of Life of Patients With Breast 
+Cancer-related Lymphedema by Lymphaticovenous Anastomosis (LVA): A Randomized Controlled Trial  120 Aug 2022  Page | 14 of 24  ∞ NCT No.  Trial Name  Planned 
+Enrollment  Completion 
+Date  
+NCT04579029  Prospective Randomized Evaluation of Lymphaticovenous 
+Anastomosis Using Dynamic Imaging in Breast Cancer-
+related Lymphoedema  64 Apr 2024  
+NCT04328610  A Randomized Controlled Trial to Assess the Efficacy of the 
+Lymphatic Microsurgical Preventive Healing Approach 
+(LYMPHA) to Prevent Lymphedema After Axillary Dissection 
+for Breast Cancer  34 Feb 2022  
+NCT03428581  Preventing Lymphedema in Patients Undergoing Axillary 
+Lymph Node Dissection Via Axillary Reverse Mapping and Lympho -venous Bypass  264 Feb 202 3 
+NCT03927027  ARM: Axillary Reverse Mapping - A Prospective Trial to 
+Study Rates of Lymphedema and Regional Recurrence After Sentinel Lymph Node Biopsy and Sentinel Lymph 
+Node Biopsy Followed by Axillary Lymph Node Dissection 
+Wi h d Wi h  A ill  R  M i  516 Jan 2024  
+NCT04446494  Identification and Preservation of Arm Lymphatics 
+(DEPART) in Axillary Dissection for Breast Cancer to Reduce Arm Lymphedema Events: A Multicenter Randomized 
+Clinical Trial  1200  Sep 2025  
+NCT: national clinical trial.  
+ 
+Practice Guidelines and Position Statements  
+Guidelines or position statements will be considered for inclusion if they were issued by, or 
+jointly by, a U.S. professional society, an international society with U.S. representation, or 
+National Institute for Health and Care Excellence (NICE). Priority will be given to guidelines that are infor med by a systematic review, include strength of evidence ratings, and include a 
+description of management of conflict of interest.  
+ 
+National Lymphedema Network  
+The National Lymphedema Network published a position paper on the diagnosis and treatment of lym phedema in 2011.
+30 The paper provided  the following statements, although notably, the 
+document has been retracted and the Network is currently in the process of drafting a new 
+position statement:  Page | 15 of 24  ∞ “Microsurgical and supramicrosurgical (much smaller vessels)  techniques have been developed 
+to move lymph vessels to congested areas to try to improve lymphatic drainage. Surgeries 
+involve connecting lymph vessels and veins, lymph nodes and veins, or lymph vessels to lymph 
+vessels. Reductions in limb volume have been reported and a number of preliminary studies 
+have been done, but there are no long -term studies of the effectiveness of these techniques.”  
+An update of this position paper is in development as of July 2022.  
+ 
+International Society of Lymphology  
+The Inte rnational Society of Lymphology published a n updated  consensus document on the 
+diagnosis and treatment of peripheral lymphedema in 2020.31 The document stated the 
+following on lymphaticovenous (or lymphovenous) anastomoses (LVA):  
+LVA are currently in use at multiple centers around the world. These procedures have 
+undergone confirmation of long -term patency (in some cases more than 25 years) and some 
+demonstration of improved lymphatic transport (by objective physiologic measurements of long-term effica cy). Multiple lymphatic-venous anastomoses in a single surgical site, with 
+both the superficial and deep lymphatics, allow the creation of a positive pressure gradient 
+(lymphatic- venous) and evade the phenomenon of gravitational reflux without interrupting  
+the distal peripheral superficial lymphatic pathways. Some centers particularly in areas of endemic filariasis also practice lymph nodal -venous shunts as a derivative method. Multiple 
+centers are using LVA (LYMPHA) as a preventative measure in high risk patients.  
+In 2020, the International Society of Lymphology published a consensus document on the diagnosis and treatment of peripheral lymphedema.
+31 The consensus of the panel was that 
+liposuction has been show n to completely reduce non-pitting lymphedema due to excess fat 
+deposition, but long- term management requires strict patient adherence to compression 
+garments.  
+ 
+American Society of Breast Surgeons  
+The American Society of Breast Surgeons published recommendations from an expert panel on 
+preventive and therapeutic options for breast cancer- related lymphedema in 2017.32 The 
+document stated that "the Panel agrees that LVA and VLNT may be effective for early secondary breast cancer-related lymphedema. ” Page | 16 of 24  ∞  
+National Comprehensive Cancer Network  
+The National Comprehensive Cancer Network (NCCN) published recommendations on 
+management of lymphedema as part of its guideline on survivorship; however, it does not 
+discuss physiologic microsurgical techniques.33 The guideline states that high- level evidence in 
+support of  treatments for lymphedema are lacking. In addition, the NCCN guideline on breast 
+cancer does not give recommendations on use of physiological microsurgical techniques for 
+preventing or treating lymphedema.33 
+ 
+American Association of Plastic Surgeons  
+The American Association of Plastic Surgeons sponsored a conference to create consensus statements and recommendations for surgical treatment and prevention of upper and lower 
+extremity lymphedema.
+12 The recommendations were based on the results of a systematic 
+review and meta -analysis. The relevant recommendations include:  
+"There is evidence to support that lymphovenous anastomosis can be effective in reducing severity of lymphedema (grade 1C). There is evidence to support that vascular lymph node 
+transplantati on can be effective in reducing severity of lymphedema (grade 1B). Currently, there 
+is no consensus on which procedure (lymphovenous bypass versus vascular lymph node transplantation) is more effective (grade 2C). A few studies show that prophylactic lymphovenous bypass in patients undergoing extremity lymphadenectomy may reduce the 
+incidence of lymphedema (grade 1B). More studies with longer follow -up are required to 
+confirm this benefit."  
+A 2021 consensus document sponsored by the American Association of Plastic Surgeons evaluated the evidence on surgical treatment of lymphedema.
+74 The conference recommended, 
+based on grade 1C (very low quality) evidence, that there is a role for debulking procedures such as liposuction and for liposuction combined with physiologic procedures in reducing the 
+nonfluid component in lymphedema. 
+ Page | 17 of 24  ∞ International Consensus Conference on Lipedema  
+A 2017 international consensus conference on lipedema identified studies from Germany that 
+reported long -term benefits for up to 8 years following liposuction, concluding that lymph-
+sparing liposuction is the only effective treatment for lipedema.67 
+ 
+Austrian Academy of Cosmetic Surgery and Aesthetic Medicine and the 
+International Society for Dermatologic Surgery  
+Austrian Academy of Cosmetic Surgery and Aesthetic Medicine and the International Society for 
+Dermatologic Surgery: Prevention of Progression of Lipedema with Liposuction Using Tumescent Local Anesthesia: Results of an International Consensus Conference . 2020.
+70 This consensus 
+statement concludes: “Lymph- sparing liposuction using tumescent local anesthesia is currently 
+the only effective treatment for lipedema.”  
+ 
+Canadian Agency for Drugs and Technologies in Health (CADTH)  
+In 2019 CADTH published A Review of Clinical Effectiven ess and Guidelines for Liposuction for 
+the Treatment of Lipedema .68 The guideline recommends that tumescent liposuction be 
+considered the treatment of choice for individual s with an inadequate response to conservative 
+measures.  
+ 
+National Institute for Health and Care Excellence (NICE)  
+NICE issued clinical guidance (IPG723)  addressing the use of liposuction for chronic 
+lymphedema in 2022.72 The guidance reviewed the evidence and concluded that current 
+evidence on the safety and efficacy of liposuction for chronic lymphedema is adequate to 
+support the use of this procedure provided that standard arrangements are in place for clinical 
+governance, consent, and audit. The evidence on safety shows that the potential risks include 
+venous thromboembolism, fat embolism, and fluid overload. Individual selection should only be 
+done by a multidisciplinary team with expertise in managing lymphedema. The procedure 
+should only be done in specialist centers by clinicians with training and expertise in liposuction for lym phedema following agreed perioperative protocols.  
+ Page | 18 of 24  ∞ Medicare National Coverage  
+There is no national coverage determination.  
+ 
+Regulatory Status  
+Physiologic microsurgery for lymphedema is a surgical procedure and, as such, is not subject to 
+regulation by the U.S. Food and Drug Administration.  
+ 
+References   
+ 
+1. International Society of Lymphology Executive Committee. The Diagnosis and Treatment of Peripheral Lymphedema: 2016 
+Consensus Document of the International Society of Lymphology. 2016; https://journals.uair.arizona.edu/index.php/lymph/article/view/20106 . Accessed October 4, 2022.  
+2. DiSipio T, Rye S, Newman B, et al. Incidence of unilateral arm lymphoedema after breast cancer: a systematic review and meta -
+analysis. Lancet Oncol. May 2013; 14(6): 500- 15. PMID 23540561 
+3. Ribei ro Pereira ACP, Koifman RJ, Bergmann A. Incidence and risk factors of lymphedema after breast cancer treatment: 10 years 
+of follow -up. Breast. Dec 2017; 36: 67- 73. PMID 28992556  
+4. Zou L, Liu FH, Shen PP, et al. The incidence and risk factors of related lymphedema for breast cancer survivors post -operation: a 
+2-year follow -up prospective cohort study. Breast Cancer. May 2018; 25(3): 309 -314. PMID 29397555 
+5. Dean LT, Kumar A, Kim T, et al. Race or Resource? BMI, Race, and Other Social Factors as Risk Factors for Interlimb Differences among Overweight Breast Cancer Survivors with Lymphedema. J Obes. 2016; 2016: 8241710. PMID 27433356  
+6. Pusic AL, Cemal Y, Albornoz C, et al. Quality of life among breast cancer patients with lymphedema: a systematic review of patient -reported outcome instruments and outcomes. J Cancer Surviv. Mar 2013; 7(1): 83- 92. PMID 23212603  
+7. Coriddi M, Dayan J, Sobti N, et al. Systematic Review of Patient -Reported Outcomes following Surgical Treatment of 
+Lymphedema. Cancers (Basel). Feb 29 2020; 12(3 ). PMID 32121343 
+8. Leung N, Furniss D, Giele H. Modern surgical management of breast cancer therapy related upper limb and breast lymphoedema. Maturitas. Apr 2015; 80(4): 384- 90. PMID 25747119 
+9. Cornelissen AJM, Beugels J, Ewalds L, et al. Effect of Lymphatico venous Anastomosis in Breast Cancer- Related Lymphedema: A 
+Review of the Literature. Lymphat Res Biol. Oct 2018; 16(5): 426 -434. PMID 29356596 
+10. Scaglioni MF, Fontein DBY, Arvanitakis M, et al. Systematic review of lymphovenous anastomosis (LVA) for the treat ment of 
+lymphedema. Microsurgery. Nov 2017; 37(8): 947- 953. PMID 28972280 
+11. Carl HM, Walia G, Bello R, et al. Systematic Review of the Surgical Treatment of Extremity Lymphedema. J Reconstr Microsurg. Jul 2017; 33(6): 412- 425. PMID 28235214  
+12. Chang DW, Dayan J , Greene AK, et al. Surgical Treatment of Lymphedema: A Systematic Review and Meta -Analysis of 
+Controlled Trials. Results of a Consensus Conference. Plast Reconstr Surg. Apr 01 2021; 147(4): 975 -993. PMID 33761519 Page | 19 of 24  ∞ 13. Salgarello M, Mangialardi  ML, Pino V, et al. A Prospective Evaluation of Health- Related Quality of Life following 
+Lymphaticovenular Anastomosis for Upper and Lower Extremities Lymphedema. J Reconstr Microsurg. Nov 2018; 34(9): 701 -
+707. PMID 29689576 
+14. Ozturk CN, Ozturk C, Glasgow M,  et al. Free vascularized lymph node transfer for treatment of lymphedema: A systematic 
+evidence based review. J Plast Reconstr Aesthet Surg. Sep 2016; 69(9): 1234 -47. PMID 27425000  
+15. Forte AJ, Cinotto G, Boczar D, et al. Omental Lymph Node Transfer for Lymp hedema Patients: A Systematic Review. Cureus. Nov 
+25 2019; 11(11): e6227. PMID 31807393  
+16. Li Y, Dong R, Li Z, et al. Intra -abdominal vascularized lymph node transfer for treatment of lymphedema: A systematic literature 
+review and meta -analysis. Microsurgery.  Nov 2021; 41(8): 802- 815. PMID 34562039 
+17. Demiri E, Dionyssiou D, Tsimponis A, et al. Donor- Site Lymphedema Following Lymph Node Transfer for Breast Cancer -Related 
+Lymphedema: A Systematic Review of the Literature. Lymphat Res Biol. Feb 2018; 16(1): 2 -8. PM ID 29087763  
+18. Dionyssiou D, Demiri E, Tsimponis A, et al. A randomized control study of treating secondary stage II breast cancer- related 
+lymphoedema with free lymph node transfer. Breast Cancer Res Treat. Feb 2016; 156(1): 73 -9. PMID 26895326  
+19. Nguyen AT, Sua mi H, Hanasono MM, et al. Long- term outcomes of the minimally invasive free vascularized omental lymphatic 
+flap for the treatment of lymphedema. J Surg Oncol. Jan 2017; 115(1): 84 -89. PMID 27439587  
+20. Ciudad P, Agko M, Perez Coca JJ, et al. Comparison of long -term clinical outcomes among different vascularized lymph node 
+transfers: 6 -year experience of a single center's approach to the treatment of lymphedema. J Surg Oncol. Nov 2017; 116(6): 
+671-682. PMID 28695707  
+21. Gennaro P, Gabriele G, Salini C, et al. Our su pramicrosurgical experience of lymphaticovenular anastomosis in lymphoedema 
+patients to prevent cellulitis. Eur Rev Med Pharmacol Sci. Feb 2017; 21(4): 674 -679. PMID 28272717 
+22. Drobot A, Bez M, Abu Shakra I, et al. Microsurgery for management of primary and secondary lymphedema. J Vasc Surg Venous 
+Lymphat Disord. Jan 2021; 9(1): 226- 233.e1. PMID 32446874  
+23. Cemal Y, Pusic A, Mehrara BJ. Preventative measures for lymphedema: separating fact from fiction. J Am Coll Surg. Oct 2011; 213(4): 543-51. PMID 21802319 
+24. Armer JM. The problem of post -breast cancer lymphedema: impact and measurement issues. Cancer Invest. 2005; 23(1): 76- 83. 
+PMID 15779870 
+25. Armer JM, Stewart BR. A comparison of four diagnostic criteria for lymphedema in a post -breast cancer population. Lymphat 
+Res Biol. 2005; 3(4): 208- 17. PMID 16379589  
+26. Jorgensen MG, Toyserkani NM, Sorensen JA. The effect of prophylactic lymphovenous anastomosis and shunts for preventing 
+cancer- related lymphedema: a systematic review and meta- analysis. Microsurgery. Jul 2018; 38( 5): 576-585. PMID 28370317  
+27. Ciudad P, Escandon JM, Bustos VP, et al. Primary Prevention of Cancer- Related Lymphedema Using Preventive Lymphatic 
+Surgery: Systematic Review and Meta- analysis. Indian J Plast Surg. Feb 2022; 55(1): 18 -25. PMID 35444756  
+28. Boccardo  FM, Casabona F, Friedman D, et al. Surgical prevention of arm lymphedema after breast cancer treatment. Ann Surg 
+Oncol. Sep 2011; 18(9): 2500- 5. PMID 21369739 
+29. Hahamoff M, Gupta N, Munoz D, et al. A Lymphedema Surveillance Program for Breast Cancer Patients Reveals the Promise of 
+Surgical Prevention. J Surg Res. Dec 2019; 244: 604-611. PMID 29397949  
+30. National Lymphedema Network Medical Advisory Comittee. The Diagnosis and Treatment of Lymphedema. Position Statement of the National Lymphedema Network 2011; https://lymphnet.org/position- papers. Accessed October 4, 2022.  
+31. Executive Committee of the International Society of Lymphology. The diagnosis and treatment of peripheral l ymphedema: 2020 
+Consensus Document of the International Society of Lymphology. Lymphology. 2020; 53(1): 3 -19. PMID 32521126 
+32. McLaughlin SA, DeSnyder SM, Klimberg S, et al. Considerations for Clinicians in the Diagnosis, Prevention, and Treatment of Breast C ancer -Related Lymphedema, Recommendations from an Expert Panel: Part 2: Preventive and Therapeutic Options. Ann 
+Surg Oncol. Oct 2017; 24(10): 2827- 2835. PMID 28766218  Page | 20 of 24  ∞ 33. National Comprehensive Cancer Network (NCCN). NCCN Clinical Practice Guidelines in Oncology: Survivorship. Version 1.2022 -
+March 30, 2022. https://www.nccn.org/professionals/physician_gls/pdf/survivorship.pdf . Accessed October 4, 2022.  
+34. Shavit E, Wollina U, Alavi A. Lipoedema is not lymphoedema: A review of current literature. Int Wound J. Dec 2018; 15(6): 921 -
+928. PMID 29956468.  
+35. Chia CT, Neinstein RM, Theodorou SJ. Evidence -Based Medicine: Liposuction. Plast Reconstr Surg. Jan 2 017; 139(1): 267e -274e. 
+PMID 28027260.  
+36. Araco A, Gravante G, Araco F, et al. Comparison of power water --assisted and traditional liposuction: a prospective randomized 
+trial of postoperative pain. Aesthetic Plast Surg. May -Jun 2007; 31(3): 259- 65. PMID 17380360. 
+37. Peprah K, MacDougall D. Liposuction for the treatment of lipedema: A review of clinical effectiveness and guidelines. Ottawa 
+(ON): Canadian Agency for Drugs and Technologies in Health. Jun 7, 2019. 
+https://www.ncbi.nlm.nih.gov/books/NBK545818/pdf/Book shelf_NBK545818.pdf PMID: 31479212 
+38. Schmeller W, Hueppe M, Meier -Vollrath I. Tumescent liposuction in lipoedema yields good long -term results. Br J Dermatol. Jan 
+2012; 166(1): 161- 8. PMID 21824127 
+39. Baumgartner A, Hueppe M, Meier- Vollrath I, et al. Improvemen ts in patients with lipedema 4, 8 and 12 years after liposuction. 
+Phlebology. Mar 2021; 36(2): 152- 159. PMID 32847472. 
+40. Wollina U, Heinig B. Treatment of lipedema by low -volume micro -cannular liposuction in tumescent anesthesia: Results in 111 
+patients. Dermatol Ther. Mar 2019; 32(2): e12820. PMID 30638291 
+41. Witte T, Dadras M, Heck FC, et al. Water- jet-assisted liposuction for the treatment of lipedema: Standardized treatment 
+protocol and results of 63 patients. J Plast Reconstr Aesthet Surg. Sep 2020; 73(9): 1637- 1644. PMID 32446570. 
+42. Kruppa P, Georgious  I, Schmidt, et al. A 10 -year retrospective before -and- after study of lipedema surgery: Patient -reported 
+lipedema -associated symptom improvement after multistage liposuction. Plast Reconstr Surg. Mar 01 2022; 149(3): 529e -541e. 
+PMID 35089257.  
+43. Munch D. Wasserstrahlassistierte liposuktion zur therapie des lipdems. Journal fr sthetische Chirurgie. 2017, 10: 7 178. 
+44. Chang DW, Dayan J, Greene AK, et al. Surgical Treatment of Lymphedema: A Systematic Review and Meta -Analysis of 
+Controlled Trials. Results of a Conse nsus Conference. Plast Reconstr Surg. Apr 01 2021; 147(4): 975-993. PMID 33761519. 
+45. Forte AJ, Huayllani MT, Boczar D, et al. Lipoaspiration for the Treatment of Lower Limb Lymphedema: A Comprehensive 
+Systematic Review. Cureus. Oct 15 2019; 11(10): e5913. PMID 31754590.  
+46. Alamoudi U, Taylor B, MacKay C, et al. Submental liposuction for the management of lymphedema following head and neck cancer treatment: a randomized controlled trial. J Otolaryngol Head Neck Surg. Mar 26 2018; 47(1): 22. PMID 29580298.  
+47. Hoffner  M, Ohlin K, Svensson B, et al. Liposuction Gives Complete Reduction of Arm Lymphedema following Breast Cancer 
+Treatment -A 5-year Prospective Study in 105 Patients without Recurrence. Plast Reconstr Surg Glob Open. Aug 2018; 6(8): 
+e1912. PMID 30324078.  
+48. Sandhofer, M, Hanke, CW, Habbema, L, Podda, M, Rapprich, S, Schmeller, W, Herbst, K, Anderhuber , F, et al. Prevention of 
+Progression of Lipedema With Liposuction Using Tumescent Local Anesthesia: Results of an International Consensus Conference. Dermatol Sur g. 2020;46(2):220- 228. PMID: 31356433.  
+49. National Institute for Health and Care Excellence (NICE). Liposuction for chronic lymphoedema. Interventional procedures guidance. [IPG723] April 27, 2022. https://www.nice.org.uk/guidance/ipg723/resources/liposuction- for-chronic-
+lymphoedema- pdf-1899876157745605 . Accessed October 5, 2022.  
+50. Abbas S, Seitz M. Systematic review and meta -analysis of the used surgical techniques to reduce leg lymphedema following 
+radical inguinal nodes dissection. Surg Oncol. 2011;20(2):88 -96. 
+51. Ochoa D, Korourian S, Boneti C, et al. Axillary reverse mapping: five -year experience. S urgery. 2014;156(5):1261- 1268.  
+52. Seyednejad N, Kuusk U, Wiseman SM. Axillary reverse lymphatic mapping in breast cancer surgery: A comprehensive review. Expert Rev Anticancer Ther. 2014;14(7):771- 781. Page | 21 of 24  ∞ 53. Dayan JH, Dayan E, Smith ML. Reverse lymphatic mapping: A  new technique for maximizing safety in vascularized lymph node 
+transfer. Plast Reconstr Surg. 2015;135(1):277- 285. 
+54. Gebruers N, Tjalma WA. Clinical feasibility of axillary reverse mapping and its influence on breast cancer related lymphedema : A 
+systematic review. Eur J Obstet Gynecol Reprod Biol. 2016;200:117-122. 
+55. Beek MA, Gobardhan PD, Schoenmaeckers EJ, et al. Axillary reverse mapping in axillary surgery for breast cancer: An update of  
+the current status. Breast Cancer Res Treat. 2016;158(3):421- 432. 
+56. Granzow JW, Soderberg JM, Kaji AH, Dauphine C. An effective system of surgical treatment of lymphedema.  Ann Surg Oncol. 
+2014;21(4):1189- 94. PMID 24522988.  
+57. Granzow JW, Soderberg JM, Kaji AH, Dauphine C. Review of current surgical treatments for lymphedema.  Ann Surg Oncol. 
+2014;21(4):1195- 201. PMID 24558061.  
+58. Hayes, Inc. Health Technology Brief (ARCHIVED). Liposuction for lymphedema.  Lansdale, PA. Hayes, Inc. ,  August 11, 2010. 
+Updated August 6, 2012. Archived September 11, 2013.  
+59. Hayes, Inc. Medical Technology Di rectory. Surgical treatment for lymphedema: a review of reviews , Lansdale, PA. Hayes, Inc. , 
+May 11, 2017. Updated May 24, 2018..  
+60. Hayes, Inc. Search & Summary  (ARCHIVED) . Axillary reverse mapping to limit the incidence of breast cancer related 
+lymphedema.  Lansdale, PA. Hayes, Inc. , May 18, 2017. Archived June 18, 2018.  
+61. Mehrara, B. Surgical treatment of primary and secondary lymphedema. In UpToDate  Collins, K (Ed). UpToDate. Waltham, MA. 
+Last updated July 7, 2021. https://www.uptodate.com   Accessed October 5, 2022. 
+62. Basta MN, Gao LL, Wu LC. Operative treatment of peripheral lymphedema: a systematic meta -analysis of the efficacy and safety 
+of lym phovenous microsurgery and tissue transplantation Plast Reconstr Surg 2014; 133 (4): 905 -13. PMID: 24352208.  
+63. Raju A, Chang DW. Vascularized lymph node transfer for treatment of lymphedema: a comprehensive literature review. Ann 
+Surg 2015; 261 (5): 1013- 23. PMID 24950271.  
+64. Scaglioni MF, Uyulmaz S. Lymphovenous anastomosis and debulking procedure for treatment of combined severe lower extremity and genital lymphedema: a case report. Microsurgery 2018 Nov; 36(8): 907 -911. PMID: 29719080.  
+65. Ogunbiyi SO, Modarai B,  Smith A, et al. Quality of life after surgical reduction for severe primary lymphodema of the limbs and 
+genitalia. Br J Surg. 2009 Nov; 96(11): 1274- 9. PMID 19847880.  
+66. Baumgartner A, Hueppe M, Schmeller W. Long -term benefit of liposuction in patients with lipoedema: a follow -up study after 
+an average of 4 and 8 years. Br J Dermatol. 2016 May;174(5):1061-7 
+67. Lamprou DA, Voesten HG, Damstra RJ, Wikkeling OR. Circumferential suction- assisted lipectomy in the treatment of primary 
+and secondary end -stage lymphoede ma of the leg. Br J Surg. 2017 Jan;104(1):84- 89. 
+68. Buck DW 2nd, Herbst KL. Lipedema: A Relatively Common Disease with Extremely Common Misconceptions. Plast Reconstr Surg Glob Open. 2016;4(9): e1043. PMID: 27757353.  
+69. Dadras M, Mallinger PJ, Corterier CC, Theodosiadi S, Ghods M. Liposuction in the Treatment of Lipedema: A Longitudinal Study. Arch Plast Surg. 2017;44(4):324- 331. PMID:28728329.  
+70. Forner- Cordero I, Szolnoky G, Forner- Cordero A, Kemény L. Lipedema: an overview of its clinical manifestations, diagnos is and 
+treatment of the disproportional fatty deposition syndrome - systematic review. Clin Obes. 2012;2(3- 4):86- 95. PMID: 25586162.  
+71. Halk AB, Damstra  RJ. First Dutch guidelines on lipedema using the international classification of functioning, disability and 
+health. Phlebology. 2017;32(3):152- 159. PMID: 27075680.  
+72. Hayes, Inc. Hayes Search and Summary. Liposuction for the treatment of lipedema.  Lansdale,  PA. Hayes, Inc. , February 15, 2019. 
+73. Okhovat JP, Alavi A. Lipedema: A Review of the Literature. Int J Low Extrem Wounds. 2015;14(3):262- 7. PMID: 25326446.  
+74. Peled AW, Slavin SA, Brorson H. Long -term outcome after surgical treatment of lipedema. Ann Plast Sur g. 2012;68(3):303- 307. 
+PMID: 21629090.  Page | 22 of 24  ∞ 75. Rapprich S, Dingler A, Podda M. Liposuction is an effective treatment for lipedema -results of a study with 25 patients. J Dtsch 
+Dermatol Ges. 2011;9(1):33- 40. PMID: 21166777.  
+76. Reich -Schupke S, Schmeller W, Brauer WJ, et al. S1 guidelines: Lipedema. J Dtsch Dermatol Ges 2017;15(7): 758 -767. PMID: 
+28677175.  
+77. Reich -Schupke S, Altmeyer P, Stücker M. Thick legs - not always lipedema. J Dtsch Dermatol Ges. 2013;11(3):225 -33. PMID: 
+23231593.  
+78. Stutz JJ, Krahl D. Water jet -assiste d liposuction for patients with lipoedema: histologic and immunohistologic analysis of the 
+aspirates of 30 lipoedema patients. Aesthetic Plast Surg. 2009;33(2):153- 62. PMID: 18663515.  
+79. Warren Peled A, Kappos EA. Lipedema: diagnostic and management challenge s. Int J Womens Health. 2016;11(8):389- 95. PMID: 
+27570465.  
+80. Wollina U. Lipedema -An update. Dermatol Ther. 2019; 32(2): e12805. PMID: 30565362.  
+81. Bauer, AT, von Lukowicz, D, Lossagk, K, Aitzetmueller, M, Moog, P, Cerny, M, Erne, H, Schmauss, D, et al. New Insights on 
+Lipedema: The Enigmatic Disease of the Peripheral Fat. Plast Reconstr Surg . 2019;144(6):1475- 1484. PMID: 31764671. 
+82. Austrian Academy of Cosmetic Surgery and Aesthetic Medicine (AACMS) and the International Society for Dermatologic Surgery (ISDS): Prevention of Progression of Lipedema with Liposuction Using Tumescent Local Anesthesia: Results of an International Consensus Conference. 2020.  
+83. ECRI Institute. Hotline Response . Liposuction for Treating Lipedema. Plymouth Meeting, PA. ECRI Institute Published March 1 2, 
+2020. https://www.ecri.org/   Accessed December  24, 2021. 
+84. Hayes Inc., Health Technology Assessment. Liposuction for the reductive surgical treatment of lymphedema. Lansdale, PA. Hayes, Inc. , October 27, 2020. Annual Review February 25, 2022.  
+85. Rosian K, Stanak M. Efficacy and safety assessment of lymphovenous anastomosis in patients with primary and secondary 
+lymphoedema: A systematic review of prospective evidence. Microsurgery. 2019; 39(8): 763 -772. PMID: 31571265.  
+86. Hayes, Inc., Evolving Evidence Review. Liposuction for the treatment of lipedema. Lansdale, PA. Hayes, Inc., April 19, 2022. 
+87. Fallahian F, Tadisina KK, Xu KY. Efficacy of microsurgical treatment of primary lymphedema: A systematic review. Ann Plastic Surg. 2022; 88(2): 195- 199. PMID: 34398594.  
+88. Wijaya WA, Peng J, He Y, et al. Clinical application of axillary reverse mapping in patients with breast cancer: A systematic review and meta -analysis. Breast. Oct 2020; 53: 189 -200. PMID 32858404  
+89. Han C, Yang B, Zuo WS, et al. The Feasibility and Oncological Safety of Axillary Reverse Mapping in Pa tients with Breast Cancer: 
+A Systematic Review and Meta- Analysis of Prospective Studies. PLoS One. 2016; 11(2): e0150285. PMID 26919589  
+90. Guo X, Jiao D, Zhu J, et al. The effectiveness of axillary reverse mapping in preventing breast cancer -related lymphedema: a 
+meta- analysis based on randomized controlled trials. Gland Surg. Apr 2021; 10(4): 1447 -1459. PMID 33968696  
+91. Yuan Q, Wu G, Xiao SY, et al. Identification and Preservation of Arm Lymphatic System in Axillary Dissection for Breast Cancer to Reduce Arm Lymphedema Events: A Randomized Clinical Trial. Ann Surg Oncol. Oct 2019; 26(11): 3446- 3454. PMID 31240591  
+92. Chang DW, Dayan J, Greene AK, et al. Surgical Treatment of Lymphedema: A Systematic Review and Meta -Analysis of 
+Controlled Trial s. Results of a Consensus Conference. Plast Reconstr Surg. Apr 01 2021; 147(4): 975 -993. PMID 33761519 
+ 
+History   
+ Page | 23 of 24  ∞ Date  Comments  
+10/01 /18 New policy, approved September 11 , 2018 , effective January 4, 2019 . Policy created 
+with a literature review through May 2018. Lymphatic physiologic microsurgery to 
+treat lymphedema in individuals who have been treated for breast cancer is considered 
+investigational. Lymphatic physiologic microsurgery performed during nodal 
+dissection or breast reconstruction to prevent lymphedema in individuals who are 
+being treated for breast cancer is considered investigational.   
+12/01 /18 Interim Review, approved November 13 , 2018 , effective January 4, 2019 . Title changed 
+from “Surgical Treatments for Breast Cancer Related Lymphedema” to “Surgical 
+Treatments for Lymphedema ”. Policy statements added: Excisional procedures 
+(debulking, liposuction including SAPL), tissue transfers (eg, omental flap) and reverse 
+lymphatic mapping are considered investigatio nal. References 24 -35 added. Policy 
+renumbered from 7.01.162 to 7.01. 567. Added CPT code 76499. 
+05/01 /19 Annual Review, approved April 2 , 2019. Policy updated with litera ture search through 
+December 2018; References 36 -37 added. Policy statements unchanged.  
+07/01 /19 Interim Review, approved June 11 , 2019.  Added genitalia to investigational statement 
+for surgical treatment of lymphedema. References 38 -41 added. Policy reformatted for 
+greater clarity.   
+10/01 /19 Interim Review, approved September 10 , 2019. Policy updated with literature review 
+through May 2019;  References 42 -56 added. Policy statement  added indicating 
+liposuction for the treatment of lipedema is investigational  Title changed from 
+“Surgical Treatments for Lymphedema” to “ Surgical Treatments for Lymphedema and 
+Lipedema”. Added CPT codes 15832, 15833, 15836, 15839, 15877, 1587 8, and 15879. 
+05/01/20 Interim Review, approved April 14 , 2020. References added. Lipectomy or liposuction 
+for the treatment of lymphedema or lipedema changed from investigational to may be 
+considered medically necessary  when criteria are met.  
+07/27/20  Correct minor error in formatting with no impact on policy statements or intent.  
+12/01 /20 Annual Review, approved November 3, 2020.  Policy updated with literature review 
+through July 2020; references added. Policy statements unchanged.  
+01/01/22  Annual Review, approved December 2 , 2021.  Policy updated with literature review 
+through August 5, 2021; references added. Policy statements unchanged.  
+12/01 /22 Annual Review, approved November  7, 2022.  Policy updated with literature review 
+through July 22, 2022; references added. Minor editorial refinements to policy statements; intent unchange d. Changed the wording from "patient" to "individual" 
+throughout the policy for standardization. 
+02/01 /23 Interim  Review, approved January 9 , 2023. BCBSA reference policy added. References 
+added, Clinical trials added. Policy statements unchanged.   
+ 
+Disclaimer : This medical policy is a guide in evaluating the medical necessity of a particular service or treatment. The 
+Company adopts policies after careful review of published peer -reviewed scientific literature, national guidelines and Page | 24 of 24  ∞ local standards of practice. Since medical technology is constantly changing, the Company reserves the right to review 
+and update policies as appropriate. Member contracts differ in their benefits. Always consult the member benefit 
+booklet or contact a membe r service representative to determine coverage for a specific medical service or supply. 
+CPT codes, descriptions and materials are copyrighted by the American Medical Association (AMA). © 2023 Premera 
+All Rights Reserved.  
+Scope : Medical policies are systematically developed guidelines that serve as a resource for Company staff when 
+determining coverage for specific medical procedures, drugs or devices. Coverage for medical services is subject to the limits and conditions of the member benefit plan. Members and their providers should consult the member 
+benefit booklet or contact a customer service representative to determine whether there are any benefit limitations 
+applicable to this service or supply. This medical policy does not apply to Medicare Adv antage.  
+ Premera Blue Cross is a n independent licensee of the Blue Cross Blue Shield Association  serving businesses and residents of Alaska and Washington State, excluding C lark County.   
+052493  (07-01-2021) Discrimination is Against the Law  
+Premera Blue Cross  (Premera) complies with applicable Federal and Washington state civil rights laws and does not discriminate on the basis of race, 
+color, national o rigin, age, disability, sex, gender identity, or sexual orientation . Premera does not exclude people or treat them differently because of race, 
+color, national origin, age, disability , sex, gender identity, or sexual orientation.  Premera  provides free aids and services to people with disabilities to 
+communica te effectively with us, such as q ualified sign language interpreters  and w ritten information in other formats (large print, audio, accessible 
+electronic formats, other formats) . Premera p rovides fre e language services to people whose primary language is not English, such as  qualified interpreters  
+and i nformation written in other languages . If you need these services, contact the Civil Rights Coordinator.  If you believe that Premera has failed to 
+provide these services or discriminated in another way on the basis of race, color, national origin, age, disability, sex, gender identity, or sexual orientation , 
+you can file a grievance with:  Civil Rights Coordinator ─ Complaints and Appeals , PO Box 91102 , Seattle, WA 98111 , Toll free : 855-332-4535 , Fax: 425-918-5592 , 
+TTY: 711 , Email  AppealsDepartmentInquiries@Premera.com . You can file a grievance in person or by mail, fax, or email.  If you need help filing a 
+grievance, the Civil Rights Coordinator is available to help you.  You can also file a civil rights complaint with the U.S. Department of Health and Human 
+Services, Office for Civil Rights, electronically through the Office for Civil Righ ts Complaint Portal, available at  https://ocrportal.hhs.gov/ocr/portal/lobby.jsf , 
+or by mail or phone at:  U.S. Department of Health and Human Services,  200 Independence Ave SW, Room 509F, HHH B uilding , Washington, D.C. 20201, 
+1-800-368-1019,  800-537-7697 (TDD). Complaint forms are available at  http://www.hhs.gov/ocr/office/file/index.html .  
+Washington  residents : You can also file a civil rights complaint wi th the Washington State Office of the Insurance Commissioner, electronically through 
+the Office of the Insurance Commissioner Complaint Portal available at https://www.insurance.wa.gov/file -complaint -or-check -your-complaint -status , or by 
+phone at 800 -562-6900, 360 -586-0241 (TDD). Complaint forms are available at https: //fortress.wa.gov/oic/onlineservices/cc/pub/complaintinformation.aspx .  
+Alaska  residents : Contact the Alaska Division of Insurance via email at insurance@alaska.gov , or by phone at 907-269-7900 or 1 -800-INSURAK  (in-state, 
+outside Anchorage) . 
+Language Assistance  
+ATENCIÓN : si habla español, tiene a su disposición servicios gratuitos de asistencia lingüística. Llame al 800 -722-1471  (TTY: 711).  
+PAUNAWA : Kung nagsasalita ka ng Tagalog , maaari kang gumamit ng mga serbisyo ng tulong sa wika nang walang bayad. Tumawag sa  800-722-1471  (TTY: 711).  
+注意：如果您使用繁體中文，您可以免費獲得語言援助服務。請致電  800-722-1471  (TTY：711）。 
+CHÚ Ý : Nếu bạn nói Tiếng Việt, có các dịch vụ hỗ trợ ngôn ngữ miễn phí dành cho b ạn.  Gọi số 800-722-1471  (TTY: 711). 
+주의: 한국어를  사용하시는  경우, 언어 지원 서비스를  무료로  이용하실  수 있습니다 . 800-722-1471  (TTY: 711)  번으로  전화해  주십시오 . 
+ВНИМАНИЕ : Если вы говорите на русском языке, то вам доступны бесплатные услуги перевода.  Звоните  800-722-1471  (телетайп: 711). 
+LUS CEEV : Yog tias koj hais lus Hmoob , cov kev pab txog lus, muaj  kev pab dawb  rau koj. Hu rau 800-722-1471  (TTY:  711).  
+MO LOU SILAFIA : Afai e te tautala  Gagana fa'a Sāmoa, o loo iai auaunaga  fesoasoan, e fai fua e leai se totogi, mo oe,  Telefoni mai:  800-722-1471  (TTY: 711).  
+ໂປດຊາບ: ຖ້າວ່າ ທ່ານເວ ້າພາສາ ລາວ, ການບໍລິການຊ່ວຍເຫ  ຼື ອດ້ານພາສາ, ໂດຍບໍ່ເສ ັ ຽຄ່າ, ແມ່ນມ ີພ້ອມໃຫ້ທ່ານ. ໂທຣ 800-722-1471  (TTY: 711) . 
+注意事項 ：日本語を話される場合、無料の言語支援をご利用いただけます。 800-722-1471  （TTY:711）まで、お電話にてご連絡ください。  
+PAKDAAR : Nu saritaem ti Ilocano, ti serbisyo para ti baddang ti lengguahe nga awanan bayadna, ket sidadaan para kenyam.  Awagan ti  800-722-1471  (TTY: 711).  
+УВАГА!  Якщо ви розмовляєте українською мовою, ви можете звернутися до безкоштовної служби мовної підтримки.  Тел ефонуйте за 
+номером 800 -722-1471  (телетайп:  711). 
+ប្រយ័ត្ន៖   បរើសិនជាអ្នកនិយាយ  ភាសាខ្មែរ , បសវាជំនួយខ្ននកភាសា បោយមិនគិត្ឈ្ ន ួល គឺអាចមានសំរារ់រំបរ ើ អ្នក។  ចូរ ទូរស័ព្ទ   800-722-1471 ( TTY: 711)។ 
+ማስታወሻ :  የሚናገሩት  ቋንቋ ኣማርኛ  ከሆነ የትርጉም  እርዳታ ድርጅቶች፣  በነጻ ሊያግዝዎት  ተዘጋጀተዋል፡  ወደ ሚከተለው  ቁጥር ይደውሉ  800-722-1471 (መስማት  ለተሳናቸው : 711). 
+XIYYEEFFANNAA : Afaan  dubbattu  Oroomiffa , tajaajila  gargaarsa  afaanii , kanfaltiidhaan  ala, ni argama . Bilbilaa  800-722-1471 ( TTY: 711).  
+ملحوظة:  إذا كنت تتحدث اذكر اللغة، فإن خدمات المساعدة اللغوية تتوافر لك بالمجان.  اتصل برقم   1471-722-800    :(رقم هاتف الصم والبكم711 .) 
+ਧਿਆਨ  ਧਿਓ: ਜੇ ਤੁਸੀਂ ਪੰਜਾਬੀ  ਬੋਲਿੇ ਹੋ, ਤਾਂ ਭਾਸ਼ਾ ਧ ਿੱਚ ਸਹਾਇਤਾ  ਸੇ ਾ ਤੁਹਾਡੇ ਲਈ ਮੁਫਤ ਉਪਲਬਿ  ਹੈ। 800-722-1471 (TTY:  711) 'ਤੇ ਕਾਲ ਕਰੋ। 
+เรียน : ถ้าคุณพูดภาษาไทยคุณสามารถใช้บริการช่วยเหลือทางภาษาได้ฟรี  โทร 800-722-1471  (TTY: 711).  
+ACHTUNG : Wenn Sie Deutsch sprechen, stehen Ihnen kostenlos sprachliche Hilfsdienstleistungen zur Verfügung. Rufnummer: 800 -722-1471  (TTY: 711).  
+UWAGA : Jeżeli mówisz po polsku, możesz skorzystać z bezpłatnej pomocy językowej. Zadzwoń pod numer 800 -722-1471  (TTY: 711).  
+ATANSYON : Si w pale Kreyòl Ayisyen, gen sèvis èd pou lang ki disponib gratis pou ou.  Rele 800 -722-1471  (TTY: 711).  
+ATTENTION  : Si vous parlez français, des services d'aide linguistique vous sont proposés gratuitement.  Appelez le 800 -722-1471  (ATS :  711).  
+ATENÇÃO : Se fala português, encontram -se disponíveis serviços linguísticos, grátis.  Ligue para 800 -722-1471  (TTY: 711).  
+ATTENZIONE : In caso la lingua parlata sia l'italiano, sono disponibili servizi di assistenza linguistica gratuiti. Chiamare il numero  800-722-1471  (TTY: 711).   
+ توجه: اگر به زبان فارسی گفتگو می کنید، تسهیالت زبانی بصورت رايگان برای شما فراهم می باشد. با   (TTY: 711) 1471-722-800   .تماس بگیريد 

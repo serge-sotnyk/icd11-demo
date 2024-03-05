@@ -1,0 +1,552 @@
+ 
+MEDICAL POLICY – 7.01.563  
+Ablative Treatments for Occipital Neuralgia, Chronic 
+Headac hes, and Atypical Facial Pain 
+Effective Date:  Sept. 1 , 2022  
+Last Revised:  Aug. 8 , 2022  
+Replaces:  N/A RELATED MEDICAL POLICIES:  
+7.01.125  Occipital Nerve Stimulation  
+7.01.154  Ablative Procedures of Peripheral Nerves to Treat Pain  
+7.01.159  Sphenopalatine Ganglion Block for Headache  
+7.01.555  Facet Joint Denervation  
+7.01.564  Pulsed Radiofrequency  
+  
+Select a hyperlink below to be directed to that section.  
+POLICY CRITERIA   |  CODING   |  RELATED INFORMATION  
+EVIDENCE REVIEW   |  REFERENCES  |  HISTORY  
+∞ Clicking this icon returns you to the hyperlinks menu above.  
+ 
+Introduction  
+Nerves send messages to the brain, including pain signals. When there’s an injury or other 
+problem, a message of pain travels along the nerve, to the spinal cord, and then into the brain. 
+One way to try to treat chronic pain is to destroy—ablate —a small portion of the nerve that’s 
+sending the pain signal. This technique has been well studied and is proven in very limited situations. However, destroying part of a nerve to try to treat chronic headaches or facial pa in is 
+investigational (unproven). While some small, early studies have shown promise, more, larger, and longer high-quality studies are needed to determine whether nerve ablation is truly 
+effective for chronic headaches and facial pain.  
+ 
+Note:   The Introduction section is for your general knowledge and is not to be taken  as policy coverage criteria. The 
+rest of the policy uses specific words and concepts familiar to medical professionals. It is intended for 
+providers . A provider can be a person, such as a doctor, nurse, psychologist, or dentist. A provider also can 
+be a place where medical care is given, like a hospital, clinic, or lab.  This policy informs them about when a 
+service may be covered.  
+ 
+Policy Coverage Crit eria   
+7.01.563_PBC (8-8-2022)
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+Page | 2 of 17  ∞ 
+  
+Procedure  Investigational  
+Ablative procedures  for 
+the treatment of:  
+• Chronic migraines 
+• Chronic t ension- type 
+headaches  
+• Cluster headaches  
+• Cervicogenic  
+headaches  
+• Occipital neuralgia   
+• Persistent idiopathic 
+facial pain (PIFP) Ablative procedures  for the treatment of  chronic headaches 
+(chronic migraines, chronic tension-type headaches, chronic 
+cluster headaches, cervicogenic headaches ), occipital neuralgia , 
+and persistent idiopathic facial pain (PIFP)/atypical facial pain  are 
+considered investigational.  
+ 
+Ablative procedures include, but are not limited to, the following:  
+• Chemical neurolysis (chemodenervation)  
+• Cooled radiofrequency ablation 
+• Cryoneurolysis (cryoablation)  
+• Pulsed radiofrequency  
+• Radiofrequency ablation (RFA)  
+ 
+Coding   
+ 
+Code  Description  
+CPT 
+62281  Injection/infusion of neurolytic substance (eg, alcohol, phenol, iced saline solutions), 
+with or without other therapeutic substance; epidural, cervical or thoracic  
+64600  Destruction by neurolytic agent, trigeminal nerve; supraorbital, infraorbital, mental, or 
+inferior alveolar branch  
+64633  Destruction by neurolytic agent, paravertebral facet joint nerve(s), with imaging 
+guidance (fluoroscopy or CT); cervical or thoracic, single facet joint  
+64634  Destruction by neurolytic agent, paravertebral facet joint nerve(s), with imaging 
+guidance (fluoroscopy or CT); cervical or thoracic, each additional facet joint (List 
+separately in addition to code for primary procedure)  
+64640  Destruction by neurolytic a gent; other peripheral nerve or branch  
+Note:  CPT codes, descriptions and materials are copyrighted by the American Medical Association (AMA). HCPCS codes, descriptions and materials are copyrighted by Centers for Medicare Services (CMS).  
+  
+ 
+Page | 3 of 17  ∞ 
+ Related Information   
+ N/A 
+ 
+Evidence Review   
+ 
+Description 
+Several procedures or treatments have been proposed for the treatment of chronic headaches 
+(chronic migraines, chronic tension- type headaches, chronic cluster headaches, and cervicogenic 
+headaches),  occipital neuralgia , and persistent idiopathic facial pain (PIFP)  when conventional 
+treatments such as oral and injectable pharmacological treatments, physical therapy, 
+chiropractic care, or transcutaneous nerve stimulation (TENS)  have failed. These proce dures 
+include chemical neurolysis, cryoablation, pulsed radiofrequency, and radiofrequency ablation. The proposed effect of these procedures is to inhibit the transmission of pain signals that are 
+sent to the brain from the sensory nerves such as the occipital nerve (greater or lesser), upper 
+cervical nerves , supraorbital  and supratrochlear nerves (branches of the frontal and trigeminal 
+nerves) , or sphenopalatine ganglion nerve.  
+ 
+Background  
+Headaches  
+The International Headache Society ( IHS) created a headache classification system (the 
+International Classification of Headache Disorders, 3rd edition) which is considered the standard 
+for diagnosis of all types of headaches.  The third edition was published in January of 2018, thirty 
+years after its first publication in 1988. The three classifications are: primary headaches, 
+secondary headaches and painful cranial neuropathies, and other facial pains and other 
+headaches. See the description for these chronic headache types along with diagnostic criteria 
+below in Practice Guidelines and Position Statements.   
+ 
+Page | 4 of 17  ∞ 
+  
+Chronic Migraine  
+Chronic migraine is believed to affect 2 percent of the world population. It is defined by having 
+15 or more headache days a month lasting at least 4 hours per day for more than 3 months. 
+Chronic migraines occur more often in women and may be accompanied by sensitivity to light or sound along with nausea and/or vomiting.  
+ 
+Chronic Tension-Type Headache  
+Chronic tension-type headaches are episodic occurring on 15 or more days a month for over 3 
+months, lasting hours or days, and may be unremitting. They usually occur on both sides of the 
+head and are described as a pressing or tightening feeling around the head.  Chronic Cluster Headac he 
+Chronic cluster headaches are rare and classified as one of the trigeminal autonomic 
+cephala lgias (TACs). They usually occur on one side of the head  around one eye or temple, have 
+a sudden onset , and are generally severe and intense, lasting for minutes  or several hours at a 
+time, over a year or longer without remission. These headaches occur more frequently in men. 
+The cause is unknown. Common descriptors used to describe the headaches are “excruciating,” “feeling like an ice pick is being driven through my eye,” or “explosive.” Common symptoms that 
+accompany the headaches: coming on just as a person goes to sleep, tearing in the affected eye, 
+drooping eyelid of the affected eye, and experiencing nasal stuffiness or a runny nose.  
+ 
+Cervicogenic Headache  
+Cervicogenic headache is considered a secondary headache where headache pain is referred 
+from bony structures or soft tissues of the neck. Involvement of the C2- 3 zygapophyseal joint is 
+the most frequent source of cervicogenic headache in  up to 70 percent of cases. Cervical range 
+of motion may be reduced and the headache may be made worse with certain movements of 
+the neck or when pressure is applied to certain spots in the neck. The diagnosis may be  
+ 
+Page | 5 of 17  ∞ 
+ confirmed with two anesthetic blocks of the suspected pain generator, performed at dif ferent 
+times, and associated with pain relief that is in keeping with the anesthetic used.  
+ 
+Occipital Neuralgia  
+Occipital neuralgia is a rare type of headache described as short bursts of stabbing, throbbing, 
+or shooting pain in the upper neck which spreads to the back of the head and is transmitted by 
+the occipital nerves, usually to only one side of the head. It commonly develops spontaneously, 
+with a sudden onset, and may  also be accompanied by decreased or abnormal sensation in the 
+affected  area. There are generally no neurologic deficits found on exam, but there may be 
+tenderness over the affected nerve branches when palpated. The exact pathophysiology is unknown. One theory is that it may arise from injury to the C2- C3 nerve roots and/or occipital 
+nerves via entrapment, trauma (such as whiplash), or inflammation.  
+Diagnosis is generally confirmed when pain relief is obtained by a local anesthetic block to the occipital nerves.  
+ 
+Persistent Idiopathic Facial Pain (PIFP)  
+Persistent idiopathic facial pain ( PFIP) , previously known as atypical facial pain , is characterized 
+by persistent facial and/or oral pain recurring daily for 2 hours or more per day for greater than 
+3 months. There is no associated clinical neurological deficit. Most cases are seen in women. The 
+pain is commonly felt around the mouth or chin but is generally poorly localized and does not 
+follow the distribution of a peripheral nerve. The pain is possibly thought to  be related to injury 
+to the face, teeth, or gums. It  is described as dull, aching, or of a nagging quality. It is generally a 
+diagnosis of exclusion.  
+ 
+Ablative Treatments  
+Chemical Neurolysis (Chemodenervation)  
+Chemical neurolysis, also known as chemical ablation, chemodenervation, or chemical 
+denervation, is the application of a chemical destructive agent (eg, phenol, ethyl alcohol,  
+ 
+Page | 6 of 17  ∞ 
+ glycerol , or hypertonic saline) to a nerve to create a long -lasting or permanent interruption of 
+neural transmission. It is usually used to relieve pain.  
+ Cooled Radiofrequency Ablation  
+Cooled radiofrequency is a minimally invasive method in which a radiofrequency generator 
+transmits a small current of thermal radiofrequency energy through an insulated, water- cooled, 
+electrode or probe placed within tissue to target the sensory nerves responsible for sending pain signals. Coolief™ (Haylard Health) circulates water through the device while heating 
+nervous tissue to create a larger treatment area than conventional radiofrequency is able to 
+treat. “This combination of ionic heating, produced by the friction of charged water molecules, and cooling deactivates the nerves responsible for sending pain signals to the brain by targeting 
+the pain-transmitting nerves without excessive heating, leading to pain relief.”
+27 Coolief™ is 
+performed in an outpatient setting. 
+ Cryoneurolysis (Cryoablation) 
+Cryoneurolysis, also known as cryodenervation, cryo ablation , cryotherapy, or cryoanalgesia, 
+temporarily blocks nerve conduction along peripheral pathways using a small probe to freeze 
+the target nerve and treat a variety of painful conditions. Cryoneurolysis treatments that use 
+nitrous oxide (boiling point of - 88.5 ⁰ C) as the coolant are reversible. Nerves treated in this 
+temperature range experience a disruption of the axon, with Wallerian degeneration occurring distal to the site of injury. The axon and myelin sheath are affected, but the connective tissues 
+remain intact. The axon can regenerate along the nerve path, usu ally at the rate of 1 -2 mm per 
+day. Thus, the nerve basically dies as it freezes, which stops the pain signals from transmitting. However, over time the nerve regrows, which may mean recurrence of the pain. Cryoneurolysis differs  from c ryoablation in that cryoablation treatments use liquid nitrogen (boiling point of  
+-195.8⁰ C) as the coolant. Treatments of the nerve in this temperature range are irrever sible as 
+the nerves experience a disruption of both the axon and the endoneurium connective tissue 
+layer. 
+  
+ 
+Page | 7 of 17  ∞ 
+ Pulsed Radiofrequency  
+Pulsed radiofrequency (PRF) is a non- or minimally neurodestructive technique, where short 
+bursts of radiofrequency energy are  applied to nervous tissue to treat various chronic pain 
+syndromes. It is seen as an alternative to continuous (non- pulsed) radiofrequency ablation, as it 
+is theorized to have significantly less complications or side effects. Its exact mechanism of action 
+is unclear.  
+Pulsed radiofrequency is delivered in short bursts , twice per seco nd, followed by a quiet phase in 
+which no current is applied. This allows for cooling of the electrode keeping it below the 
+neurodestructive threshold of 45⁰ C. Pulsing the radiofrequency current allows the power output 
+of the generator to be greatly increased , allowing for far stronger electrical fields than in 
+continuous radiofrequency. For example, the voltage output is usually 15- 25 volts for the 
+continuous mode radiofrequency. The pulsed radiofrequency output  is 45 volts. As a result, 
+higher voltages can be applied in pulsed radiofrequency. Because the average temperature near 
+the pulsed radiofrequency electrode does not reach the neurodestructive range, the risk of 
+destroying nearby tissue is reduced.  
+ 
+Radiofrequency Ablation (RFA)  
+Radiofrequency ablation (RFA) is a minimally invasive method that involves the use of heat and 
+coagulation necrosis to destroy nerve tissue. A needle electrode is inserted through the skin and 
+into the tissue around the nerve to be ablated. A high- frequency electrical current is applied to 
+the target tissue which heats the nerve, causing coagulation necrosis and destruction of the 
+nerve. It is theorized that the thermal lesioning of the nerve destroys peripheral sensory nerve 
+endings, resulting in the alleviation of pain.  
+ 
+Summary of Evidence  
+For individuals who have various types of headaches (chronic migraines, chronic tension- type 
+headaches, chronic cluster headaches, and cervicogenic headaches as well as occipital neuralgia 
+and persistent idiopathic facial pain) who received ablative treatments such as chemical 
+neurolysis, cryoablation, pulsed radiofrequency, and RFA, the evidence includes randomized 
+controlled trials, prospective studies, retrospective studies, and case reports. Some studies  
+ 
+Page | 8 of 17  ∞ 
+ yielded promising results showing improvement in pain and decrease in pain medication usage . 
+However, despite these encouraging clinical studies, conclusive evidence demonstrated in well -
+designed clinical studies in support of chemical neurolysis, cryoablation, pulsed  radiofrequency, 
+or radiofrequency ablation in the treatment of headaches and atypical facial pain is warranted.  
+While these treatment modalities appear to be safe, the evidence of efficacy is limited. Further 
+placebo -controlled trials are needed. The overall quality of evidence is low. All studies were 
+limited by methodological flaws, such as small sample size, lack of a control group, and short 
+follow -up. Before definitive conclusions can be drawn, there is a need for high- quality studies 
+with larger populations, adequate follow -up time, standardized treatment protocols, and 
+comparisons of the treatment being studied with other treatments used for the same diagnosis which have also failed conventional treatments. The evidence is insufficient to determine the 
+effects of this technology on net health outcomes. 
+ 
+Ongoing and Unpublished Clinical Trials  
+Some currently ongoing and unpublished trials that might influence this review are listed in 
+Table 1 . 
+ 
+Table 1 . Summary of Key Clinical Trials  
+NCT No.  Trial Name  Planned 
+Enroll ment  Completion 
+Date  
+Ongoing  
+NCT04339335  Pulsed Radiofrequency in Chronic Headaches  50 Dec 2021  
+Unpublished  
+NCT03567590  The Efficacy and Safety of Sphenopalatine Ganglion 
+Pulsed Radiofrequency Treatment for Cluster Headache  80 Jan 2021  
+Completed  
+NCT: national clinical trial  
+  
+ 
+Page | 9 of 17  ∞ 
+ Practice Guidelines and Position Statements  
+International Headache Society ( IHS) 
+In 2018 , the International Headache Society issued the International Classification of Headache 
+Disorders 3rd edition (ICHD- 3) states: 
+ Chronic Migraine  
+• Is a common disabling primary headache disorder with two major types: migraine without 
+aura and migraine with aura  
+• Headaches (migraine- like or tension -type- like) on ≥ 15 d ays/month for > 3 months, and  
+o Occurs in a patient who has had at least 5 attacks on ≥  8 days/month for > 3 months 
+fulfilling the following criteria:  Migraine without aura: r ecurrent headache disorder manifesting in attacks lasting 4-
+72 hours (when untreated or unsuccessfully treated)  
+ Typical characteristics of the headache: unilateral location, pulsating quality, 
+moderate or severe intensity, aggravation by routine physical activity, and 
+association with nausea and/or photophobia and phonophobia  
+ Migraine with aura: recurrent attacks, lasting minutes, of unilateral fully reversible 
+visual, sensory or other central  nervous system symptoms that usually develop 
+gradually and are usually followed by a headache and associated migraine symptoms  
+ At least two attacks  fulfilling  the following criteria:  
+ One or more of the following fully reversible aura symptoms: visual, sensory, 
+speech and/or language, motor, brainstem, retinal  
+ At least three of the following six characteristics: at least one aura symptom 
+spreads grad ually over ≥ 5 minutes, two or more aura symptoms occur in 
+succession, each individual aura symptom last 5- 60 minutes, at least one aura 
+symptom is unilateral, at least one aura symptom is positive, the aura is accompanied, or followed within 60 minutes, by headache   
+ 
+Page | 10 of 17  ∞ 
+  
+Chronic Tension-T ype Headache (TTH)  
+• A disorder evolving from frequent episodic tension- type headache, with daily or very 
+frequent episodes of headache 
+• Considered a primary headache disorder  
+o Headache occurring on ≥ 15 days/month on average for > 3 months (≥180 days/year), 
+fulfilling the following criteria:   Lasting hours to days , or unremitting 
+ At least two of the following characteristics: bilateral location, pressing or 
+tightening (non-pulsating) quality, mild or moderate intensity, not aggravated by routine physical activity 
+ Neither moderate o r severe nausea nor vomiting  
+ No more than one of photophobia or phonophobia  
+ 
+Chronic Cluster Headache  
+• Is one of the trigeminal autonomic cephalalgias (TACs)  
+• Is considered a primary headache disorder, but may be secondary to another disorder 
+• The TACs share the clinical features of unilateral headache, and usually prominent cranial 
+parasympathetic autonomic features, which are lateralized and ipsilateral to the headache 
+o Cluster headache attacks occurring for one year or longer without remission, or with 
+remission periods lasting less than 3 months. 
+o At least five attacks fulfilling severe or very severe unilateral orbital, supraorbital and/or 
+temporal pain lasting 15 -180 minutes (when untreated)  
+o Either or both of the following:  
+ At least one of the following symptoms or signs, ipsilateral to the headache:   
+ 
+Page | 11 of 17  ∞ 
+  Conjunctival  injection and/or lacrimation  
+ Nasal congestion and/or rhinorrhea  
+ Eyelid edema  
+ Forehead and facial sweating  
+ Miosis and/or ptosis  
+ A sense of restlessness or agitation  
+ Cervicogenic Headache  
+• Secondary headache causally associated with cervical myofascial pain sources (myofascial 
+trigger points)  
+• Headache caused by a disorder of the cervical spine and its component bony, disc, and/or 
+soft tissue elements, usually but not invariably accompanied by neck pain 
+o Clinical and/or imaging evidence of a disorder or lesion within the cervical spine or soft 
+tissues of the neck, known to be able to cause headache 
+o Evidence of causation demonstrated by at least two of the following:  
+ Headache has developed in temporal relation to the onset of the cervical disorder or appearance of the lesion  
+ Headache has significantly improved or resolved in parallel with improvement in or resolution of the cervical disorder or lesion  
+ Cervical range of motion is reduced, and headache is made significantly worse by provocative maneuvers  
+ Headache is abolished following diagnostic blockade of a cervical structure or its 
+nerve supply 
+  
+ 
+Page | 12 of 17  ∞ 
+ Occipital Neuralgia  
+• Unilateral or bilateral paroxysmal, shooting or stabbing pain in the posterior part of the 
+scalp, in the distribution(s) of the greater, lesser and/or third occipital nerves, sometimes 
+accompanied by diminished sensation or dysesthesia in the affected area and commonly 
+associated with tenderness over the involved nerve(s)  
+• Classified as painful lesions of the cranial nerves and other facial pain  
+o Unilateral or bilateral pain in the distribution(s) of the greater, lesser and/or third 
+occipital nerves and fulfilling the following criteria:  
+ Recurring in paroxysmal attacks lasting from a few seconds to minutes 
+ Severe in intensity 
+ Shooting, stabbing , or sharp in quality 
+o Pain is associated with both of the following:  
+ Dysesthesia and/or allodynia apparent during innocuous stimulation of the scalp and/or hair  
+ Either or both of the following  
+ Tenderness over the affected nerve branches  
+ Trigger points at the emergence of the greater occipital nerve or in the 
+distribution of C2 
+o Pain is eased temporarily by local anesthetic block of the affected nerve (s)  
+ 
+Persistent Idiopathic Facial Pain (PIFP)  
+• Previously known as atypical facial pain  
+• Persistent facial and/or oral pain, with varying presentations but recurring daily for more 
+than two hours/day over more than 3 months, in the absence of clinical neurological deficit  
+• Classified as painful lesions of the cranial nerves and other facial pain   
+ 
+Page | 13 of 17  ∞ 
+ o Facial and/or oral pain fulfilling the following criteria:  
+ Recurring daily for > 2 hours/day for > 3 months 
+ Pain has both of the following characteristics:  
+ Poorly localized, and not following the distribution of a peripheral nerve  
+ Dull, aching, or nagging quality  
+ Clinical neurological examination is normal 
+ A dental cause has been excluded by appropriate investigations 
+ 
+American Society of Anesthesiologists and American Society of Regional 
+Anesthesia and Pain Medicine  
+In 2010, the American Society of Anesthesiologists Task Force on Chronic Pain Management and 
+the American Society of Regional Anesthesia and Pain Medicine issued practice guidelines for 
+Chroni c Pain Management which included the following: 
+Ablative techniques include chemical denervation, cryoneurolysis or cryoablation, thermal 
+intradiscal procedures (ie, intervertebral disc annuloplasty [ IDET], transdiscal biaculoplasty) , and 
+radiofrequency ablation.  
+• Chemical denervation: (eg, alcohol , phenol, or high-concentration local anesthetics) should 
+not be used for routine care of patients with chronic noncancer pain 
+• Cryoneurolysis or cryoablation: may be used in the care of selected patients (eg, 
+postthoracotomy pain syndrome, low back pain [medial branch] , and peripheral nerve pain)  
+• Radiofrequency ablation: conventional radiofrequency ablation may be performed for neck 
+pain, and water- cooled radiofrequency ablation may be used for chronic sacroiliac joint pain. 
+Conventional or thermal radiofrequency ablation of the dorsal root ganglion should not be routinely used for the treatment of lumbar radicular pain  
+  
+ 
+Page | 14 of 17  ∞ 
+ Medicare National Coverage  
+There is no national coverage determination.  
+ 
+Regulatory Status  
+Radiofrequency ablation (RFA) is a procedure and, therefore, is not subject to regulation by the 
+FDA. However, the devices used to perform RFA are regulated by the FDA premarket approval process. There are numerous devices listed in the FDA 510(k) premarket approval process. Two 
+product codes are dedicated to these devices, one for radiofrequency lesion generators (GXD) and one for radiofrequency lesion probes (GXI) (FDA, 2016)  
+In 2017 the U.S. Food and Drug Administration (FDA) cleared for marketing  (K163461)  COOLIEF 
+(Halyard Health, Inc.)  radiofrequency lesion probe. It is to be used in conjunction with a 
+radiofrequency generator to create lesions in nervous tissue. Cooled radiofrequency (Cooled RF) 
+is also indicated for creating radiofrequency lesions of the genicular nerves for the management 
+of moderate to severe knee pain of more than 6 months in patients with radiologically confirmed osteoarthritis and a positive response to a diagnostic genicular nerve block . 
+ 
+References   
+ 
+1. American Society of Anesthesiologists Task Force on Chronic Pain Management; American Society of Regional Anesthesia and 
+Pain Medicine (ASA/ASRA). Practice guidelines for chronic pain management: an updated report by the American Society of 
+Anesthesiologists Task Force on Chronic Pain Management, and the American Society of Regional Anesthesia and Pain 
+Medicine. Anesthesiology.2010;112(4):810- 833.PMID:20124882.  
+2. Bayer, E, Raca, GB, et.al. Sphenopalatine ganglion pulsed radiofrequency in treatment in 30 patients suffering from c hronic face 
+and head pain. Pain Pract 2005:5(3): 223 -7. PMID:17147584.  
+3. Benoliel R, Gual C. Persistent idiopathic facial pain. Cephalgia 2017 Jun;37(7):680 -691. PMID 28425324. 
+4. Cohen S P, Peterlin BL , Fulton L, et. al. Randomized, double -blind, comparative -effectiveness study comparing pulsed 
+radiofrequency to steroid injections for occipital neuralgia or migraine with occipital nerve tenderness. Pain 2015 ;156(12):2585-
+94. PMID:26447705.  
+5. Fang L, Jingjing L, Ying S, et al. Computerized tomography -guided sphenopalatine ganglion pulsed radiofrequency treatment in 
+16 patients with refractory cluster headaches:  Twelve - to 30 -month follow- up evaluations. Cephalalgia 2016, Vol. 36(2) 106 –112. 
+PMID:25896484.   
+ 
+Page | 15 of 17  ∞ 
+ 6. Gande AV, Chivukula A, Moosy JJ et.  al. Long -term outcomes of intradural cervical dorsal root rhizotomy for refractory occipital 
+neuralgia. J Neurosurg 2016 ;125(1):102- 10. PMID 26684782. 
+7. Garza, Ivan. Occipital neuralgia.  In: UpToDate., Goddeau , Jr., RP (Ed), UpToDate, Waltham, MA. Last upda ted Apr 13, 20 22. 
+Accessed July 18,  2022. 
+8. Garza, Ivan.  Schwedt, TJ.  Chronic Migraine. In: UpToDate. Goddeau, Jr., RP (Ed). UpToDate, Waltham, MA. Last updated Mar 22, 
+2022 . Accessed July 18, 2022. . 
+9. Giblin K, Newmark JL, Brenner GJ, Wainger BJ. Headache plus: Trigeminal and autonomic features in a case of cervicogenic 
+headache responsive to third occipital nerve radiofrequency ablation. Pain Med. 2014;15(3):473 -478.PMID: 24401103.  
+10. Govind J , King W, Bailey B, Bogduk N., Radiofrequency neurotomy for the treatment of third occipital headache, J Neural 
+Neurosug Psychiatry 2003; 74(1):88-93. PMID:12486273.  
+11. Grandhi RK, Kaye AD, Abd -Elsayed A. Systematic review of radiofrequency ablation and pulsed radiofrequency for management 
+of cervicogenic headaches . Curr Pain Headache Rep 2018 ;22(3):18. PMID 29476360 
+12. Halim W, Chua NH, Vissers KC. Long- term pain relief in patients with cervicogenic headaches after pulsed radiofrequency 
+application into the latera l atlantoaxial (C1 -2) joint using an anterolateral approach. Pain Pract. 2010 ;1 0(4):267-71. 
+PMID:20230456.  
+13. Halyard Health, Inc.  COOLIEF. Available at URL: https://www.mycoolief.com/   Accessed July 18, 2022.  
+14. Hamer  JF, Purath TA. Response of cervicogenic headaches and occipital neuralgia to radiofrequency ablation of the C2 dorsal 
+root ganglion and/or third occipital nerve. Headache 2014 ;54(3):500-10. PMID 24433241  
+15. Hamer JF, Purath TA. Repeat RF ablation of C2 and third occipital nerves for recurrent occipital neuralgia and cervicogenic headaches. World Journal of Neuroscience 2016, 6, 236 -242 
+16. Hayes, Inc. Hayes Brief. Nonpulsed (Thermal) Percutaneous Radiofrequency Ablation (RFA) for Treatment of Cervicogenic Headac he. Lansdale, PA: Hayes, Inc.; March 2014. Updated February 25, 2016. Archived April 25, 2017.  
+17. Ho, Charles C, Khan Sajid  A, Garza, Ivan. Overview of Craniofacial Pai n. In: UpToDate. Goddeau, Jr., RP (Ed). UpToDate, Waltham, 
+MA. Feb 08, 20 22. Accessed July 18, 2022 .  
+18. Ho, KWD, Przkora, R, Kumar S, et. al. Sphenopalatine ganglion: block, radiofrequency ablation and neurostimulation- a 
+systematic review. J Headache Pain. 2017 ;18 (1) 118. PMID:29285576. 
+19. Huang JH, Galvagno SM Jr, Hameed M, et al. Occipital nerve pulsed radiofrequency treatment: a multi -center study evaluating 
+predictors of outcome. Pain Med. 2012 ;13(4):489-97.  PMID:  22390409. 
+20. Kim CH, Hu W, Gao J, et. al. Cryoablation for the treatment of occipital neuralgia. Pain Physician 2 015;18(3):  E363-
+E368.PMID:26000683  
+21. International Headache Society (IHS)Headache Classification Committee. The International Classification of Headache Disorders , 
+3rd edition. Cephalalgia 2018;38(1):1 -211. https://www.ichd-3.org/wp- content/uploads/2018/01/The -International-
+Classification -of-Headache-Disorders- 3rd-Edition -2018.pdf . Accessed July 18 , 2022. 
+22. Koch D, Wakhloo AK. CT -guided chemical rhizotomy of the C1 root for occipital neuralgia. Neuroradiol.1992;34(5):451 -2. 
+PMID:1407536.  
+23. Luo F, Lu J, Ji N. Treatment of refractory idiopathic supraorbital neuralgia using percutaneous pulsed radiofrequency. Pain Pract. 2018; 18(7): 871- 878. PMID: 29480963.  
+24. Manolitsis N, Elahi F. Pulsed radiofrequency for occipital neuralgia. Pain Physician. 2014;17(6):  E709- 17. PMID:  25415786.   
+ 
+Page | 16 of 17  ∞ 
+ 25. May AM. Cluster headache ; Treatment and prognosis.  In: UpToDate. Goddeau, Jr., RP (Ed).  UpToDate, Waltham, MA. Last 
+updated Feb 11, 2022. Accessed July 18, 2022.  
+26. Nagar, VR, Birthi  P, Grider, J S, Asopa A,  Systematic review of radiofrequency ablation and pulsed radiofrequency for 
+management of cervicogenic headache. Pain Physician 2015;18 (2):109- 130.PMID:25794199.  
+27. Narouze S, Kapural L, Casanova J, Mekhail N,  Sphenopalatine ganglion radiofrequency ablation for the management of chronic 
+cluster headache. Headache. 2009 49(4):571- 7. PMID : 18783451.  
+28. Orhurhu V, Huang L, Quispe RC, et al. Use of Radiofrequency Ablation for the Management of Headache: A Systematic Review. 
+Pain Physician. 2021;24(7):E973- E987. PMID: 34704708.  
+29. Orhurhu V, Sidharthan S, Roberts J, et al. Radiofrequency ablation for craniofacial pain syndrome. Phy Med Rehabil Clin N Am. 
+2021; 32(4):601- 645. PMID: 34593133.  
+30. Stovner LJ, Kolstad F, Helde G. Radiofrequency denervation of facet joints C-2- C6 in cervicogenic headache: a randomized, 
+double blind, sham -controlled study. Ce phalgia. 2004 Oct;24(10):821- 30. PMID 15377312  
+31. Taylor, Frederick. Tension type headache in adults: acute treatment. In: UpToDate. Goddeau, Jr., RP  (Ed). UpToDate, Waltham, 
+MA. Last updated April 25, 2022. Accessed July 18, 2022.. 
+32. Van Suijlekom HA, van Kleef M, Barendse GA, et al. Radi ofrequency cervical zygapophyseal joint neurotomy for cervicogenic 
+headache: a prospective study of 15 patients. Funct Neurol. 1998;13(4):297- 303.PMID:9584881.  
+33. Vanelderen P, Rouwette T,  De Vooght P et al. Pulsed radiofrequency for the treatment of occipital neuralgia: a prospective 
+study with 6 months of follow -up. Reg Anesth Pain Med. 2010 ;35(2):148-51. PMID:  20301822.  
+34. Vu T, Chhatre  A. Cooled radiofrequency ablation for bilateral greater occipital neuralgia. Case Rep Neurol Med. 2014:257373. 
+PMID: 24716017.  
+35. Watson, James . Cervicogenic  headache. In: UpToDate. Goddeau, Jr., RP (Ed). UpToDate, Waltham, MA.  Last updated Apri  28, 
+2021. Accessed July 18 ,  2022. 
+36. Weiss, AL, Ehrhardt, KP, et.al. Atypical Facial Pain: A Comprehensive, Evidence -Based Review. Curr Pain Headache Rep. 2017 ;21 
+(2):8.PMID: 28251523.  
+37. Zhang J, Shi DS, Wang R. Pulsed radiofrequency of the second cervical ganglion (C2) for the treatment of cervicogenic headache. J Headache Pain. 2011 ;12(5):569-71. 
+ 
+History   
+ 
+Date  Comments  
+09/01 /18 New policy, approved August 14 , 2018, effective December 6 , 2018. Add to Surgery  
+section. Policy created with a literature review through July 2018. Ablative procedures, 
+including but not limited to chemical neurolysis, cryoablation, pulsed radiofrequency, 
+and radiofrequency ablation  for the treatment of chronic headaches ( chronic 
+migraines, chronic tension -type headaches , chronic cluster headaches, cervicogenic  
+ 
+Page | 17 of 17  ∞ 
+ Date  Comments  
+headaches ), occipital neuralgia and persistent idiopathic facial pain (PIFP)/atypical 
+facial pain are considered investigational.  
+10/01 /19 Annual Review, approved September 5 , 2019. Policy updated with literature review  
+through August 2019. References added. Cooled radiofrequency added to list of 
+ablative treatments considered investigational.  
+08/01/20  Updated Related Policies. 7.01.565 is n ow 7.01.154.  
+10/01 /20 Annual Review, approved September 1 , 2020.  Policy reviewed. Policy statement 
+unchanged.  
+06/01 /21 Annual Review, approved May 4 , 2021.  Policy reviewed. References updated. Policy 
+statements unchanged.  
+09/01 /22 Annual Review, approved August 8 , 2022.  Policy updated with literature review 
+through July 18, 2022 . References added and updated. Policy statements unchanged.  
+ 
+Disclaimer : This medical policy is a guide in evaluating the medical necessity of a particular service or treatment. The 
+Company adopts policies after careful review of published peer -reviewed scientific literature, national guidelines and 
+local standards of practic e. Since medical technology is constantly changing, the Company reserves the right to review 
+and update policies as appropriate. Member contracts differ in their benefits. Always consult the member benefit booklet or contact a member service representative  to determine coverage for a specific medical service or supply. 
+CPT codes, descriptions and materials are copyrighted by the American Medical Association (AMA). © 2022 Premera 
+All Rights Reserved.  
+Scope : Medical policies are systematically developed guide lines that serve as a resource for Company staff when 
+determining coverage for specific medical procedures, drugs or devices. Coverage for medical services is subject to the limits and conditions of the member benefit plan. Members and their providers should consult the member 
+benefit booklet or contact a customer service representative to determine whether there are any benefit limitations 
+applicable to this service or supply. This medical policy does not apply to Medicare Advantage.  Premera Blue Cross is a n independent licensee of the Blue Cross Blue Shield Association  serving businesses and residents of Alaska and Washington State, excluding C lark County.   
+052493  (07-01-2021) Discrimination is Against the Law  
+Premera Blue Cross  (Premera) complies with applicable Federal and Washington state civil rights laws and does not discriminate on the basis of race, 
+color, national o rigin, age, disability, sex, gender identity, or sexual orientation . Premera does not exclude people or treat them differently because of race, 
+color, national origin, age, disability , sex, gender identity, or sexual orientation.  Premera  provides free aids and services to people with disabilities to 
+communica te effectively with us, such as q ualified sign language interpreters  and w ritten information in other formats (large print, audio, accessible 
+electronic formats, other formats) . Premera p rovides fre e language services to people whose primary language is not English, such as  qualified interpreters  
+and i nformation written in other languages . If you need these services, contact the Civil Rights Coordinator.  If you believe that Premera has failed to 
+provide these services or discriminated in another way on the basis of race, color, national origin, age, disability, sex, gender identity, or sexual orientation , 
+you can file a grievance with:  Civil Rights Coordinator ─ Complaints and Appeals , PO Box 91102 , Seattle, WA 98111 , Toll free : 855-332-4535 , Fax: 425-918-5592 , 
+TTY: 711 , Email  AppealsDepartmentInquiries@Premera.com . You can file a grievance in person or by mail, fax, or email.  If you need help filing a 
+grievance, the Civil Rights Coordinator is available to help you.  You can also file a civil rights complaint with the U.S. Department of Health and Human 
+Services, Office for Civil Rights, electronically through the Office for Civil Righ ts Complaint Portal, available at  https://ocrportal.hhs.gov/ocr/portal/lobby.jsf , 
+or by mail or phone at:  U.S. Department of Health and Human Services,  200 Independence Ave SW, Room 509F, HHH B uilding , Washington, D.C. 20201, 
+1-800-368-1019,  800-537-7697 (TDD). Complaint forms are available at  http://www.hhs.gov/ocr/office/file/index.html .  
+Washington  residents : You can also file a civil rights complaint wi th the Washington State Office of the Insurance Commissioner, electronically through 
+the Office of the Insurance Commissioner Complaint Portal available at https://www.insurance.wa.gov/file -complaint -or-check -your-complaint -status , or by 
+phone at 800 -562-6900, 360 -586-0241 (TDD). Complaint forms are available at https: //fortress.wa.gov/oic/onlineservices/cc/pub/complaintinformation.aspx .  
+Alaska  residents : Contact the Alaska Division of Insurance via email at insurance@alaska.gov , or by phone at 907-269-7900 or 1 -800-INSURAK  (in-state, 
+outside Anchorage) . 
+Language Assistance  
+ATENCIÓN : si habla español, tiene a su disposición servicios gratuitos de asistencia lingüística. Llame al 800 -722-1471  (TTY: 711).  
+PAUNAWA : Kung nagsasalita ka ng Tagalog , maaari kang gumamit ng mga serbisyo ng tulong sa wika nang walang bayad. Tumawag sa  800-722-1471  (TTY: 711).  
+注意：如果您使用繁體中文，您可以免費獲得語言援助服務。請致電  800-722-1471  (TTY：711）。 
+CHÚ Ý : Nếu bạn nói Tiếng Việt, có các dịch vụ hỗ trợ ngôn ngữ miễn phí dành cho b ạn.  Gọi số 800-722-1471  (TTY: 711). 
+주의: 한국어를  사용하시는  경우, 언어 지원 서비스를  무료로  이용하실  수 있습니다 . 800-722-1471  (TTY: 711)  번으로  전화해  주십시오 . 
+ВНИМАНИЕ : Если вы говорите на русском языке, то вам доступны бесплатные услуги перевода.  Звоните  800-722-1471  (телетайп: 711). 
+LUS CEEV : Yog tias koj hais lus Hmoob , cov kev pab txog lus, muaj  kev pab dawb  rau koj. Hu rau 800-722-1471  (TTY:  711).  
+MO LOU SILAFIA : Afai e te tautala  Gagana fa'a Sāmoa, o loo iai auaunaga  fesoasoan, e fai fua e leai se totogi, mo oe,  Telefoni mai:  800-722-1471  (TTY: 711).  
+ໂປດຊາບ: ຖ້າວ່າ ທ່ານເວ ້າພາສາ ລາວ, ການບໍລິການຊ່ວຍເຫ  ຼື ອດ້ານພາສາ, ໂດຍບໍ່ເສ ັ ຽຄ່າ, ແມ່ນມ ີພ້ອມໃຫ້ທ່ານ. ໂທຣ 800-722-1471  (TTY: 711) . 
+注意事項 ：日本語を話される場合、無料の言語支援をご利用いただけます。 800-722-1471  （TTY:711）まで、お電話にてご連絡ください。  
+PAKDAAR : Nu saritaem ti Ilocano, ti serbisyo para ti baddang ti lengguahe nga awanan bayadna, ket sidadaan para kenyam.  Awagan ti  800-722-1471  (TTY: 711).  
+УВАГА!  Якщо ви розмовляєте українською мовою, ви можете звернутися до безкоштовної служби мовної підтримки.  Тел ефонуйте за 
+номером 800 -722-1471  (телетайп:  711). 
+ប្រយ័ត្ន៖   បរើសិនជាអ្នកនិយាយ  ភាសាខ្មែរ , បសវាជំនួយខ្ននកភាសា បោយមិនគិត្ឈ្ ន ួល គឺអាចមានសំរារ់រំបរ ើ អ្នក។  ចូរ ទូរស័ព្ទ   800-722-1471 ( TTY: 711)។ 
+ማስታወሻ :  የሚናገሩት  ቋንቋ ኣማርኛ  ከሆነ የትርጉም  እርዳታ ድርጅቶች፣  በነጻ ሊያግዝዎት  ተዘጋጀተዋል፡  ወደ ሚከተለው  ቁጥር ይደውሉ  800-722-1471 (መስማት  ለተሳናቸው : 711). 
+XIYYEEFFANNAA : Afaan  dubbattu  Oroomiffa , tajaajila  gargaarsa  afaanii , kanfaltiidhaan  ala, ni argama . Bilbilaa  800-722-1471 ( TTY: 711).  
+ملحوظة:  إذا كنت تتحدث اذكر اللغة، فإن خدمات المساعدة اللغوية تتوافر لك بالمجان.  اتصل برقم   1471-722-800    :(رقم هاتف الصم والبكم711 .) 
+ਧਿਆਨ  ਧਿਓ: ਜੇ ਤੁਸੀਂ ਪੰਜਾਬੀ  ਬੋਲਿੇ ਹੋ, ਤਾਂ ਭਾਸ਼ਾ ਧ ਿੱਚ ਸਹਾਇਤਾ  ਸੇ ਾ ਤੁਹਾਡੇ ਲਈ ਮੁਫਤ ਉਪਲਬਿ  ਹੈ। 800-722-1471 (TTY:  711) 'ਤੇ ਕਾਲ ਕਰੋ। 
+เรียน : ถ้าคุณพูดภาษาไทยคุณสามารถใช้บริการช่วยเหลือทางภาษาได้ฟรี  โทร 800-722-1471  (TTY: 711).  
+ACHTUNG : Wenn Sie Deutsch sprechen, stehen Ihnen kostenlos sprachliche Hilfsdienstleistungen zur Verfügung. Rufnummer: 800 -722-1471  (TTY: 711).  
+UWAGA : Jeżeli mówisz po polsku, możesz skorzystać z bezpłatnej pomocy językowej. Zadzwoń pod numer 800 -722-1471  (TTY: 711).  
+ATANSYON : Si w pale Kreyòl Ayisyen, gen sèvis èd pou lang ki disponib gratis pou ou.  Rele 800 -722-1471  (TTY: 711).  
+ATTENTION  : Si vous parlez français, des services d'aide linguistique vous sont proposés gratuitement.  Appelez le 800 -722-1471  (ATS :  711).  
+ATENÇÃO : Se fala português, encontram -se disponíveis serviços linguísticos, grátis.  Ligue para 800 -722-1471  (TTY: 711).  
+ATTENZIONE : In caso la lingua parlata sia l'italiano, sono disponibili servizi di assistenza linguistica gratuiti. Chiamare il numero  800-722-1471  (TTY: 711).   
+ توجه: اگر به زبان فارسی گفتگو می کنید، تسهیالت زبانی بصورت رايگان برای شما فراهم می باشد. با   (TTY: 711) 1471-722-800   .تماس بگیريد 

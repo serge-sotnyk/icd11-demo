@@ -1,0 +1,246 @@
+Medical Policy Reference Manual
+Medical Policy
+2.01.017 Allergy Immunotherapy
+         Original MPC Approval:  04/01/98
+         Last Review:   09/01/2021
+         Last Revision: 09/01/2021
+Description
+Immunotherapy involves regular injections of an offending allergen over a period of months, with the goal of increasing 
+immunity and reducing symptoms.  It begins with low doses to prevent untoward reactions, with gradually increasing 
+doses injected once or twice a week as immunity to the antigen develops.  After the maintenance dose is achieved, the 
+interval between injections may range between two and six weeks.  Immunotherapy may be administered continuously 
+for several years. 
+Policy
+Immunotherapy is considered medically necessary in patients with demonstrated hypersensitivity that cannot be 
+managed by medications or avoidance.  Injections of airborne (for example; severe seasonal allergic rhinitis or 
+conjunctivitis) or insect venom (Hymenoptera) allergens should be prepared for the patient individually.  
+Sublingual immunotherapy (SLIT) using Oralair®, Grastek®, or Ragwitek® may be considered medically necessary, 
+when used according to FDA labelling, for the treatment of pollen-induced allergic rhinitis when the following conditions 
+are met:
+• The member has a history of rhinitis or rhinoconjunctivitis symptoms related to grass or short ragweed pollen 
+exposure; and
+• The member has a documented positive pollen-specific skin test or pollen-specific immunoglobulin E (IgE) test; 
+and
+• The symptoms are not adequately controlled by appropriate pharmacotherapy.
+The following methods of immunotherapy are considered experimental/investigational, as they do not meet TEC 
+criteria # 2-5.
+• Provocative and neutralization therapy for food allergies, using intradermal and subcutaneous routes (e.g., ALCAT, 
+SAGE),
+• Urine autoinjections (autogenous urine immunization); and
+•Rinkel, or serial dilution endpoint titration therapy, except when done with serial endpoint testing as defined in 
+policy on SET (see Allergy Testing, Policy 2.01.023). This immunotherapy uses therapeutic dose determined by 
+skin endpoint titration as treatment. Generally, the dosage determined by this method is approximately 1000 times 
+weaker than dosages calculated by more conventional methods and has been shown to be no more effective than 
+placebo for relieving symptoms or for producing immunologic effect.  Sublingual immunotherapy using Odactra® may be considered medically necessary when used in accordance with 
+FDA labeling, for the treatment of house dust mite-induced allergic rhinitis or rhinoconjunctivitis when the following 
+criterion are met: 
+• Patient is 18 to 65 years of age.
+• Patient has a history of rhinitis or rhinoconjunctivitis symptoms related to dust mite exposure.
+• Patient has a documented positive house dust mite (HDM) specific skin test or house dust mite specific 
+immunoglobulin E test. 
+oAllergy must be confirmed by positive skin test, using licensed house dust mite allergen extracts or in vitro 
+testing for house dust mite specific immunoglobulin E antibodies to the Dermatophagoides farinae and 
+Dermatophagoides pteronyssinus species.
+• Patient’s symptoms are not adequately controlled by appropriate pharmacotherapy.
+Sublingual immunotherapy (Odactra®) as a technique of allergy immunotherapy is considered 
+experimental/investigational for all other indications.
+Policy Guidelines
+Rationale:
+A review of peer-reviewed literature does not support the use of allergy immunotherapy for conditions other than those 
+medically necessary indications listed in the Policy section of this document.
+Update 2008:
+A search of the peer-reviewed literature was performed from August 2006 through August 2008.  Despite extensive 
+studies and ongoing clinical trials in regard to sublingual immunotherapy, there is no allergy extract approved for SLIT 
+by the U.S. Food and Drug Administration (FDA) in the United States.  There was a scarcity of peer-reviewed literature 
+for provocative and neutralization therapy, urine autoinjections or serial dilution endpoint titration therapy; therefore, 
+the policy statements remain unchanged.
+Update 2010:
+A search of the peer reviewed literature was performed from September 2008 through November 2010.  Findings in 
+the literature do not change the medically necessary indications as listed in the policy. 
+No allergy extracts for sublingual immunotherapy are currently cleared or approved by the U.S. Food and Drug 
+Administration. 
+Update 2013:
+A search of the peer-reviewed literature was performed from December 2010 through January 2013.  The findings in 
+the literature do not support any change in the policy regarding immunotherapy treatment of allergy disorders. There 
+are no FDA approved formulations for oral immunotherapy or SLIT at this time.
+Update 2015:
+A search of the peer-reviewed literature was performed from February 2013 through April 2015.  In April 2014, the U.S. 
+Food and Drug Administration (FDA) approved the first sublingual allergen extract tablets for treatment of pollen-
+induced allergic rhinitis with or without conjunctivitis.  On April 1, 2014, the FDA approved Oralair® allergen extract for 
+patients 10-65 years of age for the treatment of allergies to Kentucky Blue Grass, Orchard, Perennial Rye, Sweet 
+Vernal, and Timothy grasses.  On April 11, 2014, the FDA approved Grastek® for patients 5-65 years of age with 
+allergies to Timothy grass pollen.  On April 17, 2014, the FDA approved Ragwitek® for patients 18-65 years of age with 
+allergies to ragweed pollen.  In March 2013, the Agency for Healthcare Research and Quality published a comparative 
+effectiveness review comparing the effectiveness and safety of subcutaneous immunotherapy and sublingual 
+immunotherapy with other therapies for the treatment of allergic rhinoconjunctivitis and asthma.  The agency performed 
+a meta-analysis of 142 randomized controlled studies and found the overall body of evidence consistently provides 
+moderate to high support for the effectiveness and safety of both subcutaneous and sublingual immunotherapy for the 
+treatment of allergic rhinitis and asthma. Update 2017:
+A search of the peer-reviewed literature was performed from May 2015 through April 2017.  Findings in the literature 
+do not support any change in the medically necessary or experimental / investigational indications listed in the policy.  
+Update 2019:
+A search of the peer-reviewed literature was performed from the period of May 2017 through June 2019.  Findings in 
+the recent literature revealed a new tablet for sublingual administration.  On March 1, 2017, the FDA approved Odactra® 
+(Merck), as the first allergen extract for the treatment of house dust mite (HDM) (Dermatophagoides farinae and 
+Dermatophagoides pteronyssinus) induced allergic rhinitis with or without conjunctivitis. The FDA authorizes use for 
+patients 18 through 65 years of age. The first dose of Odactra® must be administered in a healthcare setting under the 
+supervision of a physician with experience in the diagnosis and treatment of allergic diseases.
+Odactra®’s safety and efficacy were assessed in a randomized, double-blind, multicenter trial with a total of 1482 
+participants.  Subjects ages ranged from 12 years and older with house dust mite-induced allergic rhinitis with or without 
+conjunctivitis, and with or without asthma.  Participants were treated with Odactra® or a placebo tablet administered 
+once per day for a total of 52 weeks.  Improvement in the average Total Combined Rhinitis Score after treatment, 
+compared with placebo, was 17% (95% CI, 10% to 25%). This primary efficacy end point, which integrated symptoms 
+and medication use, met prespecified targets for clinical significance. Furthermore, participants demonstrated 
+improvement in average conjunctivitis scores and with improvement over placebo of 33% (95% CI, 19% to 47%). Seven 
+patients were treated with epinephrine for adverse events; 1 patient experienced severe “throat tightness” after the first 
+dose. Adverse events were reported as mild to moderate in severity.  The most common events documented were 
+mouth and throat irritation, swelling of lips, and itching in the ear. No treatment-related serious adverse events were 
+reported. 
+Update 2021:
+A search of the peer-reviewed literature was performed from the period of July 2019 through June 2021. Findings in 
+the recent literature do not support any change in the medically necessary or experimental / investigational indications 
+listed in the policy.  
+Benefit Applications
+NOTE:  For FEP business check the member's contract for benefits.
+ 
+Provider Guidelines
+The CPT® codes for allergen immunotherapy are specific to parenteral administration and should not be used for 
+sublingual immunotherapy.  The unlisted code should be used when reporting sublingual immunotherapy. 
+When reporting professional services for the supervision of preparation and provision of antigens for allergen 
+immunotherapy for a specific treatment set, the calculated doses should be based on the actual number of doses 
+prospectively planned to be administered on a given dose schedule.  A dose is the amount of antigen(s) in a single 
+injection from a single or multiple dose vial (that is, one injection equals one dose). The professional services for the 
+immunotherapy are reported separately at the time the injection is administered.
+NOTE:  Check individual contract for benefits and for specific preauthorization requirements. 
+ 
+Cross References to Related Policies and Procedures
+Idiopathic Environmental Intolerances 2.01.001
+Allergy Testing, Policy 2.01.023 References
+The following were among the resources reviewed and considered in developing this policy.  By 
+reviewing and considering the resources, CareFirst does not in any way endorse the contents 
+thereof nor assume any liability or responsibility in connection therewith.  The opinions and 
+conclusions of the authors of these resources are their own and may or may not be in agreement 
+with those of CareFirst.
+Agache, I., Lau, S., Akdis, C. A., Smolinska, S., Bonini, M. et al.  (2019, May).  EAACI Guidelines on Allergen 
+Immunotherapy: House dust mite-driven allergic asthma.  Allergy.  doi: 10.1111/all.13749.
+American Academy of Allergy, Asthma & Immunology, Inc. (2002).  the Allergy Report.  Allergic Disorders:  Promoting 
+Best Practice.  Retrieved June 29, 2004 from the World Wide Web:  http://www.aaaai.org/ar/volume1.pdf.
+Austen, K.F. (1998). Diseases of immediate type hypersensitivity. In A.S. Fauci, et al. (Eds.), Harrison's principles of 
+internal medicine, pp. 1860-1869. New York: McGraw-Hill.
+Bernstein, D.I., Wanner, M., et al., (2004, June). Twelve-year survey of fatal reactions to allergen injections and skin 
+testing:  1990 - 2001. Journal Allergy Clinical Immunology (6):  1129-36.
+Blue Cross and Blue Shield National Account Consortium. (1996, July 31). Allergy Immunotherapy (Medical Policy 
+2.01.17). Columbia: Author.
+Bousquet, J., Lockey, R., et.al, (1998, November). Allergen immunotherapy: therapeutic vaccines for allergic diseases. 
+World Health Paper, an executive summary.  Annals of Allergy, Asthma, & Immunology, (81) 401-405.
+Boyle, R.J., Elremeli, M., Hockenhull, J., Cherry, M.G., Bulsara, M.K., (2012, October).  Venom immunotherapy for 
+preventing allergic reactions to insect stings. Cochrane Database Syst Rev., CD008838.   Retrieved from the world 
+wide web on January 29, 2013 at http://www.ncbi.nlm.nih.gov/pubmed/23076950
+Burke, A.W., Jones, S.M., Wood, R.A., Fleischer, D.M., Sicherer, S.H., (2012, July).  Oral immunotherapy for treatment 
+of egg allergy in children. N Engl J Med., 367(3):233-43.
+Centers for Medicare and Medicaid Services.  NCD for Food Allergy Testing and Treatment. Publication Number 100-
+3, Manual Section Number 110.11.
+Centers for Medicare and Medicaid Services.  NCD for Cytotoxic Food Tests.  Publication Number 100-3, Manual 
+Section Number 110.13.
+Creticos, P.S., Corran, J., Felsweg, A.M. (8/26/19) Subcutaneous immunotherapy (SCIT) for allergic disease: 
+Indications and efficacy, UpToDate.
+Cox, L., Compalati, E., Kundig, T., Larche, M., (2013, January).  New Directions in Immunotherapy.  Curr Allergy 
+Asthma Rep., [Epub ahead of print] Retrieved from the world wide web on January 29, 2013 at 
+http://www.ncbi.nlm.nih.gov/pubmed/23315329.
+Demoly, P., Emminger, W., Rehm, D., Backer, V., Tommerup, L.  et al.  (2016, February).  Effective treatment of house 
+dust mite-induced allergic rhinitis with 2 doses of the SQ HDM SLIT-tablet: Results from a randomized, double-blind, 
+placebo-controlled phase III trial.  The Journal of Allergy and Clinical Immunology.   doi: 10.1016/j.jaci.2015.06.036.
+DiBona, D., Plaia, A., Scafidi, V., Leto-Barone, M.S., DiLorenzo, G. (2010, September).  Efficacy of sublingual 
+immunotherapy with grass allergens for seasonal allergic rhinitis: a systematic review and meta-analysis. Journal of 
+Allergy and Clinical Immunology, 126(3):558-66.
+Fleischer, D.M., Burks, A.W., Vickery, B.P., Scurlock, A.M., Wood, R.A., (2013, January).  Sublingual immunotherapy 
+for peanut allergy: A randomized, double-blind, placebo-controlled multicenter trial. J Allergy Clin Immunol.,131(1):119-
+127.
+Frew, A.J., White, P.J. & Smith, H.E. (1999). Sublingual immunotherapy. Journal of Allergy and Clinical Immunology, 
+104, 257-270.Greenhawt, M., Oppenheimer, J., Nelson, M., Nelson, H., Lockey, R., Leiberman, P., . . .Wallace, D. (2017).  Sublingual 
+immunotherapy: A focused allergen immunotherapy practice parameter update.  Annals of Allergy Asthma Immunology, 
+118(2017) 276-282.  
+https://www.aaaai.org/Aaaai/media/MediaLibrary/PDF%20Documents/Practice%20and%20Parameters/Sublingual-
+Immunotherapy-2017.pdf
+Hayes Directory (2011, October; Reviewed 2014, April 2015, March, Archived 2016, November). Sublingual 
+Immunotherapy for Allergic Rhinitis. Lansdale, PA:  Hayes, Inc.
+Incorvaia, C., Riario-Sforza, G.G., Incorvaia, S., Frati, F., (2010, July). Sublingual immunotherapy in allergic asthma: 
+Current evidence and needs to meet. Annals of Thoracic Medicine,5(3):128-32. 
+Joint Task Force on Practice Parameters, (2011, January) American Academy of Allergy, Asthma and Immunology 
+(AAAAI); the American College of Allergy, Asthma & Immunology (ACAAI); and the Joint Council of Allergy, Asthma & 
+Immunology (JCAAI). Allergen Immunotherapy: A practice parameter third update.  Journal of Allergy and Clinical 
+Immunology Vol 127, Number 1.
+Joint Task Force on Practice Parameters. (American Academy of Allergy, Asthma and Immunology, American College 
+of Allergy, Asthma and Immunology, & Joint Council of Allergy, Asthma and Immunology.) (1996). Practice parameters 
+for allergen immunotherapy. Journal of Allergy and Clinical Immunology, 98, 1001-1011. Retrieved August 30, 2001 
+from the World Wide Web:  http://www.jcaai.org/Param/Shots.HTM
+Joint Task Force on Practice Parameters (1996, reviewed 1998). Practice parameters for diagnosis and treatment of 
+asthma. Journal of Allergy and Clinical Immunology, 96, S707-S870. Retrieved August 30, 2001 from the World Wide 
+Web:  http://www.jcaai.org/Param/Asthma.htm
+Klimek, L., Fox, G. C., Thum-Oltmer, S.  (2018, July).  SCIT with a high-dose house dust mite allergoid is well tolerated: 
+safety data from pooled clinical trials and more than 10 years of daily practice analyzed in different subgroups.  Allergo 
+Journal International.  doi: 10.1007/s40629-018-0059-x.
+La Rose, M., Ranno, C. Andre, C., Carat, F., Tosca, M.A. & Canonica, G.W. (1999). Double-blind placebo-controlled 
+evaluation of sublingual-swallow immunotherapy with standardized Parietaria judaica extract in children with allergic 
+rhinoconjunctivitis. Journal of Allergy and Clinical Immunology,104(2 Pt 1),425-432
+Lee S, Nolte H, Benninger MS.  (2015 Mar-Apr).  Clinical considerations in the use of sublingual immunotherapy for 
+allergic rhinitis.  American Journal of Rhinology & Allergy, 29(2):106-14. doi: 10.2500/ajra.2015.29.4148.
+Li, J.T., Lockey, R.F., et.al, (2003, January). Allergen immunotherapy:  a practice parameter. Annals of Allergy, Asthma 
+& Immunology. (90) 1-40.
+Liao, W., Hu, Q., Shen, L.L., Hu, Y., Tao, H.F., Li, H.F., Fan, W.T.  (2015, June). Sublingual Immunotherapy for 
+Asthmatic Children Sensitized to House Dust Mite: A Meta- Analysis.
+https://www.ncbi.nlm.nih.gov/pubmed?term=Sublingual%20immunotherapy%20for%20asthmatic%20children%20sen
+sitized%20to%20house%20dust%20mite%3A%20A%20meta-analysis. - comments  Medicine (Baltimore), 2015 
+Jun;94(24):e701. doi: 10.1097/MD.0000000000000701
+Lin, S.Y., Erekosima, N., Suarez-Cuervo, C., Ramanathan, M., Kim, J., ... Segal, J. (2013, March). Allergen-specific 
+immunotherapy for the treatment of allergic rhinoconjunctivitis and/or asthma:  comparative effectiveness review. 
+Agency for Healthcare Research and Quality. U.S. Department of Health and Human Services. AHRQ Publication No. 
+13-EHC061-EF. Retrieved from www.effectivehealthcare.ahrq.gov. Last accessed January 27, 2015 
+Marogna, M., Spadolini, I., Massolo, A., Canonica, G.W., Passalacqua, G., (2010, November).  Long-lasting effects of 
+sublingual immunotherapy according to its duration: A 15-year prospective study. Journal of Allergy and Clinical 
+Immunology,126(5):969-75.
+MCG Health Ambulatory Care Guidelines (2021). Immunotherapy, sublingual. 24th edition. http://www.mcg.com. 
+Accessed June 8, 2021.
+Merck & Co., Inc. (2014, April). Grastek® (Timothy grass pollen allergen extract) tablet for sublingual use prescribing 
+information. Retrieved from www.fda.gov. Last accessed January 28, 2015 Merck & Co. Inc. (2014, June). Ragwitek® (Short ragweed pollen allergen extract) tablet for sublingual use prescribing 
+information.  Retrieved from www.fda.gov. Last accessed January 28, 2015
+National Institute of Health. (1999, January). Food Allergy and Intolerances, NIAID Fact Sheet. Retrieved on June 30, 
+2004 from the World Wide Web.  http://www.niaid.nih.gov/factsheets/food.htm.
+Nelson, H.S. (2020) 2020 Updated Asthma Guidelines: Allergen immunotherapy, The Journal of Allergy and Clinical 
+Immunology, 146(6): 1286-7.
+Nolte, H., Bernstein, D. I., Nelson, H. S., Kleine-Tebbe, J., Sussman, G. L. et al.  (2016, December).   Efficacy of house 
+dust mite sublingual immunotherapy tablet in North American adolescents and adults in a randomized, placebo-
+controlled trial.  The Journal of Allergy and Clinical Immunology.    doi: 10.1016/j.jaci.2016.06.044.  
+Pawankar, R.; Baena-Cagnani, C.; Bousquet, J, et al.  (2008, June).  State of World Allergy Report 2008:  Allergy and 
+Chronic Respiratory Diseases.  World Allergy Organization Journal:  Volume 1 (6):  S4 - S17.
+Penagos, M.; Passalacqua, G.; Compalati, E., et al.  (2008, July).  Metaanalysis of the Efficacy of Sublingual 
+Immunotherapy in the Treatment of Allergic Asthma in Pediatric Patients, 3 to 18 years of Age.  Chest 2008; 133(3):  
+599-609.  Retrieved from the World Wide Web September 11, 2008 @ http://www.medscape.com/viewarticle/576095.
+Pham-Rhi, N., D.R. Blic, J., Scheinmann, P.  (2006). Sublingual immunotherapy in the treatment of children. (Review 
+article). Allergy:  61 (Suppl. 81): 7-10
+Purkey, M.T, Smith, T.L., Ferguson, B.J., Luong, A., Reisacher, W.R., (2013, January).  Subcutaneous immunotherapy 
+for allergic rhinitis: an evidence-based review of the recent literature with recommendations.  Int Forum Allergy Rhinol., 
+[Epub ahead of print] Retrieved from the world wide web on January 29, 2013 at 
+http://www.ncbi.nlm.nih.gov/pubmed/23315962
+Reisman R.E. (1981) American Academy of Allergy, Asthma and Immunology: position statements-controversial 
+techniques. Journal of Allergy and Clinical Immunology, 67:333.
+Smith, H., White, P., Annila, I., Poole, J., Andre, C., Frew, A.  (2004, October). Randomized controlled trial of high-dose 
+sublingual immunotherapy to treat seasonal allergic rhinitis.  Journal Allergy Clinical Immunological; 114(4): 831-7.
+Sopo, S.M.., Macchiaiolo, M., Zorzi, G., Tripodi, S. (2004, July) Sublingual immunotherapy in asthma and 
+rhinoconjunctivitis; systematic review of pediatric literature. Arch Dis. Child. (7): 620-4.
+Sridharan, K, Sivaramakrishnan, G.  (2017, March).  Sublingual immunotherapy in patients with latex allergy:  
+Systematic review and meta-analysis of randomized controlled trials.  Journal of Dermatological Treatment, 1-6. doi: 
+10.1080/09546634.2017.1303567. [Epub ahead of print]
+Stallergenes S.A. (2014, October). Oralair® (Sweet vernal, orchard, perennial rye, timothy, and Kentucky blue grass 
+mixed pollens allergen extract) table for sublingual use prescribing information.  Retrieved from www.fda.gov. Last 
+accessed January 28, 2015 
+ 
+U. S. Food and Drug Administration.  (2017, March 1).  FDA approves Odactra for house dust mites allergies.  Retrieved 
+from World Wide Web on June 13, 2019 from https://www.fda.gov/news-events/press-announcements/fda-approves-
+odactra-house-dust-mite-allergies?source=govdelivery&utm_medium=email&utm_source=govdelivery
+U.S. Food and Drug Administration: https://www.fda.gov/BiologicsBloodVaccines/Allergenics/ucm545531.htm  
+Wilson, D.R., Lima, M.T., Durham, S.R. (2005, January). Sublingual immunotherapy for allergic rhinitis:  systematic 
+review and meta-analysis.  Allergy; 60(1): 4-12
+Wuthrich, B.  (2005). Unproven techniques in allergy diagnosis.  Journal Investig Allergol Clin Immunol; 15(2): 86-90.This policy statement relates only to the services or supplies described herein.  Coverage will 
+vary from contract to contract and by line of business and should be verified before applying the 
+terms of the policy.

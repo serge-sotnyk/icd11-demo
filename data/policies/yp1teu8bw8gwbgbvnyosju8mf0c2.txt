@@ -1,0 +1,1559 @@
+   
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+        
+         
+   
+ 
+   
+         
+   
+ 
+       
+         
+   
+ 
+  
+       
+          
+            
+  
+  
+     
+             
+  
+   
+  
+ 
+   
+  
+ 
+ 
+ Hematopoietic Cell Transplantation for Breast Cancer  - Medical Clinical Policy Bulletins | Aetna  Page 1 of 25 
+Hematopoietic Cell Transplantation 
+for Breast Cancer 
+POLICY HISTORY  
+Last Review: 06/18/2021 
+Effective: 06/12/2001 
+Next Review: 05/12/2022 
+Review History 
+Deﬁnitions 
+Additional Information 
+Clinical Policy Bulletin 
+Notes Number: 0507  
+POLICY 
+*Please see amendment for Pennsylvania Medicaid at the end of this CPB. 
+Aetna considers autologous hematopoietic cell transplantation for breast 
+cancer experimental and investigational because its effectiveness for this 
+indication has not been established. 
+Aetna considers tandem hematopoietic cell transplantation for breast 
+cancer experimental and investigational because its effectiveness for this 
+indication has not been established. 
+Aetna considers allogeneic hematopoietic cell transplantation for breast 
+cancer experimental and investigational because its effectiveness for this 
+indication has not been established. 
+Exception : Aetna will cover autologous hematopoietic cell 
+transplantation, tandem hematopoietic cell transplantation, or allogeneic 
+hematopoietic cell transplantation for breast cancer when it is performed 
+in a clinical trial sponsored or authorized by the National Cancer Institute 
+(NCI) or the Federal Food and Drug Administration (FDA). Four 
+randomized controlled clinical trials showed that autologous 
+hematopoietic cell transplantation was either similar to or m ore harmful 
+than standard -dose chemotherapy. Doubts have risen concerning 
+falsification of data from the Bezwoda study from South Africa, the only       
+ 
+        
+  
+ 
+ 
+ 
+       
+ 
+  
+ 
+ 
+ 
+ 
+  
+          
+   
+  
+    
+  
+          
+         
+ 
+ 
+   
+             
+              
+   
+    
+  
+ 
+    
+   
+     Hematopoietic Cell Transplantation for Breast Cancer -Medical Clinical Policy Bulletins | Aetna Page 2 of 25 
+randomized, controlled trial that showed that autologous hematopoietic 
+cell transplantation had any clinical benefits over standard -dose 
+chemotherapy. 
+Note : Aetna will continue to cover autologous hematopoietic cell 
+transplantation, tandem hematopoietic cell transplantation, or allogeneic 
+hematopoietic cell transplantation off -trial when dictated by state 
+mandates or other requirements. 
+See also CPB 0634  - Non-myeloablative Hematopoietic C  ell  
+Transplantation  (Mini -Allograft  /  Reduced  Intensity  Conditioning  
+Transplant)  (../600_699/0634.html) .  
+BACKGROUND  
+Appropriate treatment for breast cancer depends on the stage of the 
+cancer, the patient's overall health, and other patient characteristics, such 
+as estrogen receptor status, age, and menopausal status. Treatment may include surgery, radiation, standard- dose chemotherapy, hormonal 
+therapy, or a combination of these. Despite a lack of research showing that high- dose chemotherapy (HDC) with autologous stem cell support 
+(AuSCS) is effective in increasing survival, this approach has become an 
+increasingly common treatment strategy for women with breast cancer. 
+High- dose chemotherapy/AuSCS is based on the concept that some of 
+the chemotherapeutic drugs used in standard -dose chemotherapy might 
+kill more cancer cells if given at much higher doses. However, high doses 
+are very toxic to the bone marrow, and techniques had to be developed to 
+restore a patient's ability to make blood cells after HDC by infusing stem 
+cells harvested prior to treatment from either the patient's bone marrow 
+(ABMT) or peripheral blood (PBSCT). Collectively, these techniques are 
+known as AuSCS. The HDC/AuSCS procedure was initially used as a 
+treatment for metastatic disease; however, its use has expanded to women with very high -risk primary breast cancer that has spread to 
+multiple lymph nodes, but is not yet widely metastatic.       
+ 
+             
+    
+   
+   
+   
+  
+  
+  
+  
+   
+ 
+             
+   
+ 
+ 
+  
+   
+           
+  
+ 
+  
+    
+        
+   
+              
+    
+   
+         
+   
+   
+ 
+ 
+  
+    
+          
+  
+            Hematopoietic Cell Transplantation for Breast Cancer -Medical Clinical Policy Bulletins | Aetna Page 3 of 25 
+Early published results of small uncontrolled phase I and II trials and large 
+retrospective studies of women with metastatic breast cancer (MBC) 
+suggested the potential for higher response rates and increased survival 
+with HDC. However, the results from these early uncontrolled studies were contradicted by several subsequently published randomized 
+controlled clinical trials. In April 1999, the American Society of Clinical 
+Oncologists (ASCO) released preliminary results of 4 randomized 
+controlled phase III trials. Two of the studies examined the use of 
+HDC/AuSCS in the adjuvant treatment of women with very high- risk 
+primary breast cancer defined as cancer that has spread to at least 10 
+lymph nodes. Two studies ex amined the use of HDC/AuSCS for the 
+treatment of advanced, MBC. The early data from these multi -center 
+studies indicated that, at the present time, there is no difference in overall 
+survival (OS) between HDC/AuSCS and standard, lower doses of 
+chemotherapy. 
+The only controlled clinical trial showing higher response rates for 
+HDC/AuSCS than standard -dose chemotherapy was a study first 
+published in 1995 by Bezwoda and his colleagues from the University of 
+Witwatersrand, South Africa. This study involved 90 patients with MBC who were randomized to receive either HDC/AuSCS or a lower dose 
+regimen of chemotherapy not requiring ABMT. The researchers found a 
+significantly higher overall response rate for patients who received 
+HDC/AuSCS (95 %) compared with standard -dose chemotherapy (53 %). 
+Upon further analysis, many experts in the field have agreed that this study of small size (45 in the HDC/AuSCS group and 45 in the standard) 
+was poorly designed, contained major flaws in scientific research, and 
+that its results are insufficient to prove the superiority of HDC/AuSCS. The standard -dose chemotherapy regimen used in the Bezwoda study is 
+not commonly used. While the results of the HDC/AuSCS group are better than the results of standard- dose regimens in most published 
+studies, the median survival times of groups of patients from several published studies of standard -dose regimens are about the same or 
+better than the median survival times of HDC/AuSCS patients in the Bezwoda study. The 45 -week median survival seen in patients in the 
+standard- dose group was shorter than the 68-week median survival seen 
+in previously reported standard- dose groups. The length of time the 
+response lasted in the Bezwoda study standard -dose group (34 weeks) 
+was also shorter than that seen in standard -dose studies (41 weeks). In       
+ 
+            
+              
+   
+ 
+            
+             
+           
+  
+ 
+             
+            
+   
+  
+   
+       
+  
+ 
+  
+   
+   
+    
+ 
+  
+   
+  
+ 
+ 
+ 
+  
+          
+           
+  
+    
+ 
+             
+ 
+        
+    
+          Hematopoietic Cell Transplantation for Breast Cancer -Medical Clinical Policy Bulletins | Aetna Page 4 of 25 
+addition, the follow -up time in the Bezwoda study was short. Half of the 
+patients were in the study for less than 1½ years (72 weeks); the others 
+were in the study for at most 2½ years. 
+Given the preliminary nature of the data, the conflicting initial results, and 
+the specific differences in the study designs, it is not yet possible to draw 
+definitive conclusions about the role of HDC/AuSCS in breast cancer. In 
+order to safeguard the public from false claims, inaccuracies, and 
+premature conclusions, initial results such as these often require 
+additional years of follow -up to see if the results are sustained, and must 
+also be verified by other investigators to ensure that there were no flaws 
+or biases in the methodology. Despite public sentiment for treatment availability, there is insufficient outcomes data available from controlled 
+clinical trials published in peer- reviewed literature to draw firm 
+conclusions regarding the superiority of HDC/AuSCS over standard- dose 
+chemotherapy in treating breast cancer. 
+A systematic evidence review prepared for the Cochrane Collaboration 
+(Farquhar et al, 2005a) stated that there is insufficient evidence to 
+support the routine use of HDC with autograft for women with early poor 
+prognosis breast cancer. Furthermore, Farquhar et al (2005b) stated that 
+although there is evidence that HDC and autograft improves event -free 
+survival (EFS) compared to conventional chemotherapy, there is no 
+evidence of benefit in OS for women with MBC. The authors concluded that "[h]igh dose chemotherapy with bone marrow or stem cell 
+transplantation should not be given to women with metastatic breast 
+cancer outside of clinical trials." 
+Pedrazzoli and associates (2003) evaluated autologous hematopoietic 
+stem cell transplantation for breast cancer using data from the European 
+Group for Blood and Marrow Transplantation Registry from 1990 to 1999. 
+The authors stated that continued investigation HDC with autologous 
+stem cell transplantation is still needed. 
+In a randomized controlled trial (n = 885), Rodenhuis et al (2003) reported 
+that HDC with autologous peripheral -blood hematopoietic progenitor -cell 
+transplantation improved relapse -free survival among patients with stage 
+II or III breast cancer and 10 or more positive axillary lymph nodes. This 
+benefit may be confined to patients with HER -2/neu -negative tumors. On       
+ 
+   
+           
+   
+  
+            
+  
+  
+ 
+            
+ 
+   
+    
+               
+  
+    
+    
+ 
+     
+   
+   
+    
+        
+          
+ 
+            
+  
+   
+ 
+    
+ 
+     
+   
+ 
+  
+    
+   
+         Hematopoietic Cell Transplantation for Breast Cancer -Medical Clinical Policy Bulletins | Aetna Page 5 of 25 
+the other hand, Tallman et al (2003), in a randomized controlled study (n 
+= 511), concluded that the addition of HDC and autologous hematopoietic 
+stem -cell transplantation to 6 cycles of adjuvant chemotherapy with 
+cyclophosphamide (CY), doxorubicin, and fluorouracil might reduce the 
+risk of relapse but did not improve the outcome among patients with 
+primary breast cancer and at least 10 involved axillary lymph nodes. The 
+authors stated that conventional -dose adjuvant chemotherapy remains 
+the standard of care for such patients. 
+Zander et al (2004) compared the effects of HDC followed by autologous 
+hematopoietic stem -cell support with standard -dose chemotherapy (SD ­
+CT) as adjuvant treatment in patients with primary breast cancer and 10 or more positive axillary lymph nodes (n = 307). These researchers 
+concluded that there was a trend in favor of HDC with respect to EFS, but 
+without statistical significance. Further investigation is needed to 
+ascertain the effect of HDC as compared with SD -CT as adjuvant 
+treatment in high- risk primary breast cancer. In a multi -center 
+randomized controlled study (n = 785), Peters et al (2005) found that 
+high-dose cyclophosphamide (CY), cisplatin, and carmustine with stem -
+cell support was not superior to intermediate -dose CY, cisplatin, and 
+carmustine with G -CSF support but without stem cells for EFS or OS 
+among all randomized women with high- risk primary breast cancer. This 
+in agreement with the findings of Leonard et al (2004) who found that autograft -supported, HDC is not superior to conventional chemotherapy in 
+patients with breast cancer who have multiple involved lymph nodes. 
+In a 12-year follow -up study on the use of HDC/AuSCS for patients with 
+high-risk primary breast carcinoma (n = 78), Hanrahan et al (2006) 
+reported that there is no recurrence- free survival or OS advantage for 
+these patients treated with HDC/AuSCS after standard dose chemotherapy with 5 -fluorouracil, doxorubicin and CY. These authors 
+stated that there remains no conclusive evidence to support a role of 
+HDC/AuSCS in patients with high- risk primary breast cancer, and it 
+continues to be an investigational technology. 
+Furthermore, Schmid et al (2005) compared up -front tandem HDC and 
+standard combination therapy in patients with MBC (n = 93). Patients 
+without prior chemotherapy for metastatic disease were randomly 
+assigned to standard combination therapy with doxorubicin and paclitaxel       
+ 
+  
+  
+    
+  
+   
+  
+ 
+ 
+             
+  
+  
+  
+    
+          
+    
+   
+  
+  
+         
+  
+    
+          
+   
+   
+   
+   
+   
+   
+    
+  
+             
+          
+ 
+   
+       
+       
+  
+  
+   Hematopoietic Cell Transplantation for Breast Cancer -Medical Clinical Policy Bulletins | Aetna Page 6 of 25 
+(AT) or double HDC with CY, mito xantrone, and etoposide followed by 
+peripheral -blood stem -cell transplantation. High- dose chemotherapy was 
+repeated after 6 weeks. Patients were stratified by menopausal and 
+hormone- receptor status. The primary objective was to compare 
+complete response (CR) rates. This trial failed to show a benefit for up ­
+front tandem HDC compared with standard combination therapy. Also, 
+HDC was associated with more acute adverse effects. 
+Bishop (2004) noted that the prognosis is poor and the options are limited 
+for patients with MBC, particularly for those who had been treated with 
+taxanes and anthracyclines. Murine models have shown that allogeneic 
+T cells are capable of eliciting graft -versus -tumor (GVT) effects against 
+breast cancer, inhibiting growth of breast cancer cell lines in vivo, providing the rationale to pursue allogeneic adoptive cellular therapy as a 
+strategy to treat MBC. However, the clinical application of allogeneic 
+hematopoietic stem cell transplantation (alloHSCT) was limited by 
+concerns over toxi city and unproven effectiveness. The development of 
+non-myeloablative conditioning regimens (i.e., reduced intensity 
+conditioning (RIC) transplant or mini -allograft), which have less treatment-
+related mortality but preserve the T -cell mediated GVT effects , led to 
+increased investigation of alloHSCT in MBC. Early reports of non ­
+myeloablative alloHSCT indicate that a clinical GVT effect against breast 
+cancer does exist. The responses, observed in 20 to 40 % of patients, appear to be associated with the deve lopment of complete donor 
+lymphoid chimerism and may be delayed. In its current form, alloHSCT by itself is unlikely to result in complete eradication of MBC; however, it 
+may serve as a therapeutic platform to complement and enhance the effects of existing cytotoxic therapies and immunotherapies (e.g., 
+trastuzumab), as well as therapies under development (e.g., vaccines). 
+Current data on alloHSCT for MBC should be interpreted cautiously and 
+carefully used for the design of future studies to fully ascertain the clinical 
+effectiveness of this form of adoptive cellular therapy in MBC. 
+Baron and Sandmaier (2005) stated that recent retrospective studies comparing hematopoietic stem cell transplantation after myeloablative or 
+non-myeloablative regimens suggested that the use of non -myeloablative 
+conditioning might be associated with lower transplant -related toxicity, 
+lower non- relapse mortality, and at least similar intermediate -term 
+progression- free survival (PFS). These investigators concluded that       
+ 
+ 
+   
+    
+  
+ 
+ 
+     
+             
+ 
+   
+              
+  
+  
+    
+   
+   Hematopoietic Cell Transplantation for Breast Cancer -Medical Clinical Policy Bulletins | Aetna Page 7 of 25 
+hematopoietic stem cell transplantation following non -myeloablative 
+conditioning might become the procedure of choice also for younger 
+patients. Phase III clinical trials are needed to determine outcomes for 
+different diseases and age groups. 
+In a phase III clinical  trial,  the Southwest  Oncology Group  
+(SWOG)/Intergroup study 9623 (Moore et al, 2007)  compared  treatment  
+with  an  anthracycline- based  adjuvant  chemotherapy  regimen  followed  by 
+HDC  with  autologous  hematopoietic  progenitor  cell  support  (AHPCS)  with 
+a modern dose- dense dose- escalated (non- standard)  regimen including 
+both an anthracycline and a taxane.  Patients in this  study  had operable 
+breast  cancer involving 4 or more axillary lymph nodes  and had 
+completed mastectomy  or breast -conserving surgery. They were 
+randomly  assigned  to  receive  sequential  dose -dense  and  dose- escalated 
+chemotherapy  with  doxorubicin,  paclitaxel,  and  CY  (group  1),  or  4  cycles 
+of doxorubicin and CY followed by  HDC  with AHPCS (group 2).  The  
+primary end point of  this study was  disease- free survival (DFS). Among 
+536 eligible patients, there was no significant  difference between the 2 
+arms  for  DFS or  OS.  Estimated  5-year  DFS  was  80  %  (95  %  confidence 
+interval [CI]:  76 % to 85 %) for dose- dense therapy and  75 %  (95 % CI: 
+69  %  to  80  %)  for  transplantation.  Estimated  5-year  OS  was  88  %  (95  % 
+CI:  84  %  to  92  %)  for  dose- dense  therapy  and  84  %  (95  %  CI:  79  %  to  88  
+%)  for  transplantation.  The  authors  concluded  that  there  is  no  evidence  
+that  transplantation  was  superior  to  dose -dense  dose- escalated  therapy.  
+Furthermore,  transplantation  was  associated  with  an  increase  in  toxicity 
+and a possibly inferior outcome, although the hazard ratios  were not  
+significantly  different from  1.  
+Gradishar (2007) noted that the clinical trial by SWOG, as well as those that preceded it, has failed to identify a group of breast cancer patients for 
+whom HDC confers a significant advantage over non -marrow -ablative 
+chemotherapy approaches. Notably, the "standard" chemotherapy 
+regimen used for group 1 in this trial should not be viewed as a standard 
+regimen for use in routine clinical practice. These doses of doxorubicin, paclitaxel, and CY have not proven superior to the lower doses that are 
+used more commonly. In fact, previous clinical trials have shown that 
+higher doses of doxorubicin, CY , and paclitaxel increase the number of 
+adverse events without enhancing outcomes.       
+ 
+    
+           
+           
+   
+ 
+ 
+   
+ 
+   
+  
+   
+            
+   
+    
+              
+     
+         Hematopoietic Cell Transplantation for Breast Cancer -Medical Clinical Policy Bulletins | Aetna Page 8 of 25 
+In a systematic review and meta- analysis on HDC for poor prognosis 
+breast cancer, Fraquhar et al (2007) concluded that there is insufficient 
+evidence supporting routine use of HDC with autograft for treating early 
+poor prognosis breast cancer. 
+In a multi -center, randomized study,  Crump et  al (2008)  examined PFS,  
+OS,  and  quality  of  life  in  women  with  MBC  receiving  HDC  plus  autologous  
+stem -cell transplantation (ASCT) compared with standard -dose therapy.  
+A  total  of  386  women  with  MBC  and  no  prior  chemotherapy  for  metastatic  
+disease were registered.  After initial response to anthracycline-  or 
+taxane -based i  nduction chemotherapy, 224  patients were r andomly  
+assigned:  112 to high- dose CY,  mitoxantrone, and carboplatin 
+chemotherapy and ASCT (HDCT), and 112 to standard therapy  (ST).  
+Median  age  was  47  years  (range  of  25  to  67  years).  Thirty -two  percent  of 
+women randomly assigned had estrogen  and progesterone receptor - 
+negative breast  cancer, 42 % had  visceral metastases,  and 58 % had 
+bone metastases.  Complete remission rates  before random  assignment  
+were 11 % for those receiving HDC  and 12 % for those recei ving ST. 
+After  a median follow- up of 48 months, 79 deaths  were observed in the 
+HDC  arm  and  77  deaths  were  observed  in  the  ST  arm;  7  patients  (6  %)  in 
+the  HDC  arm  died  as  a  result  of  toxicity.  The  median  OS  was  24  months  
+for  the  HDC  arm  (95  %  CI:  21  to  35  months)  and  28  months  for  ST  (95  % 
+CI:  22  to 33 months; hazard ratio [HR], 0.9; 95 % CI: 0.6 to 1.2; p =  
+0.43). Progression -free survival was  11 months for  HDC  and 9 months  
+for ST (HR, 0.6 in favor of HDCT;  95 %  CI: 0.5 to 0.9; p = 0.006). The 
+authors concluded that HDC did not  improve OS  in women with MBC  
+when  used  as  consolidation  after  response  to  induction  chemotherapy.  
+Ueno et al (2008) reviewed 66 women with poor -risk MBC from 15 
+centers to describe the effectiveness of allogeneic hematopoietic cell 
+transplantation (HCT). Median follow- up for survivors was 40 months 
+(range of 3 to 64 months). A total of 39 patients (59 %) received myeloablative and 27 (41 %) RIC regimens. More patients in the RIC 
+group had poor pre-transplant performance status (63 % versus 26 %, p 
+= 0.002). The RIC group developed less chronic graft -versus -host 
+disease (GVHD) (8 % versus 36 % at 1 year, p = 0.003). Treatment -
+related mortality rates were lower with RIC (7 % versus 29 % at 100 days, 
+p = 0.03). A total of 9 of 33 patients (27 %) who underwent immune 
+manipulation for persistent or progressive disease had disease control,       
+ 
+  
+  
+    
+  
+      
+   
+         
+            
+ 
+          
+       
+       
+      
+         
+    
+ 
+            
+   
+         
+  
+     
+  
+    
+ 
+    
+ 
+    
+            
+   
+   
+ 
+     
+  
+  
+    
+        
+             
+    
+          Hematopoietic Cell Transplantation for Breast Cancer -Medical Clinical Policy Bulletins | Aetna Page 9 of 25 
+suggesting a GVT effect. Progression -free survival at 1 year was 23 % 
+with myeloablative conditioning and 8 % with RIC (p = 0.09). Women 
+who developed acute GVHD after an RIC regimen had lower risks of 
+relapse or progression than those who did not (relative risk, 3.05: p = 
+0.03), consistent with a GVT effect, but this did not affect PFS. The 
+authors stated that these findings support the need for pre -clinical and 
+clinical studies that facilitate targeted adoptive immunotherapy for breast 
+cancer to explore the benefit of a GVT effect in breast cancer. 
+Fleskens and colleagues (2010) reported the findings of 15 patients with 
+chemo- sensitive MBC who underwent RIC allo-SCT between 1999 and 
+2006. The pre- transplant conditioning regimen consisted of fludarabine 
+(25 mg/m(2) at days -5 to - 1) and CY (60 mg/kg at days -2, -1). Stem 
+cells were from human leukocyte antigen (HLA)- matched sibling donors. 
+The treatment- related mortality was 2/15 (13 %). Median PFS and OS 
+were 144 days (43 to 509 days) and 303 days (122 to 1376 days), 
+respectively. The 1-year PFS was 20 %, and the 1-year and 2-year OS 
+was 40 and 20 %, respective ly. No objective tumor responses were 
+observed, but the relatively long PFS does suggest a graft- versus -tumor 
+effect. Although RIC using this CY/fludarabine regimen is feasible, the efficacy in this set of patients was limited. The authors concluded that 
+future clinical trials should be performed to improve the knowledge of mechanisms of anti -tumor effects in breast cancer. 
+Berry et al (2011a) noted that adjuvant HDC with autologous 
+hematopoietic stem -cell transplantation (AHST) for high- risk primary 
+breast cancer has not been shown to prolong survival. Individual trials have had limited power to show overall benefit or benefits within subsets. 
+These investigators assembled individual patient data from 15 randomized trials that compared HDC versus control therapy without 
+stem -cell support. Prospectively defined primary end points were 
+relapse -free survival (RFS) and OS. They compared the effect of HDC 
+versus control by using log -rank tests and proportional hazards 
+regression, and adjusted for clinically relevant co -variates. Subset 
+analyses were by age, number of positive lymph nodes, tumor size, histology, hormone receptor (HmR) status, and human epidermal growth 
+factor receptor 2 (HER2) status. Of 6,210 total patients (n = 3,118, HDC; 
+n = 3,092 control), the median age was 46 years; 69 % were pre­
+menopausal, 29 % were post- menopausal, and 2 % were unknown       
+ 
+  
+ 
+           
+               
+                  
+        
+   
+     
+ 
+   
+  
+   
+ 
+ 
+ 
+   
+  
+       
+             Hematopoietic Cell Transplantation for Breast Cancer -Medical Clinical Policy Bulletins | Aetna Page 10 of 25 
+menopausal status; 49.5 % were HmR -positive; 33.5 % were HmR ­
+negative, and 17 % were unknown HmR status. The median follow -up 
+was 6 years. After analysis was adjusted for co-variates, HDC was found 
+to prolong RFS (hazard ratio [HR], 0.87; 95 % CI: 0.81 to 0.93; p < 0.001) 
+but not OS (HR, 0.94; 95 % CI: 0.87 to 1.02; p = 0.13). For OS, no co­
+variates had statistically significant interactions with treatment effect, and 
+no subsets evinced a significant effect of HDC. Younger patients had a 
+significantly better RFS on HDC than did older patients. The authors 
+concluded that adjuvant HDC with AHST prolonged RFS in high -risk 
+primary breast cancer compared with control, but this did not translate into a significant OS benefit. Whether HDC benefits patients in the 
+context of targeted therapies is unknown. 
+Berry et al  (2011b)  stated substantial interest in support ing HDC with 
+bone  marrow  or  autologous  hematopoietic  stem -cell  transplantation  in  the 
+1980s  and 1990s led to the initiation of randomized trials to evaluate its  
+effect in the treatment of metastatic  breast  cancer. These 
+ 
+researchers  identified  6  randomized  trials  in  metastatic  breast  cancer  that 
+evaluated high doses of chemotherapy with transplant support versus  a 
+control  regimen without stem -cell support. They  assembled a single 
+database containing individual patient information from these trials. The 
+primary analysis of OS was  a log- rank  test comparing high dose versus  
+control. They also used Cox proportional  hazards  regression,  adjusting 
+for known co -variates. We addressed potential treatment differences  
+within  subsets  of  patients.  The  effect  of  HDC  on  OS  was  not  statistically  
+different  (median,  2.16 versus  2.02 years; p = 0.08). A statistically  
+significant  advantage  in  progression- free  survival  (median  of  0.91  versus  
+0.69 years) did not translate into survival benefit. Subset analyses found little evidence that there are groups  of patients  who might benefit  from  
+HDC with hematopoietic support.  The authors concluded  that OS of  
+patients  with metastatic breast  cancer in the 6 randomized trials  was not  
+significantly improved by  HDC;  any benefit from hig h doses was small.  
+No identifiable subset of  patients  seems to benefit from  HDC. 
+ 
+Pedrazzoli et al (2014) noted that the effectiveness of HDC and autologous hemopoietic progenitor cell transplantation (AHPCT) for BC 
+patients has been an area of intense controversy among the medical 
+oncology community. These researchers evaluated the effectiveness and 
+toxicity of this procedure in a large cohort of high -risk primary BC patients       
+ 
+   
+            
+             
+   
+ 
+   
+   
+          
+        
+         
+ 
+    
+            
+  
+  
+  
+         
+            
+   
+          
+     
+  
+  
+ 
+     
+           
+         
+            
+  
+ 
+          
+  
+   
+            
+  
+  
+          
+           
+            Hematopoietic Cell Transplantation for Breast Cancer -Medical Clinical Policy Bulletins | Aetna Page 11 of 25 
+who underwent AHPCT in Italy. A total of 1,183 patients receiving HDC 
+for high- risk BC (HRBC) (greater than 3 positive nodes) were identified in 
+the Italian registry. The median age was 46 years, 62 % of patients were 
+pre-menopausal at treatment, 60.1 % had endocrine- responsive tumors, 
+and 20.7 % had a HER2- positive tumor. The median number of positive 
+lymph nodes (LN) at surgery was 15, with 71.5 % of patients having 
+greater than or equal to 10 positive nodes. Seventy -three percent 
+received an alkylating agent -based HDC as a single procedure, whereas 
+27 % received epirubicin or mitoxantrone -containing HDC, usually within 
+a multi- transplantation program. The source of stem cells was peripheral 
+blood in the vast majority of patients. Transplantation- related mortality 
+was 0.8 %, whereas late cardiac and sec ondary tumor- related mortality 
+were around 1 %, overall. With a median follow -up of 79 months, median 
+DFS and OS in the entire population were 101 and 134 months, respectively. Subgroup analysis demonstrated that OS was significantly 
+better in patients with endocrine -responsive tumors and in patients 
+receiving multiple transplantation procedures; HER2 status did not affect 
+survival probability. The size of the primary tumor and number of involved 
+LN negatively affected OS. Adjuvant HDC with AHPC T has a low 
+mortality rate and provided impressive long- term survival rates in patients 
+with high- risk primary BC. The authors concluded that these findings 
+suggested that this treatment modality should be proposed in selected HRBC patients and further investigated in clinical trials. 
+Moreover, an UpToDate review on "Treatment protocols for breast 
+cancer" (Brenner et al, 2014) as well as National Comprehensive Cancer 
+Network’s clinical practice guideline on "Breast cancer" (Version 3.2014) 
+do no t mention the use of stem cell/ hematopoietic cell transplantation as 
+a therapeutic option. 
+Boudin and associates (2016) evaluated the outcome of patients affected 
+with different subtypes of MBC following treatment with HDC and 
+autologous hematopoietic progenitor cell transplantation (AHSCT). All 
+consecutive female patients treated for MBC with HDC and AHSCT at the 
+Institut Paoli -Calmettes between 2003 and 2012 were included. Patient, 
+tumor and treatment characteristics were collected. Patients were 
+categorized in 3 subtypes based on hormonal receptor and HER2 status 
+of the primary tumor: luminal (L), (HR+/HER2 -), HER2 (HER2+, any HR), 
+and triple negative (TN) (HER2 -and HR-). The main objective was the       
+ 
+         
+        
+      
+             
+              
+    
+ 
+         
+     
+   
+    
+   
+        
+   
+ 
+ 
+         
+   
+   
+          
+     
+           
+   
+ 
+            
+   
+          
+              
+     
+  
+        
+    
+         
+  
+  
+  
+          Hematopoietic Cell Transplantation for Breast Cancer -Medical Clinical Policy Bulletins | Aetna Page 12 of 25 
+analysis of OS according to the immunohistochemical (IHC) subtypes. A 
+total of 235 patients were included, median age was 46 years (range of 
+21 to 62). Median follow up was 53.28 months (95 % CI: 45.12 to 57.6). 
+The TN subtype appeared to have the worst prognosis with a median OS 
+of 19.68 months (95 % CI: 11.76 to 44.4) compared to 44.64 months (95 
+% CI: 40.32 to 67.56) for the luminal subtype and a median OS not reached for the HER2 subtype (p < 0.01). In the multi -variate analysis, 
+the TN subtype retained an independent poor prognosis value compared 
+to the luminal subtype, with a HR of 2.03 (95 % CI: 1.26 to 3.29, p = 0.037). The authors concluded that HDC -AHSCT did not change the 
+prognostic value of IHC subtypes in MBC patients; and OS favorably compared with data available in the literature on similar groups of 
+patients. They stated that these findings provided additional information 
+and options for patients with MBC and who could potentially benefit of HDC- AHSCT. 
+In a retrospective study, Martino and colleagues (2016) evaluated toxicity 
+and effectiveness of adjuvant HDC and AHSCT in 583 high- risk BC 
+patients (greater than 3 positive nodes) who were transplanted between 1995 and 2005 in Europe. All patients received surgery before transplant, 
+and 55 patients (9.5 %) received neoadjuvant treatment before surgery. 
+Median age was 47.1 years; 57.3 % of patients were pre-menopausal at 
+treatment, 56.5 % had endocrine- responsive tumors, 19.5 % had a 
+HER2- negative tumor, and 72.4 % had greater than or equal t o 10 
+positive lymph nodes at surgery; 79 % received a single HDC procedure. 
+Overall transplant -related mortality was 1.9 %, at 0.9 % between 2001 
+and 2005, whereas secondary tumor -related mortality was 0.9 %. With a 
+median follow -up of 120 months, OS and DFS rates at 5 and 10 years in 
+the whole population were 75 % and 64 % and 58 % and 44 %, respectively. Subgroup analysis demonstrated that rates of OS were 
+significantly better in patients with endocrine -responsive tumors, less than 
+10 positive lymph nodes, and smaller tumor size; HER2 status did not 
+affect survival probability. The authors concluded that adjuvant HDC with 
+AHSCT has a low mortality rate and provided impressive long- term 
+survival rates in patients with high- risk BC. They stated that these 
+findings suggested that this treatment modality should be considered in 
+selected high- risk BC patients and further investigated in clinical trials.       
+ 
+ Hematopoietic Cell Transplantation for Breast Cancer -Medical Clinical Policy Bulletins | Aetna Page 13 of 25 
+In a Cochrane review, Farquhar and colleagues  (2016) compared the 
+safety  and  effectiven ess  of  HDC  and  autograft  (either  autologous  BMT  or 
+SCT) with conventional chemotherapy  for women with early poor  
+prognosis BC.  These investigators searched  the Cochrane Breast  
+Cancer  Group Specialized Register,  Medline (1966 to October 2015),  
+Embase  (1980  to  October  2015),  the  World  Health  Organization  (WHO)'s  
+International Clinical Trials  Registry Search Platform, and  
+ClinicalTrials.gov on October  21, 2015. Randomized controlled trials  
+(RCTs) comparing HDC and autograft  (BMT or SCT) versus  
+chemotherapy  without  autograft  for  women  with  early  poor  prognos is  BC 
+were selected for analysis.  Two review authors selected RCTs,  
+independently  extracted  data  and  assessed  risks  of  bias.  They  combined 
+data  using  a  Mantel -Haenszel  fixed -effect  model  to  calculate  pooled  risk 
+ratios (RRs)  and 95 %  CIs. They  evaluated the quality of  the evidence 
+using GRADE  methods. Outcomes were survival rates,  toxicity  and 
+quality of life.  The authors  concluded that there is  high- quality evidence 
+of  increased  treatment- related  mortality  (TRM)  and  little  or  no  increase  in 
+survival  by  using  HDC  with  autograft  for  women  with  early  poor  prognosis  
+BC.  
+Boudin and associates (2017)  noted that studies  evaluating HDC  with 
+autologous  hematopoietic  stem  cell  transplantation  (HDC -ACSH)  in  the 
+treatment of MBC,  locally advanced breast ca ncer (LABC)  and  
+inflammatory  breast  cancer (IBC)  have in common lack  of biomarker  
+information,  in  particular  the  HER2  status.  In  this  study,  all  consecutive 
+female patients treated for BC with HDC  and AHSCT at  Institut  Paoli 
+Calmettes  between 2003 and 2012 were  included. Patients were 
+categorized  in  3  subtypes  based  on  hormonal  receptor  (HR)  and  HER2  
+status  of  the  primary  tumor:  (i)  luminal,  (ii)  (HR+/HER2 -),  and  (iii)  HER2  
+(HER2+, any  HR) and  triple negative (TN) (HER2 - and HR -). The main  
+objective was the analysis  of  OS according to the IHC subtypes.  A  total  
+of  377 patients were included. For  MBC,  the TN subtype appeared to 
+have  the worst prognosis with a median OS  of  19.68  months (95 %  CI:  
+11.76  to 44.4) compared to 44.64 months (95 %  CI:  40.32 to 67.56) for  
+the  luminal  subtype  and  a  median  OS  not  reached  for  the  HER2  subtype 
+(p < 0.01). For  IBC, HER2 subgroup appeared to have  the best  
+prognosis  with  a  5-year  OS  of  89  %  (95  %  CI:  64  to  97)  compared  to  57  
+%  (95 % CI: 33 to 76)  for the TN subgroup (HR  5.38, 95 % CI:  1.14  to        
+ 
+ 
+         
+  
+          
+   
+    
+    
+             
+         
+ 
+            
+     
+ 
+  
+    
+    
+   
+ 
+ 
+  
+        
+   
+          
+            
+      
+  
+  
+  
+          Hematopoietic Cell Transplantation for Breast Cancer -Medical Clinical Policy Bulletins | Aetna Page 14 of 25 
+25.44  ;  p = 0.034). For CSLA,  luminal subgroup appeared to have the  
+best  prognosis  with  a  5-year  OS  of  92  %  (95  %  CI:  71  to  98)  against  75  % 
+(95 %  CI: 46 to 90) for  HER 2 subtype and 70 % (95 % CI: 97 to 88)  for  
+TN subtype (p =  0.301).  The authors concluded  that HDC -ACSH did not  
+change  the  prognosis  value  of  IHC  subtype  in  BC  patients.  
+Karadurmus and colleagues (2018) stated that alloHSCT is primarily used 
+in patients with relapsed or high -risk hematologic malignancies, and the 
+efficacy of this treatment has been substantially demonstrated. The 
+principles of alloHSCT consist of maximal tumor cytoreduction with HDC 
+and adequate immunosuppression in order to provide engraftment of 
+donor stem cells as well as GVT effect. The controversial and 
+disappointing results of studies investigating HDC with autologous stem cell rescue in patients with solid tumors have led to development of novel 
+approaches such as adoptive T-cell therapies (ATCT), targeted therapies 
+and alloHSCT with RIC regimens, which aim to create and take 
+advantage of a GVT effect in order to induce more durable responses. 
+The advantages of alloHSCT over autologous HSCT for metastatic BC are mainly 2 -fold: cancer -free graft and immune -mediated GVT effects 
+mediated by HLA -compatible donor T- cells. These immune -mediated 
+effects led to a transition from a chemotherapy -based approach to an 
+immunotherapy -based approach in the management of BC. The switch 
+from targeting maximal tumor cytoreduction via HDC to induction of immune GVT effects also gave rise to development of RIC and non­
+myeloablative (NMA) regimens instead of conventional myeloablative conditioning regimens. RIC regimens substantially reduced the high 
+transplant- related morbidity and mortality, while allowing for a complete 
+myeloid/lymphoid engraftment. As a result, alloHSCT may become an 
+appropriate treatment option for the elderly and medically fragile patients 
+with metastatic BC. The authors concluded that a GVT effect does exist 
+against metastatic BC and may play a key role in tumor response. If conditioning regimen -related toxicities are reduced and response rates 
+are increased via advances in innovative treatments such as immunotherapy, ATCT and targeted therapies, this tr eatment modality 
+might be included in the armamentarium of treatments for BC.       
+ 
+  
+ 
+ 
+ CPT Codes / HCPCS Codes / ICD -10 Codes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Code Code Description  
+38205 Blood -derived  hematopoietic  progenitor  cell harvesting 
+for transplantation, per  collection;  allogenic  
+38206 autologous  
+38230 Bone marrow harvesting for transplantation;  allogenic  
+38241 Hematopoietic  progenitor  cell (HPC);  autologous  
+transplantation  
+S2150 Bone  marrow  or  blood- derived  stem -cells  (peripheral  or 
+umbilical),  allogeneic or  autologous, harvesting,  
+transplantation, and related complications; including:  
+pheresis  and  cell  preparation/storage;  marrow  ablative  
+therapy;  drugs,  supplies,  hospitalization  with  outpatient  
+follow -up; medical/surgical,  diagnostic,  emergency,  and 
+rehabilitative  services;  and  the  number  of  days  pre-and 
+post-transplant  care in the global  definition  
+C50.011 - 
+C50.929  Malignant neoplasm  of breast  
+C79.81 Secondary malignant neoplasm  of breast  
+D05.00 - 
+D05.92  Carcinoma in situ of breast  Hematopoietic Cell Transplantation for Breast Cancer -Medical Clinical Policy Bulletins | Aetna Page 15 of 25       
+ 
+ 
+ 
+         
+      
+ 
+         
+   
+     
+           
+ 
+          
+        
+ 
+          
+      
+          
+      
+  
+            
+  
+        
+        
+  
+           
+        
+  
+ 
+           
+ 
+          
+  
+         
+    
+        
+  
+       
+        
+    
+       
+   Hematopoietic Cell Transplantation for Breast Cancer -Medical Clinical Policy Bulletins | Aetna Page 16 of 25 
+The above policy is based on the following references: 
+1. Antman KH, Tiersten A. High -dose chemotherapy for breast
+ 
+cancer: Evolving data. Oncology (Huntingt). 1999;13(9):1215 ­
+1219.
+ 
+2. Antman KH, Heitjan DF, Hortobagyi GN. High -dose chemotherapy 
+for breast cancer. JAMA. 1999;282(18):1701- 1703. 
+3. Antman KH. Critique of the high -dose chemotherapy studies in 
+breast cancer: A positive look at the data. J Clin Oncol. 1999;17(11 
+Suppl):30 -34. 
+4. Antman KH. High-dose chemotherapy in breast cancer: The end 
+of the beginning? Biol Blood Marrow Transplant. 2000;6(5):469 ­
+475. 
+5. Antman KH. Randomized trials of high dose chemotherapy for
+ 
+breast cancer. Biochim Biophys Acta. 2001;1471(3):M89 -M98.
+ 
+6. Baron F, Sandmaier BM. Current status of hematopoietic stem
+ 
+cell transplantation after nonmyeloablative conditioning. Curr
+ 
+Opin Hematol. 2005;12(6):435 -443.
+ 
+7. Bergh J, et al Results from a randomized adjuvant breast cancer 
+study with high dose chemotherapy with CTCb supported by 
+autologous bone marrow stem cells versus dose escalated and 
+tailored FEC therapy“, Scandinavian Breast Cancer Study Group. 
+Abstract presented at ASCO annual meeting; 1999. 
+8. Berry DA, Ueno NT, Johnson MM, et al. High -dose chemotherapy 
+with autologous stem -cell support as adjuvant therapy in breast 
+cancer: Overview of 15 randomized trials. J Clin Oncol. 
+2011(a);29(24):3214 -3223. 
+9. Berry DA, Ueno NT, Johnson MM, et al. High -dose chemotherapy 
+with autologous hematopoietic stem -cell transplantation in 
+metastatic breast cancer: Overview of six randomized trials. J Clin 
+Oncol. 2011(b);29(24):3224 -3231. 
+10. Bezwoda WR, Seymour L, Dansey RD. High -dose chemotherapy 
+with hematopoietic rescue as primary treatment for meta static 
+breast cancer: A randomized trial. J Clin Oncol. 1995;13(10):2483 ­
+2489. (Retracted) 
+11. Bezwoda WR. High dose chemotherapy with haematopoietic 
+rescue in breast cancer. Hematol Cell Ther. 1999;41(2):58 -65. 
+12. Bezwoda WR. Randomised, controlled trial of high dose 
+chemotherapy (HD-CNVp) vs. standard dose (CAF) chemotherapy 
+for high risk, surgically treated, primary breast cancer. Abstract       
+  
+  
+      
+            
+      
+   
+ 
+   
+          
+   
+      
+   
+       
+        
+    
+  
+ 
+            
+  
+   
+     
+        
+  
+          
+        
+            
+         
+   
+        
+  
+            
+       
+  
+     
+  
+      
+  
+ 
+   
+        Hematopoietic Cell Transplantation for Breast Cancer -Medical Clinical Policy Bulletins | Aetna Page 17 of 25 
+presented at ASCO annual meeting; 1999. 
+13. Bishop MR. Allogeneic hematopoietic stem cell transplantation 
+formetastatic breast cancer. Haematologica. 2004;89(5):599 -605. 
+14. Blomqvist C, Elomaa I, Rissanen P, et al. Influence of treatment 
+schedule on toxicity and eﬃcacy of cyclophosphamide, 
+epirubicin, and fluorouracil in metastatic breast cancer: A 
+randomized trial comparing weekly and every -4-week 
+administration. J Clin Oncol. 1993;11(3):467 -473. 
+15. Boudin L, Chabannon C, Sfumato P, et al. Immunohistochemical 
+subtypes predict survival in metastatic breast cancer receiving 
+high -dose chemotherapy with autologous haematopoietic stem 
+cell transplantation. Eur J Cancer. 2016;57:118 -126 
+16. Boudin L, Chabannon C, Sfumato P, et al. Impact of Her2 and BRCA1/2 status in high -dose chemotherapy and autologous stem 
+cells transplantation in the treatment of breast cancer: The 
+Institut Paoli Calmettes' experience. Bull Cancer. 2017;104(4):332 -343. 
+17. Brenner T, Duggal S, Natale J, Wirth SM. Treatment protocols for 
+breast cancer. UpToDate [online serial]. Waltham, MA: UpToDate; reviewed March 2014. 
+18. Bull JM, Tormey DC, Li SH, et al. A randomized comparative trial of adriamycin versus methotrexate in combination drug therapy. 
+Cancer. 1978;41(5):1649 -1657. 
+19. Buzdar AU, Hortobagyi GN. Recent advances in adjuvant therapy 
+of breast cancer. Semin Oncol. 1999;26(4 Suppl 12):21 -27. 
+20. Coombes RC, Howell A, Emson M, et al. High dose chemotherapy 
+and autologous stem cell transplantation as adjuvant therapy for 
+primary breast cancer patients with four or more lymph nodes involved: Long -term results of an international randomised trial. 
+Ann Oncol. 2005;16(5):726 -734. 
+21. Crown J, Coiﬃer B, Cortes -Funes H, et al. ESTIC position paper: 
+High -dose chemotherapy for breast cancer, investigation should 
+continue. Ann Oncol. 1999;10(8):903 -905. 
+22. Crump M, Gluck S, Tu D, et al. Randomized trial of high -dose 
+chemotherapy with autologous peripheral -blood stem -cell 
+support compared with standard -dose chemotherapy in women 
+with metastatic breast cancer: NCIC MA.16. J Clin Oncol. 
+2008;26(1):37 -43. 
+23. Damon LE, Hu WW, Stockerl -Goldstein KE, et al. High -dose 
+chemotherapy and hematopoietic stem cell rescue for breast       
+ 
+        
+ 
+             
+       
+   
+  
+      
+         
+  
+ 
+  
+       
+    
+    
+  
+      
+ 
+ 
+     
+  
+  
+        
+  
+     
+  
+  
+        
+  
+      
+    
+       
+    
+    
+        
+ 
+           
+       
+  Hematopoietic Cell Transplantation for Breast Cancer -Medical Clinical Policy Bulletins | Aetna Page 18 of 25 
+cancer: Experience in California. Biol Blood Marrow Transplant. 
+2000;6(5):496 -505. 
+24. Demirer T, Barkholt L, Blaise D, et al; EBMT Solid Tumors Working 
+Party. Transplantation of allogeneic hematopoietic stem cells: An 
+emerging treatment modality for solid tumors. Nat Clin Pract 
+Oncol. 2008;5(5):256 -267. 
+25. Falkson G, Gelman R, Falkson CI, et al. Factors predicting for 
+response, time to treatment failure, and survival in women with 
+metastatic breast cancer treated with DAVTH: A prospective Eastern Cooperative Oncology Group study. J Clin Oncol. 1991;9(12):2153 -2161. 
+26. Falkson G, Tormey DC, Carey P, et al. Lo ng-term survival of 
+patients treated with combinationchemotherapyfor metastatic 
+breast cancer. Eur J Cancer. 1991;27(8):973 -977. 
+27. Farquhar C, Marjoribanks J, Basser R, et al. High dose chemotherapy and autologous bone marrow or stem cell transplantation versus conventional chemotherapy for women 
+with metastatic breast cancer. Cochrane Database Syst Rev. 2005b;(3):CD003142. 
+28. Farquhar C, Marjoribanks J, Basser R, Lethaby A. High dose chemotherapy and autologous bone marrow or stem cell transp lantation versus conventional chemotherapy for women 
+with early poor prognosis breast cancer. Cochrane Database Syst 
+Rev. 2005a;(3):CD003139. 
+29. Farquhar C, Marjoribanks J, Lethaby A, Azhar M. High -dose 
+chemotherapy and autologous bone marrow or stem cell transplantation versus conventional chemotherapy for women 
+with early poor prognosis breast cancer. Cochrane Database Syst 
+Rev. 2016;(5):CD003139. 
+30. Farquhar CM, Marjoribanks J, Lethaby A, Basser R. High dose 
+chemotherapy for poor prognosis breast cancer: Systematic 
+review and meta -analysis. Cancer Treat Rev. 2007;33(4):325 -337. 
+31. Fleskens AJ, Lalisang RI, Bos GM, et al. HLA -matched allo -SCT 
+after reduced intensity conditioning with fludarabine/CY in 
+patients with metastatic breast cancer. Bone Marrow Transplant. 
+2010;45(3):464 -467. 
+32. Fornier M, Munster P, Seidman AD. Update on the management 
+of advanced breast cancer. Oncology (Huntingt). 1999;13(5):647 ­
+658; discussion 660, 663-664.       
+ 
+      
+  
+  
+   
+ 
+          
+  
+            
+  
+   
+ 
+     
+         
+ 
+ 
+   
+   
+        
+ 
+        
+    
+ 
+          
+  
+        
+   
+        
+   
+          
+       
+   
+   
+   
+       
+         
+ 
+          
+          
+  Hematopoietic Cell Transplantation for Breast Cancer -Medical Clinical Policy Bulletins | Aetna Page 19 of 25 
+33. Gradishar WJ. High -dose chemotherapy and breast cancer . . . 
+one more time! Journal Watch: Medicine that Matters. April 13, 
+2007. Available at: http://womens ­
+health.jwatch.org/cgi/collection/breast-cancer. Accessed June 18, 
+2007. 
+34. Gratwohl A, Baldomero H, Rosti G. High -dose chemotherapy for 
+breast cancer. Bone Marrow Transplant. 2000;26(6):599. 
+35. Hanrahan EO, Broglio K, Frye D, et al. Randomized trail of high- 
+dose chemotherapy and autologous hematopoietic stem cell support for high -risk primary breast carcinoma. Cancer. 
+2006;106(11):2327- 2336. 
+36. Hohaus S, Martin S, Schneeweiss A, et al. Adjuvant high -dose 
+therapy with peripheral blood stem cell support for patients with 
+high -risk breast cancer. Cancer Chemother Pharmacol. 1999;44 
+Suppl:S13 -S17. 
+37. Hortobagyi GN, Buzdar AU, Theriault RL, et al. Randomized trial 
+of high -dose chemotherapy and blood cell autografts for high - 
+risk primary breast carcinoma. J Natl Cancer Inst. 2000;92(3):225 ­
+233. 
+38. Hortobagyi GN. High -dose chemotherapy for primary breast 
+cancer: Facts versus anecdotes. J Clin Oncol. 1999;17(11 Suppl):25 -29. 
+39. Hudis CA, Munster PN. High -dose therapy for breast cancer. 
+Semin Oncol. 1999;26(1):35 -47. 
+40. Institute forClinical Systems Improvement (ICSI). High -dose 
+chemotherapy with autologous stem cell support for the 
+treatment of breast cancer. Technology Assessment No. 2. 
+Bloomington, MN: ICSI; updated April 2002. 
+41. Institute for Quality and Eﬃciency in Health Care (IQWiG). 
+Autologous stem cell transplantation for breast cancer. Executive 
+Summary. IQWiG Reports – Commission No. N05 -03E. Cologne, 
+Germany; IQWiG; October 15, 2009. 
+42. Karadurmus N, Sahin U, Bahadir Basgoz B, et al. A review of 
+allogeneic hematopoietic stem cell transplantation in metastatic 
+breast cancer. Int J Hematol Oncol Stem Cell Res. 2018;12(2):111 - 
+116. 
+43. Klefstrm P, Nuortio L. Levamisole in the treatment of advanced 
+breast cancer. A ten-year follow -up of a randomized study. Acta 
+Oncol. 1991;30(3):347 -352.       
+ 
+     
+     
+  
+   
+ 
+           
+       
+    
+   
+ 
+   
+       
+          
+  
+     
+    
+     
+      
+         
+   
+             
+ 
+  
+        
+   
+  
+ 
+          
+  
+            
+        
+      
+        
+ 
+    
+      
+   
+  
+  Hematopoietic Cell Transplantation for Breast Cancer -Medical Clinical Policy Bulletins | Aetna Page 20 of 25 
+44. Leonard RC, Lind M, Twelves C, et al. Conventional adjuvant 
+chemotherapy versus single -cycle, autograft -supported, high ­
+dose, late -intensification chemotherapy in high -risk breast 
+cancer patients: A randomized trial. J Natl Cancer Inst. 
+2004;96(14):1076 -1083. 
+45. Lotz JP, Cure H, Janvier M, et al. High -dose chemotherapy with 
+haematopoietic stem cell transplantation for metastatic breast 
+cancer patients: Final results of the French multicentric randomised CMA/PEGASE 04 protocol. Eur J Cancer. 2005;41(1):71 -80. 
+46. Lotz JP, et al. High -dose chemotherapy (HD -CT) with 
+hematopoietic stem cells transplantation (HSCT) for metastatic 
+breast cancer (MBC): Results of the French protocol PEGASE 04. 
+Fédération Nationale des Centres de Lutte Contre le Cancer & 
+Société Française de Greﬀe de Moelle, Paris, France. Abstract 
+presented at ASCO annual meeting; 1999. 
+47. Marino P, Siani C, Roche H, Moatti JP. Impact of uncertainty on cost -eﬀectiveness analysis of medical strategies: The case of 
+high -dose chemother apy for breast cancer patients. Int J Technol 
+Assess Health Care. 2005;21(3):342 -350. 
+48. Martino M, Lanza F, Pavesi L, et al;European Group for Blood and 
+Marrow Transplantation Solid Tumor Working Party. High -dose 
+chemotherapy and autologous hematopoietic stem cell 
+transplantation as adjuvant treatment in high-risk breast cancer: 
+Data from the European Group for Blood and Marrow 
+Transplantation Registry. Biol Blood Marrow Transplant. 
+2016;22(3):475 -481. 
+49. Mayer A, Earl H. Whither high -dose chemotherapy in breast 
+cancer? Breast Cancer Res. 2001;3(1):8 -10. 
+50. Miller KD, Sledge GW Jr. The role of chemotherapy for metastatic 
+breast cancer. Hematol Oncol Clin North Am. 1999;13(2):415 -434. 
+51. Miller KD, Sledge GW. High -dose chemotherapy in breast cancer ­
+-the perils of history uncontrolled. Medscape Womens Health. 
+2000;5(3):E1. 
+52. Moore HC, Green SJ, Gralow JR, et al; Southwest Oncology Group/Intergroup Study 9623.Intensive dose -dense compared 
+with high -dose adjuvant chemotherapy for high-risk operable 
+breast cancer: Southwest Oncology Group/Intergroup study 9623. J Clin Oncol. 2007;25(13):1677 -1682.       
+ 
+       
+ 
+  
+     
+        
+  
+      
+   
+      
+  
+      
+         
+        
+  
+  
+     
+  
+   
+        
+   
+   
+  
+        
+        
+  
+             
+    
+         
+ 
+  
+  
+ 
+    
+    
+           
+    
+ 
+  Hematopoietic Cell Transplantation for Breast Cancer -Medical Clinical Policy Bulletins | Aetna Page 21 of 25 
+53. National Comprehensive Cancer Network. Breast cancer. NCCN 
+Clinical Practice Guidelines in Oncology v 3.2014. Fort 
+Washing ton, PA: NCCN; 2014. 
+54. Nieto Y, Champlin RE, Wingard JR, et al. Status of high -dose 
+chemotherapy for breast cancer: A review. Biol Blood Marrow 
+Transplant. 2000;6(5):476 -495. 
+55. Nitz UA, Mohrmann S, Fischer J, et al. Comparison of rapidly cycled tandem high- dose chemotherapy plus peripheral- blood 
+stem -cellsupport versus dose -dense conventionalchemotherapy 
+for adjuvant treatment of high -risk breast cancer: Results of a 
+multicentre phase III trial. Lancet. 2005;366(9501):1935- 1944. 
+56. No authors listed. EBM T International Conference on High -Dose 
+Chemotherapy in Breast and Ovarian Cancer. 14-16 September 
+2000. Florence, Italy. Abstracts. Bone Marrow Transplant. 
+2000;26 Suppl 1:S1 -S44. 
+57. No authors listed. Phase III randomized study of fluorouracil, epirubicin, and cyclophosphamide v fluorouracil, doxorubicin, and cyclophosphamide in advanced breast cancer: An Italian multicentre trial. Italian Multicentre Breast Study with Epirubicin. 
+J Clin Oncol. 1988;6(6):976 -982. 
+58. Pedrazzoli P, Ferrante P, Kulekci A, et al. Autologous 
+hematopoietic stem cell transplantation for breast cancer in Europe: Critical evaluation of data from the European Group for 
+Blood and Marrow Transplantation (EBMT) Registry 1990 -1999. 
+Bone Marrow Transplantation. 2003;32:489 -494. 
+59. Pedrazzoli P, Martinelli G, Gianni AM, et al; of Gruppo Italiano per 
+il Trapianto di Midollo Osseo, Cellule staminali emopoietiche e terapia cellulare (GITMO) – Sezione Tumori Solidi. Adjuvant high-
+dose chemotherapy with autologous hematopoietic stem cell support for high -risk primary breast cancer: Results from the 
+Italian national registry. Biol Blood Marrow Transplant. 2014;20(4):501 -506. 
+60. Peters WP, et al. A prospective, randomized comparison of two doses of combination alkylating agents (AA) as consolidation 
+after CAF in high -risk primary breast cancer involving ten or more 
+axillary lymph nodes (LN): Preliminary Results of CALGB 
+9082/SWOG 9114/NCIC MA -13. Abstract presented at ASCO 
+annual meeting; 1999.       
+ 
+    
+       
+ 
+  
+           
+   
+  
+  
+      
+       
+ 
+     
+       
+   
+     
+      
+         
+  
+            
+  
+   
+  
+            
+         
+  
+  
+     
+  
+  
+    
+   
+  
+        
+  
+           
+         
+   
+       Hematopoietic Cell Transplantation for Breast Cancer -Medical Clinical Policy Bulletins | Aetna Page 22 of 25 
+61. Peters WP, Rosner GL, Vredenburgh JJ, et al. Prospective, 
+randomized comparison of high -dose chemotherapy with stem -
+cell support versus intermediate -dose chemotherapy after 
+surgery and adjuvant chemotherapy in women with high-risk 
+primary breast cancer: A report of CALGB 9082, SWOG 9114, and 
+NCIC MA -13. J Clin Oncol. 2005;23(10):2191 -2200. 
+62. Rizzieri DA, Vredenburgh JJ, Jones R, et al. Prognostic and 
+predictive factors for patients with metastatic breast cancer 
+undergoing aggressive induction therapy followe d byhigh -dose 
+chemotherapy with autologous stem -cell support. J Clin Oncol. 
+1999;17(10):3064 -3074. 
+63. Rodenhuis S, Bontenbal M, Beex LV, et al. High -dose 
+chemotherapy with hematopoietic stem -cellrescue for high -risk 
+breast cancer. N Engl J Med. 2003;349(1):7 -16. 
+64. Schmid P, Schippinger W, Nitsch T, et al. Up -front tandem high - 
+dose chemotherapy compared with standard chemotherapy with 
+doxorubicin and paclitaxel in metastatic breast cancer: Results of 
+a randomized trial. J Clin Oncol. 2005;23(3):432 -440. 
+65. Schneeweiss A, Hensel M, Goerner R, et al. Comparison of double 
+and triple high -dose chemotherapy with autologous blood stem 
+cell transplantation in patients with metastatic breast cancer. Stem Cells. 2001;19(2):151 -160. 
+66. Shpall EJ, Jones RB, Bearman SI, et al. Peripheral blood stem cell 
+transplantation in breast cancer. Baillieres Best Pract Res Clin Haematol. 1999;12(1):219 -232. 
+67. Stadtmauer EA. Phase III randomized trial of high -dose 
+chemotherapy (HDC) and stem cell support (SCT) shows no diﬀe rence in overall survival or severe toxicity compared to 
+maintenance chemotherapy with cyclophosphamide, methotrexate and 5 -fluorouracil (CMF) for women with 
+metastatic breast cancer who are responding to conventional induction chemotherapy: The Philadelph ia Intergroup Study 
+(PBT -01), ECOG, U. of Pennsylvania. Abstract presented at ASCO 
+annual meeting; 1999. 
+68. Stebbing J, Slater S, Slevin M. Breast cancer (metastatic). In: BMJ 
+Clinical Evidence. London, UK: BMJ Publishing Group; June 2006. 
+69. Tallman MS, Gray R, Robert NJ, et al. Conventional adjuvant 
+chemotherapy with or without high- dose chemotherapy and       
+ 
+        
+   
+           
+  
+  
+  
+        
+       
+  
+           
+      
+      
+          
+   
+            
+  
+       
+  
+  
+ Hematopoietic Cell Transplantation for Breast Cancer -Medical Clinical Policy Bulletins | Aetna Page 23 of 25 
+autologous stem -cell transplantation in high-risk breast cancer. N 
+Engl J Med. 2003;349(1):17 -26. 
+70. Ueno NT, Rizzo JD, Demirer T, et al. Allogeneic hematopoietic cell 
+transplantation for metastatic breast cancer. Bone Marrow 
+Transplant. 2008;41(6):537 -545. 
+71. Vij R, DiPersio J, Brown R, et al. Outcomes of high -dose 
+chemotherapy and autologous stem cell transplant in isolated 
+locally recurrent breast cancer: A multicenter evaluation. Bone 
+Marrow Transplant. 2000;26(9):947 -953. 
+72. Zander AR, Kroger N, Schmoor C, et al. High -dose chemotherapy 
+with autologous hematopoietic stem -cell support compared with 
+standard -dose chemotherapy in breast cancer patients with 10 
+or more positive lymph nodes: First results of a randomized trial. 
+J Clin Oncol. 2004;22(12):2273 -2283. 
+73. Zander AR, Schmoor C, Kröger N, et al. Randomized trial of high - 
+dose adjuvant chemotherapy with autologous hematopoietic 
+stem -cell support versus standard -dose chemotherapy in breast 
+cancer patients with 10 or more positive lymph nodes: Overall survival after 6 years of follow -up. Ann Oncol. 2008;19(6):1082 - 
+1089.       
+ 
+ 
+ 
+ 
+ 
+    
+                    
+                    
+   
+                   
+   
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+  Hematopoietic Cell Transplantation for Breast Cancer -Medical Clinical Policy Bulletins | Aetna Page 24 of 25 
+Copyright Aetna Inc. All rights reserved. Clinical Policy Bulletins are developed by Aetna to assist in administering plan benefits and 
+constitute neither offers of coverage nor medical advice. This Clinical Policy Bulletin contains only a partial, general description of plan or 
+program benefits and does not constitute a contract. Aetna does not provide health care services and, therefore, cannot guarantee any 
+results or outcomes. Participating providers are independent contractors in private practice and are neither employees nor agents of 
+Aetna or its affiliates. Treating providers are solely responsible for medical advice and treatment of members. This Clinical Policy Bulletin 
+may be updated and therefore is subject to change. 
+Copyright © 2001- 2021 Aetna Inc.       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Hematopoietic Cell Transplantation for Breast Cancer -Medical Clinical Policy Bulletins | Aetna Page 25 of 25 
+AETNA BETTER HEALTH® OF PENNSYLVANIA  
+Amendment to  
+Aetna Clinical Policy Bulletin Number:  0507 Hematopoietic Cell  
+Transplantation for Breast Cancer  
+There are no amendments for Medicaid. 
+annual 08/01/2021 

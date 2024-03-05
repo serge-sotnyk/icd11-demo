@@ -1,0 +1,248 @@
+ 
+Page 1 of 6 
+Clinical Policy: Aspirin/Dipyridamole (Aggrenox)   
+Reference Number: CP.PMN.20 
+Effective Date: 09.01.06  
+Last Review Date: 02. 23 
+Line of Business: HIM, Medicaid    
+ 
+  
+Revision Log  
+See Important Reminder  at the end of this policy for important regulatory and legal 
+information.  
+ 
+Description  
+Aspirin/dipyridamole (Aggrenox®) is a combination antiplatelet agent. 
+ 
+FDA Approved Indication(s) 
+Aggrenox is indicated to reduce the risk of stroke in patients who have had transient ischemia of 
+the brain or completed ischemic stroke due to thrombosis.  
+ 
+Policy/Criteria 
+Provider must submit documentation (such as office chart notes, lab results or other clinical 
+information) supporting that member has met all approval criteria.  
+ 
+It is the policy of health plans affiliated with Centene Corporation® that Aggrenox is medically 
+necessary  when the following criteria are met:  
+ 
+I. Initial Approval Criteria  
+A. Secondary Prevention of Stroke (must meet all) :  
+1. Age ≥ 18 years; 
+2. Medical history includes ischemic stroke or transient ischemic attack (TIA); 
+3. Failure of aspirin used as a single agent (e.g., stroke or TIA while on aspirin therapy); 
+4. Member is not a candidate for clopidogrel therapy due to contraindications or 
+clinically significant adverse effects/drug interactions; 
+5. If request is for Aggrenox, member must use generic aspirin/dipyridamole, unless 
+contraindicated or clinically significant adverse effects are experienced;  
+6. Dose does not exceed both of the following (a and b):  
+a. 50 mg aspirin/400 mg extended-release dipyridamole per day; 
+b. 2 capsules per day.  
+Approval duration: 12 months  
+ 
+B. Other diagnoses/indications  (must meet 1 or 2) : 
+1. If this drug has recently (within the last 6 months) undergone a label change (e.g., 
+newly approved indication, age expansion, new dosing regimen) that is not yet 
+reflected in this policy, refer to one of the following policies (a or b): 
+a. For drugs on the formulary (commercial, health insurance marketplace) or PDL 
+(Medicaid), the no coverage criteria policy for the relevant line of business: 
+HIM.PA.33 for health insurance marketplace and CP.PMN.255 for Medicaid; or CLINICAL POLICY 
+Aspirin/Dipyridamole 
+ 
+Page 2 of 6 
+b. For drugs NOT on the formulary (commercial, health insurance marketplace) or 
+PDL (Medicaid), the non-formulary policy for the relevant line of business: 
+HIM.PA.103 for health insurance marketplace and CP.PMN.16 for Medicaid; or 
+2. If the requested use (e.g., diagnosis, age, dosing regimen) is NOT specifically listed 
+under section III (Diagnoses/Indications for which coverage is NOT authorized) AND 
+criterion 1 above does not apply, refer to the off-label use policy for the relevant line 
+of business: HIM.PA.154 for health insurance marketplace and CP.PMN.53 for 
+Medicaid.  
+ 
+II. Continued Therapy 
+A. Secondary Prevention of Stroke (must meet all) :  
+1. Member meets one of the following (a or b): 
+a. Currently receiving medication via Centene benefit or member has previously met 
+initial approval criteria; 
+b. Member is currently receiving medication and is enrolled in a state and product 
+with continuity of care regulations ( refer to state specific addendums for 
+CC.PHARM.03A and CC.PHARM.03B);  
+2. Member is responding positively to therapy; 
+3. If request is for Aggrenox, member must use generic aspirin/dipyridamole, unless 
+contraindicated or clinically significant adverse effects are experienced;  
+4. If request is for a dose increase, new dose does not exceed both of the following (a 
+and b):  
+a. 50 mg aspirin/400 mg extended-release dipyridamole per day; 
+b. 2 capsules per day.  
+Approval duration: 12 months 
+ 
+B. Other diagnoses/indications  (must meet 1 or 2) : 
+1. If this drug has recently (within the last 6 months) undergone a label change (e.g., 
+newly approved indication, age expansion, new dosing regimen) that is not yet 
+reflected in this policy, refer to one of the following policies (a or b): 
+a. For drugs on the formulary (commercial, health insurance marketplace) or PDL 
+(Medicaid), the no coverage criteria policy for the relevant line of business: 
+HIM.PA.33 for health insurance marketplace and CP.PMN.255 for Medicaid; or 
+b. For drugs NOT on the formulary (commercial, health insurance marketplace) or 
+PDL (Medicaid), the non-formulary policy for the relevant line of business: 
+HIM.PA.103 for health insurance marketplace and CP.PMN.16 for Medicaid; or 
+2. If the requested use (e.g., diagnosis, age, dosing regimen) is NOT specifically listed 
+under section III (Diagnoses/Indications for which coverage is NOT authorized) AND 
+criterion 1 above does not apply, refer to the off-label use policy for the relevant line 
+of business: HIM.PA.154 for health insurance marketplace and CP.PMN.53 for 
+Medicaid.  
+ 
+III. Diagnoses/Indications for which coverage is NOT authorized:  
+A. Non-FDA approved indications, which are not addressed in this policy, unless there is 
+sufficient documentation of efficacy and safety according to the off label use policies –CLINICAL POLICY 
+Aspirin/Dipyridamole 
+ 
+Page 3 of 6 
+HIM.PA.154 for health insurance marketplace and CP.PMN.53 for Medicaid, or evidence 
+of coverage documents.  
+ 
+IV. Appendices/General Information 
+Appendix A: Abbreviation/Acronym Key 
+FDA: Food and Drug Administration 
+TIA: transient ischemic attack 
+ 
+Appendix B: Therapeutic Alternatives  
+This table provides a listing of preferred alternative therapy recommended in the approval 
+criteria. The drugs listed here may not be a formulary agent for all relevant lines of business 
+and may require prior authorization.   
+Drug Name  Dosing Regimen Dose Limit/ 
+Maximum Dose 
+aspirin 50-325 mg PO QD  325 mg/day  
+clopidogrel (Plavix®) 75 mg PO QD  75 mg/day  
+Therapeutic alternatives are listed as Brand name® (generic) when the drug is available by brand name only 
+and generic (Brand name®) when the drug is available by both brand and generic. 
+ 
+Appendix C: Contraindications/Boxed Warnings 
+ Contraindication(s): 
+o Hypersensitivity to any product ingredients  
+o Patients with known allergy to nonsteroidal anti-inflammatory drugs (NSAIDs)  
+o Patients with the syndrome of asthma, rhinitis, and nasal polyps  
+ Boxed warning(s): none reported 
+ 
+Appendix D: General Information 
+ Aggrenox is not interchangeable with the individual components of aspirin and 
+dipyridamole tablets. 
+ 
+V. Dosage and Administration  
+Indication Dosing Regimen Maximum Dose 
+Secondary 
+prevention of 
+stroke 1 capsule PO BID (morning and evening)  
+ 
+If there are intolerable headaches during initial 
+treatment, switch to 1 capsule at bedtime and low-dose 
+aspirin in the morning; resume twice daily dosing 
+within 1 week  2 capsules/day 
+ 
+VI. Product Availability   
+Capsule: 25 mg aspirin/200 mg extended-release dipyridamole 
+ CLINICAL POLICY 
+Aspirin/Dipyridamole 
+ 
+Page 4 of 6 
+VII. References 
+1. Aggrenox Prescribing Information. Ridgefield, CT: Boehringer Ingelheim Pharmaceuticals 
+Inc.; May 2021. Available at: https://docs.boehringer-
+ingelheim.com/Prescribing%20Information/PIs/Aggrenox%20Caps/Aggrenox.pdf. Accessed 
+October 7, 2022. 
+2. Kernan WN, Ovbiagele B, Black HR, et al. Guidelines for prevention of stroke in patients 
+with stroke and transient ischemic attack: a guideline for healthcare professionals from the 
+American Heart Association/American Stroke Association. Stroke. 2014; 45(7): 2160-2236.  
+3. Lansberg MG, O’Donnell MJ, Khatri P et al. Antithrombotic and thrombolytic therapy for 
+ischemic stroke: antithrombotic therapy and prevention of thrombosis, 9th ed.: American 
+College of Chest Physicians evidence-based clinical practice guidelines. Chest. 2012; 141(2 
+Suppl): e601S-636S. 
+4. Powers WJ, Rabinstein AA, Ackerson T, et al. 2018 guidelines for the early management of 
+patients with acute ischemic stroke: a guideline for healthcare professionals from the 
+American Heart Association/American Stroke Association. Stroke. 2018;49:e46-e110. 
+5. Warner JJ, Harrington RA, Sacco RL, et al. Guidelines for the early management of patients 
+with acute ischemic stroke: 2019 update to the 2018 early management of patients with acute 
+ischemic stroke. AHA/Stoke. 2019 Dec;50(12):3331-3332. 
+ 
+Reviews, Revisions, and Approvals Date P&T 
+Approval 
+Date 
+1Q 2019 annual review: no significant changes; references reviewed 
+and updated.  10.30.18 02.19 
+1Q 2020 annual review: no significant changes; references reviewed 
+and updated.  11.09.19 02.20 
+1Q 2021 annual review: added generic redirection language to initial 
+and continuation criteria; references to HIM.PHAR.21 revised to 
+HIM.PA.154; references reviewed and updated.  11.09.20 02.21 
+1Q 2022 annual review: no significant changes; revised “Medical 
+justification…” to “Member must use…”; references reviewed and 
+updated. 11.23.21 02.22 
+Template changes applied to other diagnoses/indications and 
+continued therapy section.  09.20.22  
+1Q 2023 annual review: no significant changes; references reviewed 
+and updated.  10.07.22 02.23 
+ 
+Important Reminder 
+This clinical policy has been developed by appropriately experienced and licensed health care 
+professionals based on a review and consideration of currently available generally accepted 
+standards of medical practice; peer-reviewed medical literature; government agency/program 
+approval status; evidence-based guidelines and positions of leading national health professional 
+organizations; views of physicians practicing in relevant clinical areas affected by this clinical 
+policy; and other available clinical information. The Health Plan makes no representations and 
+accepts no liability with respect to the content of any external information used or relied upon in 
+developing this clinical policy. This clinical policy is consistent with standards of medical CLINICAL POLICY 
+Aspirin/Dipyridamole 
+ 
+Page 5 of 6 
+practice current at the time that this clinical policy was approved. “Health Plan” means a health 
+plan that has adopted this clinical policy and that is operated or administered, in whole or in part, 
+by Centene Management Company, LLC, or any of such health plan’s affiliates, as applicable. 
+ 
+The purpose of this clinical policy is to provide a guide to medical necessity, which is a 
+component of the guidelines used to assist in making coverage decisions and administering 
+benefits. It does not constitute a contract or guarantee regarding payment or results. Coverage 
+decisions and the administration of benefits are subject to all terms, conditions, exclusions and 
+limitations of the coverage documents (e.g., evidence of coverage, certificate of coverage, policy, 
+contract of insurance, etc.), as well as to state and federal requirements and applicable Health 
+Plan-level administrative policies and procedures. 
+ 
+This clinical policy is effective as of the date determined by the Health Plan. The date of posting 
+may not be the effective date of this clinical policy. This clinical policy may be subject to 
+applicable legal and regulatory requirements relating to provider notification. If there is a 
+discrepancy between the effective date of this clinical policy and any applicable legal or 
+regulatory requirement, the requirements of law and regulation shall govern. The Health Plan 
+retains the right to change, amend or withdraw this clinical policy, and additional clinical 
+policies may be developed and adopted as needed, at any time.  
+ 
+This clinical policy does not constitute medical advice, medical treatment or medical care.  It is 
+not intended to dictate to providers how to practice medicine. Providers are expected to exercise 
+professional medical judgment in providing the most appropriate care, and are solely responsible 
+for the medical advice and treatment of members.  This clinical policy is not intended to 
+recommend treatment for members. Members should consult with their treating physician in 
+connection with diagnosis and treatment decisions.  
+ 
+Providers referred to in this clinical policy are independent contractors who exercise independent 
+judgment and over whom the Health Plan has no control or right of control.  Providers are not 
+agents or employees of the Health Plan. 
+ 
+This clinical policy is the property of the Health Plan. Unauthorized copying, use, and 
+distribution of this clinical policy or any information contained herein are strictly prohibited.  
+Providers, members and their representatives are bound to the terms and conditions expressed 
+herein through the terms of their contracts.  Where no such contract exists, providers, members 
+and their representatives agree to be bound by such terms and conditions by providing services to 
+members and/or submitting claims for payment for such services. 
+ 
+Note:  
+For Medicaid members , when state Medicaid coverage provisions conflict with the coverage 
+provisions in this clinical policy, state Medicaid coverage provisions take precedence. Please 
+refer to the state Medicaid manual for any coverage provisions pertaining to this clinical policy. 
+ 
+©2006 Centene Corporation. All rights reserved.  All materials are exclusively owned by 
+Centene Corporation and are protected by United States copyright law and international 
+copyright law.  No part of this publication may be reproduced, copied, modified, distributed, CLINICAL POLICY 
+Aspirin/Dipyridamole 
+ 
+Page 6 of 6 
+displayed, stored in a retrieval system, transmitted in any form or by any means, or otherwise 
+published without the prior written permission of Centene Corporation. You may not alter or 
+remove any trademark, copyright or other notice contained herein. Centene® and Centene 
+Corporation® are registered trademarks exclusively owned by Centene Corporation. 

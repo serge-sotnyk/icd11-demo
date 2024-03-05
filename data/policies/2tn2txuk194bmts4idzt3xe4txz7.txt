@@ -1,0 +1,344 @@
+This policy and any information contained herein is the property of Blue Cross Blue Shield of Michigan and its subsidiaries, is strictly confidential, and its use is 
+intended for the P&T committee, its members and BCBSM employees for the purpose of coverage determinations.  
+ 
+Page 1 of 7
+  
+ 
+Medical  benefit drug policies are a source for BCBSM and BCN medical policy information only.  These documents are not to 
+be used to determine benefits or reimbursement.  Please reference the appropriate certificate or contract for benefit 
+information.  This policy may be updated and therefore subject to change.  
+ 
+Effective Date:  04/06/2023  
+ 
+Yervoy® (ipilimumab)  
+ 
+HCPCS:  J9228 
+ Policy : 
+ 
+Requests must be supported by submission of chart notes and patient specific documentation.  
+  
+A. Coverage of the requested drug is provided when all the following are met:  
+a. Diagnosis of:  
+i. Unresectable or metastatic melanoma in adults and pediatric patients 12 years and older as a single agent or in combination with nivolumab  
+ii. Adjuvant treatment of patients with cutaneous melanoma with pathologic involvement of regional 
+lymph nodes of more than 1 mm who have undergone complete resection, including total 
+lymphadenectomy  
+iii. Advanced (stage IV) renal cell carcinoma (RCC) when used in combination with Opdivo  
+a) Previously untreated  
+b) Must be predominant clear cell histology  
+c) Must have at least ONE of the following risk factors:  
+1. Less than one year from the time of diagnosis to the start of systemic therapy  
+2. Karnofsky performance status of < 80%  
+3. Hemoglobin < 12 g/dL 
+4. Calcium > 10.2 mg/dL  
+5. Neutrophils > 7.0 x 10
+9/L 
+6. Platelets > 400,000/mcL  
+iv. A diagnosis of metastatic, microsatellite instability -high (MSI -H) or mismatch repair deficient 
+(dMMR) colorectal cancer (CRC) : 
+a) In combination with Opdivo  
+b) Patient age ≥ 12 years old  
+c) Documentation of disease progression following use of a fluoropyrimidine, oxaliplatin, and 
+irinotecan  
+v. Hepatocellular carcinoma (HCC) in patients previously treated with sorafenib  
+a) In combination with Opdivo  
+b) Patient age ≥ 18 years old  
+c) Must be Child- Pugh class A  
+vi. Metastatic non -small cell lung cancer (NSCLC)  
+a) In combination with Opdivo  
+b) Previously untreated  
+This policy and any information contained herein is the property of Blue Cross Blue Shield of Michigan and its subsidiaries, is strictly confidential, and its use is 
+intended for the P&T committee, its members and BCBSM employees for the purpose of coverage determinations.  
+ 
+Page 2 of 7
+ c) Patient age ≥ 18 years old  
+d) Must express PD -L1 ≥ 1% as determined by a FDA -approved test  
+e) Must not have and EGFR or ALK genomic tumor aberrations  
+vii. Advanced or metastatic non -small cell lung cancer (NSCLC)  
+a) In combination with Opdivo and 2 cycles of platinum- doublet chemotherapy  
+b) Previously untreated  
+c) Patient age ≥ 18 years old  
+d) Must not have and EGFR or ALK genomic tumor aberrations  
+viii. Malignant pleural mesothelioma  
+a) In combination with Opdivo  
+b) Previously untreated  
+c) Patient age ≥ 18 years old  
+d) Must not be eligible for curative surgery  
+ix. Unresectable advanced or metastatic esophageal squamous cell carcinoma  
+a) In combination with Opdivo  
+b) Previously untreated  
+c) Patient age ≥ 18 years old  
+b. Prescribed by or in consultation with an oncologist  
+c. ECOG performance score of 0 – 2 
+d. Should not be used if treatment failure has occurred with Yervoy or another PD- L1 inhibitor used in 
+combination with Yervoy  
+e. Patient is not receiving therapy for a chronic condition, such as autoimmune disease, that requires treatment 
+with a systemic immunosuppressant  
+ 
+B. Quantity Limitations, Authorization Period and Renewal Criteria  
+a. Quantity Limits:  Align with FDA recommended dosing  
+b. Authoriza tion Period:  Aligns with FDA recommended or guideline supported treatment duration and 
+provided for at least 60 days and up to 6 months at a time  
+c. Renewal Criteria  
+i. Unresectable or metastatic melanoma (adults and pediatrics):  Will be reviewed on a case-by -case 
+basis  
+ii. Adjuvant melanoma:  Continuation of therapy until disease progression or unacceptable toxicity  
+iii. Advanced renal cell carcinoma:  Will be reviewed on a case -by-case basis  
+iv. Metastatic colorectal cancer:  Will be reviewed on a case -by-case basis  
+v. Hepat ocellular carcinoma:  Will be reviewed on a case- by-case basis  
+vi. Metastatic non -small cell lung cancer:  Continuation of therapy until disease progression or 
+unacceptable toxicity  
+vii. Malignant pleural mesothelioma:  Continuation of therapy until disease progres sion or 
+unacceptable toxicity  
+viii. Unresectable advanced or metastatic esophageal squamous cell carcinoma:  Continuation of 
+therapy until disease progression or unacceptable toxicity  
+ 
+***Note: Coverage may differ for Medicare Part B members based on any applicable criteria outlined in Local Coverage Determinations (LCD) or National Coverage Determinations (NCD) as determined by Center for Medicare and Medicaid 
+Services (CMS). See the CMS website at http://www.cms.hhs.go v/. Determination of coverage of Part B drugs is based 
+on medically accepted indications which have supported citations included or approved for inclusion determined by CMS approved compendia.  
+ 
+ 
+  
+ This policy and any information contained herein is the property of Blue Cross Blue Shield of Michigan and its subsidiaries, is strictly confidential, and its use is 
+intended for the P&T committee, its members and BCBSM employees for the purpose of coverage determinations.  
+ 
+Page 3 of 7
+ Background Information  
+ 
+- Yervoy is currently indicated for use as monotherapy in patients 12 years of age or older and as combination therapy 
+with Opdivo in patients 12 years of age or older for unresectable or metastatic melanoma; as adjuvant treatment in 
+patients with cutaneous melanoma with pathol ogic involvement of regional lymph nodes of more than 1 mm who 
+have undergone complete resection, including total lymphadenectomy; in combination with Opdivo in advanced renal 
+cell carcinoma; in combination with Opdivo in patients age 12 and older for meta static, microsatellite instability -high 
+(MSI -H) or mismatch repair deficient (dMMR) colorectal cancer; in combination with Opdivo for patients 18 years of 
+age or older with hepatocellular carcinoma in patients previously treated with sorafenib; in combinat ion with Opdivo 
+for patients 18 years of age or older with previously untreated metastatic non-small cell lung cancer; in combination 
+with Opdivo and platinum -doublet chemotherapy for patients 18 years of age or older with previously untreated 
+advanced or metastatic non-small cell lung cancer; in combination with Opdivo for the first -line treatment of adult 
+patients with unresectable malignant pleural mesothelioma; and in combination with Opdivo for the first -line treatment 
+of adult patietns with unresectab le advanced or metastatic esophageal squamous cell carcinoma.  
+ 
+- Unresectable or metastatic melanoma  
+ 
+- The safety and efficacy of Yervoy as mootherapy were investigated in a randomized (3:1:1), doubleblind, double -dummy trial of 676 patients with previously treated unresectable or metastatic melanoma.  Patients 
+were randomized to receive either Yervoy or an investigational peptide vaccine with (gp100).  The trial 
+excluded patients with active autoimmune disease or those receiving systemic immunosuppression an d 
+those with an ECOG score greater than 1.  Yervoy or placebo was administered at 3 mg/kg as an 
+intravenous infusion every 3 weeks for 4 doses. Yervoy was found to improve overall survival versus gp100 
+alone (10.0 months and 10.1 months versus 6.4 months, p<0.001 and p=0.003, respectively).  
+ 
+- As adjuvant therapy for cutaneous melanoma  
+ 
+- The EORTC 18071 trial was a randomized, double -blind, placebo -controlled trial conducted with 951 high-
+risk patients with stage IIIA (> 1 mm nodal involvement, IIIB, and IIIC melanoma who had undergone 
+complete lymphadenectomy. Patients were randomized to receive Yervoy 10 mg/kg or placebo as an 
+intravenous infusion every 3 weeks for 4 doses, followed by Yervoy 10 mg/kg or placebo every 12 weeks 
+from Week 24 to Week 156 (3 year s) or until documented disease recurrence or unacceptable toxicity.  The 
+trial excluded patients with active autoimmune disease or those receiving systemic immunosuppression and 
+those with an ECOG score greater than 1.  In the 475 patients who received a r egimen with 10 mg/kg 
+ipilimumab, median recurrence-free survival was 26.1 months, versus 17.1 months in the placebo group 
+(p=0.0013).  
+ 
+- Advanced renal cell carcinoma  
+ 
+- The CheckMate  214 trial was a randomized, open- label study with 1096 patients with renal cell carcinoma 
+that were previously untreated, 847 of those were classified as intermediate- or poor -risk patients. 
+Immediate or poor risk is defined as one or more of the followin g:  less than one year from the time of 
+diagnosis to the start of systemic therapy, Karnofsky performance status of < 80%, hemoglobin < 12 g/dL, 
+calcium > 10.2 mg/dL, neutrophils > 7.0 x 10
+9/L, or platelets > 400,000/mcL.  Patients received (1:1) either 
+Yervoy plus Opdivo or sunitinib every 3 weeks for 12 weeks.  The trial excluded patients with active 
+autoimmune disease or those receiving systemic immunosuppression and those with an ECOG score greater than 1.  While the median progression -free survival of Yervoy plus Opdivo compared to sunitinib did 
+not meet the prespecified significance threshold of p = 0.009 (11.6 months and 8.4 months respectively, p = 
+0.03), overall survival (not met and 26.0 months, p < 0.001) and objective response rate (42% and 27%, p < 
+0.001) were significantly improved in the Yervoy plus Opdivo group as compared to the sunitinib group.  
+  This policy and any information contained herein is the property of Blue Cross Blue Shield of Michigan and its subsidiaries, is strictly confidential, and its use is 
+intended for the P&T committee, its members and BCBSM employees for the purpose of coverage determinations.  
+ 
+Page 4 of 7
+ - Metastatic, microsatellite instability -high or mismatch repair deficient colorectal cancer  
+ 
+- The CheckMate  142 trial was a phase 2 multicenter, open -label, multiple parallel- cohort study of 340 
+patients with dMMR or MSI -H metastatic CRC that has progressed during or after fluoropyrimidine-, 
+oxaliplatin-, or irinotecan- based chemotherapy.  In the Yervoy + Opdiv o cohort 119 patients received Opdivo 
+3 mg/kg and Yervoy 1 mg/kg every 3 weeks for four doses then Opdivo 3 mg/kg every 2 weeks. The trial 
+excluded patients with active autoimmune disease or those receiving systemic immunosuppression and 
+those with an ECOG  score greater than 1.  The primary endpoint was objective response as assessed by 
+the investigator according to RECIST criteria.  The partial response rate was 43%, and complete response 
+rate 3.7% with 46% of patients having a response to the therapy.  Of  those, 89% maintained their response 
+at 6 months, and 21% at 12 months.  
+ 
+- Hepatocellular carcinoma  
+ 
+- The Checkmate -040 trial was a multicenter, multiple cohort, open- label trial study of 1097 patients with HCC 
+who progressed on or were intolerant to sorafen ib.  Patients in cohort 4 received Yervoy 3 mg/kg every 3 
+weeks for 4 doses in combination with Opdivo every 2 weeks until disease progression or unacceptable 
+toxicity.  The trial excluded patients with active autoimmune disease or those receiving systemic  
+immunosuppression and those with an ECOG score greater than 1.  NCCN guidelines for hepatocellular 
+carcinoma recommend use only in Child -Pugh class A patients.  The overall response rate was 33% with a 
+complete and partial response in 8% and 24% of patients respectively.   
+ 
+- Metastatic non -small cell lung cancer  
+ 
+- The Checkmate -227 trial was a randomized, open- label, multi-part trial in patients with in patients with 
+previously untreated metastatic or recurrent NSCLC with no EGFR or ALK genomic tumor aberrat ions. In 
+part 1a of the trial, 793 patients with PD-L1 tumor expression ≥ 1% were randomized to receive either Yervoy 1 mg/kg every 6 weeks and Opdivo 3 mg/kg every 2 weeks or platinum -doublet chemotherapy every 
+3 weeks for 4 cycles.  The trial excluded patients with active autoimmune disease or those receiving systemic immunosuppression and those with an ECOG score greater than 1.  The primary endpoints were 
+overall survival and progression free survival.  The median overall survival was 17.1 months and 14.9 
+months for the Yervoy/Opdivo arm and platinum chemotherapy arm respectively (p=0.0066).  Median 
+progression -free survival was 5.1 months in the Yervoy/Opdivo arm and 5.6 months in the platinum 
+chemotherapy arm (HR 0.82; 95% CI: 0.69, 0.97).  
+ - The Checkmate 9LA was a randomized, open -label trial in patients 18 years of age or older with previously 
+untreated metastatic or recurrent NSCLC with no EGFR or ALK genomic tumor aberrations.  Patients were 
+enrolled regardless of their tumor PD- L1 status.  Patients were randomized to receive Yervoy 1 mg/kg every 
+6 weeks and Opdivo 360 mg every 3 weeks and platinum -doublet therapy every 3 weeks for 2 cycles or 
+platinum -doublet chemotherapy every 3 weeks for 4 cycles.  The trial excluded patients with active 
+autoimmune disease, those receiving systemic immunosuppression, and those with an ECOG score greater 
+than 1.  The primary endpoint was overall survival.  The study demonstrated a statistically significant benefit 
+in overall survival, progression free survival, and overall response rate.  
+ 
+- Malignant pleural mesothelioma  
+ 
+- The Checkmate -743 trial was a randomized, phase III, open -label trial of 605 patients age 18 years and 
+older with unresectable pleural mesothelioma.  Patients were previously untreated and not eligible for 
+curative surgery.  Patients were randomized to receive Yervoy 1 mg/kg every 6 weeks and Opdivo 3 mg/kg 
+every 2 weeks for up to 2 years or cisplatin 75 mg/m
+2 and pemetrexed 500 mg/m2, or carboplatin 5 AUC and 
+pemetrexed 500 mg/m2 administered every 3 weeks for 6 cycles.  The trial excluded patients with active 
+autoimmune disease, those receiving systemic immunosuppression, and those with an ECOG score greater This policy and any information contained herein is the property of Blue Cross Blue Shield of Michigan and its subsidiaries, is strictly confidential, and its use is 
+intended for the P&T committee, its members and BCBSM employees for the purpose of coverage determinations.  
+ 
+Page 5 of 7
+ than 1.  The primary endpoint was overall survival.  The study demonstrated a statistically significant benefit 
+in overall survival in the Yervoy arm compared to the placebo arm (p -value = 0.002).  
+ 
+- Unresectable advanced or metastatic esophageal squamous cell carcinoma  
+ 
+- The Checkmate -648 study was a randomized, active -controlled, open -label trial of 649 patients with 
+previously untreated unresectable advanced, recurrent, or metastatic esophageal squamous cell carcinoma.  Patients were randomized to receive Yervoy 1 mg/kg every 6 weeks in combination with Opdivo 3 mg/kg every 2 weeks or fluorouracil 800 mg/m
+2/day days 1 through 5 and cisplatin 80 mg/m2 day 1 of a 4-week 
+cycle.  Patients were excluded if they had brain metastasis, had active autoimmune disease, used systemic corticosteroids or immunosuppressants, or patients at high risk of bleeding or fistula due to apparent invasion of tumor to organs adjacent to the esophageal tumor.  The primary endpoint was overall survival.  
+The study demonstrated a significantly significant benefit in overall survival in the Yervoy are compared to 
+the comparator are (p -value = 0.0110).  
+ 
+- There are no studies to support use of Yervoy following failure of its use as a single agent or in combination with a 
+PD-L1 checkpoint inhibitor, such as Opdivo.  NCCN guidelines also do not recommend use of Yervoy or PD-L1 checkpoint inhibitors following a previous failure.  
+ 
+References:  
+ 
+1. Yervoy [package insert].  New Brunswick (NJ):  E.R. Squibb & Sons, LLC.  February 2023.  
+2. Opdivo [package insert].  New Brunswick (NJ):  E.R. Squibb & Sons, LLC.  February 2023.  
+3. National Comprehensive Cancer Network. Cutaneous Melanoma (Version 1.2023).  2022 Dec 22.  Available at:  
+https://www.nccn.org/professionals/physician_gls/pdf/cutaneous_melanoma.pdf.  Accessed on March 3, 2023. 
+4. Sosman JA. Immunotherapy of advanced melanoma with immune checkpoint inhibition. UpToDate; updated March 16, 2016. Available from: 
+http://www.uptodate.com/contents/immunotherapy-of -advanced -melanom a-with -immune-
+checkpoint -inhibition  
+5. Hodi FS, O’Day  SJ, McDermott DF, et al.  Improved survival with ipilimumab in patients with metastatic melanoma.  
+NEJM.  2010 Aug 19; 363(8):  711-23.  
+6. Eggermont AM, Chiarion- Sileni V, Grob JJ, et al.  Adjuvant ipilimumab versus placebo after complete resection of 
+high-r isk stage III melanoma (EORTC 18071): a randomised, double -blind, phase 3 trial. Lancet Oncol.  2015 May; 
+16(5):  522- 30. 
+7. U.S. Food and Drug Administration Expands Approval of Yervoy (ipilimumab) to Include Pediatric Patients 12 Years and Older with unresectable or Metastatic Melanoma. Available from: 
+https://news.bms.com/press -
+release/corporatefinancial-news/us -food -and-drug -administration- expands -approval-yervoy -ipilim  
+8. NCCN Clinical Practice Guidelines in Oncology.  Kidney Cancer (Version 4.2023).  2023 Jan 18.  Available at:  
+https://www.nccn.org/professionals/physician_gls/pdf/kidney.pdf.   Accessed on March 3, 2023.  
+9. Motzer RJ, Tannir NM, McDermott DF et al.  Nivolumab plus ipilimumab versus sunitinib in advanced renal-cell 
+carcinoma.   NEJM.  2018; 378:  1277- 1290.  
+10. National Comprehensive Cancer Network.  Hepatobiliary Cancers (Version 5.2022).  2023 Jan 13. Available at:  
+https://www.nccn.org/professionals/physician_gls/pdf/hepatobiliary.pdf .  Accessed on March 3, 2023 . 
+11. National Comprehensive Cancer Network.  Colon Cancer (Version 3.2022).  2023 Jan 25.  Available at:  
+https://www.nccn.org/professionals/physician_gls/pdf/colon.pdf .  Accessed on March 3, 2023.  
+12. Clinicaltrials.gov.  A phase 1/2, dose-escalation, open -label, non -comparative study of nivolumab or nivolumab in 
+combination with ipilimumab in advanced hepatocellular carcinoma subjects with or without chronic viral hepatitis; 
+and a randomized, open -label study of nivolumab vs sorafenib in advanced hepatocellular carcinoma subjects who 
+are naive to systemic therapy. Available at:  
+https://clinicaltrials.gov/ct2/show/NCT01658878?term=NCT01658878&draw=2&rank=1 .  Accessed on April 6, 2020.  
+13. National Comprehensive Cancer Network.  Non -small cell lung cancer (Version 2.2023).  2023 Feb 17.  Available at:  
+https://www.nccn.org/professionals/physician_gls/pdf/nscl.pdf .  Accessed on March 3, 2023.  This policy and any information contained herein is the property of Blue Cross Blue Shield of Michigan and its subsidiaries, is strictly confidential, and its use is 
+intended for the P&T committee, its members and BCBSM employees for the purpose of coverage determinations.  
+ 
+Page 6 of 7
+ 14. Hellmann MD, Ciuleanu TE, Pluzanski A, et al.  Nivolumab plus ipilimumab in lung cancer with a high tumor 
+mutational burden.  NEJM.  2018; 378:  2093 -2104.  
+15. National Comprehensive Cancer Network.  Mesothelioma:  pleural (Version 1.2023).  2022 Dec 15.  Available at:  
+https://www.nccn.org/professionals/physician_gls/pdf/mpm.pdf .  Accessed on March 3, 2023.  
+16. Clinicaltrials.gov.  A phase III, randomized, open label trial of nivolumab in combination with ipilimumab versus 
+pemetrexed with cisplatin or carboplatin as first line therapy in unresectable pleural mesothelioma.  Available at:  
+https://clin icaltrials.gov/ct2/show/NCT02899299 .  Accessed on October 5, 2020.  
+17. National Comprehensive Cancer Network.  Esophageal and esophagogastric junction cancers (Version 1.2023).  
+2023 Feb 28.  Available at:  https://www.nccn.org/professionals/physician_gls/pdf/esophageal.pdf .  Accessed on 
+March 3, 2023.  
+ 
+Policy History  
+# Date  Change Description  
+2.4 Effective Date:  
+04/06/2023  Updated to include the updated age requirements when used to treat melanoma  
+2.3 Effective Date:  
+12/01/2022  Updated to include the new indication of esophageal cancer and update the approval 
+length to allow for FDA recommended dosing and provided for at least 60 days up to 6 
+months at a time 
+2.2 Effective Date:  
+12/09/2021  Annual review of criteria was performed, no changes were made  
+2.1 Effective Date:  
+12/03/2020  Updated to include new indications for malignancy pleural mesothelioma  
+2.0 Effective Date:  
+12/01/2020  UM medical management system update for BCBS  
+ 
+Line of Business  PA Required in Medical 
+Management System (Yes/No)  
+BCBS  Yes 
+BCN  Yes 
+MAPPO  Yes 
+BCNA  Yes 
+ 
+1.9 Effective Date:  
+08/13/2020  Updated to include new indications for non -small cell lung cancer  
+1.8 Effective Date:  
+06/11/2020  Updated to include new indication for hepatocellular carcinoma  
+1.7 Effective Date:  
+11/07/2019  Annual Review of Medical Policy  
+1.6 Effective Date: 
+11/01/2018  Criteria update  
+1.5 Effective Date: 
+08/09/2018  Criteria update  
+1.4 Effective Date: 
+05/03/2018  Criteria update  
+1.3 Effective Date: 
+07/05/2017  UM medical management system update for MAPPO  
+ 
+Line of Business  PA Required in Medical 
+Management System (Yes/No)  
+BCBS  No 
+BCN  Yes 
+MAPPO  Yes 
+BCNA  Yes 
+ This policy and any information contained herein is the property of Blue Cross Blue Shield of Michigan and its subsidiaries, is strictly confidential, and its use is 
+intended for the P&T committee, its members and BCBSM employees for the purpose of coverage determinations.  
+ 
+Page 7 of 7
+ 1.2 Effective Date: 
+07/01/2017  UM medical management system update for BCNA  
+ 
+Line of Business  PA Required in Medical 
+Management System (Yes/No)  
+BCBS  No 
+BCN  Yes 
+MAPPO  No 
+BCNA  Yes 
+ 
+1.0 Effective Date: 
+07/01/2015  New Policy  
+ 
+Line of Business  PA Required in Medical 
+Management System (Yes/No)  
+BCBS  No 
+BCN  Yes 
+MAPPO  No 
+BCNA  No 
+ 
+ 
+* The prescribing information for a drug is subject to change.  To ensure you are reading the most current information it is 
+advised that you reference the most updated prescribing information by visiting the drug or manufacturer website or http://dailymed.nlm.nih.gov/dailymed/index.cfm
+. 
+  

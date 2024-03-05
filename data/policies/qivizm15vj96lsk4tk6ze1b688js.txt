@@ -1,0 +1,469 @@
+Policy Attachment
+Attachment to Policy #
+11.08.17k
+Attachment:
+E
+Policy #:
+11.08.17k
+Description:
+ICD-10 CM Codes Eligible to be Reported for Debridement of mycotic hypertrophic toe nails (S86.892A - Z79.01), Continued
+Title:
+Debridement of Mycotic and Symptomatic Non-Mycotic Hypertrophic Toe Nails
+INTERNATIONAL CLASSIFICATION OF DISEASES (ICD-10) DIAGNOSIS CODES ASSOCIATED WITH 
+DEBRIDEMENT
+OF MYCOTIC HYPERTROPHIC TOE NAILS
+ 
+(continued)
+S86.892A
+Other injury of other muscle(s) and tendon(s) at lower leg level, left leg,
+initial encounter
+S86.892D
+Other injury of other muscle(s) and tendon(s) at lower leg level, left leg,
+subsequent encounter
+S86.892S
+Other injury of other muscle(s) and tendon(s) at lower leg level, left leg,
+sequela
+S86.899A
+Other injury of other muscle(s) and tendon(s) at lower leg level, unspecified
+leg, initial encounter
+S86.899D
+Other injury of other muscle(s) and tendon(s) at lower leg level, unspecified
+leg, subsequent encounter
+S86.899S
+Other injury of other muscle(s) and tendon(s) at lower leg level, unspecified
+leg, sequela
+S86.901A
+Unspecified injury of unspecified muscle(s) and tendon(s) at lower leg level,
+right leg, initial encounter
+S86.901D
+Unspecified injury of unspecified muscle(s) and tendon(s) at lower leg level,
+right leg, subsequent encounter
+S86.901S
+Unspecified injury of unspecified muscle(s) and tendon(s) at lower leg level,
+right leg, sequela
+S86.902A
+Unspecified injury of unspecified muscle(s) and tendon(s) at lower leg level,
+left leg, initial encounter
+S86.902D
+Unspecified injury of unspecified muscle(s) and tendon(s) at lower leg level,
+left leg, subsequent encounter
+S86.902S
+Unspecified injury of unspecified muscle(s) and tendon(s) at lower leg level,
+left leg, sequela
+S86.909A
+Unspecified injury of unspecified muscle(s) and tendon(s) at lower leg level,
+unspecified leg, initial encounter
+S86.909D
+Unspecified injury of unspecified muscle(s) and tendon(s) at lower leg level,
+unspecified leg, subsequent encounter
+S86.909S
+Unspecified injury of unspecified muscle(s) and tendon(s) at lower leg level,
+unspecified leg, sequela
+S86.991A
+Other injury of unspecified muscle(s) and tendon(s) at lower leg level, right
+leg, initial encounter
+S86.991D
+Other injury of unspecified muscle(s) and tendon(s) at lower leg level, right
+leg, subsequent encounter
+S86.991S
+Other injury of unspecified muscle(s) and tendon(s) at lower leg level, right
+leg, sequela
+S86.992A
+Other injury of unspecified muscle(s) and tendon(s) at lower leg level, left
+leg, initial encounter
+S86.992D
+Other injury of unspecified muscle(s) and tendon(s) at lower leg level, left
+leg, subsequent encounter
+S86.992S
+Other injury of unspecified muscle(s) and tendon(s) at lower leg level, left
+leg, sequela
+S86.999A
+Other injury of unspecified muscle(s) and tendon(s) at lower leg level,
+unspecified leg, initial encounterS86.999D
+Other injury of unspecified muscle(s) and tendon(s) at lower leg level,
+unspecified leg, subsequent encounter
+S86.999S
+Other injury of unspecified muscle(s) and tendon(s) at lower leg level,
+unspecified leg, sequela
+S89.80XA
+Other specified injuries of unspecified lower leg, initial encounter
+S89.80XD
+Other specified injuries of unspecified lower leg, subsequent encounter
+S89.80XS
+Other specified injuries of unspecified lower leg, sequela
+S89.81XA
+Other specified injuries of right lower leg, initial encounter
+S89.81XD
+Other specified injuries of right lower leg, subsequent encounter
+S89.81XS
+Other specified injuries of right lower leg, sequela
+S89.82XA
+Other specified injuries of left lower leg, initial encounter
+S89.82XD
+Other specified injuries of left lower leg, subsequent encounter
+S89.82XS
+Other specified injuries of left lower leg, sequela
+S89.90XA
+Unspecified injury of unspecified lower leg, initial encounter
+S89.90XD
+Unspecified injury of unspecified lower leg, subsequent encounter
+S89.90XS
+Unspecified injury of unspecified lower leg, sequela
+S89.91XA
+Unspecified injury of right lower leg, initial encounter
+S89.91XD
+Unspecified injury of right lower leg, subsequent encounter
+S89.91XS
+Unspecified injury of right lower leg, sequela
+S89.92XA
+Unspecified injury of left lower leg, initial encounter
+S89.92XD
+Unspecified injury of left lower leg, subsequent encounter
+S89.92XS
+Unspecified injury of left lower leg, sequela
+S96.001A
+Unspecified injury of muscle and tendon of long flexor muscle of toe at
+ankle and foot level, right foot, initial encounter
+S96.001D
+Unspecified injury of muscle and tendon of long flexor muscle of toe at
+ankle and foot level, right foot, subsequent encounter
+S96.001S
+Unspecified injury of muscle and tendon of long flexor muscle of toe at
+ankle and foot level, right foot, sequela
+S96.002A
+Unspecified injury of muscle and tendon of long flexor muscle of toe at
+ankle and foot level, left foot, initial encounter
+S96.002D
+Unspecified injury of muscle and tendon of long flexor muscle of toe at
+ankle and foot level, left foot, subsequent encounter
+S96.002S
+Unspecified injury of muscle and tendon of long flexor muscle of toe at
+ankle and foot level, left foot, sequela
+S96.009A
+Unspecified injury of muscle and tendon of long flexor muscle of toe at
+ankle and foot level, unspecified foot, initial encounter
+S96.009D
+Unspecified injury of muscle and tendon of long flexor muscle of toe at
+ankle and foot level, unspecified foot, subsequent encounter
+S96.009S
+Unspecified injury of muscle and tendon of long flexor muscle of toe at
+ankle and foot level, unspecified foot, sequela
+S96.091A
+Other injury of muscle and tendon of long flexor muscle of toe at ankle and
+foot level, right foot, initial encounter
+S96.091D
+Other injury of muscle and tendon of long flexor muscle of toe at ankle and
+foot level, right foot, subsequent encounter
+S96.091S
+Other injury of muscle and tendon of long flexor muscle of toe at ankle and
+foot level, right foot, sequela
+S96.092A
+Other injury of muscle and tendon of long flexor muscle of toe at ankle and
+foot level, left foot, initial encounter
+S96.092D
+Other injury of muscle and tendon of long flexor muscle of toe at ankle and
+foot level, left foot, subsequent encounter
+S96.092S
+Other injury of muscle and tendon of long flexor muscle of toe at ankle and
+foot level, left foot, sequela
+S96.099A
+Other injury of muscle and tendon of long flexor muscle of toe at ankle and
+foot level, unspecified foot, initial encounter
+S96.099D
+Other injury of muscle and tendon of long flexor muscle of toe at ankle and
+foot level, unspecified foot, subsequent encounterS96.099S
+Other injury of muscle and tendon of long flexor muscle of toe at ankle and
+foot level, unspecified foot, sequela
+S96.101A
+Unspecified injury of muscle and tendon of long extensor muscle of toe at
+ankle and foot level, right foot, initial encounter
+S96.101D
+Unspecified injury of muscle and tendon of long extensor muscle of toe at
+ankle and foot level, right foot, subsequent encounter
+S96.101S
+Unspecified injury of muscle and tendon of long extensor muscle of toe at
+ankle and foot level, right foot, sequela
+S96.102A
+Unspecified injury of muscle and tendon of long extensor muscle of toe at
+ankle and foot level, left foot, initial encounter
+S96.102D
+Unspecified injury of muscle and tendon of long extensor muscle of toe at
+ankle and foot level, left foot, subsequent encounter
+S96.102S
+Unspecified injury of muscle and tendon of long extensor muscle of toe at
+ankle and foot level, left foot, sequela
+S96.109A
+Unspecified injury of muscle and tendon of long extensor muscle of toe at
+ankle and foot level, unspecified foot, initial encounter
+S96.109D
+Unspecified injury of muscle and tendon of long extensor muscle of toe at
+ankle and foot level, unspecified foot, subsequent encounter
+S96.109S
+Unspecified injury of muscle and tendon of long extensor muscle of toe at
+ankle and foot level, unspecified foot, sequela
+S96.191A
+Other specified injury of muscle and tendon of long extensor muscle of toe
+at ankle and foot level, right foot, initial encounter
+S96.191D
+Other specified injury of muscle and tendon of long extensor muscle of toe
+at ankle and foot level, right foot, subsequent encounter
+S96.191S
+Other specified injury of muscle and tendon of long extensor muscle of toe
+at ankle and foot level, right foot, sequela
+S96.192A
+Other specified injury of muscle and tendon of long extensor muscle of toe
+at ankle and foot level, left foot, initial encounter
+S96.192D
+Other specified injury of muscle and tendon of long extensor muscle of toe
+at ankle and foot level, left foot, subsequent encounter
+S96.192S
+Other specified injury of muscle and tendon of long extensor muscle of toe
+at ankle and foot level, left foot, sequela
+S96.199A
+Other specified injury of muscle and tendon of long extensor muscle of toe
+at ankle and foot level, unspecified foot, initial encounter
+S96.199D
+Other specified injury of muscle and tendon of long extensor muscle of toe
+at ankle and foot level, unspecified foot, subsequent encounter
+S96.199S
+Other specified injury of muscle and tendon of long extensor muscle of toe
+at ankle and foot level, unspecified foot, sequela
+S96.201A
+Unspecified injury of intrinsic muscle and tendon at ankle and foot level,
+right foot, initial encounter
+S96.201D
+Unspecified injury of intrinsic muscle and tendon at ankle and foot level,
+right foot, subsequent encounter
+S96.201S
+Unspecified injury of intrinsic muscle and tendon at ankle and foot level,
+right foot, sequela
+S96.202A
+Unspecified injury of intrinsic muscle and tendon at ankle and foot level, left
+foot, initial encounter
+S96.202D
+Unspecified injury of intrinsic muscle and tendon at ankle and foot level, left
+foot, subsequent encounter
+S96.202S
+Unspecified injury of intrinsic muscle and tendon at ankle and foot level, left
+foot, sequela
+S96.209A
+Unspecified injury of intrinsic muscle and tendon at ankle and foot level,
+unspecified foot, initial encounter
+S96.209D
+Unspecified injury of intrinsic muscle and tendon at ankle and foot level,
+unspecified foot, subsequent encounter
+S96.209S
+Unspecified injury of intrinsic muscle and tendon at ankle and foot level,
+unspecified foot, sequela
+S96.291A
+Other specified injury of intrinsic muscle and tendon at ankle and foot level,
+right foot, initial encounterS96.291D
+Other specified injury of intrinsic muscle and tendon at ankle and foot level,
+right foot, subsequent encounter
+S96.291S
+Other specified injury of intrinsic muscle and tendon at ankle and foot level,
+right foot, sequela
+S96.292A
+Other specified injury of intrinsic muscle and tendon at ankle and foot level,
+left foot, initial encounter
+S96.292D
+Other specified injury of intrinsic muscle and tendon at ankle and foot level,
+left foot, subsequent encounter
+S96.292S
+Other specified injury of intrinsic muscle and tendon at ankle and foot level,
+left foot, sequela
+S96.299A
+Other specified injury of intrinsic muscle and tendon at ankle and foot level,
+unspecified foot, initial encounter
+S96.299D
+Other specified injury of intrinsic muscle and tendon at ankle and foot level,
+unspecified foot, subsequent encounter
+S96.299S
+Other specified injury of intrinsic muscle and tendon at ankle and foot level,
+unspecified foot, sequela
+S96.801A
+Unspecified injury of other specified muscles and tendons at ankle and foot
+level, right foot, initial encounter
+S96.801D
+Unspecified injury of other specified muscles and tendons at ankle and foot
+level, right foot, subsequent encounter
+S96.801S
+Unspecified injury of other specified muscles and tendons at ankle and foot
+level, right foot, sequela
+S96.802A
+Unspecified injury of other specified muscles and tendons at ankle and foot
+level, left foot, initial encounter
+S96.802D
+Unspecified injury of other specified muscles and tendons at ankle and foot
+level, left foot, subsequent encounter
+S96.802S
+Unspecified injury of other specified muscles and tendons at ankle and foot
+level, left foot, sequela
+S96.809A
+Unspecified injury of other specified muscles and tendons at ankle and foot
+level, unspecified foot, initial encounter
+S96.809D
+Unspecified injury of other specified muscles and tendons at ankle and foot
+level, unspecified foot, subsequent encounter
+S96.809S
+Unspecified injury of other specified muscles and tendons at ankle and foot
+level, unspecified foot, sequela
+S96.891A
+Other specified injury of other specified muscles and tendons at ankle and
+foot level, right foot, initial encounter
+S96.891D
+Other specified injury of other specified muscles and tendons at ankle and
+foot level, right foot, subsequent encounter
+S96.891S
+Other specified injury of other specified muscles and tendons at ankle and
+foot level, right foot, sequela
+S96.892A
+Other specified injury of other specified muscles and tendons at ankle and
+foot level, left foot, initial encounter
+S96.892D
+Other specified injury of other specified muscles and tendons at ankle and
+foot level, left foot, subsequent encounter
+S96.892S
+Other specified injury of other specified muscles and tendons at ankle and
+foot level, left foot, sequela
+S96.899A
+Other specified injury of other specified muscles and tendons at ankle and
+foot level, unspecified foot, initial encounter
+S96.899D
+Other specified injury of other specified muscles and tendons at ankle and
+foot level, unspecified foot, subsequent encounter
+S96.899S
+Other specified injury of other specified muscles and tendons at ankle and
+foot level, unspecified foot, sequela
+S96.901A
+Unspecified injury of unspecified muscle and tendon at ankle and foot level,
+right foot, initial encounter
+S96.901D
+Unspecified injury of unspecified muscle and tendon at ankle and foot level,
+right foot, subsequent encounter
+S96.901S
+Unspecified injury of unspecified muscle and tendon at ankle and foot level,
+right foot, sequelaS96.902A
+Unspecified injury of unspecified muscle and tendon at ankle and foot level,
+left foot, initial encounter
+S96.902D
+Unspecified injury of unspecified muscle and tendon at ankle and foot level,
+left foot, subsequent encounter
+S96.902S
+Unspecified injury of unspecified muscle and tendon at ankle and foot level,
+left foot, sequela
+S96.909A
+Unspecified injury of unspecified muscle and tendon at ankle and foot level,
+unspecified foot, initial encounter
+S96.909D
+Unspecified injury of unspecified muscle and tendon at ankle and foot level,
+unspecified foot, subsequent encounter
+S96.909S
+Unspecified injury of unspecified muscle and tendon at ankle and foot level,
+unspecified foot, sequela
+S96.991A
+Other specified injury of unspecified muscle and tendon at ankle and foot
+level, right foot, initial encounter
+S96.991D
+Other specified injury of unspecified muscle and tendon at ankle and foot
+level, right foot, subsequent encounter
+S96.991S
+Other specified injury of unspecified muscle and tendon at ankle and foot
+level, right foot, sequela
+S96.992A
+Other specified injury of unspecified muscle and tendon at ankle and foot
+level, left foot, initial encounter
+S96.992D
+Other specified injury of unspecified muscle and tendon at ankle and foot
+level, left foot, subsequent encounter
+S96.992S
+Other specified injury of unspecified muscle and tendon at ankle and foot
+level, left foot, sequela
+S96.999A
+Other specified injury of unspecified muscle and tendon at ankle and foot
+level, unspecified foot, initial encounter
+S96.999D
+Other specified injury of unspecified muscle and tendon at ankle and foot
+level, unspecified foot, subsequent encounter
+S96.999S
+Other specified injury of unspecified muscle and tendon at ankle and foot
+level, unspecified foot, sequela
+S99.811A
+Other specified injuries of right ankle, initial encounter
+S99.811D
+Other specified injuries of right ankle, subsequent encounter
+S99.811S
+Other specified injuries of right ankle, sequela
+S99.812A
+Other specified injuries of left ankle, initial encounter
+S99.812D
+Other specified injuries of left ankle, subsequent encounter
+S99.812S
+Other specified injuries of left ankle, sequela
+S99.819A
+Other specified injuries of unspecified ankle, initial encounter
+S99.819D
+Other specified injuries of unspecified ankle, subsequent encounter
+S99.819S
+Other specified injuries of unspecified ankle, sequela
+S99.821A
+Other specified injuries of right foot, initial encounter
+S99.821D
+Other specified injuries of right foot, subsequent encounter
+S99.821S
+Other specified injuries of right foot, sequela
+S99.822A
+Other specified injuries of left foot, initial encounter
+S99.822D
+Other specified injuries of left foot, subsequent encounter
+S99.822S
+Other specified injuries of left foot, sequela
+S99.829A
+Other specified injuries of unspecified foot, initial encounter
+S99.829D
+Other specified injuries of unspecified foot, subsequent encounter
+S99.829S
+Other specified injuries of unspecified foot, sequela
+S99.911A
+Unspecified injury of right ankle, initial encounter
+S99.911D
+Unspecified injury of right ankle, subsequent encounter
+S99.911S
+Unspecified injury of right ankle, sequela
+S99.912A
+Unspecified injury of left ankle, initial encounter
+S99.912D
+Unspecified injury of left ankle, subsequent encounter
+S99.912S
+Unspecified injury of left ankle, sequela
+S99.919A
+Unspecified injury of unspecified ankle, initial encounterS99.919D
+Unspecified injury of unspecified ankle, subsequent encounter
+S99.919S
+Unspecified injury of unspecified ankle, sequela
+S99.921A
+Unspecified injury of right foot, initial encounter
+S99.921D
+Unspecified injury of right foot, subsequent encounter
+S99.921S
+Unspecified injury of right foot, sequela
+S99.922A
+Unspecified injury of left foot, initial encounter
+S99.922D
+Unspecified injury of left foot, subsequent encounter
+S99.922S
+Unspecified injury of left foot, sequela
+S99.929A
+Unspecified injury of unspecified foot, initial encounter
+S99.929D
+Unspecified injury of unspecified foot, subsequent encounter
+S99.929S
+Unspecified injury of unspecified foot, sequela
+Z79.01
+Long term (current) use of anticoagulants
+Version Effective Date:
+10/1/2021
+Version Issued Date:
+10/1/2021
+Version Reissued Date:
+3/8/2023

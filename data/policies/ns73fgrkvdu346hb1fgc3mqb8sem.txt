@@ -1,0 +1,855 @@
+ 
+ 
+Microa rray-Based Gene Expression Profile Testing fo r 
+Mu
+ltiple Myelo ma Risk Stratifi cation 
+ 
+Policy #  00461  
+Original Effective Date: 01/21/2015 
+Current Effective Date: 03/13/2023 
+ 
+Applies to all products administered or underwritten by Blue Cross and Blue Shield of Louisiana and its subsidiary, 
+HMO Louisiana, Inc. (collectively referred to as the “Company”), unless otherwise provided in the applicable contract. 
+Medical technology is constantly evolving, and we reserve the right to review and update Medical Policy periodically. 
+ 
+Note:  Hematopoietic Stem-Cell Transplantation for Plasma Cell Dyscrasias, Including Multiple 
+Myeloma and POEMS Syndrome is addressed separately in medical policy 00060. 
+ 
+©2023 Blue Cross and Blue Shield of Louisiana 
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company. 
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 1 of 17 
+ 
+ 
+Services Are Considered Investigational 
+Coverage is not available for investigational medical treatments or procedures, drugs, devices or 
+biological products.  
+ 
+Based on review of available data, the Company considers microarray-based gene expression profile 
+(GEP) testing for multiple myeloma  (e.g., myPRS ™/MyPRS Plus™ GEP70 test)‡ for all indications to 
+be investigational.*  
+ 
+Policy Guidelines  
+According to Mayo Clinic recommendations, a large number of prognostic factors have been 
+validated and categorized into 3 main groups: tumor biology, tumor burden, and patient -related 
+factors. These factors must be considered to individualize the choice of  therapy in individuals with  
+multiple myeloma  (Table PG1).  
+ 
+Table PG1. Prognostic Factors in Multiple Myeloma  
+Tumor Biology  Tumor Burden  Patient -Related  
+• Ploidy  
+• 17p (p53 deletion)  
+• t(14;16)  
+• t(14;20)  
+• t(4;14)  • Durie -Salmon stage  
+• International Staging 
+System stage  
+• Extramedullary disease  • ECOG 
+Performance 
+Status  
+• Age 
+• Renal function   
+ 
+Microarray-Based Ge ne Expression  Profile Testing for Multiple Myeloma Risk Stratification 
+ 
+Policy #  00461  
+Original Effective Date:  01/21/2015  
+Current Effective Date:  03/13/2023  
+ 
+  
+©202 3 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 2 of 17 
+Adapted from Mikhael et al (2013).  
+ECOG: Eastern Cooperative Oncology Group; GEP: gene expression profile.  
+a The Mayo Clinic does not currently recommend or routinely perform GEP analysis in a non -
+research setting. However, Mikhael et al (2013) have suggested GEP analysis will likely play a 
+greater role in the management of multiple myeloma as evidence develops.  
+ 
+Background/Overview  
+Multiple Myeloma  
+Multiple myeloma is a genetically complex -and invariably fatal -neoplasm of plasma cells.  
+ 
+Disease Description  
+Multiple myeloma is a malignant plasma cell dyscrasia characterized by clonal proliferation of 
+plasma cells derived from B cells in the bone marrow.  It accounts for about 1 in every 100 cancers 
+and 13% of hematologic cancers. The American Cancer Society has estimated  34,470 new cases of 
+multiple myeloma will occur in the U.S. in  2022,  and some  12,64 0 deaths will occur due to the 
+disease.  The annual age -adjusted incidence is about 6 cases per 100,000 persons, with a median age -
+at-diagnosis of about 70 years. Before the advent of current treatment protocols, most patients with 
+multiple myeloma succumbe d to their disease within 5 to 10 years; in the prechemotherapy era, 
+median survival was less than 1 year. Among patients who present at an age younger than 60 years, 
+10-year overall survival with current treatment protocols may now exceed 30%. Black indiv iduals 
+have double the risk of multiple myeloma compared with White individuals and tend to be diagnosed 
+with multiple myeloma at a younger age. 5, Furthermore, Hispanic individuals have a slightly higher  • Deletion 13 on conventional 
+cytogenetics  
+• Alterations in chromosome 1  
+• t(11;14)  
+• t(6;14)  
+• Lactate dehydrogenase levels  
+• Plasma cell proliferative rate  
+• Presentation as plasma cell 
+leukemia  
+• High -risk GEP signaturea  
+ 
+Microarray-Based Ge ne Expression  Profile Testing for Multiple Myeloma Risk Stratification 
+ 
+Policy #  00461  
+Original Effective Date:  01/21/2015  
+Current Effective Date:  03/13/2023  
+ 
+  
+©202 3 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 3 of 17 
+incidence rate than White individuals (6.7 per 100,000 vs. 6.2 per 100,100). R ecent US Surveillance, 
+Epidemiology, and End Results Program data estimates that the 5 -year age -adjusted mortality rate 
+of Black individuals due to multiple myeloma is 6.2 per 100,000, compared with 3.1 per 100,000 
+White individuals. However, the 5 -year re lative survival appears to comparable at 53.9% and 51.3% 
+for Black and White individuals in the US, respectively. When treatment is standardized, there is 
+some evidence that Black individuals have superior survival after multiple myeloma diagnosis 
+compared  to White individuals, suggesting that Black individuals have a more indolent disease 
+subtype. However, significant disparities in treatment use, access, and referral patterns persist that 
+may impair clinical outcomes.  
+ 
+Criteria for the diagnosis, staging,  and response assessment of multiple myeloma developed by the 
+International  Myeloma Working Group are in widespread use.  The decision to treat is based on 
+criteria set forth in the diagnosis of multiple myeloma, which includes calcium elevation; renal 
+insufficiency; anemia; and bone disease (CRAB). Patients with monoclonal gammopathy of 
+undetermined significance (MGUS) or smoldering myeloma do not require therapy, irrespective of 
+any associated risk factors -except on specifically targeted protocols.  
+ 
+Pathogenesis and Genetic Architecture of Multiple Myeloma  
+Multiple myeloma is a complex disease that presents itself in distinct clinical phases and risk levels. 
+They include MGUS and smoldering multiple myeloma (also known as asymptomatic myeloma).  
+Monoclon al gammopathy of undetermined significance is a generally benign condition, with a 
+transformation rate to symptomatic plasma cell disorders of about 1% to 2% annually.  Smoldering 
+multiple myeloma represents a progression from MGUS to frank multiple myeloma ; the risk of the 
+disease transforming to multiple myeloma is about 10% for the first 5 years.  Although both of these 
+conditions lack many clinical features of multiple myeloma, they may ultimately share 
+characteristics that necessitate therapy. By contras t, symptomatic multiple myeloma is defined by 
+specific clinical symptoms, accumulation of monoclonal immunoglobulin proteins in the blood or 
+urine, and associated organ dysfunction (including nephropathy and neuropathy). The acronym 
+CRAB reflects the hallm ark features of multiple myeloma. Premyeloma plasma cells initially require 
+interaction with the bone marrow microenvironment; however, during disease progression, the cells 
+develop the ability to proliferate outside the bone marrow, manifesting as extrame dullary myeloma 
+and plasma cell leukemia. These “bone marrow independent” cells represent the end stages in a 
+multistep transformation process from normal to multiple myeloma.   
+ 
+Microarray-Based Ge ne Expression  Profile Testing for Multiple Myeloma Risk Stratification 
+ 
+Policy #  00461  
+Original Effective Date:  01/21/2015  
+Current Effective Date:  03/13/2023  
+ 
+  
+©202 3 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 4 of 17 
+As outlined below, complex genetic abnormalities, commonly identified in multipl e myeloma 
+plasma cells, are considered to play major roles in disease initiation, progression, and pathogenesis. 
+Further, these abnormalities are used in conjunction with laboratory and radiographic studies to 
+stratify patients for therapeutic decisions.  
+ 
+Diagnosis  
+Cytogenetic and other laboratory tests identify markers to classify newly diagnosed multiple 
+myeloma patients into high, intermediate, and standard clinical risk categories. The level of risk 
+reflects the aggressiveness of the disease, and ultim ately dictates the intensity of initial treatment. 
+Thus, a risk -adapted approach provides optimal therapy to patients, ensuring intense treatment for 
+those with the aggressive disease. Further, this approach minimizes toxic effects, thereby delivering 
+sufficient -but less -intense -therapy for those with a lower risk of disease. However, it should be noted 
+that clinical outcomes can vary substantially, using even the most standard of methods, among 
+patients with the same estimated risk who undergo a similar in tensity of treatment.  
+ 
+Microarray -based gene expression profile (GEP) analysis can be used to estimate the underlying 
+activity of cellular biological pathways, and these pathways control a host of mechanisms such as 
+cell division, cell proliferation, apopt osis, metabolism, and other signaling pathways. Relative over - 
+or underexpression of these pathways is considered to mirror disease aggressiveness, independent 
+of cytogenetics and other laboratory measures. Gene expression profile analysis has been propose d 
+as a means to more finely stratify multiple myeloma patients into risk categories for 2 purposes: (1) 
+to personalize therapy selection according to tumor biology  and (2) to avoid over - or undertreating 
+patients. Moreover, GEP analysis could be used as a supplement to existing stratification methods, 
+or as a stand -alone test; however, further study is needed to confirm that the analysis has the 
+capability to perform those roles.  
+ 
+The term  gene expression  refers to the process by which the coded information  of genes (DNA) is 
+transcribed into messenger RNA (mRNA) and translated into proteins. A GEP assay simultaneously 
+examines the patterns of multiple genes in a single tissue sample; it does this to identify those that 
+are actively producing mRNA or not, ult imately producing proteins or not. By concurrently 
+measuring the cellular levels of mRNA of thousands of genes, a GEP test creates a picture of the 
+rate at which those genes are expressed in a tissue sample.  
+  
+ 
+Microarray-Based Ge ne Expression  Profile Testing for Multiple Myeloma Risk Stratification 
+ 
+Policy #  00461  
+Original Effective Date:  01/21/2015  
+Current Effective Date:  03/13/2023  
+ 
+  
+©202 3 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 5 of 17 
+Gene expression profile tests are not “genetic”  tests. Genetic tests measure an individual DNA 
+signature to identify genetic changes or variants that remain constant in the genome. Gene expression 
+tests measure the activity of mRNA in a tissue or bodily fluid at a single point, reflecting an 
+individual ’s current disease state (or the likelihood of developing a disease). However, because 
+mRNA levels are dynamic and change as a result of disease processes or environmental signals, 
+dynamic changes in these processes can be studied over time. This informati on thus reflects the 
+pathogenic process, and in theory, can be used to assess the effects of therapeutic interventions or 
+select therapy based on specifically expressed gene targets.  
+ 
+Gene Expression Analysis of Cancer Using Microarray Technology  
+Gene expr ession profile analysis using microarray technology is based on the Watson -Crick pairing 
+of complementary nucleic acid molecules.  A collection of DNA sequences, referred to as “probes,” 
+are “arrayed” on miniaturized solid support (the “microarray”). They a re used to determine the 
+concentration of the corresponding complementary mRNA sequences, called “targets,” isolated from 
+a tissue sample. Laboratory advancements in attaching nucleic acid sequences to solid supports, 
+combined with robotic technology, have  allowed investigators to miniaturize the scale of the 
+reactions. As a result of these advances, it is possible to assess the expression of thousands of 
+different genes in a single reaction.  
+ 
+A basic microarray GEP analysis uses mRNA targets that have been  both harvested from a patient’s 
+tissue sample and labeled with a fluorescent dye.  These samples are hybridized to the DNA probe 
+sequences attached to the microarray medium, then incubated in the presence of mRNA from a 
+different sample labeled with a diff erent fluorescent dye. In a 2 color experimental design, samples 
+can be directly compared with one another or with a common reference mRNA, and their relative 
+expression levels can be quantified. After hybridization, grayscale images corresponding to 
+fluor escent signals are obtained by scanning the microarray with dedicated instruments; the 
+fluorescence intensity corresponding to each gene is then quantified by specific software. After 
+normalization, the intensity of the hybridization signals can be compare d to detect differential 
+expression by using sophisticated computational and statistical techniques.  
+ 
+Technical variability is a major concern with microarray technologies for clinical management ; eg, 
+the source of mRNA is a technical variable that can affect test results. A ty pical biopsy sample from 
+a solid tumor contains a mixture of malignant and normal (stromal) cells that, in turn, will yield total 
+RNA that reflects all the cells contained in the specimen. To address this, tissue samples may be  
+ 
+Microarray-Based Ge ne Expression  Profile Testing for Multiple Myeloma Risk Stratification 
+ 
+Policy #  00461  
+Original Effective Date:  01/21/2015  
+Current Effective Date:  03/13/2023  
+ 
+  
+©202 3 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 6 of 17 
+macro - or microdissected (pr ior to RNA extraction) to ensure that the specimens contain a 
+sufficiently representative percentage of cancer cells to reflect the disease. For analysis of 
+hematologic cancers, including multiple myeloma, immunomagnetic cell separation technology is 
+used to isolate and enrich cancerous cells from bone marrow aspirates that contain a mixture of cell 
+types.  
+ 
+The instability of mRNA relative to DNA complicates GEP analysis studies, especially when 
+comparing the method with genomic analyses. Two factors that affect RNA quality include 
+preanalysis storage time and the reagents used to prepare mRNA. Moreover, pH c hanges in the 
+storage media can trigger mRNA degradation, as can ribonucleases present in cells, which can 
+remain active in the RNA preparation if not stringently controlled.  
+ 
+As noted, Watson -Crick hybridization of complementary nucleic acid moieties in the sequences of 
+mRNA and DNA is the basis of any microarray -based GEP test. This means that sequence selection 
+and gene annotation are among the most important factors that can  contribute to analytic variability, 
+hence validity, in results. Different technologic platforms, protocols, and reagents can affect the 
+analytic variability of the results, and therefore affect reproducibility within and across laboratories. 
+Gene expressi on measures are virtually never used as raw output but undergo sequential steps of 
+mathematical transformation; thus, data preprocessing and analysis may increase variability in 
+results. Moreover, different levels of gene expression can be further processe d and combined, 
+according to complex algorithms, to obtain composite summary measurements that are associated 
+with the phenotype(s) under investigation. A statistical analytic technique known as “unsupervised 
+clustering analysis” is applied to the data to produce a visual display, known as a “dendrogram,” that 
+shows a hierarchy of similar genes, differentially expressed as mRNA.  
+ 
+International standards have been developed to address the quality of microarray -based GEP 
+analysis. These standards focus on do cumentation of experimental design, details, and results. 
+Additional topics of interest include interplatform and interlaboratory reproducibility. Quality 
+control efforts emphasize the importance of minimizing the sources of variability in gene expression 
+analysis, thus ensuring that the information derived from such analyses is specific and does not 
+represent accidental associations.  
+ 
+ 
+  
+ 
+Microarray-Based Ge ne Expression  Profile Testing for Multiple Myeloma Risk Stratification 
+ 
+Policy #  00461  
+Original Effective Date:  01/21/2015  
+Current Effective Date:  03/13/2023  
+ 
+  
+©202 3 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 7 of 17 
+Prognosis and Risk Stratification  
+Two validated clinical systems are in widespread use to assess prognosis in newly diagn osed 
+multiple myeloma patients: the Durie -Salmon Staging System and the International Staging System.  
+The Durie -Salmon Staging System provides a method to measure multiple myeloma tumor burden, 
+based on multiple myeloma cell numbers and clinical, laborator y and imaging studies; however, the 
+system has significant shortcomings due to its use of observer -dependent studies (eg, radiographic 
+evaluation of bone lesions), primarily focused on tumor mass -not behavior. The International 
+Staging System, incorporatin g serum albumin and β 2-microglobulin measures, is considered 
+valuable because it permits comparison of outcomes across clinical trials; and it is even more 
+reproducible than the Durie -Salmon Staging System. However, the International Staging System is 
+useful only if a diagnosis of multiple myeloma has already been made; it has no role in MGUS, 
+smoldering multiple myeloma, or related plasma cell dyscrasias. Further, the International Staging 
+System does not provide a good estimate of tumor burden, nor is it generally useful for therapeutic 
+risk stratification. In fact, it may not retain prognostic significance in the era of novel drug therapies.  
+ 
+Although multiple myeloma cells may appear morphologically similar across risk levels, the disease 
+exhibits subst antial genetic heterogeneity that may change with progression or at relapse.  
+Investigators have used conventional cytogenetic methods (karyotyping) and fluorescence in situ 
+hybridization to prognostically stratify multiple myeloma patients according to a h ost of recurrent 
+chromosomal changes (immunoglobulin heavy chain translocations, chromosome deletions, or 
+amplification). This stratification forms the basis of the Mayo Stratification of Myeloma and Risk -
+Adapted Therapy, an evidence -based algorithm to fac ilitate treatment decisions for patients with 
+newly diagnosed multiple myeloma (Table 1).  
+ 
+Table 1. Mayo Clinic Stratification of Multiple Myeloma and Risk -Adapted Therapy  
+Variables  High Risk  Intermediate Risk  Standard Risk  
+Variants  Any of the following:  
+• Del 17p  
+• t(14;16) by 
+FISH  
+• t(14;20) by 
+FISH  • t(4;14) by FISH  
+• Cytogenetic del 13  
+• Hypodiploidy  
+• Plasma cell labeling 
+index >3.0  All others 
+including:  
+• t(11;14) 
+by FISH  
+• t(6;14) by 
+FISH   
+ 
+Microarray-Based Ge ne Expression  Profile Testing for Multiple Myeloma Risk Stratification 
+ 
+Policy #  00461  
+Original Effective Date:  01/21/2015  
+Current Effective Date:  03/13/2023  
+ 
+  
+©202 3 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 8 of 17 
+• GEP high -risk 
+signature  
+Incidence  2% 20% 60% 
+Median overall 
+survival  3 y 4 to 5 y  8 to 10 y  
+Adapted from Mikhael et al (2013).  
+FISH: fluorescence in situ hybridization; GEP: gene expression profile.  
+ 
+In addition to the cytogenetic characteristics noted in Table 1, other findings are typically considered 
+in this model. Although GEP analysis is included in Table 1, the Mayo Clinic does not currently 
+recommend or routinely perform GEP analysis in a nonres earch setting.  
+ 
+The risk stratification model outlined in Table 1 is meant to prognosticate and to determine the 
+treatment approach; it is not used to decide whether to initiate therapy (see Therapy Synopsis 
+subsection). Furthermore, therapeutic outcomes among individuals in these categories may vary 
+significantly, to the extent that additional means of subdividing patients into response groups are 
+under investigation. In particular, molecular profiling using microarray -based methods (see 
+Rationale section ). 
+ 
+Therapy Synopsis  
+Asymptomatic (smoldering) multiple myeloma and MGUS currently require only ongoing clinical 
+observation (this is because early treatment with conventional chemotherapy has shown no benefit). 
+However, for symptomatic patients diagnosed with multiple myeloma, prompt induction therapy is 
+indicated. For patients younger than age 65 years who have adequate heart, liver, and lung function, 
+induction therapy is comprised of combinations that may include melphalan, dexamethasone, 
+cyclophosphamide, or doxorubicin with thalidomide, lenalidomide, or bortezomib. Next, the therapy 
+includes autologous hematopoietic cell transplantation.  Older patients (or those with underlying 
+liver, lung, or cardiovascular dysfunction) may be candidates for  induction followed by reduced -
+intensity conditioning allogeneic hematopoietic cell transplantation.  
+ 
+A program referred to as Total Therapy, developed primarily at the University of Arkansas for 
+Medical Science and at the Mayo Clinic, uses all available agents as induction, followed by 2 cycles  
+ 
+Microarray-Based Ge ne Expression  Profile Testing for Multiple Myeloma Risk Stratification 
+ 
+Policy #  00461  
+Original Effective Date:  01/21/2015  
+Current Effective Date:  03/13/2023  
+ 
+  
+©202 3 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 9 of 17 
+of high -dose melphalan and autologous hematopoietic cell transplantation support, with 4 -year 
+event -free survival as high as 78%.Despite the achievement of complete remission and apparent 
+eradication of disease, th e clinical response is transitory in all cases, and multiple myeloma is 
+considered incurable with current approaches.  
+ 
+Gene Expression Profile Test  
+The MyPRS/MyPRS  Plus GEP70 test analyzes the human genome to determine the level of 
+aggressiveness of diagno sed multiple myeloma based on 70 of the most relevant genes involved in 
+cellular signaling and proliferation.  
+ 
+FDA or Other Governmental Regulatory Approval  
+U.S. Food and Drug Administration (FDA)  
+Clinical laboratories may develop and validate tests in -house and market them as a laboratory 
+service; laboratory -developed tests must meet the general regulatory standards of the Clinical 
+Laboratory Improvement Amendments (CLIA). The MyPRS™‡/MyPRS  Plus™‡ GEP70  test was 
+acquired by Quest Diagnostics in December 2016. Laboratories that offer laboratory -developed tests 
+must be licensed by the CLIA for high -complexity testing. To date, the U.S. Food and Drug 
+Administration has chosen not to require any regulatory r eview of this test.  
+ 
+Rationale/Source  
+This medical policy was developed through consideration of peer -reviewed medical literature 
+generally recognized by the relevant medical community, U.S. Food and Drug Administration 
+approval status, nationally accepted standards of medical practice and accepted standards of medical 
+practice in this community, technology evaluation centers, reference to federal regulations, other 
+plan medical policies, and accredited national guidelines.  
+ 
+Multiple myel oma is a genetically complex -and invariably fatal -disease. A host of well -
+characterized factors related to tumor biology, tumor burden, and patient -centered characteristics are 
+used to stratify patients into high -, intermediate -, and standard -risk categori es for prognostic 
+purposes, as well as determining treatment intensity. However, clinical outcomes have varied among 
+patients in the same risk category who received similar therapy. Thus, more specific methods have 
+been sought to classify multiple myeloma;  one such method being proposed is the utilization of a 
+microarray -based gene expression profile (GEP) analysis, which serves to reveal the underlying  
+ 
+Microarray-Based Ge ne Expression  Profile Testing for Multiple Myeloma Risk Stratification 
+ 
+Policy #  00461  
+Original Effective Date:  01/21/2015  
+Current Effective Date:  03/13/2023  
+ 
+  
+©202 3 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 10 of 17 
+activity of cellular biologic pathways. This method lends itself to a variety of benefits including the 
+ability to risk -stratify patients with multiple myeloma, as well as guide treatment decisions.  
+ 
+Summary of Evidence  
+For individuals who have multiple myeloma who received risk stratification using a GEP test, the 
+evidence includes retrospective series that correlate risk scores with survival. Relevant outcomes are 
+progression -free survival, overall survival, disease -specific survival, test validity, and other test 
+performance measures. The microarray -based GEP70 test (MyPRS/MyPRS  Plus) has been reported 
+to risk -stratify multiple myeloma patients. Some predictive models in the body of evidence combine 
+risk status as determined by the GEP70 test with additional clinical or genetic variables. Patients 
+with a high GEP70 risk score have a substantiall y increased risk of mortality compared with patients 
+without a high score. However, there is no evidence (from available studies) that this test would add 
+incremental value to existing risk stratification methods; nor have any studies demonstrated the need  
+to prospectively allocate patients to risk -based therapies based on the GEP70 score. The evidence is 
+insufficient to determine that the technology results in an improvement in the net health outcome.  
+ 
+Supplemental Information  
+Practice Guidelines and Posit ion Statements  
+Guidelines or position statements will be considered for inclusion in ‘Supplemental Information' if 
+they were issued by, or jointly by, a US professional society, an international society with US 
+representation, or National Institute for Hea lth and Care Excellence (NICE). Priority will be given 
+to guidelines that are informed by a systematic review, include strength of evidence ratings, and 
+include a description of management of conflict of interest.  
+ 
+Mayo Clinic Stratification of Multiple My eloma and Risk -Adapted Therapy  
+Guidelines from the Mayo Clinic (2017) have stated that “if indicated, gene expression profiling 
+may be performed to further understand the behavior of the disease and guide therapy.”  
+ 
+National Comprehensive Cancer Network  
+The National Comprehensive Cancer Network practice guidelines (v.5.2022 ) on multiple myeloma 
+do not provide recommendations regarding use of gene expression profiling.  
+ 
+  
+ 
+Microarray-Based Ge ne Expression  Profile Testing for Multiple Myeloma Risk Stratification 
+ 
+Policy #  00461  
+Original Effective Date:  01/21/2015  
+Current Effective Date:  03/13/2023  
+ 
+  
+©202 3 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 11 of 17 
+U.S. Preventive Services Task Force Recommendations  
+Not applicable.  
+ 
+Medicare National Coverage  
+There is no national coverage determination. In the absence of a national coverage determination, 
+coverage decisions are left to the discretion of local Medicare carriers.  
+ 
+Ongoing and Unpublished Clinical Trials  
+Some currently ongoing an d unpublished trials that might influence this review are listed in Table 
+2. 
+ 
+Table 2. Summary of Key Trials  
+NCT No.  Trial Name  Planned 
+Enrollment  Completion 
+Date  
+Ongoing     
+NCT00734877a UARK  2013 -13, Total Therapy 4 B - Formerly 
+2008 -01 - A Phase III Trial for Low -Risk 
+Myeloma  Ages 65 and Under : A Trial Enrolling 
+Subjects to Comparing  Standard Total Therapy 3 
+(S-TT3)   382 Sep 2022  
+NCT03409692  Validation of a Personalized Medicine Tool for 
+Multiple Myeloma that Predicts Treatment  
+Effectiveness in Patie nts 278 May 2022   
+NCT01863550  Randomized Phase III Trial of Bortezomib, 
+Lenalidomide and Dexamethasone (VRd) Versus 
+Carfilzomib, Lenalidomide, Dexamethasone 
+(CRd) Followed by Limited or Indefinite 
+Lenalidomide Maintenance in Patients With 
+Newly Diagnosed Symptomatic Multiple 
+Myeloma (ENDURANCE)  1087  Feb 2034   
+ 
+Microarray-Based Ge ne Expression  Profile Testing for Multiple Myeloma Risk Stratification 
+ 
+Policy #  00461  
+Original Effective Date:  01/21/2015  
+Current Effective Date:  03/13/2023  
+ 
+  
+©202 3 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 12 of 17 
+NCT04764942  Phase 1/2 Trial of Selinexor in Combination With 
+Pomalidomide and Dexamethasone ± 
+Carfilzomib for Patients With Proteasome -
+Inhibitor and Immunomodulatory Drug 
+Refractory Multiple  Myeloma (SCOPE)  81 Mar 2026  
+NCT: national clinical trial.  
+a Denotes industry -sponsored or cosponsored trial.  
+ 
+References  
+1. Fonseca R, Barlogie B, Bataille  R, et al. Genetics and cytogenetics of multiple myeloma: a 
+workshop report. Cancer Res. Feb 15 2004; 64(4): 1546 -58. PMID 14989251  
+2. Palumbo A, Anderson K. Multiple myeloma. N Engl J Med. Mar 17 2011; 364(11): 1046 -60. 
+PMID 21410373  
+3. American Cancer Society.  Multiple Myeloma: What Are the Key Statistics About Multiple 
+Myeloma? 2022; http://www.cancer.org/cancer/multiplemyeloma/detailedguide/multiple -
+myeloma -key-statistics.  
+4. Brenner H, Gondos A, Pulte D. Recent major improvement in long -term survival of younger  
+patients with multiple myeloma. Blood. Mar 01 2008; 111(5): 2521 -6. PMID 17901246  
+5. Marinac CR, Ghobrial IM, Birmann BM, et al. Dissecting racial disparities in multiple myeloma. 
+Blood Cancer J. Feb 17 2020; 10(2): 19. PMID 32066732  
+6. Munshi NC, Anderson KC, Bergsagel PL, et al. Consensus recommendations for risk 
+stratification in multiple myeloma: report of the International Myeloma Workshop Consensus 
+Panel 2. Blood. May 05 2011; 117(18): 4696 -700. PMID 21292777  
+7. Kyle RA, Rajkumar SV. Criteria for diagnosis, s taging, risk stratification and response 
+assessment of multiple myeloma. Leukemia. Jan 2009; 23(1): 3 -9. PMID 18971951  
+8. Blade J, Dimopoulos M, Rosinol L, et al. Smoldering (asymptomatic) multiple myeloma: current 
+diagnostic criteria, new predictors of outco me, and follow -up recommendations. J Clin Oncol. 
+Feb 01 2010; 28(4): 690 -7. PMID 20026810  
+9. Morgan GJ, Walker BA, Davies FE. The genetic architecture of multiple myeloma. Nat Rev 
+Cancer. Apr 12 2012; 12(5): 335 -48. PMID 22495321  
+10. Kyle RA, Durie BG, Rajkumar S V, et al. Monoclonal gammopathy of undetermined significance 
+(MGUS) and smoldering (asymptomatic) multiple myeloma: IMWG consensus perspectives risk  
+ 
+Microarray-Based Ge ne Expression  Profile Testing for Multiple Myeloma Risk Stratification 
+ 
+Policy #  00461  
+Original Effective Date:  01/21/2015  
+Current Effective Date:  03/13/2023  
+ 
+  
+©202 3 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 13 of 17 
+factors for progression and guidelines for monitoring and management. Leukemia. Jun 2010; 
+24(6): 1121 -7. PM ID 20410922  
+11. Fonseca R, Bergsagel PL, Drach J, et al. International Myeloma Working Group molecular 
+classification of multiple myeloma: spotlight review. Leukemia. Dec 2009; 23(12): 2210 -21. 
+PMID 19798094  
+12. Munshi NC, Avet -Loiseau H. Genomics in multiple myel oma. Clin Cancer Res. Mar 15 2011; 
+17(6): 1234 -42. PMID 21411439  
+13. Mikhael JR, Dingli D, Roy V, et al. Management of newly diagnosed symptomatic multiple 
+myeloma: updated Mayo Stratification of Myeloma and Risk -Adapted Therapy (mSMART) 
+consensus guidelines 2 013. Mayo Clin Proc. Apr 2013; 88(4): 360 -76. PMID 23541011  
+14. Johnson SK, Heuck CJ, Albino AP, et al. The use of molecular -based risk stratification and 
+pharmacogenomics for outcome prediction and personalized therapeutic management of 
+multiple myeloma. Int J Hematol. Oct 2011; 94(4): 321 -333. PMID 22002477  
+15. Zhou Y, Barlogie B, Shaughnessy JD. The molecular characterization and clinical management 
+of multiple myeloma in the post -genome era. Leukemia. Nov 2009; 23(11): 1941 -56. PMID 
+19657360  
+16. Shaughnessy J. Prim er on medical genomics. Part IX: scientific and clinical applications of DNA 
+microarrays --multiple myeloma as a disease model. Mayo Clin Proc. Sep 2003; 78(9): 1098 -
+109. PMID 12962165  
+17. Hubank M. Gene expression profiling and its application in studies of ha ematological 
+malignancy. Br J Haematol. Mar 2004; 124(5): 577 -94. PMID 14871244  
+18. Zhou Y, Zhang Q, Stephens O, et al. Prediction of cytogenetic abnormalities with gene 
+expression profiles. Blood. May 24 2012; 119(21): e148 -50. PMID 22496154  
+19. Matsui S, Simon R , Qu P, et al. Developing and validating continuous genomic signatures in 
+randomized clinical trials for predictive medicine. Clin Cancer Res. Nov 01 2012; 18(21): 6065 -
+73. PMID 22927484  
+20. Meissner T, Seckinger A, Reme T, et al. Gene expression profiling in multiple myeloma --
+reporting of entities, risk, and targets in clinical routine. Clin Cancer Res. Dec 01 2011; 17(23): 
+7240 -7. PMID 21986844  
+21. Badros AZ. In the age of novel therapies, what defines high -risk multiple myeloma?. J Natl 
+Compr Canc Netw. Feb 2010 ; 8 Suppl 1: S28 -34. PMID 20141672  
+22. Usmani SZ, Crowley J, Hoering A, et al. Improvement in long -term outcomes with successive 
+Total Therapy trials for multiple myeloma: are patients now being cured?. Leukemia. Jan 2013; 
+27(1): 226 -32. PMID 22705990   
+ 
+Microarray-Based Ge ne Expression  Profile Testing for Multiple Myeloma Risk Stratification 
+ 
+Policy #  00461  
+Original Effective Date:  01/21/2015  
+Current Effective Date:  03/13/2023  
+ 
+  
+©202 3 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 14 of 17 
+23. Shaughne ssy JD, Zhan F, Burington BE, et al. A validated gene expression model of high -risk 
+multiple myeloma is defined by deregulated expression of genes mapping to chromosome 1. 
+Blood. Mar 15 2007; 109(6): 2276 -84. PMID 17105813  
+24. Kumar SK, Uno H, Jacobus SJ, et a l. Impact of gene expression profiling -based risk stratification 
+in patients with myeloma receiving initial therapy with lenalidomide and dexamethasone. Blood. 
+Oct 20 2011; 118(16): 4359 -62. PMID 21860025  
+25. Mohan M, Weinhold N, Schinke C, et al. Daratumumab in high -risk relapsed/refractory multiple 
+myeloma patients: adverse effect of chromosome 1q21 gain/amplification and GEP70 status on 
+outcome. Br J Haematol. Apr 2020; 189(1): 67 -71. PMID 31820442  
+26. Papanikolaou X, Alapat D, Rosenthal A, et al. The flow cytom etry-defined light chain 
+cytoplasmic immunoglobulin index and an associated 12 -gene expression signature are 
+independent prognostic factors in multiple myeloma. Leukemia. Aug 2015; 29(8): 1713 -20. 
+PMID 25753926  
+27. Agnelli L, Tassone P, Neri A. Molecular profi ling of multiple myeloma: from gene expression 
+analysis to next -generation sequencing. Expert Opin Biol Ther. Jun 2013; 13 Suppl 1: S55 -68. 
+PMID 23614397  
+28. Amin SB, Yip WK, Minvielle S, et al. Gene expression profile alone is inadequate in predicting 
+complete response in multiple myeloma. Leukemia. Nov 2014; 28(11): 2229 -34. PMID 
+24732597  
+29. Chng WJ, Dispenzieri A, Chim CS, et al. IMWG consensus on risk stratification in multiple 
+myeloma. Leukemia. Feb 2014; 28(2): 269 -77. PMID 23974982  
+30. Fonseca  R, Monge J, Dimopoulos MA. Staging and prognostication of multiple myeloma. Expert 
+Rev Hematol. Feb 2014; 7(1): 21 -31. PMID 24483346  
+31. Dingli D, Ailawadhi S, Bergsagel PL, et al. Therapy for Relapsed Multiple Myeloma: Guidelines 
+From the Mayo Stratification  for Myeloma and Risk -Adapted Therapy. Mayo Clin Proc. Apr 
+2017; 92(4): 578 -598. PMID 28291589  
+32. National Comprehensive Cancer Network (NCCN). NCCN Clinical Practice Guidelines in 
+Oncology: Multiple Myeloma. Version 5.2022. Updated March 9, 2022. 
+http://www.nccn.org/professionals/physician_gls/pdf/myeloma.pdf . 
+ 
+Policy History  
+Original Effective Date:  01/21/2015  
+Current Effect ive Date:  03/13 /2023   
+ 
+Microarray-Based Ge ne Expression  Profile Testing for Multiple Myeloma Risk Stratification 
+ 
+Policy #  00461  
+Original Effective Date:  01/21/2015  
+Current Effective Date:  03/13/2023  
+ 
+  
+©202 3 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 15 of 17 
+01/08/2015 Medical Policy Committee review 
+01/21/2015 Medical Policy Implementation Committee approval. New policy. 
+08/03/2015 Coding update: ICD10 Diagnosis code section added; ICD9 Procedure code section 
+removed. 
+01/07/2016 Medical Policy Committee review 
+01/22/2016 Medical Policy Implementation Committee approval. Coverage eligibility 
+unchanged. 
+01/01/2017 Coding update: Removing ICD-9 Diagnosis Codes  
+01/05/2017 Medical Policy Committee review 
+01/18/2017 Medical Policy Implementation Committee approval. Coverage eligibility 
+unchanged. 
+01/04/2018 Medical Policy Committee review 
+01/17/2018 Medical Policy Implementation Committee approval. Coverage eligibility 
+unchanged. 
+11/29/2018 Coding update 
+01/10/2019 Medical Policy Committee review 
+01/23/2019 Medical Policy Implementation Committee approval. Coverage eligibility 
+unchanged. 
+02/06/2020 Medical Policy Committee review 
+02/12/2020 Medical Policy Implementation Committee approval. Coverage eligibility 
+unchanged. 
+02/04/2021 Medical Policy Committee review 
+02/10/2021 Medical Policy Implementation Committee approval. Coverage eligibility 
+unchanged. 
+02/03/2022 Medical Policy Committee review 
+02/09/2022 Medical Policy Implementation Committee approval. Coverage eligibility 
+unchanged. 
+11/03/2022 Medical Policy Committee revi ew 
+11/09/2022 Medical Policy Implementation Committee approval. Added myPRS™/MyPRS 
+Plus™ GEP70 test as examples to the investigational statement for mi croarray-bas ed 
+gene expression profile (GEP) testing for multiple myelo ma. Coverage eligibility 
+unchanged. 
+02/02/2023 Medical Policy Committee review  
+ 
+Microarray-Based Ge ne Expression  Profile Testing for Multiple Myeloma Risk Stratification 
+ 
+Policy #  00461  
+Original Effective Date:  01/21/2015  
+Current Effective Date:  03/13/2023  
+ 
+  
+©202 3 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 16 of 17 
+02/08/2023 Medical Policy Implementation Committee approval. Coverage eligibility 
+unchanged. 
+Next Scheduled Review Date: 02/2024 
+ 
+Coding  
+The five character codes included in the Blue Cross Blue Shield of Louisiana Medical Policy 
+Coverage Guidelines are obtained from Current Procedural Terminology (CPT®)‡, copyright 202 2 
+by the American Medical Association (AMA). CPT is developed by the AMA as a listing of 
+descriptive terms and five character identifying codes and modifiers for reporting medical services 
+and procedures performed by physician. 
+ 
+The responsibility for the content of Blue Cross Blue Shield of Louisiana Medical Policy Coverage 
+Guidelines is with Blue Cross and Blue Shield of Louisiana and no endorsement by the AMA is 
+intended or should be implied.  The AMA disclaims responsibility for any consequences or liability 
+attributable or related to any use, nonuse or interpretation of information contained in Blue Cross 
+Blue Shield of Louisiana Medical Policy Coverage Guidelines.  Fee schedules, relative value units, 
+conversion factors and/or related components are not assigned by the AMA, are not part of CPT, 
+and the AMA is not recommending their use.  The AMA does not directly or indirectly practice 
+medicine or dispense medical services.  The AMA assumes no liability for data contained or not 
+contained herein.  Any use of CPT outside of Blue Cross Blue Shield of Louisiana Medical Policy 
+Coverage Guidelines should refer to the most current Current Procedural Terminology which 
+contains the complete and most current listing of CPT codes and descriptive terms. Applicable 
+FARS/DFARS apply. 
+ 
+CPT is a registered trademark of the American Medical Association. 
+ 
+Codes used to identify services associated with this policy may include (but may not be limited to) 
+the following: 
+Code Type  Code  
+CPT 81479, 81599, 86849  
+HCPCS  No codes  
+ICD-10 Diagnosis  C90.00 -C90.02   
+ 
+Microarray-Based Ge ne Expression  Profile Testing for Multiple Myeloma Risk Stratification 
+ 
+Policy #  00461  
+Original Effective Date:  01/21/2015  
+Current Effective Date:  03/13/2023  
+ 
+  
+©202 3 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorpor ated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 17 of 17 
+*Investigational – A medical treatment, procedure, drug, device, or biological product is 
+Investigational if the effectiveness has not been clearly tested and it has not been incorporated into 
+standard medical practice. Any determination we make that a medical treatment, procedure, drug, 
+device, or biological product is Investigational will be based on a consideration of the following: 
+A. Whether the medical treatment, procedure, drug, device, or biological product can be 
+lawfully marketed without approval of the U.S. Food and Drug Administration (FDA) and 
+whether such approval has been granted at the time the medical treatment, procedure, drug, 
+device, or biological product is sought to be furnished; or 
+B. Whether the medical treatment, procedure, drug, device, or biological product requires 
+further studies or clinical trials to determine its maximum tolerated dose, toxicity, safety, 
+effectiveness, or effectiveness as compared with the standard means of treatment or 
+diagnosis, must improve health outcomes, according to the consensus of opinion among 
+experts as shown by reliable evidence, including: 
+1. Consultation with technology evaluation center(s); 
+2. Credible scientific evidence published in peer-reviewed medical literature generally 
+recognized by the relevant medical community; or 
+3. Reference to federal regulations. 
+ 
+‡ Indicated trademarks are the registered trademarks of their respective owners. 
+ 
+NOTICE:  If the Patient’s health insurance contract contains language that differs from the 
+BCBSLA Medical Policy definition noted above, the definition in the health insurance contract will 
+be relied upon for specific coverage determinations.  
+ 
+NOTICE:  Medical Policies are scientific based opinions, provided solely for coverage and 
+informational purposes. Medical Policies should not be construed to suggest that the Company 
+recommends, advocates, requires, encourages, or discourages any particular treatment, procedure, 
+or service, or any particular course of treatment, procedure, or service. 

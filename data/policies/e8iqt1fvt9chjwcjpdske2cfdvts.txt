@@ -1,0 +1,923 @@
+   
+  
+  
+ 
+ 
+ 
+  
+ 
+ 
+       
+ 
+ 
+ 
+ 
+  
+                  
+ 
+ 
+ 
+ 
+ 
+ 
+ RET Proto-Oncogene Testing -  Medical Clinical Policy Bulletins  | Aetna  
+ Page 1 of 16 
+RET Proto-Oncogene Testing
+ 
+Last Review: 04/06/2021 
+Effective: 03/18/1999 
+Next  Review: 03/10/2022  Number: 0319 
+*Please see amendment for Pennsylvania Medicaid at the end of this CPB. 
+I.  Aetna  considers  tests  for  germline  point  mutations  in  the  RET  gene 
+medically  necessary  for  members  who  meet  any of  the  following  
+high -risk  criteria:  
+Members  who  have  first-degree  blood  relatives  (ie,  parent,  full- 
+sibling, child)  with medullary thyroid carcinoma  (MTC)*; or 
+Members who have first - (i.e., parent, f ull-sibling, child) or
+  
+second -degree  (i.e., aunt,  uncle,  grandparent,  grandchild,  niece,
+  
+nephew, half -sibling) blood  relatives and  germline RET  
+ 
+mutations  (Testing  strategy:  Test  for  specific  familial  mutation);
+  
+or  
+Members with any of the  followin g*: c-cell 
+ 
+hyperplasia;  endocrine  tumors,  two  or  more;  Hirschsprung
+  
+disease; MTC;  paraganglioma; parathyroid carcinoma; or
+  
+pheochromocytoma.
+  
+*Testing  Strategy:  Sequencing  of  the  RET  gene  may  be  
+considered.  
+II.  Aetna  considers  diagnostic  testing  for  germline  point  mutations  in 
+the RET  gene medically necessary for members with apparently
+  
+sporadic medullary thyroid  carcinoma.  
+       
+ 
+          
+        
+ 
+ 
+ 
+ 
+  
+           
+ 
+   
+   
+   
+ 
+          
+           
+  
+ 
+            
+   
+  
+          
+         
+  
+ 
+ 
+           
+   
+ 
+          
+    
+        
+           RET Proto -Oncogene Testing -Medical Clinical Policy Bulletins | Aetna	 Page 2 of 16 
+III.	  Aetna  considers  tests  for  germline  point  mutations  in  the  RET  gene 
+experimental  and  investigational  for  all  other  indications  (e.g.,  non- 
+small cell lung cancer;  not an all -inclusive list)  because its 
+eﬀectiveness  for  indications  other  than t he ones  listed  above  has  
+not been  established.  
+See CPB 0140 -Genetic Testing (../100_199/0140.html) for policy on 
+genetic testing for non- member relatives of Aetna members. 
+Multiple endocrine neoplasia (MEN) is a rare heritable disorder that 
+affects the endocrine system and consists of the development of tumors 
+(neoplasia) in at least two endocrine glands, though tumors can also 
+develop elsewhere. These tumors can be noncancerous (benign) or 
+cancerous (malignant). There are three major types of MEN: type 1 (MEN1), type 2 (MEN2) and type 4 (MEN4). 
+MEN1 is characterized by tumors of the parathyroid glands, anterior 
+pituitary and pancreatic islet cells and is caused by mutations in the 
+MEN1 gene. 
+Medullary Thyroid Carcinoma (MTC) is a cancer of the thyroid gland that 
+st
+arts in cells that release calcitonin. MTC is a common characteristic 
+among individuals with MEN2. Some individuals with MEN2 also have 
+pheochromocytoma, a tumor of the adrenal gland which causes high 
+blood pressure. MEN2 is divided into three subtypes: type 2A (MEN2A), 
+type 2B (MEN2B) and familial medullary thyroid carcinoma (FMTC). 
+MEN2 is caused by mutations in the RET gene. 
+MEN4 appears to have similar signs and symptoms to MEN1; however, it 
+is c
+aused by mutations in the CDKN1B gene. 
+Genetic testing for RET germline mutation has shown 100 % sensitivity 
+and s
+pecificity for identifying those at risk for developing inherited 
+medullary thyroid cancer (multiple endocrine neoplasia (MEN) 2A, MEN 
+2B, or familial medullary thyroid carcinoma (FMTC)). Use of the genetic       
+ 
+           
+  
+ 
+ 
+           
+  
+  
+    
+ 
+     
+   
+ 
+         
+   
+ 
+              
+  
+ 
+  
+  
+  
+           
+             
+ 
+           
+          
+    
+    
+  
+        
+ 
+  
+         RET Proto -Oncogene Testing -Medical Clinical Policy Bulletins | Aetna Page 3 of 16 
+assay allows earlier and more definitive identification and clinical 
+management of those with a familial risk for medullary thyroid cancer 
+when compared to the existing standard of annual biochemical monitoring. 
+Medullary thyroid carcinoma is surgically curable if detected before it has 
+spread to regional lymph nodes. However, lymph node involvement at 
+diagnosis may be found in up to 75 % of patients for whom a thyroid 
+nodule is the first sign of disease. Thus, there is an emphasis on early 
+detection and intervention in families, which are affected by the familial 
+cancer syndromes of MEN types 2A and 2B and FMTC, which account 
+for 25 % of medullary thyroid cancer. 
+After genetic counseling, most family members who test positive undergo 
+surgery to remove the thyroid gland. First -degree relatives of those with 
+MTC that appears to be sporadic in origin also undergo the biochemical 
+test to verify that the patient's tumor is not caused by an inheritable form 
+of this disease. 
+Fialkowski et  al (
+ 2008)  stated that  multiple endocrine neoplasia type2A  
+(MEN 2A) is  a genetic  syndrome  manifesting  as MTC, hyper - 
+parathyroidism, and pheochromocytoma.  Multiple  endocrine  neoplasia 2A 
+results  from  mutations  in  the  RET  proto -oncogene.  Hirschsprung  Disease  
+(HD)  is a congenital condition characterized by  a  blockage  of the l  arge 
+intestine due to poor muscle movement in the bowel. HD is a rare 
+manifestation of MEN 2A and has been described in known MEN 2A families. These investigators described 2 MEN 2A families that were only 
+identified after the diagnosis of HD. Kindred 1: A boy presented in infancy 
+with HD. Genetic screening revealed a C609Y mutation, which is 
+consistent with MEN 2A. Evaluation of his sister, father, and grandmother 
+revealed the same mutation. All 3 had thyroidectomies demonstrating C-
+cell hyperplasia. The grandmother had a microscopic focus of MTC. Kindred 2: An infant boy and his sister were diagnosed with HD as 
+neonates. Genetic testing demonstrated a C620R gene mutation 
+consistent with MEN 2A. Total thyroidectomies revealed metastatic MTC 
+in the father and C- cell hyperplasia in both children. The authors 
+concluded that HD can be the initial presentation of MEN 2A. They 
+strongly recommend that genetic screening be performed in patients       
+          
+      
+          
+ 
+             
+           
+             
+  
+            
+   
+    
+ 
+          
+            
+    
+ 
+  
+   
+   
+        
+ 
+    
+   
+  
+           
+   
+   
+              
+    
+  
+ 
+         
+   
+           
+   
+         
+   
+              RET Proto -Oncogene Testing -Medical Clinical Policy Bulletins | Aetna Page 4 of 16 
+presenting with HD, looking for the known RET mutations associated with 
+MEN 2A. If a mutation consistent with MEN 2A is detected, genetic 
+screening of all first-degree relatives in the kindred is recommended. 
+In a case report, Pandey et al (2011) emphasized that all patients with a 
+history of HD should consider screening for RET mutations (it should be 
+noted that RET mutations are the predominant but only one of a number 
+of possible causes of HD), as there is a well- established association 
+between HD and MEN 2A. If present, this could facilitate early diagnosis 
+of MEN 2A with resultant thyroidectomy prior to the onset of MTC or at 
+least prior to the development of metastaticdisease. 
+Vaclavikova et al (2012) noted that inactivating germline mutations in the 
+RET proto -oncogene are the major genetic cause of HD. In some cases, 
+HD can be associated with MTC that is commonly caused by activating 
+RET mutations. These investigators performed retrospective and 
+prospective genetic analyses of 157 patients with HD operated on 
+between December 1979 and June 2011; DNA was isolated from 
+peripheral leukocytes. Patients with HD as well as family members were 
+tested for RET mutati ons by direct sequencing and single -strand 
+conformation polymorphism methods. RET mutations were detected in 16 
+patients (10 %). Association with MTC was found in 2 families, other 8 
+families had a mutation with potentially high -risk of MTC development 
+and 4 novel mutations were detected. Total colonic aganglionosis was 
+noted to have a high mutation detection rate (40 %). Three patients 
+underwent total thyroidectomy (2 had clinical manifestation of MTC, 1 C-
+cell hyperplasia). The authors concluded that these findings showed the 
+benefit of systematic RET mutation screening in HD patients in order to 
+identify the ris k of MTC in the preclinical stage of the disease. All patients 
+should be tested for RET mutations at least in exon 10, and now additionally in exon 11 and 13, as well. 
+An UpToDate review on "Clinical manifestations and diagnosis of multiple 
+endocrine neoplasia type 2" (Lips, 2013) states that "Hirschsprung 
+disease (HD) is characterized by the absence of autonomic ganglion cells 
+within the distal colonic parasympathetic plexus resulting in chronic obstruction and megacolon. In humans, inactivating mutations of the RET 
+proto- oncogene have been associated with HD. HD is a heterogenic 
+disorder, occurring both in a familial and in a sporadic form. In about 50       
+   
+            
+   
+         
+               
+        
+          
+ 
+ 
+    
+          
+          
+ 
+ 
+   
+          
+   
+           
+   
+   
+           
+           
+            
+    
+  
+ 
+  
+ 
+             
+           
+   
+  
+         
+ 
+          
+    
+ 
+   
+        RET Proto -Oncogene Testing -Medical Clinical Policy Bulletins | Aetna Page 5 of 16 
+percent of familial and 15 to 35 percent of sporadic HD patients, 
+mutations in the RET gene are involved. Most HD cases arise from loss 
+of function mutations, RET haploinsufficiency, RET polymorphisms or haplotypes of the RET promotor region. Hirschsprung disease (HD) was 
+found in 50 percent of children in a family with a C620 mutation .....RET 
+proto- oncogene testing in infants presenting with Hirschsprung disease is 
+useful and may identify new multiple endocrine neoplasia 2A kindreds". 
+An UpToDate review on "Medullary thyroid cancer: Clinical 
+manifestations, diagnosis, and staging" (Tuttle, 2014) states that "In a patient with negative RET proto- oncogene testing and no family history of 
+MEN2 syndrome, biochemical testing for coexisting tumors is typically not 
+required". 
+In summary, RET proto -oncogene tests can be used to identify familial 
+disease- causing RET point mutations in members of families known to be 
+affected by inherited MTC. For members of families with defined RET point mutations, results of the RET proto -oncogene tests may be used to 
+decide upon prophylactic thyroidectomy or continued monitoring is necessary. RET proto- oncogene tests may also be used to distinguish 
+sporadic tumors from familial cancers in patients with MTC but without a 
+previous family history of this disease, and in their first-degree relatives if 
+the patient is found to have a germline RET mutation. Furthermore, RET 
+proto- oncogene tests are also of clinical value for individuals with 
+Hirschsprung disease. 
+Non -Small Cell Lung Cancer 
+Yoshida et al (2013) noted that recent discovery of ROS1 gene fusion in a 
+subset of lung cancers has raised clinical interest, because ROS1 fusion-
+positive cancers are reportedly sensitive to kinase inhibitors. To better 
+understand these tumors, these researchers examined 799 surgically 
+resected non-small cell lung cancers (NSCLCs) by reverse transcriptase 
+polymerase chain reaction (PCR) and identified 15 tumors harboring 
+ROS1 fusion transcripts (2.5 % of adenocarcinomas). The most frequent 
+fusion partner was CD74 followed by EZR. The affected patients were often younger non- smoking female individuals, and they had overall 
+survival (OS) rates similar to those of the ROS1 fusion -negative cancer 
+patients. All the ROS1 fusion -positive tumors were adenocarcinomas       
+   
+  
+         
+     
+  
+ 
+ RET Proto -Oncogene Testing -Medical Clinical Policy Bulletins | Aetna Page 6 of 16 
+except 1, which was an adenosquamous carcinoma. Histologic 
+examination identified an at least focal presence of either solid growth 
+with signet- ring cells or cribriform architecture with abundant extracellular 
+mucus in 53 % of the cases. These 2 patterns were reportedly also characteristic of anaplastic lymphoma kinase (ALK) -rearranged lung 
+cancers, and these data suggested a phenotypic resemblance between 
+the ROS1- rearranged and ALK -rearranged tumors. All tumors except 1 
+were immune -reactive to thyroid  transcription factor -1. Fluorescence  in- 
+situ hybridization (FISH)  using ROS1 break-apart probes revealed 
+positive re-arrangement  signals in 23 % to 93 % of  the tumor  cells in 
+ROS1 fusion -positive cancers,  which were readily distinguished using  a 
+15 % cutoff value from 50 ROS1 fusion -negative tumors tested,  which 
+showed 0 %  to 6 % re- arrangement signals. However,  this  perfect test 
+performance was  achieved  only when isolated 3' signals were included  
+along with classic split signals  in the definition  of re-arrangement  
+positivity. Fluorescence in- situ hybridization signal patterns  were 
+unrelated to 5' fusion partner genes.  All ROS1 fusion -positive tumors  
+lacked alteration of epidermal growth factor  receptor  (EGFR),  KRAS,  
+HER2, ALK, and RET  genes. 
+ 
+Lira et al  (2014) stated that approximately 7 %  of NSCLCs  harbor  
+oncogenic fusions involving ALK,  ROS1, and  RET.  Although tumors  
+harboring ALK fusions are highly  sensitive to crizotinib, emerging pre-  
+clinical and clinical data demonstrated that  patients with ROS1 or RET  
+fusions  may also benefit from  inhibitors targeting these kinases. Using a  
+transcript- based  method,  these  investigators  designed  a  combination  of  3' 
+over-expression and fusion -specific  detection strategies  to detect ALK,  
+ROS1 and RET fusion transcripts in NSCLC tumors. They  validated the 
+assay in 295  NSCLC  specimens and  showed that the assay is highly  
+sensitive  and  specific.  ALK  results  were  100  %  concordant  with  FISH  (n  =  
+52)  and  97.8  %  concordant  with  IHC  (n  =  179)  [sensitivity,  96.8  %  (95  % 
+confidence  interval  [CI]:  91.0  %  to  98.9  %);  specificity,  98.8  %  (95  %  CI:  
+93.6  %  to  99.8  %)].  For  ROS1  and  RET,  these  researchers  also  observed 
+100  % concordance with FISH  (n = 46 and n =  15, respectively). They  
+identified 7 ROS1 and 14 RET f  usion -positive tumors and confirmed  the  
+fusion status by  RT-PCR and FISH.  One RET fusion involved a novel  
+partner,  cutlike homeobox  1 gene (CUX1),  yielding an in- frame CUX1 - 
+RET  fusion.  ROS1  and  RET  fusions  were  significantly  enriched  in  tumors  
+without  KRAS/EGFR/ALK alterations.  ALK/ROS1/RET/EGFR/KRAS        
+            
+ 
+ 
+ 
+ 
+  
+          
+   
+         
+        
+         
+          
+   
+         RET Proto -Oncogene Testing -Medical Clinical Policy Bulletins | Aetna Page 7 of 16 
+alterations were mutually exclusive. The authors concluded that as a 
+single -tube assay, this test showed promise as a more practical and cost-
+effective screening modality for detecting rare but targetable fusions in NSCLC. 
+Wijesinghe et  al  (2015)
+  noted that ROS1  and RET gene fusions were 
+recently  discovered  in  NSCLC  as  potential  therapeutic  targets  with  small-  
+molecule  kinase  inhibitors.  The  conventional  screening  methods  of  these 
+fusions are time -consuming and require samples  of  high quality and 
+quantity. These researchers  described a novel and efficient  method by  
+coupling the power  of  multiplexing PCR and  the sensitivity  of mass  
+spectrometry.  The multiplex mass spectrometry platform simultaneously  
+tests  samples  for  the  expression  of  9  ROS1  and  6  RET  fusion  genes.  The 
+assay  incorporated  detection  of  wild- type  exon  junctions  immediately  up- 
+stream  and down -stream  of the fusion junction to exclude  false -negative 
+results.  To flag  false -positives,  the  system  also  comprised  2  independent  
+assays  for each fusion  gene junction. The  characteristic  mass  
+spectrometric  peaks  of  the  gene  fusions  were  obtained  using  engineered 
+plasmid constructs. Specific assays  targeting  the wild -type gene exon 
+junctions were validated using complimentary DNA  from  lung  tissue of  
+healthy  individuals.  The system was  further validated using  
+complimentary  DNA  derived from  NSCLC  cell lines that express  
+endogenous  fusion  genes.  The  expressed  ROS1 -SLC34A2  and  CCDC6 - 
+RET gene fusions from the NSCLC  cell lines  HCC78 and LC -2/ad, 
+respectively,  were  accurately detected by the novel  assay.  The assay is  
+extremely sensitive, capable of detecting an event  in test specimens  
+containing 0.5 %  positive tumors. Th e authors  concluded that the novel 
+multiplexed assay is robustly  capable of  detecting 15 different  clinically  
+relevant RET and ROS1 fusion  variants.  
+Ross
+i et al (2017) stated that immunohistochemistry (IHC) is a widely -
+tested, low-cost and rapid ancillar y technique available in all laboratories 
+of pathology. This method is generally used for diagnostic purposes, but 
+several studies have investigated the sensitivity and specificity of different 
+immunohistochemical antibodies as a surrogate test in the determination 
+of predictive biomarkers in NSCLC, particularly for epidermal EGFR gene 
+mutations, ALK gene and ROS1 re-arrangements. In this review, a critical 
+examination of the works comparing the consistency of IHC expression and conventional molecular techniques to identify genetic alterations with       
+ 
+   
+             
+   
+  
+         
+     
+         
+   
+ 
+       
+  
+  
+ 
+ 
+  
+ 
+         
+             
+  
+ 
+            
+  
+ 
+       
+  
+          
+  
+    
+           
+   
+         
+        RET Proto -Oncogene Testing -Medical Clinical Policy Bulletins | Aetna Page 8 of 16 
+predictive value in NSCLC was discussed. Summarizing, data on 
+sensitivity and specificity of antibodies against ALK and ROS1 are very 
+consistent and time has comes to trust in IHC at least as a cost-effective 
+screening tool to identify patients with re- arranged tumors in clinical 
+practice. On the other hand, mutant -specific antibodies against EGFR 
+demonstrated a good specificity but a low-to-fair sensitivity, then raising 
+some cautions on their employment as robust predictive biomarkers. A 
+brief comment on preliminary experiences with antibodies against BRAF, 
+RET, HER2 and c -MET was also included. 
+Furthermore,NationalComprehensive Cancer Network’s clinical practice 
+guideline on "Non- small cell lung cancer" (Version 4.2016) states that 
+"Emerging biomarkers include HER@ …. ROS1 and RET gene 
+rearrangement". 
+Pheochromocytoma / Paraganglioma 
+Pheochromocytoma is a rare, usually noncancerous (benign) tumor that 
+develops in cells in the center of an adrenal gland, leading to attacks of 
+raised blood pressure, palpitations and headache. Paraganglioma is a tumor of the tissue composing the paraganglion, a small round body 
+containing chromaffin cells, found near the aorta and in the kidney, liver 
+heart and gonads. 
+Brito and associates (2015) noted that the presence of germline 
+mutat
+ions in sporadic pheochromocytomas and paragangliomas (SPPs) 
+may change the clinical management of both index patients and their family members. However, the frequency of germline mutations in SPPs 
+is unknown. In a systematic review, these researchers described the frequency of germline mutations in SPPs and determined the value of testing index patients and their family members for these mutations . They 
+searched databases through June 2012 for observational studies of patients with SPPs who underwent germline genetic testing. The criteria 
+used  to  define  sporadic  tumors  were 
+(i) the absence of a family history 
+of  PCC/PG  (ii)  the  absence  of  syndromic  features  (iii)  the  absence  of  
+bilateral disease,  and (iv) the absence of metastatic disease.        
+        
+    
+         
+         
+   
+    
+     
+             
+     
+   
+    
+  
+    
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+     
+ 
+ 
+     
+      
+  
+ 
+ 
+         
+ 
+  
+  
+ These investigators included 31 studies including 5,031 patients (mean 
+age of 44 years). These patients received tests for any of these 10 
+mutations: SDHAF2, RET, SDHD, SDHB, SDHC, VHL, TMEM127, MAX, 
+isocitrate dehydrogenase (IDH) mutation and NF1. The overall frequency 
+of germline mutation in SPP was 551 of 5,031 (11 %); when studies with 
+patients fulfilling 4 criteria for sporadic tumors were used, the frequency 
+was 171 of 1,332 (13 %). The most common germline mutation was 
+SDHB 167 of 3,611 (4.6 %). Little outcome data were available to assess 
+the benefits of genetic testing in index cases and family members. The 
+authors concluded that the frequency of germline mutations in SPPs is 
+approximately 11 to 13 % and the most common mutations affect less 
+than 1 in 20 patients (5 %). They stated that the value of testing for germline mutations in patients with SPPs and their family members is 
+unknown, as the balance of potential benefits and harms remains unclear. 
+RET Proto -Oncogene Testing -Medical Clinical Policy Bulletins | Aetna Page 9 of 16 
+Code Code Description  
+81404 - 
+81406  Molecular pathology procedures 
+88271 Molecular cytogenetics; DNA probe, each (e.g., FISH) 
+S3840 DNA analysis for germline mutations of the RET proto-oncogenefor susceptibilityto multiple endocrine 
+neoplasia type 2 
+C73 -C75.9 Malignant neoplasm of the thyroid and other endocrine 
+glands 
+E07.0 Hypersecretion of calcitonin 
+Q43.1 Hirschsprung's disease       
+ 
+ 
+          
+  
+ 
+ 
+      
+     
+ 
+    
+          
+ 
+ 
+ 
+  
+ 
+ 
+         
+          
+  
+ 
+             
+ 
+   
+     
+       
+        
+          
+    
+ 
+          
+  
+            
+ 
+    
+     RET Proto -Oncogene Testing -Medical Clinical Policy Bulletins | Aetna Page 10 of 16 
+Code Code Description  
+Z80.8 Family history of malignant neoplasm of other organs or 
+systems [thyroid cancer] 
+C34.00 - 
+C34.92  Malignant neoplasm of bronchus and lung [non-small 
+cell lung  cancer]  
+C75.5 Malignant neoplasm of aortic body and other 
+paraganglia 
+D35.6 Benign neoplasm of aortic body and other paraganglia 
+D44.7 Neoplasm of uncertain behavior of aortic body and other 
+paraganglia 
+1. American Thyroid Association Guidelines Task Force; Kloos RT, 
+Eng C, Evans DB, et al. Medullary thyroid cancer: Management 
+guidelines of the American Thyroid Association. Thyroid. 
+2009;19(6):565 -612. 
+2. Brito JP, Asi N, Bancos I, et al. Testing for germline mutations in 
+sporadic pheochromocytoma/paraganglioma: A systematic review. Clin Endocrinol (Oxf). 2015;82(3):338 -345. 
+3. Coyle D, Friedmacher F, Puri P. The association between Hirschsprung's disease and multiple endocrine neoplasia type 
+2a: A systematic review. Pediatr Surg Int. 2014;30(8):751-756. 
+4. Delbridge L, Robinson B. Genetic and biochemical screening for 
+endocrine disease: III. Costs and logistics. World J Surg. 1998;22(12):1212 -1217. 
+5. DeLellis RA. Pathology and genetics of thyroid carcinoma. J Surg 
+Oncol. 2006;94(8):662 -669. 
+6. Eng C, Clayton D, Schuﬀenecker I, et al. The relationship between 
+specific RET proto -oncogene mutations and disease phenotype 
+in multiple endocrine neoplasia type 2. International RET mutation consortium analysis. JAMA. 1996;276(19):1575- 1579.       
+   
+    
+          
+  
+    
+        
+      
+  
+            
+      
+  
+  
+   
+    
+   
+       
+ 
+          
+      
+            
+        
+   
+             
+  
+  
+            
+       
+   
+          
+    
+   
+    
+  
+               
+        RET Proto -Oncogene Testing -Medical Clinical Policy Bulletins | Aetna Page 11 of 16 
+7. Fialkowski EA, DeBenedetti  MK,  Moley  JF,  Bachrach  B.  RET  proto-  
+oncogene  testing  in  infants  presenting  with  Hirschsprung  disease  
+identifies 2 new multiple endocrine neoplasia 2A  kindreds. J  
+Pediatr Surg.  2008;43(1):188 -190.  
+8. Frank -Raue K, Rondot S, Raue F. Molecular genetics and
+ 
+phenomics of RET mutations: Impact on prognosis of MTC. Mol
+ 
+Cell Endocrinol. 2010;322(1 -2):2-7.
+ 
+9. Frilling A, Weber F, Tecklenborg C, Broelsch CE. Prophylactic 
+thyroidectomy in multiple endocrine neoplasia: The impact of
+ 
+molecular mechanisms of RET proto- oncogene. Langenbecks
+ 
+Arch Surg. 2003;388(1):17 -26.
+ 
+10. Frohnauer MK, Decker RA. Update on the MEN 2A c804 RET 
+mutation: Is prophylactic thyroidectomy indicated? Surgery. 
+2000;128(6):1052 -1057; discussion 1057- 1058. 
+11. Fussey JM, Smith JA, Cleaver R, et al. Diagnostic RET genetic 
+testing in 1,058 index patients: A UK centre perspective. Clin Endocrinol (Oxf). 2020 Dec 19 [Online ahead of print]. 
+12. 
+Goretzki PE, Hoppner W, Dotzenrath C, et al. Genetic and biochemical screening for endocrine disease. World J Surg. 
+1998;22(12):1202 -1207. 
+13. Guiﬀrida D, Gharib H. Current diagnosis and management of 
+medullary thyroid carcinoma. Ann Oncol. 1998;9(7):695 -701. 
+14. Heshmanti HM, Gharib H, van Heerden JA, et al. Advances and 
+controversies in the diagnosis and management of medullary 
+thyroid carcinoma. Am J Med. 1997;103(1):60 -69. 
+15. Hofstra RM, Landsvater RM, Ceccherini I, et al. A mutation in the 
+RET proto -oncogene associated with multiple endocrine 
+neoplasia type 2B and sporadic medullary thyroid carcinoma. Nature. 1994;367(6461):375 -376. 
+16. Igarashi T, Okamura R, Jikuzono T, et al. An extended family with 
+familialmedullary thyroid carcinoma and Hirschsprung'sdisease. 
+J Nippon Med Sch. 2014;81(2):64 -69. 
+17. Isabel M. Martinez Ferez, Roman Villegas Portero. Analysis of RET 
+mutations to perform prophylactic thyroidectomy in individuals 
+at risk for medullary thyroid cancer [summary]. AETSA 2006/09. 
+Sevilla, Spain; Andalusian Agency for Health Technology 
+Assessment (AETSA); 2007. 
+18. Jindrichova S, Vcelak J, Vlcek P, et al. Screening of six risk exons of 
+the RET proto- oncogene in families with medullary thyroid       
+   
+     
+       
+  
+           
+  
+   
+  
+    
+        
+     
+   
+   
+          
+   
+  
+        
+   
+             
+          
+  
+   
+         
+       
+        
+  
+ 
+          
+          
+   
+ 
+   
+         
+      
+  RET Proto -Oncogene Testing -Medical Clinical Policy Bulletins | Aetna Page 12 of 16 
+carc inoma  in  the  Czech Republic. J Endocrinol. 2004;183(2):257 - 
+265.  
+19. Konstantinou E, Theodoros MS, Theofanis F, et al. Preventive 
+thyroidectomy in patients with hereditary medullary thyroid carcinoma found heterozygote for mutant RET proto- oncogene. 
+Pediatr Endocrinol Rev. 2010;8(2):108 -113. 
+20. Kouvaraki MA, Shapiro SE, Perrier ND, et al. RET proto- oncogene: 
+A review and update of genotype- phenotype correlations in 
+hereditary medullary thyroid cancer and associated endocrine tumors. Thyro id. 2005;15(6):531 -544. 
+21. Krampitz GW, Norton JA. RET gene mutations (genotype and phenotype) of multiple endocrine neoplasia type 2 and familial 
+medullary thyroid carcinoma. Cancer. 2014;120(13):1920- 1931. 
+22. Larimore TC, Wells SA. Cancer of the endocrine  system. In:  
+Cancer: Principles and Practice  of  Oncology.  5th  ed.  VT  DeVita,  S 
+Hellman,  SA Rosenberg, eds.  Philadelphia,  PA: Lippincott -Raven  
+Publishers;  1997.  
+23. Le HN, Norton JA. Perspective on RET proto- oncogene and 
+thyroid cancer. Cancer J. 2000;6(2):50 -57. 
+24. Lips CJ. Clinical manifestations and diagnosis of multiple endocrine neoplasia type 2. UpToDate [online serial]. Waltham, 
+MA: UpToDate; reviewed February 2013. 
+25. Lira ME, Choi YL, Lim SM, et al. A single -tube multiplexed assay 
+for detecting ALK, ROS1, and RET fusions in lung cancer. J Mol 
+Diagn. 2014;16(2):229 -243. 
+26. Moore SW, Appfelstaedt J, Zaahl MG. Familial medullary carcinoma prevention, risk evaluation, and RET in children of 
+families with MEN2. J Pediatr Surg. 2007;42(2):326 -332. 
+27. Moore SW, Zaahl MG. Multiple endocrine neoplasia syndromes, 
+children, Hirschsprung's disease and RET. Pediatr Surg Int. 2008;24(5):521 -530. 
+28. Mulligan LM, Marsh DJ, Robinson BG, et al. Genotype-phenotype 
+correlation in multiple endocrine neoplasia type 2: Report of the 
+International RET Mutation Consortium. J Intern Med. 
+1995;238(4):343 -346. 
+29. National Academy of Clinical Biochemistry (NACB). NACB: 
+Laboratory support for the diagnosis and monitoring of thyroid 
+disease. Laboratory Medicine Practice Guidelines. Washington, 
+DC: NACB; 2002.       
+       
+   
+  
+   
+        
+  
+             
+  
+ 
+          
+  
+         
+         
+   
+    
+      
+       
+   
+             
+ 
+   
+     
+          
+  
+  
+    
+   
+ 
+ 
+  
+   
+ 
+     
+    
+      
+     RET Proto -Oncogene Testing -Medical Clinical Policy Bulletins | Aetna Page 13 of 16 
+30. National Comprehensive Cancer Network (NCCN). Non -small cell 
+lung cancer. NCCN Clinical Practice Guidelines in 
+Oncology, Version 4.2016. Fort Washington, PA: NCCN; 2016. 
+31. Ogilvie JB, Kebebew E. Indication and timing of thyroid surgery 
+for patients with hereditary medullary thyroid cancer syndromes. 
+J Natl Compr Canc Netw. 2006;4(2):139 -147. 
+32. Pandey R, Thurow T, de W Marsh R. Hirschsprung disease of the 
+colon, a vaginal mass and medullary thyroid cancer -- a RET 
+oncogene driven problem. J Gastrointest Oncol. 2011;2(4):254 - 
+257.  
+33. Phay JE, Moley JF, Lairmore TC. Multiple endocrine neoplasias. 
+Semin Surg Oncol. 2000;18(4):324 -332. 
+34. Rodriguez GJ, Balsalobre MD, Pomares F, et al. Prophylactic 
+thyroidectomy in MEN 2A syndrome: Experience in a single 
+center. J Am Coll Surg. 2002;195(2):159 -166. 
+35. Rossi G, Ragazzi M, Tamagnini I, et al. Does 
+immunohistochemistry represent arobust alternativetechnique 
+in determining drugable predictive gene alterations in non-small 
+cell lung cancer? Curr Drug Targets. 2017;18(1):13 -26. 
+36. Scollo C, Russo M, De Gregorio L, et al. A novel RET gene 
+mutation in a patient with apparently sporadic pheochromocytoma. Endocr J. 2016;63(1):87 -91. 
+37. Sromek M, Czetwertyńska M, Tarasińska M, et al. Analysis of newly identified and rare synonymous genetic variants in the RET 
+gene in patients with medullary thyroid carcinoma in Polish population. Endocr Pathol. 2017;28(3):198 -206. 
+38. Tan AC , Seet AOL, Lai GGY, et al. Molecular characterization 
+and clinical outcomes in RET -rearranged NSCLC. J Thorac 
+Oncol. 
+2020;15(12):1928- 1934. 
+39. Thyroid Carcinoma Task Force. AACE/AAES medical/surgical 
+guidelines for clinical practice: Management of thyroid 
+carcinoma. American Association of Clinical Endocrinologists. American  College ofEndocrinology. Endocr Pract. 2001;7(3):202 - 
+220. 
+ 
+40. Trepanier A, Ahrens M, McKinnon W, et al. Genetic cancer risk assessment and counseling: Recommendations of the Natio nal 
+Society  of  Genetic Counselors. J Genet Counsel. 2004;13(2):83 - 
+114. 
+       
+   
+        
+   
+           
+  
+        
+  
+         
+    
+     
+  
+          
+    
+    
+ 
+            
+          
+  RET Proto -Oncogene Testing -Medical Clinical Policy Bulletins | Aetna Page 14 of 16 
+41. Tuttle RM. Medullary thyroid cancer: Clinical manifestations, 
+diagnosis, and staging. UpToDate [online serial]. Waltham, MA: 
+UpToDate; reviewed January 2014. 
+42. Vaclavikova E, Kavalcova L, Skaba R, et al. Hirschsprung's disease 
+and medullary thyroid carcinoma: 15 -year experience with 
+molecular genetic screening of the RET proto- oncogene. Pediatr 
+Surg Int. 2012;28(2):123 -1288. 
+43. Vestergaard P, Vestergaard EM, Brockstedt H, Christiansen P. 
+Codon Y791F mutations in a large kindred: Is prophylactic 
+thyroidectomy always indicated? World J Surg. 2007;31(5):996 - 
+1001; discussion 1002- 1004. 
+44. Wijesinghe P, Bepler G, Bollig -Fischer A. A mass spectrometry 
+assay to simulta neously analyze ROS1 and RET fusion gene 
+expression in non -small- cell lung cancer. J Thorac Oncol. 
+2015;10(2):381 -386. 
+45. Yoshida A, Kohno T, Tsuta K, et al. ROS1 -rearranged lung cancer: 
+A clinicopathologic and molecular study of 15 surgical cases. Am J 
+Surg Pathol. 2013;37(4):554 -562.       
+ 
+    
+ 
+ 
+   
+ 
+     
+   
+      
+                    
+                    
+   
+ 
+ 
+  
+ 
+ 
+ RET Proto -Oncogene Testing -Medical Clinical Policy Bulletins | Aetna Page 15 of 16 
+Copyright Aetna Inc. All rights reserved. Clinical Policy Bulletins are developed by Aetna to assist in administering plan be nefits and 
+constitute neither offers of coverage nor medical advice. This Clinical Policy Bulletin contains only a partial, general description of plan or 
+program benefits and does not constitute a contract. Aetna does not provide health care services and, therefore, cannot guara ntee any 
+results or outcomes. Participating providers are independent contractors in private practice and are neither employees nor agents of Aetna or 
+its affiliates. Treating providers are solely responsible for medical advice and treatment of members. This Clinical Policy Bulletin may be updated 
+and therefore is subject to change. 
+Copyright © 2001-2021 Aetna       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+      
+ 
+      
+ 
+  
+ 
+  RET Proto -Oncogene Testing -Medical Clinical Policy Bulletins | Aetna Page 16 of 16 
+AETNA BETTER HEALTH® OF PENNSYLVANIA 
+Amendment to
+ 
+Aetna Clinical Policy Bulletin Number: 0319 RET Proto‐Oncogene 
+Testing
+ 
+There are no amendments for Medicaid. 
+update 04/06/2021 

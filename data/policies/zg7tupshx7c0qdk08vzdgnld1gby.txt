@@ -1,0 +1,112 @@
+ 
+ Medical Necessity Guidelines:  
+Amyloidosis Therapies (Amvuttra 
+(vutrisiran ) and Onpattro (patisiran )) 
+ 
+                                             Amyloidosis Therapies (Amvuttra [vutrisiran] or Onpattro [patisiran])  
+ 1    
+Effective: January 1, 2023  
+ 
+Prior Authorization Required  
+If REQUIRED , submit supporting clinical documentation pertinent to service request.  Yes ☒ No ☐ 
+ 
+Applies  to: 
+Commercial  Products  
+☐ Harvard Pilgrim Health Care Commercial products ; Fax 617-673-0988  
+☐ Tufts Health Plan Commercial products ; Fax 617-673-0988  
+  CareLinkSM – Refer to CareLink Procedures, Services and Items Requiring Prior Authorization  
+ 
+Public Plans Products  
+☐ Tufts Health Direct – A Massachusetts Qualified Health Plan (QHP) (a commercial product) ; Fax 617-673-0988  
+☐ Tufts Health Together – MassHealth MCO Plan and Accountable Care Partnership Plans ; Fax 617-673-0988  
+☐ Tufts Health RITogether – A Rhode Island Medicaid Plan; Fax 617-673-0988  
+☒ Tufts Health Unify * – OneCare Plan (a dual -eligible product) ; Fax 617-673-0956 
+*The MNG applies to Tufts Health Unify members unless a less restrictive LCD or NCD exists.  
+ 
+Senior Products  
+☒ Harvard Pilgrim Health Care Stride Medicare Advantage;  Fax 617-673-0956 
+☒ Tufts Health Plan Senior Care Options (SCO), (a dual -eligible  product) ; Fax 617-673-0956 
+☒ Tufts Medicare Preferred HMO, (a Medicare Advantage product) ; Fax 617-673-0956 
+☒ Tufts Medicare Preferred PPO , (a Medicare Advantage product) ; Fax 617-673-0956 
+ 
+Note:  While you may not be the provider responsible for obtaining prior authorization, as a condition of payment you will need 
+to ensure that prior authorization has been obtained.  
+ 
+Overview  
+Amyloidosis is the general term used to refer to the extracellular tis sue deposition of highly ordered fibrils composed of low 
+molecular weight subunits of a variety of proteins, many of which, in their native form, circulate as normal constituents of plasma. 
+Amyloid deposits may result in a wide range of clinical manifestat ions depending upon their type, location, and amount. In the 
+genesis of amyloid deposits, previously soluble precursor peptides undergo conformational changes that lead to the adoption of a 
+predominantly antiparallel beta- pleated sheet configuration, allow ing them to stack as protofilaments in a twisted fibrillar 
+configuration.   
+Hereditary transthyretin amyloidosis (TTR amyloidosis; also, hATTR or ATTR) is a slowly progressive condition characterized b y 
+the buildup of abnormal deposits of amyloid protein in the body's organs and tissues. TTR amyloidosis (also referred to as 
+familial amyloid polyneuropathy [FAP]) is caused by mutations in the TTR gene.   
+ 
+Food and Drug Administration (FDA) Approved Indications:  
+• Amvuttra (vutrisiran ) is a transthyretin- directed small interfering RNA indicated for the treatment of the polyneuropathy of 
+hereditary transthyretin -mediated amyloidosis in adults.  
+• ONPATTRO® (patisiran) contains a transthyretin -directed small interfering RNA and is indicated for the treatment of the 
+polyneuropathy of hereditary transthyretin- mediated amyloidosis in adults.  
+ 
+Clinical Guideline Coverage Criteria    
+  
+                                                                                                                                           Amyloidosis Therapies (Amvuttra [vutrisiran] or Onpattro [patisiran])   
+2     The Plan may authorize coverage of Amvuttra (vutrisiran) or Onpattro® (patisiran) when all of the following criteria are 
+met:   
+1. The Member is an adult with a documented diagnosis of hereditary transthyretin -mediated amyloidosis   
+AND   
+2. The Member is experiencing progressive peripheral sensory -motor polyneuropathy   
+AND   
+3. Prescribed by or in consultation with neurologist or a provider who specializes in amyloidosis   
+ 
+Limitations  
+• Any indications other than FDA -approved indications are considered experimental or investigational and will not be 
+approved by the health plan 
+ 
+Codes 
+The following code(s) require prior authorization:  
+ 
+Table 1: HCPCS Codes  
+HCPCS  Codes  Description  
+J0222  Injection , patisiran, 0.1 mg  
+J0225  Injection, vutrisiran, 1 mg  
+ References:  
+1. Amvuttra (vutrisiran ) [package insert]. Cambridge, MA: Alnylam Pharmaceuticals, Inc.; June 2022.  
+2. Onpattro® (patisiran) [package insert]. Cambridge, MA: Alnylam Pharmaceuticals, Inc.; May 2021. Accessed online May 13, 
+2022 at https://www.alnylam.com/sites/default/files/pdfs/O NPATTRO -Prescribing- Information.pdf.  
+3. United States Food and Drug Administration. Package Insert -ONPATTRO. 
+https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/210922s009lbl.pdf.  
+4. Overview of amyloidosis. UpToDate. Wolters Kluwer. Last updated August 10, 2021. Accessed online May 16, 2022 at 
+https://www.uptodate.com/contents/overview -of-
+amyloidosis?search=amyloidosis&source=search_result&selectedTitle=1~150&usage_type=default&display_rank=1.   
+5. Local Coverage Determination (LCD): Drugs and Biologicals, Coverage of, for Label and Off -Label Uses (L33394). Centers 
+for Medicare and Medicaid Services. Published online November 7, 2019.    
+ 
+Approval And Revision History 
+September 13, 2022: Reviewed by Pharmacy and Therapeutics Committee (P&T).  
+September 21, 2022: Reviewed by the Medical Policy Approval Committee (MPAC).  
+Subsequent endorsement date(s) and changes made:  
+• December 22, 2022: Administrative update: Amvuttra code J0225 added, effective January 1, 2023  
+ 
+Background, Product and Disclaimer Information 
+Medical Necess ity Guidelines are developed to determine coverage for benefits and are published to provide a better 
+understanding of the basis upon which coverage decisions are made. We make coverage decisions using these guidelines, along 
+with the Member’s benefit document, and in coordination with the Member’s physician(s) on a case- by-case basis considering the 
+individual Member's health care needs.  
+Medical Necessity Guidelines are developed for selected therapeutic or diagnostic services found to be safe and proven effective 
+in a limited, defined population of patients or clinical circumstances. They include concise clinical coverage criteria based on 
+current literature review, consultation with practicing physicians in our service area who are medical experts in the particular field, 
+FDA and other government agency policies, and standards adopted by national accreditation organizations. We revise and update 
+Medical Necessity Guidelines annually, or more frequently if new evidence becomes available that suggests needed revisions.  
+For self -insured plans, coverage may vary depending on the terms of the benefit document. If a discrepancy exists between a 
+Medical Necessity Guideline and a self -insured Member’s benefit document, the provisions of the benefit document will govern. 
+For Tufts Health Together (Medicaid), coverage may be available beyond these guidelines for pediatric members under age 21  
+  
+                                                                                                                                           Amyloidosis Therapies (Amvuttra [vutrisiran] or Onpattro [patisiran])   
+3     under the Early and Periodic Screening, Diagnostic and Treatment (EPSDT) benefits of the plan in accordance with 130 CMR 
+450.140 and 130 CMR 447.000, and with prior authorization.  
+Treating providers are solely responsible for the medical advice and treatment of Members. The use of this guideline is not a  
+guarantee of payment or a final prediction of how specific claim(s) will be adjudicated. Claims payment is subject to eligibility and 
+benefits on the date of service, coordination of benefits, referral/authorization, utilization management guidelines when applicable, 
+and adherence to plan policies, plan procedures, and claims edi ting logic.  

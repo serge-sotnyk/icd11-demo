@@ -1,0 +1,392 @@
+ 
+MEDICAL POLICY – 7.01.29  
+Percutaneous E lectrical Nerve Stimulation and 
+Percutaneous Neuromodulation Therapy  
+BCBSA Ref. Policy : 7.01.29  
+Effective Date:  Aug. 1, 2022  
+Last Revised:   July 25, 2022  
+Replaces:  N/A RELATED MEDICAL POLICIES:  
+1.01.24      Interferential Current Stimulation 
+1.01.507  Electrical Stimulation Devices  
+8.01.58  Cranial Electrotherapy Stimulation and Auricular Electrostimulation  
+ 
+Select a hyperlink below to be directed to that section.  
+POLICY CRITERIA   |  CODING   |  RELATED INFORMATION  
+EVIDENCE REVIEW   |  REFERENCES  |  HISTORY   
+∞ Clicking this icon returns you to the hyperlinks menu above.  
+ 
+Introduction  
+Using mild electrical current is one way to treat nerve pain. It’s believed that the electrical 
+signals interfere with the way nerves relay information about pain to the brain. TENS, which 
+uses electricity transferred through the skin, has been in use for decades and is well proven. Newer ways of delivering small electrical impulses are being studied. Percutaneous electrical 
+nerve stimulation (PENS) uses small needles placed just below the skin, with electricity delivered 
+by a battery-powered stimulator. In percutaneous neuromodulation therapy (PNT), fine needle 
+electrodes are placed in deep tissues. Because more high-quality studies are needed  to 
+determine if PENS and PNT are  effective, they are both still considered unproven.  
+ 
+Note:   The Introduction section is for your general knowledge and is not to be taken  as policy coverage criteria. 
+The rest of the policy uses specific words and concepts familiar to medical professionals. It is intended for 
+providers . A provider can be a person, such as a doctor, nurse, psychologist, or dentist. A provider also can 
+be a place where medical care is given, like a hospital, clinic, or lab.  This policy informs them about when a 
+service may be covered.  
+ 
+Policy Coverage Criteria   
+ 
+7.01.29_PBC (07-25-2022)
+ 
+ 
+   
+ 
+ 
+   
+Page | 2 of 12                                                                         ∞ Procedure  Investigational  
+Percutaneous electrical 
+neurostimulation or 
+percutaneous 
+neuromodulation  therapy  Percutaneous electrical neurostimulation or percutaneous 
+neuromodulation therapy is considered investigational.  
+ 
+Guidelines  
+Percutaneous electrical neurostimulation (PENS) and percutaneous neuromodulation  
+therapy  (PNT) use percutaneously inserted needles and wires rather than percutaneously 
+implanted electrodes. The stimulation devices used in PENS  and PNT are not implanted .  
+ 
+Coding   
+ 
+Code  Description  
+CPT 
+64999  Unlisted procedure, nervous system  
+Note:  CPT codes, descriptions and materials are copyrighted by the American Medical Association (AMA). HCPCS 
+codes, descriptions and materials are copyrighted by Centers for Medicare Services (CMS).  
+ 
+Related Information   
+ 
+N/A 
+ 
+Evidence Review   
+ 
+Description 
+Percutaneous electrical nerve stimulation (PENS) and percutaneous neuromodulation therapy 
+(PNT)  combine the features of electroacupuncture and transcutaneous electrical nerve Page | 3 of 12                                                                         ∞ stimulation (TENS) . PENS is performed with needle electrodes while PNT uses very fine needle-
+like electrode arrays placed near the painful area to stimulate peripheral sensory nerves in the 
+soft tissue. 
+ 
+Background  
+Chronic Pain  
+A variety of chronic musculoskeletal or neuropathic pain conditions, including low back pain, 
+neck pain, diabetic neuropathy, chronic headache, and surface hyperalgesia, presents a 
+substantial burden to patients, adversely affecting function and quality of life. Certain racial and 
+ethnic groups are at a higher risk of developing diabetes, which may also put them at higher risk of developing complications from diabetes, such as diabetic neuropathy. According to a 2018 to 2019 National Health Interview Survey and data from the Indian Health Service 
+National Data Warehouse, American Indians and Alaska Natives had the highest reported rate 
+of diagnosed diabetes at 14.5%.
+1 This was followed by 12.1% of Black individuals, 11.8% of 
+Hispanic individuals, 9.5% of Asian individuals, and 7.4% of White individuals having diagnosed diabetes in 2018 or 2019. 
+ Treatment  
+These chronic pain conditions have typically failed other treatments, and PENS  and PNT have 
+been evaluated as treatments to relieve unremitting pain. 
+PENS is similar in concept to TENS  (see Related Policies ) but differs in that needles are 
+inserted either around or immediately adjacent to the nerves serving the painful area and are 
+then stimulated. PENS is generally reserved for patients who fail to get pain relief from TENS. 
+PENS is also distinguished  from acupuncture with electrical stimulation. In electrical 
+acupuncture, needles are also inserted just below the skin, but the placement of needles is based on specific theories regarding energy flow throughout the human body. In PENS, the location of stimulation is determined  by proximity to the pain. 
+PNT is  a variant of PENS in which fine filament electrode arrays are placed near the area that is 
+causing pain. Some use the terms PENS and PNT interchangeably. It is proposed that PNT inhibits pain transmission by creating an electrical field that hyperpolarizes C -fibers, thus 
+preventing action potential propagation along the pain pathway. Page | 4 of 12                                                                         ∞  
+Summary of Evidence  
+For individuals who have chronic pain conditions ( e.g., back, neck, neuropathy, headache, 
+hyperalgesia) who receive PENS, the evidence includes primarily small controlled trials  and a 
+two systematic review s. The relevant outcomes are symptoms, functional outcomes, quality of 
+life, and medication use. Two systematic review s have not revealed consistent benefit from 
+PENS  in musculoskeletal pain disorders. One review concluded that PENS could decrease pain 
+intensity but not related disability, while the other found no significant differences between 
+PENS and TENS in mitigation of pain. These conclusions are uncertain due to important 
+methodological limitations in individual trials included in these reviews, such as high 
+heterogeneity with regard to application methods. In the highest quality trial of PENS 
+conducted to date  in chronic l ow back pain , no difference in outcomes was found between the 
+active (30 minutes of stimulation with 10 needles) and the sham (5 minutes of stimulation with 2 needles) treatments. Smaller trials, which have reported positive results, are limited by unclear 
+blinding and short-term follow -up. The evidence is insufficient to determine that the 
+technology results in an improvement in the net health outcome. 
+For individuals who have chronic pain conditions ( e.g., knee osteoarthritis) who receive PNT, the 
+evidence consists of a randomized controlled trial. The relevant outcomes are symptoms, 
+functional outcomes, quality of life, and medication use. The single trial is limited by lack of investigator blinding, unclear participant blinding, and short -term follow -up. The evidence is 
+insufficient to determine that the technology results in an improvement in the net health 
+outcome. 
+ 
+Ongoing and Unpublished Clinical Trials  
+Some currently ongoing and  unpublished trials that might influence this review are listed in 
+Table 1 . 
+ 
+Table 1. Summary of Key Trials 
+NCT No.  Trial Name  Planned 
+Enrollment  Completion 
+Date  
+Ongoing  Page | 5 of 12                                                                         ∞ NCT No.  Trial Name  Planned 
+Enrollment  Completion 
+Date  
+NCT04243915  Effectiveness of Percutaneous Neuromuscular Electrical  
+Stimulation on Lumbar Multifidus in Combination With a 
+Protocol of Motor Control Exercises in Patients With Chronic Low Back Pain  64 Apr 2021  
+NCT04454671  Efficacy of Ultrasound -guided Percutaneous 
+Neuromodulation Versus Ultrasound -guided Dry Needling 
+of the Supravascular Nerve in Shoulder Pain  62 Nov 202 2 
+NCT04442321  Effectiveness of Ultrasound -Guided Percutaneous 
+Electrical Stimulation on Radial Nerve With Exercises in 
+Patients With Lateral Epicondylalgia  60 June 2022  
+Unpublished  
+NCT03331055  Percutaneous Electrical Nerve Stimulation or 
+Transcutaneous Electrical Nerve Stimulation for Pain in 
+Patients With Pancreatic Cancer  36 Aug 2019  
+NCT03338543  Percutaneous Electrical Nerve Stimulation or 
+Transcutaneous Electrical Nerve Stimulation for Pain in Patients With Liver Cancer  36 Aug 2019  
+NCT: national clinical trial.  
+ 
+Clinical Input Received from Physician Specialty Societies and Academic 
+Medical Centers  
+While the various physician specialty societies and academic medical centers may collaborate 
+with and make recommendations during this process, through the provision of appropriate 
+reviewers, input  received does not represent an endorsement or position statement by the 
+physician specialty societies or academic medical centers, unless otherwise noted.  
+ 
+2011 Input 
+In response to requests, input was received from five  physician specialty societies and two 
+academic medical centers while this policy was under review in 2011. I nput was mixed on 
+whether PENS  and PNT should be considered investigational or medically necessary.  
+ Page | 6 of 12                                                                         ∞ Practice Guidelines and Position Statements  
+Guidelines or position statements will be considered for inclusion if they were issued by, or 
+jointly by, a U.S. professional society, an international society with U.S. representation, or 
+National Institute for Health and Care Excellence (NICE). Priority will be given to guidelines that 
+are informed by a systematic review, include strength of evidence ratings, and include a 
+description of management of conflict of interest. 
+ 
+National Institute for Health and Care Excellence  
+The National Institute for Health and Care Excellence (2013)  publi shed guidance on PENS .37 It 
+concluded that the “C urrent evidence on the safety of percuta neous electrical nerve stimulation 
+(PENS ) for refractory neuropathic pain raises no major safety concerns and there is evidence of 
+efficacy in the short term.”   
+ 
+American Academy of Neurology et al  
+The American Academy of Neurology, the American Association of Neuromuscular and 
+Electrodiagnostic Medicine, and the American Academy of Physical Medicine and Rehabilitation 
+reaffirmed 2011 evidence- based guidelines on the treatment of painful diabetic neuropathy in 
+2016.38 The guidelines concluded that, based on a c lass I study, electrical stimulation is 
+probably effective in lessening the pain of diabetic neuropathy and improving quality of life 
+and recommended that PENS be considered for the treatment of painful diabetic neuropathy 
+(level B). The guidelines were retired and replaced in 2022 with a guideline dedicated to oral 
+and topical treatment of painful diabetic polyneuropathy.39 In these updated guidelines, there 
+is no mention of any electrical stimulation strategies for pain. 
+ 
+American Society of Anesthesiologists et al 
+The 2010 p ractice guidelines for chronic pain management from the American Society of 
+Anesthesiologists and the American Society of Regional Anesthesia and Pain Medicine indicated that subcutaneous peripheral nerve stimulation might be used in the multimodal 
+treatment of patients with painful peripheral nerve injuries who have not responded to other 
+therapies ( category B2 evidence, observational studies).
+40 Page | 7 of 12                                                                         ∞  
+American College of Physicians and American Pain Society  
+Joint practice guidelines on the diagnosis and treatment of low back pain from the American 
+College of Physicians and the American Pain Society in 2007 indicated uncertainty over whether 
+PENS should be considered a novel therapy or a form of electroacupuncture.41 The guidelines 
+concluded that PENS is not widely available. The guidelines also concluded that TENS  has not 
+been proven effective for chronic low back pain. These guidelines were updated in 2017 and 
+authors stated that evidence was insufficient to determine harms associated with PENS thus, no recommendation was made.
+42 
+Medicare National Coverage  
+The Centers for Medicare and Medicaid Services (CMS) currently has the following national coverage policy on PENS
+43: 
+Electrical nerve stimulation is an accepted modality for assessing a patient's suitability for ongoing treatment with a transcutaneous or an implanted nerve stimulator.  
+Accordingly, program payment may be made for the following techniques when used to 
+determine the potential therapeutic usefulness of an electrical nerve stimulator... 
+B. Percutaneous Electrical Nerve Stimulation (PENS ) 
+The diagnostic procedure which involves stimulation of peripheral nerves by a needle 
+electrode inserted through the skin is performed only in a physician's office, clinic, or 
+hospital outpatient department. Therefore, it is covered only when performed by a 
+physician or incident to physician's service. If pain is effectively controlled by percutaneous 
+stimulation, implantation of electrodes is warranted.  
+[It] is inappropriate for a patient to visit his/her physician, physical therapist, or an 
+outpatient clinic on a continuing basis for treatment of pain with electrical nerve stimulation. Once it is determined that electrical nerve stimulation should be continued as 
+therapy and the patient has been trained to use the stimulator, it is expected that a stimulator will be implanted or the patient will employ the TENS on a continual basis in 
+his/her home. Electrical nerve stimulation treatments furnished by a physician in his/her 
+office, by a physical therapist or outpatient clinic are excluded from coverage.  
+ Page | 8 of 12                                                                         ∞ Regulatory Status  
+• In 2002, the Percutaneous Neuromodulation Therapy™ (Vertis Neuroscience) was cleared 
+for marketing  by the U.S. Food and Drug Administration (FDA)  through the 510(k) process. 
+The labeled indication is: “… for the symptomatic relief and management of chronic or 
+intractab le pain and/or as an adjunctive treatment in the management of post -surgical pain 
+and post -trauma pain.”  
+• In 2006, the Deepwave® Percutaneous Neuromodulation Pain Therapy System (Biowave) 
+was cleared for marketing by FDA through the 510(k) process. The FDA determined that this 
+device was substantially equivalent to the Vertis neuromodulation system and a Biowave neuromodulation therapy unit. The Deepwave® system includes a sterile single- use 
+percutaneous electrode array that contains 1,014 microneedles in a 1.5-inch diameter area. 
+The needles are 736 μm (0.736 mm) in length; the patch is reported to feel like sandpaper or Velcro.  
+FDA product code: NHI. 
+ 
+References   
+ 
+1. Centers for Disease Control and Prevention (CDC). By the Numbers: Diabetes in America. Upda ted March 2022; 
+https://www.cdc.gov/diabetes/health-equity/diabetes- by-the- numbers.html . Accessed July 7 , 2022.  
+2. Dworkin RH, Turk DC, Farrar JT, et al. Core outcome measures for chronic pain clinical trials: IMMPACT recommendations. Pain. 
+Jan 2005; 113(1- 2): 9-19. PMID 15621359  
+3. Dworkin RH, Turk DC, Wyrwich KW, et al. Interpreting the clinical importance of treatment outcomes in chronic pain clinical trials: IM MPACT recommendations. J Pain. Feb 2008; 9(2): 105- 21. PMID 18055266 
+4. Gewandter JS, Dworkin RH, Turk DC, et al. Research design considerations for chronic pain prevention clinical trials: IMMPACT  
+recommendations. Pain. Jul 2015; 156(7): 1184- 1197. PMID 25887465 
+5. Plaza -Manzano G, Gomez -Chiguano GF, Cleland JA, et al. Effectiveness of percutaneous electrical nerve stimulation for 
+musculoskeletal pain: A systematic review and meta- analysis. Eur J Pain. Jul 2020; 24(6): 1023- 1044. PMID 32171035 
+6. Beltran -Alacreu H, Serrano -Munoz D, Martin- Caro D, et al. Percutaneous versus transcutaneous electrical nerve stimulation for 
+the treatment of musculoskeletal pain. A systematic review and meta -analysis. Pain Med. Feb 15 2022. PMID 35167691 
+7. Ghoname EA, Cra ig WF, White PF, et al. Percutaneous electrical nerve stimulation for low back pain: a randomized crossover 
+study. JAMA. Mar 03 1999; 281(9): 818- 23. PMID 10071003  
+8. Ghoname ES, Craig WF, White PF, et al. The effect of stimulus frequency on the analgesic res ponse to percutaneous electrical 
+nerve stimulation in patients with chronic low back pain. Anesth Analg. Apr 1999; 88(4): 841 -6. PMID 10195535  
+9. Hamza MA, Ghoname EA, White PF, et al. Effect of the duration of electrical stimulation on the analgesic response  in patients 
+with low back pain. Anesthesiology. Dec 1999; 91(6): 1622 -7. PMID 10598602  Page | 9 of 12                                                                         ∞ 10. Weiner DK, Rudy TE, Glick RM, et al. Efficacy of percutaneous electrical nerve stimulation for the treatment of chronic low back 
+pain in older adults. J Am Geriatr Soc.  May 2003; 51(5): 599- 608. PMID 12752833 
+11. Topuz O, Ozfidan E, Ozgen M, Ardic F. Efficacy of transcutaneous electrical nerve stimulation and percutaneous neuromodulation therapy in chronic low back pain. J Back Musculoskeletal Rehabil. 2004;17:127 -133. 
+12. Yokoy ama M, Sun X, Oku S, et al. Comparison of percutaneous electrical nerve stimulation with transcutaneous electrical nerve 
+stimulation for long -term pain relief in patients with chronic low back pain. Anesth Analg. Jun 2004; 98(6): 1552 -1556. PMID 
+15155304  
+13. Weiner DK, Perera S, Rudy TE, et al. Efficacy of percutaneous electrical nerve stimulation and therapeutic exercise for older 
+adults with chronic low back pain: a randomized controlled trial. Pain. Nov 30 2008; 140(2): 344 -357. PMID 18930352 
+14. Perez -Palomares  S, Olivan- Blazquez B, Magallon- Botaya, et al. Percutaneous electrical nerve stimulation versus dry needling: 
+effectiveness in the treatment of chronic low back pain. J Musculokeletal Pain. 2010;18:23 -30. 
+15. Weiner DK, Rudy TE, Morone N, et al. Efficacy of pe riosteal stimulation therapy for the treatment of osteoarthritis -associated 
+chronic knee pain: an initial controlled clinical trial. J Am Geriatr Soc. Oct 2007; 55(10): 1541 -7. PMID 17908057  
+16. Weiner DK, Moore CG, Morone NE, et al. Efficacy of periosteal stimulation for chronic pain associated with advanced knee osteoarthritis: a randomized, controlled clinical trial. Clin Ther. Nov 2013; 35(11): 1703 -20.e5. PMID 24184053  
+17. da Graca -Tarrago M, Deitos A, Patricia Brietzke A, et al. Electrical Intramuscular Stimulation in Osteoarthritis Enhances the 
+Inhibitory Systems in Pain Processing at Cortical and Cortical Spinal System. Pain Med. May 01 2016; 17(5): 877 -891. PMID 
+26398594  
+18. Elbadawy MA. Effectiveness of Periosteal Stimulation Therapy and Home Exercise Program in the Rehabilitation of Patients With Advanced Knee Osteoarthritis. Clin J Pain. Mar 2017; 33(3): 254 -263. PMID 27513639 
+19. Dunning J, Butts R, Henry N, et al. Electrical dry needling as an adjunct to exercise, manual therapy and ultrasound for plantar fasciitis: A multi -center randomized clinical trial. PLoS One. 2018; 13(10): e0205405. PMID 30379937 
+20. da Graca -Tarrago M, Lech M, Angoleri LDM, et al. Intramuscular electrical stimulus potentiates motor cortex modulation 
+effects on pain and descending inhibitory  systems in knee osteoarthritis: a randomized, factorial, sham -controlled study. J Pain 
+Res. 2019; 12: 209- 221. PMID 30655690  
+21. Leon -Hernandez JV, Martin -Pintado -Zugasti A, Frutos LG, et al. Immediate and short -term effects of the combination of dry 
+needling  and percutaneous TENS on post -needling soreness in patients with chronic myofascial neck pain. Braz J Phys Ther. 
+Jul 11 2016; 20(5): 422- 431. PMID 27410163  
+22. Sumen A, Sarsan A, Alkan H, et al. Efficacy of low level laser therapy and intramuscular electrical  stimulation on myofascial pain 
+syndrome. J Back Musculoskelet Rehabil. 2015; 28(1): 153 -8. PMID 25061034  
+23. Medeiros LF, Caumo W, Dussan- Sarria J, et al. Effect of Deep Intramuscular Stimulation and Transcranial Magnetic Stimulation 
+on Neurophysiological Bio markers in Chronic Myofascial Pain Syndrome. Pain Med. Jan 2016; 17(1): 122 -35. PMID 26408420  
+24. Botelho L, Angoleri L, Zortea M, et al. Insights About the Neuroplasticity State on the Effect of Intramuscular Electrical Stimulation in Pain and Disability Associated With Chronic Myofascial Pain Syndrome (MPS): A Double -Blind, Randomized, 
+Sham -Controlled Trial. Front Hum Neurosci. 2018; 12: 388. PMID 30459575  
+25. Dunning J, Butts R, Young I, et al. Periosteal Electrical Dry Needling as an Adjunct to Exercise and Manual Therapy for Knee Osteoarthritis: A Multicenter Randomized Clinical Trial. Clin J Pain. Dec 2018; 34(12): 1149 -1158. PMID 29864043  
+26. Yoshimizu M, Teo AR, Ando M, Kiyohara K, Kawamura T. Relief of chronic shoulder and neck pain by electro -acupuncture and 
+transcutaneous electrical nervous stimulation: A randomized crossover trial. Med Acupunct 2012;24(2):97103.  
+27. Ng MM, Leung MC, Poon DM. The effects of electro -acupuncture and transcutaneous electrical nerve stimulation on patients 
+with painful osteoarthritic knees: a randomized controlled trial with follow -up evaluation. J Altern Complement Med. Oct 2003; 
+9(5): 641- 9. PMID 14629842  Page | 10 of 12                                                                         ∞ 28. Tsukayama H, Yamashita H, Amagai H, et al. Randomised controlled trial comparing the effectiveness of electroacupuncture 
+and TENS for low back pain: a preliminary study for a pragmatic trial. Acupunct Med. Dec 2002; 20(4): 175 -80. PMID 12512791  
+29. Cheng RSS, Pomeranz B. Electrotheraphy of chronic musculoskeletal pain: Comparison of electroacupuncture and acupuncture -like transcutaneous electrical nerve stimulation. Cochrane Library. Clin J Pain 1986;2(3):1439.  
+30. Lehmann TR, Russell DW, Spratt KF, et al. Efficacy of electroacupuncture and TENS in the rehabilitation of chronic low back pain patients. Pain. Sep 1986; 26(3): 277- 290. PMID 2946016  
+31. Ghoname EA, White PF, Ahmed HE, et al. Percutaneous electrical nerve stimulation: an alternative to TENS in the management of sciatica. Pain. Nov 1999; 83(2): 193- 9. PMID 10534590  
+32. White PF, Craig WF, Vakharia AS, et al. Percutaneous neuromodulation therapy: does the location of electrical stimulation effect the acute analgesic response?. Anesth Analg. Oct 2000; 91(4): 949 -54. PMID 11004055  
+33. Hamza MA, White PF, Craig WF, et al. Percutaneous electrical nerve stimulation: a novel analgesic therapy for diabetic neuropathic pain. Diabetes Care. Mar 2000; 23(3): 365 -70. PMID 10868867  
+34. Ahmed HE, White PF, Craig WF, et al. Use of percutaneous electrical nerve stimulation (PENS) in the short -term management 
+of headache. Headache. Apr 2000; 40(4): 311- 5. PMID 10759936 
+35. Raphael JH, Raheem TA, Southall JL, et al. Randomized double- blind sham -controlled crossover study of short- term effect of 
+percutaneous electrical nerve stimulation in neuropathic pain. Pain Med. Oct 2011; 12(10): 1515 -22. PMID 21883874 
+36. Kang RW, Lewis PB, Kramer A, et al. Prospective randomized single -blinded controlled clinical trial of percutaneous 
+neuromodulation pain therapy device versus sham for the osteoarthritic knee: a pilot study. Orthopedics. Jun 2007; 30(6): 439 -
+45. PMID 17598487 
+37. National Institute for Health and Care Excellence (NICE). Percutaneous electrical nerve stimulation for refractory neuropathic pain [IPG450]. 2013; https://www.nice.org.uk/guidance/ipg450 . Accessed July 7 , 2022. 
+38. Bril V, England J, Franklin GM, et al. Evidence -based guideline: Treatment of painful diabetic neuropathy: report of the 
+American Academy of Neurology, the American Association of Neuromuscular and Electrodiagnostic Medicine, and the American Academ y of Physical Medicine and Rehabilitation. Neurology. May 17 2011; 76(20): 1758 -65. PMID 21482920 
+39. Price R, Smith D, Franklin G, et al. Oral and Topical Treatment of Painful Diabetic Polyneuropathy: Practice Guideline Update  
+Summary: Report of the AAN Guideline Subcommittee. Neurology. Jan 04 2022; 98(1): 31- 43. PMID 34965987  
+40. Benzon HT, Connis RT, De Leon -Casasola OA, et al. Practice guidelines for chronic pain management: an updated report by 
+the American Society of Anesthesiologists Task Force on Chronic P ain Management and the American Society of Regional 
+Anesthesia and Pain Medicine. Anesthesiology. Apr 2010; 112(4): 810 -33. PMID 20124882  
+41. Chou R, Qaseem A, Snow V, et al. Diagnosis and treatment of low back pain: a joint clinical practice guideline from the American College of Physicians and the American Pain Society. Ann Intern Med. Oct 02 2007; 147(7): 478 -91. PMID 17909209  
+42. Qaseem A, Wilt TJ, McLean RM, et al. Noninvasive Treatments for Acute, Subacute, and Chronic Low Back Pain: A Clinical Practice Guide line From the American College of Physicians. Ann Intern Med. Apr 04 2017; 166(7): 514 -530. PMID 28192789  
+43. Centers for Medicare & Medicaid. National Coverage Determination (NCD) for Assessing Patient's Suitability for ELECTRICAL NERVE STIMULATION Therapy (1 60.7.1). 2006; https://www.cms.gov/medicare- coverage -database/details/ncd-
+details.aspx?NCDId=63&ncdver=2&CoverageSelection=National&KeyWord=Electrical+Nerve+Stimulation&Key WordLookUp=Title&KeyWordSearchType=And&list_type=ncd&bc=gAAAABAAAAAA& . Accessed July 7 , 2022. 
+ 
+History   
+ Page | 11 of 12                                                                         ∞ Date  Comments  
+03/13/12  New policy. Add to Surgery section. Removed from 1.01.507.  
+10/26/12  Replace Policy. Rationale section revised based on literature review through June 2012. 
+References 13 and 16 added; other references renumbered or removed. Policy 
+statement unchanged.  
+11/20/12  Update Related Policies. Add 8.01.58.  
+02/14/13  Update Related Policies, title has changed to policy 1.01.24.  
+09/11/13  Update Related Policies. Add 2.01.21.  
+09/27/13  Replace policy. Policy updated with literature review through June 4, 2013; reference 
+17 added; policy statement unchanged . 
+03/21/14  Update Related Policies. Delete 7.01.106 and replace with 7.01.553.  
+09/23/14  Annual Review. Policy updated with literature review through June 6, 2014; policy 
+statement unchanged . 
+03/13/15  Update Related Policies. Remove 1.01.24 as it was archived.  
+04/17/15  Update Related Policies. Remove 7.01.553 as it was archived.  
+09/08/15  Annual Review. Removed CPT codes and descriptions from Policy Guidelines section. 
+Policy updated with literature review through June 9, 2015; no references added. Policy statement unchanged.  
+09/01 /16 Annual Review , approved August 9, 2016 . Policy updated with literature review; no 
+references added. Policy statement unchanged.  
+06/01 /17 Annual Review , approved May 2, 2017 . Policy moved to new format.  Policy updated 
+with literature review through January 26, 2017; some references removed. Minor edits 
+to the Policy section; policy statement otherwise unchanged.  
+09/01 /18 Annual Review, approved August 10 , 2018. Policy updated with literature review 
+through April 2018; no references added. Policy statement unchanged.  
+09/01 /19 Annual Review, approved August 6 , 2019. Policy updated with literature review 
+through April 2018; no references added. Policy statement unchanged.  
+09/01/20  Annual Review, approved August 4 , 2020.  Policy updated with literature review 
+through April, 2020; no references added. Policy statement unchanged.  
+09/01/ 21 Annual Review, approved August 3 , 2021 .Policy updated with literature review through 
+April 28, 2021; references added. Policy statement unchanged.  
+08/01/22 Annual Review, approved July 25 , 2022.  Policy updated with literature review through 
+May 5, 2022; references added. Policy statements unchanged.  
+ 
+Disclaimer : This medical policy is a guide in evaluating the medical necessity of a particular service or treatment. The 
+Company adopts policies after careful review of published peer -reviewed scientific literature, national guidelines and 
+local standards of practic e. Since medical technology is constantly changing, the Company reserves the right to Page | 12 of 12                                                                         ∞ review and update policies as appropriate. Member contracts differ in their benefits. Always consult the member 
+benefit booklet or contact a member service representative  to determine coverage for a specific medical service or 
+supply. CPT codes, descriptions and materials are copyrighted by the American Medical Association (AMA). © 2022 
+Premera All Rights Reserved.  
+Scope : Medical policies are systematically developed guide lines that serve as a resource for Company staff when 
+determining coverage for specific medical procedures, drugs or devices. Coverage for medical services is subject to the limits and conditions of the member benefit plan. Members and their providers should consult the member 
+benefit booklet or contact a customer service representative to determine whether there are any benefit limitations 
+applicable to this service or supply. This medical policy does not apply to Medicare Advantage.  
+ Premera Blue Cross is a n independent licensee of the Blue Cross Blue Shield Association  serving businesses and residents of Alaska and Washington State, excluding C lark County.   
+052493  (07-01-2021) Discrimination is Against the Law  
+Premera Blue Cross  (Premera) complies with applicable Federal and Washington state civil rights laws and does not discriminate on the basis of race, 
+color, national o rigin, age, disability, sex, gender identity, or sexual orientation . Premera does not exclude people or treat them differently because of race, 
+color, national origin, age, disability , sex, gender identity, or sexual orientation.  Premera  provides free aids and services to people with disabilities to 
+communica te effectively with us, such as q ualified sign language interpreters  and w ritten information in other formats (large print, audio, accessible 
+electronic formats, other formats) . Premera p rovides fre e language services to people whose primary language is not English, such as  qualified interpreters  
+and i nformation written in other languages . If you need these services, contact the Civil Rights Coordinator.  If you believe that Premera has failed to 
+provide these services or discriminated in another way on the basis of race, color, national origin, age, disability, sex, gender identity, or sexual orientation , 
+you can file a grievance with:  Civil Rights Coordinator ─ Complaints and Appeals , PO Box 91102 , Seattle, WA 98111 , Toll free : 855-332-4535 , Fax: 425-918-5592 , 
+TTY: 711 , Email  AppealsDepartmentInquiries@Premera.com . You can file a grievance in person or by mail, fax, or email.  If you need help filing a 
+grievance, the Civil Rights Coordinator is available to help you.  You can also file a civil rights complaint with the U.S. Department of Health and Human 
+Services, Office for Civil Rights, electronically through the Office for Civil Righ ts Complaint Portal, available at  https://ocrportal.hhs.gov/ocr/portal/lobby.jsf , 
+or by mail or phone at:  U.S. Department of Health and Human Services,  200 Independence Ave SW, Room 509F, HHH B uilding , Washington, D.C. 20201, 
+1-800-368-1019,  800-537-7697 (TDD). Complaint forms are available at  http://www.hhs.gov/ocr/office/file/index.html .  
+Washington  residents : You can also file a civil rights complaint wi th the Washington State Office of the Insurance Commissioner, electronically through 
+the Office of the Insurance Commissioner Complaint Portal available at https://www.insurance.wa.gov/file -complaint -or-check -your-complaint -status , or by 
+phone at 800 -562-6900, 360 -586-0241 (TDD). Complaint forms are available at https: //fortress.wa.gov/oic/onlineservices/cc/pub/complaintinformation.aspx .  
+Alaska  residents : Contact the Alaska Division of Insurance via email at insurance@alaska.gov , or by phone at 907-269-7900 or 1 -800-INSURAK  (in-state, 
+outside Anchorage) . 
+Language Assistance  
+ATENCIÓN : si habla español, tiene a su disposición servicios gratuitos de asistencia lingüística. Llame al 800 -722-1471  (TTY: 711).  
+PAUNAWA : Kung nagsasalita ka ng Tagalog , maaari kang gumamit ng mga serbisyo ng tulong sa wika nang walang bayad. Tumawag sa  800-722-1471  (TTY: 711).  
+注意：如果您使用繁體中文，您可以免費獲得語言援助服務。請致電  800-722-1471  (TTY：711）。 
+CHÚ Ý : Nếu bạn nói Tiếng Việt, có các dịch vụ hỗ trợ ngôn ngữ miễn phí dành cho b ạn.  Gọi số 800-722-1471  (TTY: 711). 
+주의: 한국어를  사용하시는  경우, 언어 지원 서비스를  무료로  이용하실  수 있습니다 . 800-722-1471  (TTY: 711)  번으로  전화해  주십시오 . 
+ВНИМАНИЕ : Если вы говорите на русском языке, то вам доступны бесплатные услуги перевода.  Звоните  800-722-1471  (телетайп: 711). 
+LUS CEEV : Yog tias koj hais lus Hmoob , cov kev pab txog lus, muaj  kev pab dawb  rau koj. Hu rau 800-722-1471  (TTY:  711).  
+MO LOU SILAFIA : Afai e te tautala  Gagana fa'a Sāmoa, o loo iai auaunaga  fesoasoan, e fai fua e leai se totogi, mo oe,  Telefoni mai:  800-722-1471  (TTY: 711).  
+ໂປດຊາບ: ຖ້າວ່າ ທ່ານເວ ້າພາສາ ລາວ, ການບໍລິການຊ່ວຍເຫ  ຼື ອດ້ານພາສາ, ໂດຍບໍ່ເສ ັ ຽຄ່າ, ແມ່ນມ ີພ້ອມໃຫ້ທ່ານ. ໂທຣ 800-722-1471  (TTY: 711) . 
+注意事項 ：日本語を話される場合、無料の言語支援をご利用いただけます。 800-722-1471  （TTY:711）まで、お電話にてご連絡ください。  
+PAKDAAR : Nu saritaem ti Ilocano, ti serbisyo para ti baddang ti lengguahe nga awanan bayadna, ket sidadaan para kenyam.  Awagan ti  800-722-1471  (TTY: 711).  
+УВАГА!  Якщо ви розмовляєте українською мовою, ви можете звернутися до безкоштовної служби мовної підтримки.  Тел ефонуйте за 
+номером 800 -722-1471  (телетайп:  711). 
+ប្រយ័ត្ន៖   បរើសិនជាអ្នកនិយាយ  ភាសាខ្មែរ , បសវាជំនួយខ្ននកភាសា បោយមិនគិត្ឈ្ ន ួល គឺអាចមានសំរារ់រំបរ ើ អ្នក។  ចូរ ទូរស័ព្ទ   800-722-1471 ( TTY: 711)។ 
+ማስታወሻ :  የሚናገሩት  ቋንቋ ኣማርኛ  ከሆነ የትርጉም  እርዳታ ድርጅቶች፣  በነጻ ሊያግዝዎት  ተዘጋጀተዋል፡  ወደ ሚከተለው  ቁጥር ይደውሉ  800-722-1471 (መስማት  ለተሳናቸው : 711). 
+XIYYEEFFANNAA : Afaan  dubbattu  Oroomiffa , tajaajila  gargaarsa  afaanii , kanfaltiidhaan  ala, ni argama . Bilbilaa  800-722-1471 ( TTY: 711).  
+ملحوظة:  إذا كنت تتحدث اذكر اللغة، فإن خدمات المساعدة اللغوية تتوافر لك بالمجان.  اتصل برقم   1471-722-800    :(رقم هاتف الصم والبكم711 .) 
+ਧਿਆਨ  ਧਿਓ: ਜੇ ਤੁਸੀਂ ਪੰਜਾਬੀ  ਬੋਲਿੇ ਹੋ, ਤਾਂ ਭਾਸ਼ਾ ਧ ਿੱਚ ਸਹਾਇਤਾ  ਸੇ ਾ ਤੁਹਾਡੇ ਲਈ ਮੁਫਤ ਉਪਲਬਿ  ਹੈ। 800-722-1471 (TTY:  711) 'ਤੇ ਕਾਲ ਕਰੋ। 
+เรียน : ถ้าคุณพูดภาษาไทยคุณสามารถใช้บริการช่วยเหลือทางภาษาได้ฟรี  โทร 800-722-1471  (TTY: 711).  
+ACHTUNG : Wenn Sie Deutsch sprechen, stehen Ihnen kostenlos sprachliche Hilfsdienstleistungen zur Verfügung. Rufnummer: 800 -722-1471  (TTY: 711).  
+UWAGA : Jeżeli mówisz po polsku, możesz skorzystać z bezpłatnej pomocy językowej. Zadzwoń pod numer 800 -722-1471  (TTY: 711).  
+ATANSYON : Si w pale Kreyòl Ayisyen, gen sèvis èd pou lang ki disponib gratis pou ou.  Rele 800 -722-1471  (TTY: 711).  
+ATTENTION  : Si vous parlez français, des services d'aide linguistique vous sont proposés gratuitement.  Appelez le 800 -722-1471  (ATS :  711).  
+ATENÇÃO : Se fala português, encontram -se disponíveis serviços linguísticos, grátis.  Ligue para 800 -722-1471  (TTY: 711).  
+ATTENZIONE : In caso la lingua parlata sia l'italiano, sono disponibili servizi di assistenza linguistica gratuiti. Chiamare il numero  800-722-1471  (TTY: 711).   
+ توجه: اگر به زبان فارسی گفتگو می کنید، تسهیالت زبانی بصورت رايگان برای شما فراهم می باشد. با   (TTY: 711) 1471-722-800   .تماس بگیريد 

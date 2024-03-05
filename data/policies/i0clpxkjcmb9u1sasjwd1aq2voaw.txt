@@ -1,0 +1,121 @@
+Wellmark Blue Cross and Blue Shield is an independent licensee of the Blue Cross and Blue Shield Association.  1 
+© 20 22 Wellmark,  Inc.   DRUG POLICY  
+ 
+Abecma  (idecabtagene vicleucel ) 
+NOTICE  
+ 
+This policy contains information which is clinical in nature. The policy is not medical advice. The information 
+in this policy is used by Wellmark to make determinations whether medical treatment is covered under the 
+terms of a Wellmark member's health benefit plan. Physicians and other health care providers are 
+responsible for medical advice and treatment. If you have specific health care needs, you should consult 
+an appropriate health care professional. If you would like to request an accessible version of this document, 
+please contact customer service at 800 -524-9242.  
+ 
+BENEFIT APPLICATION  
+ 
+Benefit determinations are based on the applicable contract langua ge in effect at the time the services were 
+rendered. Exclusions, limitations or exceptions may apply. Benefits may vary based on contract, and 
+individual member benefits must be verified. Wellmark determines medical necessity only if the benefit 
+exists and  no contract exclusions are applicable. This medical policy may not apply to FEP. Benefits are 
+determined by the Federal Employee Program.  
+ 
+DESCRIPTION  
+ 
+The intent of the policy is to provide coverage consistent with product labeling, FDA guidance, standards 
+of medical practice, evidence -based drug information, and/or published guidelines.  The indications below 
+including FDA -approved indications and compendial uses are considered covered benefits provided that 
+all the approval criteria are met and the member has no exclusions to the prescribed therapy.  
+ 
+FDA-Approved Indications  
+Abecma is indicated for the treatment of adult patients with relapsed or refractory multiple myeloma after 
+four or mor e lines of therapy including an immunomodulato ry agent, a proteasome inhibitor, and an anti -
+CD38 monoclonal antibody.  
+ 
+POLICY  
+ 
+Required Documentation  
+Submission of the following information is necessary to initiate the prior authorization review:  
+Chart notes, medical record documentation or claims history supportin g lines of therapy  including lab work 
+and diagnostic testing within 7 to 14 days of the approval request to determine the member has adequate 
+organ and bone marrow function and meets the medical necessity criteria . 
+ 
+Criteria for Ini tial Approval  
+Authorization of 3 months may be granted for a one -time treatment of Abecma for members with a 
+confirmed diagnosis of relapsed or refractory multiple myeloma by bone marrow evaluation based on 
+medical documentation in members 18 years of age  and older when ALL of the following are met:  
+Wellmark Blue Cross and Blue Shield is an independent licensee of the Blue Cross and Blue Shield Association.  2 
+© 20 22 Wellmark,  Inc. 1. The member has received prior treatment with at least four prior lines of therapy, including at least one 
+drug from each of the following categories:  
+a. Immunomodulatory agent  (e.g., Thalomid  [thalidomide], Revlimid [lenalidomide], Pomalyst 
+[pomalidomide])  
+b. Proteasome inhibitor  (e.g., Velcade [bortezomib], Kyprolis [carfilzomib], Ninlaro [ixazomib])  
+c. Anti-CD38 monoclonal antibody  (e.g., Darzalex [daratumumab], Empliciti [elotuzumab], 
+Sarclisa [isatuximab])  
+2. The member has not received a previous treatment course of the requested medication, another 
+chimeric antigen receptor (CAR) T -cell therapy directed at any target, or any therapy that is targeted to 
+B-cell maturation antigen (BCMA).  
+3. The member has an ECOG performance status of 0 to 2.  (Member is ambulatory and capable of all 
+self-care but unable to carry out any work activities. Up and about more than 50% of waking hours.)  
+4. The member has adequate and stable kidney, liver, pulmonary  and cardiac function as demonstrated 
+by all of the following : 
+a. Creatinine clearance >45mL/minute  
+b. Alanine aminotransferase ( ALT) less than 2.5 times upper limit of normal  
+c. Ejection fraction ≥45%  
+d. Neutrophil count ≥1000 cells/mm3  
+e. Platelet count ≥50,000/mm3 
+5. The member does not have clinically significant active infection , including c onfirmation member does 
+not have active hepatitis B (HBsAG negative) or hepatitis C virus (anti -HCV negative); (a history of 
+hepatitis B or hepatitis C virus is permitted if the viral  load is undetectable per quantitative PCR and/or 
+nucleic acid testing) . 
+6. The member does not have an active inflammatory disorder.  
+7. The member does not have central nervous system (CNS) involvement with myeloma.  
+8. The member does not have a history or presenc e of CNS disorders such as epilepsy/seizure disorder, 
+paresis, aphasia, s troke, cerebral edema, severe brain injuries, dementia, Parkinson’s disease, 
+cerebellar disease, organic brain syndrome, or p sychosis.  
+9. The member will receive Abecma at a treatment ce nter that is certified to administer Abecma per 
+Abecma REMS requirements.  
+ 
+Continuation of Therapy  
+Repeat treatment of Abecma  for any indication is considered investigational, as the safety and efficacy 
+beyond one dose has not been studied.  The evidence is insufficient to determine the effects on net health 
+outcomes.  
+ 
+Dosing and Administration  
+Approvals may be subject to dosing limits in accordance with FDA -approved labeling, accepted compendia, 
+and/or evidence -based practice guidelines.  
+Quantity Limits  
+Abecma approvals will be limited to one treatment per lifetime.  
+ 
+PROCEDURES AND BILLING CODE S 
+ 
+To report provider services, use appropriate CPT* codes, Alpha Numeric (HCPCS level 2) codes, 
+Revenue codes, and/or ICD diagnostic codes.  
+• Q2055 – Idecabtagene vicleucel, up to 460 million autologous b -cell maturation antigen (bcma) 
+directed CAR -positive cells, including leukapheresis and dose preparation procedures, per 
+therapeutic dose.  
+ 
+ Wellmark Blue Cross and Blue Shield is an independent licensee of the Blue Cross and Blue Shield Association.  3 
+© 20 22 Wellmark,  Inc. REFERENCES  
+ 
+• Abecma [package insert]. Summit, NJ: Celgene Corporation; March 2021  
+• Munshi NC, Anderson LD Jr, Shah N, et al. Idecabtagene Vicleucel in Relapsed and Refractory 
+Multiple Myeloma. N Engl J Med. 2021 Feb 25;384(8):705 -716 
+• Food and Drug Administration (FDA) Drug approvals. FDA approval idecabtagene -vicleucel for 
+multiple myelo ma https://www.fda.gov  
+• National Comprehensive Cancer Network (NCCN) Multiple Myeloma Version 5.2022. 
+https://www.nccn.org  
+• KarMMA Clinical Trial NCT03361748  
+• Mikhael J, Ismaila N, Cheung MC, et al. Treatment of Multiple Myeloma: ASCO and CCO Joint 
+Clinical Practice Guideline. J Clin Oncol. May 10 2019; 37(14): 1228 -1263. PMID 30932732.  
+• Pick M, Vainstein V, Goldschmidt N, et al. Daratumumab resistance is frequent in advanced -
+stage multiple myeloma patients irrespective of CD38 expression and is related to dismal 
+prognosis. Eur J Haematol. May 2018; 100(5): 491 -501. PMID 29453884.  
+ 
+POLICY HISTORY  
+ 
+Policy #:  05.04.74  
+Original Effective Date:   January 1, 2023  
+Reviewed:   October 2022  
+Revised:   
+Current Effective Date: January 1, 2023  
+ 

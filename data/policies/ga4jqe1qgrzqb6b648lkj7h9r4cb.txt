@@ -1,0 +1,232 @@
+ 
+ 
+Medical and Drug
+Policies
+Policies & Guidelines
+Advanced Imaging
+Draft Policies
+Autism Spectrum Mandate
+Behavioral Health
+Blue Advantage Policies
+Advanced Imaging
+Draft Policies
+Genetic Testing
+Draft Genetic Testing Policies
+Medical Policies
+Draft Policies
+Final Policies
+Provider-Administered Drug Policies (Excluding Oncology)
+Current Provider-Administered Drug Policies
+Draft Provider-Administered Drug Policies
+Previous Provider-Administered Drug Policies
+Provider-Administered Oncology Drug Policies
+Current Provider-Administered Oncology Drug Policies
+Draft Provider-Administered Oncology Drug Policies
+Previous Provider-Administered Oncology Drug Policies
+Radiation Therapy
+Draft Policies
+Chronic Condition Management
+Genetic Testing
+Draft Genetic Testing Policies
+HealthSmartRx Smart RxAssist Program
+Hemophilia Drugs
+Draft Hemophilia Drug Policies
+Final Hemophilia Drug Policies
+Hemophilia Drug Prior Authorization
+PEEHIP Hemophilia Drug Program
+Medical Policies
+Draft Medical Policies
+Final Medical Policies
+Provider-Administered Drug Policies (Excluding Oncology)
+Draft Provider-Administered Drug Policies
+Final Provider-Administered Drug Precertification Policies
+Mandatory Site of Service
+Provider-Administered Drug Claim Edit Policies
+Voluntary Site of Service
+Provider-Administered Oncology Drug Policies
+Current Provider-Administered Oncology Drug Policies
+Draft Provider-Administered Oncology Drug Policies
+Radiation Therapy
+Draft Policies
+Self-Administered Drug Policies
+Draft Self-Administered Drug Policies
+Final Self-Administered Drug Policies
+Self-Administered Drug Prior Authorization Forms
+Transgender Services
+ 
+ph-0593
+ 
+Print
+ 
+ 
+BackAmondys-45
+™
+ (casimersen)
+Policy Number: PH-0593
+Intravenous
+Last Review Date: 08/01/2022
+Date of Origin:
+ 04/06/2021
+Dates Reviewed: 
+04/2021, 07/2021, 08/2021, 10/2021, 08/2022
+I
+. 
+Description of Procedure or Service
+Amondys-45 (formerly SRP-4045) is an antisense oligonucleotide designed to bind to exon 45 of dystrophin pre-mRNA. This results
+in the exclusion or skipping of exon 45 which allows for production of dystrophin that is truncated, but still partially functional. It is
+estimated that approximately 8% of patients may be amenable to exon 45 skipping. Dystrophin is the protein that is absent in patients
+with Duchenne Muscular Dystrophy (DMD) which results in muscle damage and progressive dysfunction.
+II
+. 
+Policy
+Amondys-45™ (casimersen) is considered not medically necessary for all indications including treatment of Duchenne’s muscular
+dystrophy.
+Note: There is insufficient clinical evidence for demonstrated efficacy.
+III
+. 
+Key Points 
+Current treatment options for DMD focus on symptomatic management and prevention of complications. The mainstay of treatment
+is to offer patients glucocorticoids which have been confirmed to improve motor strength and function, pulmonary function, reduce
+the risk of scoliosis, and may delay the onset of cardiomyopathy. Current guidelines recommend initiation of glucocorticoids (such as
+prednisone) once patients reach a plateau of motor skill development, generally at age 4-6 years, but prior to onset of motor decline.
+Other therapies include ACE-inhibitors or Beta-blockers for cardiac disease, immunizations, pain management, respiratory support,
+and comorbidity surveillance. Eteplirsen was approved September of 2016 for the treatment of DMD in patients with a confirmed
+mutation of the DMD gene that is amenable to exon 51 skipping. Golodirsen and viltolarsen were approved (December 2019 and
+August 2020 respectively) for the treatment of DMD in patients with a confirmed mutation of the DMD gene that is amenable to exon
+53 skipping.
+In much the same way as the aforementioned exon-skipping therapies, casimersen approval occurred following priority review as an
+accelerated approval allowing for use of a surrogate endpoint (contingent upon verification of a clinical benefit in ongoing
+confirmatory clinical trials) of dystrophin increase in skeletal muscle observed in patients. Sarepta received FDA approval February
+25, 2021. Whether the increase in truncated dystrophin level seen in the trial is reasonably likely to confer a clinical benefit remains
+to be elucidated. The below excerpts from the clinical study elaborate upon the question of clinical benefit posited with casimersen
+treatment.
+IV
+. 
+Clinical Trials and FDA Review 
+Study 1/ESSENCE/4045-301 (NCT02500381)
+Patients in this Phase 3 trial were required to be ambulatory males between 7 and 13 years of age (median 9 years) on a stable dose
+of corticosteroids for at least 24 weeks with a mutation in the DMD gene amenable to exon 45 skipping. This is an ongoing,
+multicenter, two-part study. Part 1 is a double-blind, placebo-controlled 96-week treatment period which will be followed by a 48-
+week open-label treatment period (Part 2). Interim efficacy was assessed based on change from baseline in dystrophin biopsy at
+week 48 of Part 1. There were 43 evaluable patients (n=27 casimersen; n=16 placebo) assessed for dystrophin by Sarepta Western
+blot. The change from baseline mean were 0.22 and 0.81 for placebo and casimersen respectively which equates to a between
+group mean difference of 0.59 (p=0.004). The primary outcome measure is change from baseline in the total distance walked during
+6MWT at Week 96 with an estimated primary completion date for the study of May 2022 (estimated study completion date May
+2023).
+V
+. 
+Billing Code/Availability Information
+HCPCS Code:
+J1426 – Injection, casimersen, 10 mg; 1 billable unit = 10 mg
+NDC:
+Amondys 45 100 mg/2 mL single-dose vial: 60923-0227-xx
+VI
+. 
+References
+1
+. 
+Amondys 45 [package insert]. Cambridge, MA; Sarepta Therapeutics, Inc.; February 2021. Accessed June 2022.
+1-6
+1-7
+rd2
+. 
+Topaloglu H, Gloss D, Moxley RT 3
+, et al. Practice guideline update summary: Corticosteroid treatment of Duchenne muscular
+dystrophy: Report of the Guideline Development Subcommittee of the American Academy of Neurology. Neurology. 2016 Jul
+12;87(2):238.
+3
+. 
+Bushby K, Finkel R, Birnkrant DJ, et al. Diagnosis and management of Duchenne muscular dystrophy, part 1: diagnosis, and
+pharmacological and psychosocial management. Lancet Neurol; 2010 Jan; 9(1):77
+‑
+93.
+4
+. 
+Bushby K, Finkel R, Birnkrant DJ, et al. Diagnosis and management of Duchenne muscular dystrophy, part 2: implementation of
+multidisciplinary care. Lancet Neurol; 2010 Jan; 9(2):177-189.
+5
+. 
+Sarepta Therapeutics. A Double-Blind, Placebo-Controlled, Multi-Center Study With an Open-Label Extension to Evaluate the
+Efficacy and Safety of SRP-4045 and SRP-4053 in Patients With Duchenne Muscular Dystrophy. Available from: h
+https://clinicaltrials.gov/ct2/show/NCT02500381?term=NCT02500381&draw=2&rank=1. NLM identifier: NCT02500381. Accessed
+June 22, 2022.
+6
+. 
+Darras BT, Urion DK, Ghosh PS. Dystrophinopathies. GeneReviews. www.ncbi.nlm.nih.gov/books/NBK1119/ (Accessed on June
+22, 2022)
+7
+. 
+Birnkrant DJ, Bushby K, Bann CM, et al. Diagnosis and management of Duchenne muscular dystrophy, part 1: diagnosis, and
+neuromuscular, rehabilitation, endocrine, and gastrointestinal and nutritional management. Lancet Neurol 2018; 17:251.
+8
+. 
+Birnkrant DJ, Bushby K, Bann CM, et al. Diagnosis and management of Duchenne muscular dystrophy, part 2: respiratory, cardiac,
+bone health, and orthopaedic management. Lancet Neurol 2018; 17:347.
+Appendix 1 – Covered Diagnosis Codes
+ICD-10
+ICD-10 Description
+G71.01
+Duchenne or Becker muscular dystrophy
+Appendix 2 – Centers for Medicare and Medicaid Services (CMS)
+Medicare coverage for outpatient (Part B) drugs is outlined in the Medicare Benefit Policy Manual (Pub. 100-2), Chapter 15, §50 Drugs and
+Biologicals. In addition, National Coverage Determination (NCD), Local Coverage Articles (LCAs), and Local Coverage Determinations
+(LCDs) may exist and compliance with these policies is required where applicable. 
+They can be found at: 
+https://www.cms.gov/medicare-
+coverage-database/search.aspx
+. 
+Additional indications may be covered at the discretion of the health plan.
+Medicare Part B Covered Diagnosis Codes (applicable to existing NCD/LCA/LCD)
+: N/A
+Medicare Part B Administrative Contractor (MAC) Jurisdictions
+Jurisdiction
+Applicable State/US Territory
+Contractor
+E (1)
+CA, HI, NV, AS, GU, CNMI
+Noridian Healthcare Solutions, LLC
+F (2 & 3)
+AK, WA, OR, ID, ND, SD, MT, WY, UT, AZ
+Noridian Healthcare Solutions, LLC
+5
+KS, NE, IA, MO
+Wisconsin Physicians Service Insurance Corp (WPS)
+6
+MN, WI, IL
+National Government Services, Inc. (NGS)
+H (4 & 7)
+LA, AR, MS, TX, OK, CO, NM
+Novitas Solutions, Inc.
+8
+MI, IN
+Wisconsin Physicians Service Insurance Corp (WPS)
+N (9)
+FL, PR, VI
+First Coast Service Options, Inc.
+J (10)
+TN, GA, AL
+Palmetto GBA, LLC
+M (11)
+NC, SC, WV, VA (excluding below)
+Palmetto GBA, LLC
+L (12)
+DE, MD, PA, NJ, DC 
+(includes Arlington & Fairfax
+counties and the city of Alexandria in VA)
+Novitas Solutions, Inc.
+K (13 & 14)
+NY, CT, MA, RI, VT, ME, NH
+National Government Services, Inc. (NGS)
+15
+KY, OH
+CGS Administrators, LLC
+ 
+ 
+AMONDYS 45™
+ 
+(casimersen) Prior Auth Criteria
+Proprietary Information. Restricted Access – Do not disseminate or copy without approval.
+©2022, Magellan Rx Management
+rdCPT codes, descriptions and data copyright ©BCBSPREVIOUSYEAR American Medical Association. All rights reserved. Applicable FARS/DFARS apply.
+CDT codes, descriptions and data copyright ©BCBSPREVIOUSYEAR American Dental Association. All rights reserved.
+© BCBSCURRENTYEAR Blue Cross and Blue Shield of Alabama is an independent licensee of the Blue Cross and Blue Shield Association. 

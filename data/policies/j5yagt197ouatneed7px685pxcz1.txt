@@ -1,0 +1,178 @@
+DR.007. B – Adakve o®(Crizanlizumab -tcma)    page 1 DR.007. B Adakveo® (Crizanlizumab- tcma)  
+Title:  Adakveo®(Crizanlizumab- tcma)  
+Policy #: DR.007. B 
+Type:  Medical  
+Sub-Type:  Drug (DR)  Original Implementation Date:  8/1/2020 
+Version Date [ B]: 1/1/2021  
+Last Review Date:  2/16/2022  
+ 
+TABLE OF CONTENTS  
+Product Variations  …………………………1  
+FDA Approved Indictations  ……………1  
+Policy Statement  ………………………… …1 
+Prior Authorization Criteria  ……………1  
+Dosage and Administration …………..2  Risk Factors/Side Effects  …………………. 2 
+Monitoring  .…………………………………….3  
+Policy Guidelines  .……………………………3  
+Coding  ..…………………………………………..3  
+Background ..….……………………………….4  Clinical Trial Evidence  ..…………………… 4 
+Disclaimer  .……………………………………..5  
+Policy History  .…………………………………5  
+References  …..……… .……………………….. 5 
+ 
+PRODUCT VARIATIONS  
+This policy only applies to Health Partners Plans (HPP) Medicare product line.  
+FDA APPROVED INDICATIONS  
+Adakveo® is a monoclonal antibody used to reduce the frequency of vasoocclusive crises in adult and pediatric patients 
+16 years or older with sickle cell disease.  
+POLICY STATEMENT  
+ 
+Health Partners Plans (HPP) considers Adakveo ®(Crizanlizumab -tcma) medically necessary  to reduce the frequency of 
+vasoocclusive crises in adult and pediatric patients 16 years or older  with sickle cell disease.  
+PRIOR AUTHORIZATION CRITERIA  
+INITIAL CRITERIA  
+AUTHORIZATION DURATI ON: IF ALL CRITERIA MET , APPROVE FOR 6 MONT HS 
+1) Adults 16  years of age and older;  AND  
+2) Medication is being prescribed by or in consultation with a specialist (i.e.hematolagist); AND  
+DR.007. B – Adakve o®(Crizanlizumab -tcma)    page 2 3) Patients with documented diagnosis of a sickle cell disease (homozygous hemoglobin S [HbSS], sickle 
+hemoglobin C disease [HbSC], sickle β0 -thalassemia [HbSβ0 -thalassemia], sickle β+ -thalassemia [HbSβ+ -
+thalassemia], or other genotypes); AND  
+I. Patient has experienced at least two sickle cell -related pain crises in the prior year  
+4) If patient is female and of childbearing potential, has documentation of recent negative pregnancy test; AND  
+5) Patient has had previous treatment, intolerance, or contraindication with hydroxyurea, or is taking 
+concomitantly with Adakveo ®; AND  
+6) Patient is not receiving concomitant chronic, prophylactic blood transfusion therapy; AND  
+7) Patient is not receiving concomitant Oxybryta (voxelotor) therapy; AND  
+8) Adakveo ® initial dosing is in accorda nce with the United States Food and Drug Administration approved 
+labeling: 5 mg/kg by intravenous infusion on week 0, week 2 and every 4 weeks thereafter  
+9) Please note: For members who are new to the plan and are already treated and stable with Adakveo ® 
+(records must be attached), the medication will be approved for continuation of treatment . 
+ DOSAGE AND ADMINISTRATION  
+ 
+DOSING RECOMMENDATIONS  
+ Recommended  administration of Adakveo ® 5mg/kg by intravenous infusion over a period of 30 minutes at Week 
+0, Week 2, and every 4 weeks thereafter.  
+ If a dose is missed, administer Adakveo ® as soon as possible. If Adakveo ® is administered within 2 weeks after 
+the missed dose, continue original dosing schedule.  
+ Adakveo ® may be given with or without hydroxyurea.  
+ Recommended to dilute Adakveo ® in 0.9% Sodium Chloride Injection, USP or 5% Dextrose Injection, USP to a 
+total volume of 100 mL for intravenous infusion.  
+ Administer Adakveo ® diluted soluti on by intravenous infusion over a period of 30 minutes, do not mix or co -
+administer with other drugs through the same intravenous line.  
+This information is not meant to replace clinical decision making when initiating or modifying medication therapy and 
+should only be used as a guide. Patient -specific variables should be taken into account.  
+RISK FACTORS/SIDE EFFECTS   
+ 
+Infusion Reactions:  
+Infusion- related reactions (occurring within 24 hours of infusion) have been reported. Symptoms may include fever, 
+chills, nausea, vomiting, fatigue, dizziness, pruritus, urticaria, sweating, dyspnea, or wheezing. Monitor patients for signs and symptoms of infusion- related reactions. Discontinue Adakveo ® infusion for severe reactions and manage as clinically 
+necessary.  
+Pregnancy:  
+Adakveo ® has the potential to cause fetal harm when administered to pregnant women. Adakveo ® should only be used 
+during pregnancy if the expected benefit to the patient justifies the potential risk to the fetus .  DR.007. B – Adakve o®(Crizanlizumab -tcma)    page 3 Adverse Reactions:  
+The most comm on adverse reactions (≥ 10%) were nausea, arthralgia, back pain, and pyrexia.  
+MONITORING  
+• During therapy: Infusion reactions.  
+POLICY GUIDELINES  
+N/A 
+CODING  
+The Current Procedural Terminology (CPT®), Healthcare Common Procedure Coding System (HCPCS), and ICD -10 
+codes that may be listed in this policy are for reference purposes only. Listing of a code in this policy does not imply 
+that the service is covered and is not a guarantee of payment. Other policies and coverage guidelines may apply. 
+When reporting services, providers/facilities should code to the highest level of specificity using the code that was in 
+effect on the date the service was rendered. This list may not be all inclusive.  
+CPT Code  Description  
+N/A N/A 
+ 
+CPT® is a registered trademark of the American Medical Association.  
+HCPCS Code  Description  
+J0791 Injection, crizanlizumab- tmca, 5 mg  
+ 
+ICD-10 Code  Description  
+D57.00 Hb-SS disease with crisis, unspecified  
+ 
+D57.001 Hb-SS disease with acute chest syndrome  
+ 
+D57.002 Hb-SS disease with splenic  
+ 
+D57.1 Sickle -cell disease without crisis  
+ 
+D57.20 Sickle -cell/Hb -C disease without crisis  
+ 
+D57.211 Sickle -cell/Hb -C disease without crisis  
+ DR.007. B – Adakve o®(Crizanlizumab -tcma)    page 4  
+BACKGROUND  
+ 
+Sickle cell disease (SCD) is an inherited group of disorders characterized by the presence of hemoglobin S (HbS), either 
+from homozygosity for the sickle mutation in the beta globin chain of hemoglobin (HbSS) or from compound 
+heterozygosity of a sickle beta globin mutation with another beta globin mutation (e .g., sickle -beta thalassemia). The 
+hallmarks of SCD are vaso -occlusive phenomena and hemolytic anemia.  
+Crizanlizumab -tmca (Adakveo ®) is a  humanized IgG2 kappa monoclonal antibody that was approved by the U.S. Food 
+and Drug Administration (FDA) in November 2019. It works by binding to P -selectin and blocking interaction with its 
+ligands, including P -selectin glycoprotein ligand 1 on the surf ace of activated endothelium and platelets, causing a 
+blockage of interactions between endothelial cells, platelets, red blood cells, and leukocytes . 
+CLINICAL TRIAL EVIDENCE  
+ 
+The efficacy of crizanlizumab was evaluated in a 52 -week, randomized, placebo -controlled,  double -blind, multicenter, 
+phase 2 study of 198 patients with sickle cell disease (SUSTAIN trial;  NCT01895361). Patients included in the trial were 
+16 to 65 years of age, had sickle cell disease  (SCD) of any genotype (HbSS, HbSC, HbS/beta0 -thalas semia, HbS/beta+ -
+thalassemia, and others)  and a history of 2 to 10 VOCs in the previous 12 months as determined by medical history or by  
+patient’s recall (crises included the occurrence of appropriate symptoms, a visit to a specific  medical facility and/or  
+healthcare professional, and receipt of pain medication). Patients  undergoing long -term red blood cell transfusion 
+therapy or with a hemoglobin level less than 4  g/dL were excluded from the trial. Patients were randomized 1:1:1 to 
+receive high -dos crizanl izumab 5 mg/kg (n=67), low -dose crizanlizumab 2.5 mg/kg (n=66), or placebo (n=65) as a  30-
+minute intravenous infusion on week 0, week 2, and every 4 weeks thereafter for the duration of 52 -week treatment. 
+Patients received crizanlizumab with or without hydroxyurea and were  permitted to receive periodic transfusions and D57.212 Sickle -cell/Hb -C disease with splenic sequestration  
+ 
+D57.219 Sickle -cell/Hb -C disease with splenic unspecified  
+ 
+D57.40 Sickle -cell thalassemia without crisis  
+ 
+D57.411 Sickle -cell thalassemia with acute chest syndrome  
+ 
+D57.412 Sickle -cell thalassemia with splenic sequestration  
+ 
+D57.419 Sickle -cell thalassemia, unspecified  
+ 
+D57.80 Other sickle -cell disorders, without crisis  
+ 
+D57.811 Other sickle -cell disorders with acute chest syndrome  
+ 
+D57.812 Other sickle -cell disorders with splenic sequestration  
+ 
+D57.819 Other sickle -cell disorders, unspecified DR.007. B – Adakve o®(Crizanlizumab -tcma)    page 5 pain medications (i.e., acetaminophen, NSAIDs,  and opioids) as needed. Sixty -two percent (62%) of enrolled patients 
+were receiving hydroxyurea  at baseline. Patients receiving hydroxyurea at s tudy entry had to have been taking the drug 
+for at  least 6 months and on a stable dose for at least the most recent 3 months. Hydroxyurea could not  be initiated 
+during the trial for patients not receiving the drug at study entry. The primary  efficacy endpo int was the annual rate of 
+sickle cell- related pain crises (VOCs) leading to a  healthcare visit in the high- dose crizanlizumab group versus placebo. 
+SCD patients in the high dose  crizanlizumab group had a statistically significant lower median annual rate of VOC  
+compared to patients in the placebo group (1.63 vs. 2.98; p=0.01), indicating a 45.3% lower rate  with high- dose 
+crizanlizumab. Reductions in VOC frequency were observed in study participants  regardless of SCD genotype and/or 
+hydroxyurea use.  
+DISCLAIMER  
+ 
+Approval or denial of payment does not constitute medical advice and is neither intended to guide nor inf luence medical 
+decision making.  
+POLICY HISTORY  
+ 
+Summary  Version  Version Effective Date  
+2022 annual review. No changes.  B 1/1/2021 
+Version B. This policy only applies to HPP Medicare LOB. No other 
+changes for 2021.  B 1/1/2021 
+New Drug Policy.  A 8/1/2020 
+ 
+REFERE NCES 
+1. Adakveo® [prescribing information]. East Hanover,  NJ: Novartis Pharmaceuticals Corporation. 2019 November. 
+https://www.pharma.us.novartis.com/sites/www.pharma.us.novartis.com/files/adakveo ®.pdf 
+2. IPD Analytics. New Drug Review Adakveo ® (crizanlizumab -tcma). 2019.  
+3. Brawley OW, Cornelius LJ, Edwards LR, Northington Gamble V, Green BL, Inturrisi C, James A H, Laraque D, 
+Mendez M, Montoya CJ, Pollock BH, Robinson L, Scholnik AP, Schori M. National Institutes of Health 
+Consensus Development Conference Statement: hydroxyurea treatment for sickle cell disease. Ann Intern 
+Med. 2008;148:932- 8. 
+4. Creary, Susan E, Str ouse, John J. Hydroxyurea and Transfusion Therapy for the Treatment of Sickle Cell 
+Disease. American Society of Hematology 2014.  
+5. Truven Health Analytics Micromedex® DrugDex® Compendium. crizanlizumab ( Adakveo ™). Greenwood 
+Village, CO. [Micromedex® Solutio ns Web site]. Available at: 
+https://www.micromedexsolutions.com/micromedex2/librarian (via subscription only). March 18, 2020.  
+6. Disease -modifying therapies for prevention of vaso -occlusive pain in sickle cell disease, Elliot P Vichinsky, MD, 
+Up-To-Date Onli ne.  DR.007. B – Adakve o®(Crizanlizumab -tcma)    page 6 7. Crizanlizumab. Up- To-Date Online. Accessed: March 2020.  

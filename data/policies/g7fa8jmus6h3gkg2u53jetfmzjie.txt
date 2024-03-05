@@ -1,0 +1,171 @@
+01-95805 -20 
+Original Effective Date: 03/15/15  
+Reviewed:  07/22/2 1 
+Revised:  05/22/23  
+Subject: Autonomic Nervous System  Testing  
+THIS MEDICAL COVERAGE GUIDELINE IS NOT AN AUTHORIZATION, CERTIFIC ATION, E XPLANATION OF BENEFITS, OR A 
+GUARANTEE OF PAYMENT, NOR DOES IT SUBSTITUTE FOR OR CONSTITUTE MEDICAL ADVICE. ALL MEDICAL DECISI ONS ARE 
+SOLELY THE RESPONSIBILITY OF THE PATIENT AND PHYSICIAN. BENEFITS ARE DETERMINED BY THE GROUP CONTRACT, 
+MEMBER BENE FIT BOOK LET, AND/OR INDIVIDUAL SUBSCRIBER CERTIFICATE IN EFFECT  AT THE TIME SERVICES WERE 
+RENDERED. THIS MEDICAL COVERAGE GUIDELINE AP PLIES TO ALL LINES OF BUSINESS UNLESS OTHERWISE NOTED IN THE 
+PROGRAM EXCEPTIONS SECTION.  
+Position 
+Statement  Billing/Coding  Reimbursement  Program 
+Exceptions  Definitions  Related 
+Guideli nes 
+Other  References  Updates     
+DESCRIPTION:  
+The autonomic nervous system (A NS) controls physiologic processes  that are not under conscious 
+control. ANS disorders, also called dysau tonomias, are heterogeneous in etiology, clinical symptoms, 
+and severity. ANS disorders can be limited and focal, such as patients with isolated neuroc ardiogenic 
+syncope or idiopathic p almar hyperhidrosis. At the other extreme, some ANS disorders can be 
+widespread and severely disabling, such as multiple systems atrophy, which leads to widespread and 
+severe autonomic failure.  
+ANS testing consists of a ba ttery of tests that evaluate the i ntegrity and function of the ANS. These tests 
+are intended as adjuncts to the clinical examination in the diagnosis of ANS disorders. ANS testing is 
+performed in a dedicated ANS testing laborat ory. Testing in a dedicated laboratory should be performed 
+unde r closely controlled conditions, and results should be interpreted by an individual with expertise in 
+ANS testing. Testing using automated devices with results interpreted by computer software has not 
+been validated and th us has the potential to lead to er roneous results.  
+POSITION STATEMENT:  
+Autonomic nervous system (ANS) tes ting, consisting of a battery of tests in several domains, meets the 
+definition of medical necessity  when ALL of the follo wing criteria are met:  
+A. Signs and/or symptoms * of autonomic dysf unction are present; AND  
+B. A definitive diagnosis cannot be made from cli nical examination and routine laboratory testing 
+alone; AND  
+C. Diagnosis of the suspected autonomic disorder will lead to a c hange in management or will 
+eliminat e the need for further test ing. Note:  Although there is not a standard battery of tests that are p art of ANS testing, a full battery of 
+testing generally consists of individual tests in three categories : 1. Cardiovagal f unction (heart rate [HR] 
+variability, HR response to deep breat hing and Valsalva  maneuver ); 2. Vasomotor adrenergic function 
+(blood pr essure [BP] response to standing, Valsalva  maneuver , and hand grip, tilt table testing); 3. 
+Sudomotor function ( Quantitati ve Sudomotor Axon Reflex Test  (QSART ), Thermoregulatory Sweat T est 
+(TST), silastic sweat imprin t, sympathetic skin response, electroch emical sweat conductance ). At least  
+one test in each category is usually performed. More than one test from a category wil l often be 
+included in a batt ery of tests, but the incremental value of using multiple tests in a category  is not 
+known.  
+*(Symptoms of  autonomic disorders can be varied, based on the etiology and location of dysfunction. 
+Cardiovascular manifestations are o ften prominent. Involvement o f the cardiovascular system causes  
+abnormalities in heart rate control and vascular dynamics. Orthostatic  hypotension and other 
+manifestations of BP lability can occur, causing weakness, dizziness, and syncope. Resting tachycar dia 
+and an inability to appro priately increase heart rate in re sponse to exertion leads to exercise 
+intolerance.)  
+Autonomic nervous sy stem testing is considered experimental or investigational in all other situations 
+when criteria are not met, including bu t not limited to the evaluati on of the following conditions : 
+ chronic fatigue syndrome  
+ fibromyalgia  
+ anxiety an d other psychological di sorders  
+ sleep apnea  
+ allergic conditions  
+ hypertension  
+ screen ing of asymptomatic individuals  
+ monitoring progression of di sease or response to treatment.  
+The evidence is insufficient to de termine the effects of the technology on health outcomes.  
+The following  tests are generally considered to have uncertain value in ANS testing and are considered 
+experimental or investigational  when used in ANS testing:  
+ Pupi llography  
+ Pupil edge light cycle  
+ Gastric emptying tests  
+ Cold pressor test  
+ Quantitative direct and indir ect testing of sudomotor function (QDIRT) test 
+ Plasma catecholamine levels  
+ Skin vasomotor testing   The ANSAR® test. 
+The evi dence is insufficient to determ ine the effects of the technolog y on health outcomes.  
+Autonomic nervous system testing using portable a utomated devices is considered experimental or  
+investigational for all indications. These devices have not been validated and have a greater potential to  
+lead to erroneous results.  
+BILL ING/CODING INFORMATION:  
+CPT Coding:  
+95921  Testing of autonomic nervous system function; cardiovagal innervation (parasympathetic 
+function), including 2 or more of the following: heart rate resp onse to deep breathing 
+with rec orded R -R interval, Valsalva rat io, and 30:15 ratio  
+95922  Testing of autonomic nervous system function ; vasomotor adrenergic innervation 
+(sympathetic adrenergic function), including beat -to-beat blood pressure and R -R 
+interv al changes during Valsalva mane uver and at least 5 minutes of p assive tilt  
+95923  Testing of autonomic nervous system function; sudomo tor, including 1 or more of the 
+following: quantitative sudomotor axon reflex test (QSART), silastic sweat imprint, 
+thermo regulatory sweat test, and chan ges in sympathetic skin potentia l 
+95924  Testing of autonomic nervous system function; combined parasym pathetic and 
+sympathetic adrenergic function testing with at least 5 minutes of passive tilt  
+REIMBURSEMENT I NFORMATION:  
+Refer to section entitled POSITION STATEMENT . 
+PROGRAM EXCEPTIONS:  
+Federal Employee Program (FEP): Follow FEP guidelines.  
+State Accoun t Organization (SAO):  Follow SAO guidelines.  
+Medicare Advantage product s: The following Local Coverage Determinatio n (LCD) was reviewed on the 
+last guideline review  date : Autonomic Function Tes ts (L33609 ) located at fcso.com.  
+If this Medical Coverage Guideline contains a step therapy requirement, in compliance with Florida law 
+627.42393, members or providers may reques t a step therapy protocol exemption to this requirement if 
+based on medical necessity. The process for requesting a protocol exemption can be found at Coverage 
+Protocol  Exemption Reque st 
+DEFINITIONS:  
+No guideline spec ific definitions apply.  RELATED GUIDELINES:  
+Nerve Conduction Stu dies; F -Wave Stud ies; H - Reflex Studies, 01 -95805 -02 
+Evoked Pot entials, Intraoperative Neurophysiologic Testing, and Quantitative Electroencephalography 
+(QEEG),  01-95805 -13 
+Quantita tive Sensory Testing, 01 -95805 -18 
+OTHER:  
+None applicable.  
+REFERENCES:  
+1. American Association of Neuromuscular Electrodiagno stic Medicine. Proper performance of 
+autonomic function testing . Muscle Nerve. Jan 2017;55(1):3 -4. 
+2. American Diabetes Association. 11. Microvascular Complications and Foot Care: Standards of 
+Medical Care in D iabetes -2021. Diabetes Care. Jan 2021; 44(Suppl 1 ): S151 -S167.  
+3. Bellavere F, Ragazzi E, et al. Autonomic testing:  which value for each cardiovascular t est? An 
+observational study.  Acta Diabetol. 2019 Jan;56(1):39 -43. doi: 10.1007/s00592 -018-1215-y. Epub 
+2018 Aug 29.  PMID:30159748 . 
+4. Blue Cross Blue Shield A ssociation (BCBSA) Evidence Positioning System®;  2.01.96 Autonomic  
+Nervous System Testing, 07/21.  
+5. Cheshire WP, Freeman R, et al. Elec trodiagnostic assessment of the au tonomic nervous system: A 
+consensus  statement endorsed by the American Autonomic Society , American Academy of 
+Neurology, and the International Federation of Clinical Neurophysiology. Clin N europhysiol. Feb 
+2021; 132(2): 66 6-682. 
+6. Cheshire WP, Goldstein DS. Autonomic uprising: the tilt table test in autonomic medicine.  Clin Auton 
+Res. 2019 Apr; 29(2):215 -230. doi: 10.1 007/s10286 -019-00598 -9. Epub 2019 Mar 5.  PMID: 
+30838497 . 
+7. ClinicalTrials.gov. Cardiac Autonomic Function in Wom en with Microvascular Coronary Dys function; 
+accessed June 2021.  
+8. ClinicalTrials.gov. Pathophysiology of Orthostatic Intole rance; accessed June 202 1. 
+9. D'Amato C, Greco C, et al. The diagnostic usefulness of the combined COMPAS S 31 questionnaire 
+and electroch emical skin conductance for diabet ic cardiovascular autonom ic neuropathy and diabetic 
+polyneuropathy. J PeripherNerv Syst.  Mar 2020; 25(1): 44 -53. PMID: 31985124.  
+10. England JD, Gronseth GS , et al. Practice Parameter: evaluatio n of distal symmetric polyneurop athy: 
+role of autonomic testing, nerve bio psy, and skin bio psy (an evidence -based review). Report of the 
+American Academy of Neurology, American Association of Neuromuscular and Electrod iagnostic 
+Medicine, and American Acade my of Physical Medicine and Reha bilitation.  Neur ology. 2009 Jan 
+13;72(2):1 77-84; accessed a t neurology.org.  
+11. First Coast Service Options, Inc. (FCSO ), Local Coverage Determination ( LCD): Autonomic Function 
+Tests (L3360 9), accessed at fcso.com.  
+12. Fortanier E, Delmont E, et al. Quantitative sudomotor test helps differentiate transth yretin familial 
+amyloidpolyneuropathy from chronic inflammatory demyelinating po lyneuropathy. Clin Neurophysiol. 
+May 2020; 131(5): 1129 -1133. PM ID: 32217467.  
+13. Gibbons CH, Cheshire WP, Fife TD. American Academy of Ne urology Model Coverage Policy: 
+Autonomic N ervous System Test ing. 201 4; accessed at aan.com . 14. Krieger SM, Reimann M, et al. Sudomotor Testing of Diabetes Polyneuropathy.  Front Neurol. 2018  
+Sep 26;9:803. doi: 10.3389/fneur.2018. 00803.eCollection 2018.  PMID: 3 0319533 . 
+15. Lahrmann H, Cortelli P, Hilz M, M athias CJ, Struhal  W, Tassinari M. Orthostatic hypotension. In: 
+Gilhus NE, Barne s MP, Brainin M, editor(s). European handbook of neurological ma nagement. 2nd 
+ed. Vol. 1. Oxford (UK): Wiley -Blackwell; 2011. p. 469 -75. 
+16. Lai YR, Huang CC, et al. Feasibility of  combining heart r ate variability and electrochemical skin 
+conductance as  screen ing and severity evaluation of cardiovascular autonomic neuropat hy in type 2 
+diabetes. J Diabetes Inves tig. Jan 31 2021.PMID: 33522129 . 
+17. Ziemssen T, Siepmann T. The Investigation of the Cardiovas cular and Sudomotor Autonomic 
+Nervous System -A Review.  Front N eurol. 2019 Feb 12;10:53.  
+18. Zografou I, Iliadis F, et al. Valida tion of Neuropad in the Assessment of Per ipheral Diabetic 
+Neuropathy in Patients  with Diabetes Mel litus Versus the Michigan Neuropat hy Screening Instrument, 
+10g Monofilament Application and  Biothesiometer Measurement.  Curr Vasc Pharmacol. 2020;18(5): 
+517-522. PMID: 31340739.  
+COMMITTEE APPROVAL:  
+This Medical Coverage Guideline (MCG) was approved by the Florida Blue Medical Policy and Coverage 
+Committee on 07/22/21.   
+GUIDELINE UPDATE INFORMATION:  
+03/1 5/15  New Medical Coverage  Guideline; formatting chang es. 
+03/1 5/16  Annual review; program ex ception an d references updated.  
+08/15/17  Annual review; position statements maintained and referen ces updated ; formatting 
+changes.  
+08/15/18  Annual review; positio n maintained; description section and references upda ted. 
+08/15/19  Annual review;  position statements  maintained and references updated.  
+01/01/20  Annual CPT/HCPCS coding update. Deleted cod e 0341T.  
+08/15/21  Review; Position statements maintained, ref erences updated.  
+01/01/22  Annual CPT/HCPCS coding update. Code 95943 deleted.  
+05/22/23  Update to Program Exceptions section.  
+ 
+ 

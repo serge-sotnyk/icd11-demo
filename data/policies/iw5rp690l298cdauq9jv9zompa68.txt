@@ -1,0 +1,1040 @@
+ 
+ 
+Genetic Testing for Mitochondrial Disorders  
+ 
+Policy #  00435  
+Original Effective Date: 07/16/2014 
+Current Effective Date: 10/10/2022 
+ 
+ 
+©2022 Blue Cross and Blue Shield of Louisiana 
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company. 
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 1 of 21 
+ 
+Applies to all products administered or underwritten by Blue Cross and Blue Shield of Louisiana and its subsidiary, 
+HMO Louisiana, Inc. (collectively referred to as the “Company”), unless otherwise provided in the applicable contract. 
+Medical technology is constantly evolving, and we reserve  the right to review and update Medical Policy periodically.  
+ 
+Note:   Whole Exome and Whole Genome Sequencing for Diagnosis of Genetic Disorders is 
+addressed separately in medical policy 003 89. 
+ 
+When Services May Be Eligible for Coverage  
+Coverage for eligible medical treatments or procedures, drugs, devices or biological products may 
+be provided only if: 
+• Benefits are available in the member’s contract/certificate, and  
+• Medical necessity criteria and guidelines are met. 
+ 
+Based on review of available data, the Company may consider genetic testing to establish a genetic 
+diagnosis of a mitochondrial disorder when signs and symptoms of a mitochondrial disorder are 
+present (see Policy Guidelines section) and genetic testing may eliminate the need for muscle biopsy 
+to be eligible for coverage.**  
+ 
+Patient Selection Criteria 
+Coverage eligibility for genetic testing to establish the diagnosis of a mitochondrial disorder will be 
+considered when ALL of the following criteria are met:  
+• Genetic testing is used as an alternative to a muscle biopsy ; AND   
+• The diagnosis cannot be made with certainty without genetic testing; AND  
+• Genetic testing is restricted to the specific mutations that have been documented to be 
+pathogenic for the specific mitochondrial di sorder being considered (see Policy Guidelines), 
+OR if the phenotype is nonspecific, broader genetic testing is appropriate under the guidance 
+of a clinical geneticist and genetics counselor.  
+ 
+Based on review of available data, the Company may consider targeted genetic testing for a known 
+familial variant of at -risk relatives as preconceptional carrier testing*** to be eligible for 
+coverage.**  
+  
+ 
+Genetic Testing for Mitochondrial Disorders  
+ 
+Policy #  00435  
+Original Effective Date:  07/16/2014  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the  Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, pho tocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 2 of 21 
+Patient Selection Criteria 
+Coverage eligibility for targeted genetic testing of at-risk relatives as part of a preconceptional 
+evaluation will be considered when ALL  of the following criteria are met:  
+• There is a defined mitochondrial disorder in the family of sufficient severity to  cause 
+impairment of quality of life or functional status; AND  
+• A variant that is known to be pathogenic for that specific mitochondrial disorder has been 
+identified in the index case.  
+ 
+***Note:  Coverage for genetic testing may be provided only if benefit s are available in the 
+member’s contract/certificate.  
+ 
+When Services Are Considered Investigational  
+Coverage is not available for investigational medical treatments or procedures, drugs, devices or 
+biological products.  
+ 
+Based on review of available data, the Company considers the use of genetic testing for 
+mitochondrial disorders in all other situations to be investigational.*  
+ 
+The use of genetic testing for mitochondrial disorders  when patient selection criteria are not met is 
+considered to be investigational.*  
+ 
+Policy Guidelines  
+Mitochondrial disorders can be caused by variants in mitochondrial DNA (mtDNA) or nuclear DNA 
+(nDNA). A 3 -generation family history may suggest a mode of inheritance. A family history in 
+which af fected women transmit the disease to male and female children and affected men do not 
+transmit the disease to their children suggests the familial variant(s) is in the mtDNA. A family 
+history consistent with Mendelian autosomal dominant or autosomal recess ive inheritance or with 
+X-linked inheritance suggests the familial variant(s) is in the nDNA.  De novo  pathogenic variants 
+are also possible.  
+ 
+ 
+ 
+  
+ 
+Genetic Testing for Mitochondrial Disorders  
+ 
+Policy #  00435  
+Original Effective Date:  07/16/2014  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the  Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, pho tocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 3 of 21 
+Testing Strategy 
+ 
+Individuals With a Suspected Mitochondrial Disorder 
+If the phenotype is highly suggestive of a specific disorder that is supported by the inheritance pattern 
+noted in the family history, it would be reasonable to begin genetic testing with single genes or 
+targeted multigene panels that test for pathogenic variants specific for that disorder. 
+ 
+If a mitochondrial disorder is suspected, but the phenotype is nonspecific, broader genetic testing is 
+appropriate under the guidance of a clinical geneticist and genetics counselor. For patients in whom 
+the family history is suggestive of a disorder due to pathogenic variant(s) in mtDNA, multigene 
+panels or sequencing of the mitochondrial genome may be appropriate. If multiple mtDNA deletions 
+are noted, or the family history is suggestive of a disorder due to variants in nDNA, then multigene 
+panels covering known nuclear genes associated with mitochondrial disease may be appropriate. 
+Testing using whole exome sequencing is reviewed in medical policy 00389 (Whole Exome and 
+Whole Genome Sequencing for Diagnosis of Genetic Disorders). 
+ 
+Individuals With a Family Member With a Mitochondrial Disorder and Known Familial 
+Variant 
+Targeted testing of the parents of a proband with a mitochondrial disorder and a confirmed 
+pathogenic/likely pathogenic gene variant is done to identify mode of transmission [germline 
+(autosomal recessive, autosomal dominant, X-linked, mitochondrial) vs. de novo ] thereby indicating 
+risk for future offspring and other family members. Targeted testing for a known familial variant in 
+parents and other at-risk relatives as part of preconceptional carrier testing is appropriate. At-risk 
+relatives include only female relatives if the familial pathogenic variant is in the mtDNA but includes 
+both male and female relatives if the familial pathogenic variant is in the nDNA. 
+ 
+Genetics Nomenclature Update 
+The Human Genome Variation Society nomenclature is used to report information on variants found 
+in DNA and serves as an international standard in DNA diagnostics. It is being implemented for 
+genetic testing medical evidence review updates starting in 2017 (see Table PG1). The Society's 
+nomenclature is recommended by the Human Variome Project, the Human Genome Organization, 
+and by the Human Genome Variation Society itself. 
+  
+ 
+Genetic Testing for Mitochondrial Disorders  
+ 
+Policy #  00435  
+Original Effective Date:  07/16/2014  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the  Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, pho tocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 4 of 21 
+The American College of Medical Genetics and Genomics and the Association for Molecu lar 
+Pathology standards and guidelines for interpretation of sequence variants represent expert opinion 
+from both organizations, in addition to the College of American Pathologists. These 
+recommendations primarily apply to genetic tests used in clinical la boratories, including genotyping, 
+single genes, panels, exomes, and genomes. Table PG2 shows the recommended standard 
+terminology - "pathogenic," "likely pathogenic," "uncertain significance," "likely benign," and 
+"benign" -to describe variants identified t hat cause Mendelian disorders.  
+ 
+Table PG1. Nomenclature to Report on Variants Found in DNA  
+Previous  Updated  Definition  
+Mutation  Disease -
+associated 
+variant  Disease -associated change in the DNA sequence  
+ Variant  Change in the DNA sequence  
+ Familial variant  Disease -associated variant identified in a proband for use in 
+subsequent targeted genetic testing in first -degree relatives  
+ 
+Table PG2. ACMG -AMP Standards and Guidelines for Variant Classification  
+Variant Classification  Definition  
+Pathogenic  Disease -causing change in the DNA sequence  
+Likely pathogenic  Likely disease -causing change in the DNA sequence  
+Variant of uncertain 
+significance  Change in DNA sequence with uncertain effects on disease  
+Likely benign  Likely benign change in the DNA sequence  
+Benign  Benign change in the DNA sequence  
+ACMG: American College of Medical Genetics and Genomics; AMP: Association for Molecular 
+Pathology.  
+ 
+  
+ 
+Genetic Testing for Mitochondrial Disorders  
+ 
+Policy #  00435  
+Original Effective Date:  07/16/2014  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the  Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, pho tocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 5 of 21 
+Genetic Counseling 
+Experts recommend formal genetic counseling for patients who are at risk for inherited disorders 
+and who wish to undergo genetic testing. Interpreting the results of genetic tests and understanding 
+risk factors can be difficult for some patients; genetic counseling helps individuals understand the 
+impact of genetic testing, including the possible effects the test results could have on the individual 
+or their family members. It should be noted that genetic counseling may alter the utilization of 
+genetic testing substantially and may reduce inappropriate testing; further, genetic counseling should 
+be performed by an individual with experience and expertise in genetic medicine and genetic testing 
+methods. 
+ 
+Background/Overview  
+Mitochondrial DNA 
+Mitochondria are organelles within each cell that contain their own set of DNA, distinct from the 
+nuclear DNA (nDNA) that makes up most of the human genome. Human mitochondrial DNA 
+(mtDNA) consists of 37 genes. Thirteen genes code for protein subunits of the mitochondrial 
+oxidative phosphorylation complex and the remaining 24 genes are responsible for proteins involved 
+in the translation and/or assembly of the mitochondrial complex. Additionally, there are over 1000 
+nuclear genes coding for proteins that support mitochondrial function. The protein products from 
+these genes are produced in the nucleus and later migrate to the mitochondria. 
+ 
+Mitochondrial DNA differs from nDNA in several important ways. Inheritance of mtDNA does not 
+follow traditional Mendelian patterns. Rather, mtDNA is inherited only from maternal DNA so 
+disorders that result from variants in mtDNA can only be passed on by the mother. Also, there are 
+thousands of copies of each mtDNA gene in each cell, as opposed to nDNA, which contains only 1 
+copy per cell. Because there are many copies of each gene, variants may be present in some copies 
+of the gene but not others. This phenomenon is called heteroplasmy. Heteroplasmy can be expressed 
+as a percentage of genes that have the variant ranging from 0% to 100%. Clinical expression of the 
+variant will generally depend on a threshold effect (ie, clinical symptoms will begin to appear when 
+the percentage of mutated genes exceeds a threshold amount). 
+ 
+Mitochondrial Diseases 
+Primary mitochondrial diseases arise from dysfunction of the mitochondrial respiratory chain. The 
+mitochondrial respiratory chain is responsible for aerobic metabolism, and dysfunction, therefore,  
+ 
+Genetic Testing for Mitochondrial Disorders  
+ 
+Policy #  00435  
+Original Effective Date:  07/16/2014  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the  Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, pho tocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 6 of 21 
+affects a wide variety of physiologic pathways dependent on aerobic metabolism. Organs with a 
+high-energy requirement, such as the central nervous system, cardiovascular system, and skeletal 
+muscle, are preferentially affected by mitochondrial dysfunction. 
+ 
+The prevalence of these disorders has risen over the last 2 decades as the pathophysiology and 
+clinical manifestations have been better characte rized. It is currently estimated that the minimum 
+prevalence of primary mitochondrial diseases is at least 1 in 5000.  
+ 
+Some specific mitochondrial diseases are listed next:  
+• Mitochondrial encephalopathy with lactic acidosis and stroke -like symptoms (MELAS) 
+syndrome;  
+• Myoclon us epilepsy with ragged red fibers syndrome (MERFF);  
+• Kearns -Sayre syndrome;  
+• Leigh syndrome;  
+• Chronic progressive external ophthalmoplegia (CPEO);  
+• Leber hereditary optic neuropathy (LHON);  
+• Neuropathy, ataxia, and retinitis pigmentosa (NARP) . 
+ 
+Most of these disorders are characterized by multisystem dysfunction, which generally includes 
+myopathies and neurologic dysfunction and may involve multiple other organs. Each defined 
+mitochondrial disease has a characteristic set of signs or symptoms. The severity of illness is 
+heterogeneous and can vary markedly. Some patients will have only mild symptoms for which they 
+never require medical care, while other patients have severe symptoms, a large burden of morbidity, 
+and a shortened life exp ectancy.  
+ 
+Diagnosis 
+The diagnosis of mitochondrial diseases can be difficult. The individual symptoms are nonspecific, 
+and symptom patterns can overlap considerably. As a result, a patient often cannot be easily 
+classified into a particular syndrome. Biochemical testing is indicated for patients who do not have 
+a clear clinical picture of a specific disorder. Measurement of serum lactic acid is often used as a 
+screening test but the test is neither sensitive nor specific for mitochondrial diseases. 
+  
+ 
+Genetic Testing for Mitochondrial Disorders  
+ 
+Policy #  00435  
+Original Effective Date:  07/16/2014  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the  Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, pho tocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 7 of 21 
+A muscle biopsy can be performed if the diagnosis is uncertain after biochemical workup. However, 
+this invasive test is not definitive in all cases. The presence of "ragged red fibers" on histologic 
+analysis is consistent with a mitochondrial disea se. Ragged red fibers represent a proliferation of 
+defective mitochondria.  This characteristic finding may not be present in all types of mitochondrial 
+diseases and also may be absent early in the course of disease.  
+ 
+Treatment 
+Treatment of mitochondrial disease is largely supportive because there are no specific therapies that 
+impact the natural history of the disorder. Identification of complications such as diabetes and 
+cardiac dysfunction is important for early treatment of these conditions. A number of vitamins and 
+cofactors (eg, coenzyme Q, riboflavin) have been used but empirical evidence of benefit is lacking. 
+Exercise therapy for myopathy is often prescribed but the effect on clinical outcomes is uncertain. 
+The possibility of gene transfer therapy is under consideration but is at an early stage of development 
+and untested in clinical trials. 
+ 
+Genetic Testing 
+Mitochondrial diseases can be caused by pathogenic variants in the maternally inherited mtDNA or 
+one of many nDNA genes. Genetic testing for mitochondrial diseases may involve testing for point 
+mutations, deletion and duplication analysis, and/or whole exome sequencing of nuclear or mtDNA. 
+The type of testing done depends on the specific disorder being considered. For some primary 
+mitochondrial diseases such as MELAS and MERFF, most variants are point mutations, and there 
+is a finite number of variants associated with the disorder. When testing for one of these disorders, 
+known pathogenic variants can be tested for with polymerase chain reaction, or sequence analysis 
+can be performed on the particular gene. For other mitochondrial diseases, such as CPEO and 
+Kearns-Sayre syndrome, the most common variants are deletions, and therefore duplication and 
+deletion analysis would be the first test when these disorders are suspected. Table 1 provides 
+examples of clinical symptoms and particular genetic variants in mtDNA or nDNA associated with 
+particular mitochondrial syndromes. A repository of published and unpublished data on variants in 
+human mtDNA is available in the MITOMAP database. Lists of mtDNA and nDNA genes that may 
+lead to mitochondrial diseases and testing laboratories in the U.S. are provided at Genetic Testing 
+Registry of the National Center for Biotechnology Information website. 
+ 
+  
+ 
+Genetic Testing for Mitochondrial Disorders  
+ 
+Policy #  00435  
+Original Effective Date:  07/16/2014  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the  Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, pho tocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 8 of 21 
+Table 1. Examples of Mitochondrial Diseases, Clinical Manifestations, and Associated 
+Pathogenic Genes  
+Syndrome  Main Clinical 
+Manifestations  Major Genes Involved  
+MELAS  • Stroke -like episodes 
+at age <40 y  
+• Seizures and/or 
+dementia  
+• Pigmentary 
+retinopathy  
+• Lactic acidosis  • MT-TL1, MT-ND5  (>95%)  
+• MT-TF, MT-TH, MT-TK, MT-TQ, MT-TS1, MT-
+TS2, MT-ND1 , MT-ND6  (rare)  
+MERFF  • Myoclonus  
+• Seizures  
+• Cerebellar ataxia  
+• Myopathy  • MT-TK (>80%)  
+• MT-TF, MT-TP (rare)  
+CPEO  • External 
+ophthalmoplegia  
+• Bilateral ptosis  • Various deletions of mitochondrial DNA  
+Kearns -
+Sayre 
+syndrome  • External 
+ophthalmoplegia at 
+age <20 y  
+• Pigmentary 
+retinopathy  
+• Cerebellar ataxia  
+• Heart block  • Various deletions of mitochondrial DNA  
+Leigh 
+syndrome  • Subacute relapsing 
+encephalopathy  
+• Infantile onset  
+• Cerebellar/brainstem 
+dysfunction  • MT-ATP6 , MT-TL1, MT-TK, MT-TW, MT-TV, 
+MT-ND1 , MT-ND2 , MT-ND3 , MT-ND4 , MT-
+ND5 , MT-ND6 , MT-CO3  
+• Mitochondrial DNA deletions (rare)  
+• SUCLA2 , NDUSFx , NDFVx , SDHA , BCS1L , 
+SURF1 , SCO2 , COX15   
+ 
+Genetic Testing for Mitochondrial Disorders  
+ 
+Policy #  00435  
+Original Effective Date:  07/16/2014  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the  Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, pho tocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 9 of 21 
+Syndrome  Main Clinical 
+Manifestations  Major Genes Involved  
+LHON  • Painless bilateral 
+visual failure  
+• Male predominance  
+• Dystonia  
+• Cardiac pre -
+excitation 
+syndromes  • MT-ND1 , MT-ND4 , MT-ND6  
+NARP  • Peripheral 
+neuropathy  
+• Ataxia  
+• Pigmentary 
+retinopathy  • MT-ATP6  
+MNGIE  • Intestinal 
+malabsorption  
+• Cachexia  
+• External 
+ophthalmoplegia  
+• Neuropathy  • TP 
+IOSCA  • Ataxia  
+• Hypotonia  
+• Athetosis  
+• Ophthalmoplegia  
+• Seizures  • TWINKLE  
+SANDO  • Ataxic neuropathy  
+• Dysarthria  
+• Ophthalmoparesis  • POLG   
+ 
+Genetic Testing for Mitochondrial Disorders  
+ 
+Policy #  00435  
+Original Effective Date:  07/16/2014  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the  Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, pho tocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 10 of 21 
+Syndrome  Main Clinical 
+Manifestations  Major Genes Involved  
+Alpers 
+syndrome  • Intractable epilepsy  
+• Psychomotor 
+regression  
+• Liver disease  • POLG , DGUOK , MPV17  
+GRACILE  • Growth retardation  
+• Aminoaciduria  
+• Cholestasis  
+• Iron overload  
+• Lactic acidosis  • NDUSFx  
+Coenzyme 
+Q10 
+deficiency  • Encephalopathy  
+• Steroid -resistant 
+nephrotic syndrome  
+• Hypertrophic 
+cardiomyopathy  
+• Retinopathy  
+• Hearing loss  • COQ2  
+• COQ9  
+• CABC1  
+• ETFDH  
+Adapted from Chinnery et al (2014), and Angelini et al (2009). 
+CPEO: chronic progressive external ophthalmoplegia; GRACILE: growth retardation, 
+aminoaciduria, cholestasis, iron overload, lactic acidosis, early death; IOSCA: infantile onset 
+spinocerebellar ataxia; LHON: Leber hereditary optic neuropathy; MELAS: mitochondrial 
+encephalomyopathy, lactic acidosis, and stroke-like symptoms; MERFF: myoclon us epilepsy with 
+ragged red fibers; MNGIE: mitochondrial neurogastrointestinal encephalopathy; NARP: 
+neuropathy, ataxia, and retinitis pigmentosa; SANDO: sensory ataxic neuropathy, dysarthria, and 
+ophthalmoparesis. 
+ 
+FDA or Other Governmental Regulatory Approval  
+U.S. Food and Drug Administration (FDA) 
+Clinical laboratories may develop and validate tests in-house and market them as a laboratory 
+service; laboratory-developed tests must meet the general regulatory standards of the Clinical  
+ 
+Genetic Testing for Mitochondrial Disorders  
+ 
+Policy #  00435  
+Original Effective Date:  07/16/2014  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the  Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, pho tocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 11 of 21 
+Laboratory Improvement Amendments. Genetic testing for mitochondrial diseases is under the 
+auspices of Clinical Laboratory Improvement Amendments. Lab oratories that offer laboratory -
+developed tests must be licensed by Clinical Laboratory Improvement Amendments for high -
+complexity testing. To date, the U.S. Food and Drug Administration has chosen not to require any 
+regulatory review of this test.  
+ 
+Ration ale/Source  
+This medical policy was developed through consideration of peer -reviewed medical literature 
+generally recognized by the relevant medical community, U.S. Food and Drug Administration 
+approval status, nationally accepted standards of medical pract ice and accepted standards of medical 
+practice in this community, technology evaluation centers, reference to federal regulations, other 
+plan medical policies, and accredited national guidelines.  
+ 
+Mitochondrial diseases are multisystem diseases that arise from dysfunction in the mitochondrial 
+protein complexes involved in oxidative metabolism. There are many related but distinct syndromes 
+and some patients have overlapping syndromes. As a result, these disorders can be difficult to 
+diagnose. Genetic testing  has the potential to improve the accuracy of diagnosis for mitochondrial 
+diseases. Genetic testing also has the potential to determine future risk of disease in individuals who 
+have a close relative with a pathogenic variant.  
+ 
+Diagnostic genetic testing f or mitochondrial disorders and carrier testing of known familial variants 
+associated with mitochondrial disorders is addressed in this review.  
+ 
+Summary of Evidence 
+For individuals with signs and/or symptoms of a mitochondrial disease who receive genetic testing, 
+the evidence includes case series and cohort studies. Relevant outcomes are test validity, other test 
+performance measures, symptoms, functional outcomes, health status measures, and quality of life. 
+There is some evidence on clinical validity that varies by the patient population and testing strategy. 
+Studies reporting diagnostic yield for known pathogenic variants using next-generation sequencing 
+(NGS) panels tend to report rates ranging from 15% to 25%. Clinical specificity is unknown, but 
+population-based studies have indicated that the prevalence of certain variants exceeds the 
+prevalence of clinical disease, suggesting that the variant will be found in some people without the 
+clinical disease (false-positives). Clinical utility is relatively high for confirming the diagnosis of  
+ 
+Genetic Testing for Mitochondrial Disorders  
+ 
+Policy #  00435  
+Original Effective Date:  07/16/2014  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the  Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, pho tocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 12 of 21 
+mitochondrial diseases in people who have signs and symptoms of the disease. In these patients, a 
+positive result in genetic testi ng can avoid a muscle biopsy and eliminate the need for further clinical 
+workup. The evidence is sufficient to determine that the technology results in an improvement in the 
+net health outcome.  
+ 
+For individuals who are asymptomatic with a close relative wi th a mitochondrial disease and a 
+known pathogenic variant and who receive targeted familial variant testing, the evidence includes 
+case series and cohort studies. Relevant outcomes are test validity, other test performance measures, 
+changes in reproductive  decision making, symptoms, functional outcomes, health status measures, 
+and quality of life. Clinical validity is expected to be high for targeted testing of a known familial 
+variant, assuming sufficient analytic validity. Clinical utility can be demonstr ated by testing at -risk 
+family members who have a close relative with a pathogenic variant. When a specific mitochondrial 
+disease is present in the family that is severe enough to cause impairment and/or disability, genetic 
+testing may impact reproductive decision making. The evidence is sufficient to determine that the 
+technology results in an improvement in the net health outcome.  
+ 
+Supplemental Information  
+Practice Guidelines and Position Statements 
+Guidelines or position statements will be considered for inclusion in ‘Supplemental Information' if 
+they were issued by, or jointly by, a US professional society, an international society with US 
+representation, or National Institute for Health and Care Excellence (NICE). Priority will be given 
+to guidelines that are informed by a systematic review, include strength of evidence ratings, and 
+include a description of management of conflict of interest. 
+ 
+Mitochondrial Medicine Society 
+The Mitochondrial Medicine Society (2015) published a consensus statement on the diagnosis and 
+management of mitochondrial disease. Most evidence was grade III or less (case-control, low-quality 
+cohort studies, or expert opinion without an explicit critical appraisal) using the Oxford Centre for 
+Evidence-Based Medicine criteria. Consensus recommendations were reported using the Delphi 
+method. A subset of the consensus recommendations for DNA testing are as follows: 
+1. "Massively parallel sequencing/NGS [next-generation sequencing] of the mtDNA 
+[mitochondrial DNA] genome is the preferred methodology when testing mtDNA and should  
+ 
+Genetic Testing for Mitochondrial Disorders  
+ 
+Policy #  00435  
+Original Effective Date:  07/16/2014  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the  Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, pho tocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 13 of 21 
+be performed in cases of suspected mitochondrial disease instead of testing for a limited 
+number of pathogenic point mutations.  
+2. mtDNA deletion and duplication testing should be performed in cases of suspected 
+mitochondrial disease via NGS of the mtDNA genome, especially in all patients undergoing 
+a diagnostic tissue biopsy.  
+a. If a single small deletion is identified using polymerase chain reaction -based analysis, 
+then one should be cautious in associati ng these findings with a primary 
+mitochondrial disorder.  
+b. When multiple mtDNA deletions are noted, sequencing of nuclear genes involved in 
+mtDNA biosynthesis is recommended.  
+3. When considering nuclear gene testing in patients with likely primary mitochondrial  disease, 
+NGS methodologies providing complete coverage of known mitochondrial disease genes is 
+preferred. Single -gene testing should usually be avoided because mutations in different genes 
+can produce the same phenotype. If no known mutation is identified  via known NGS gene 
+panels, then whole exome sequencing should be considered."  
+ 
+U.S. Preventive Services Task Force Recommendations  
+Not applicable.  
+ 
+Medicare National Coverage  
+There is no national coverage determination. In the absence of a national covera ge determination, 
+coverage decisions are left to the discretion of local Medicare carriers.  
+ 
+Ongoing and Unpublished Clinical Trials 
+Some currently unpublished trials that might influence this review are listed in Table 2. 
+ 
+Table 2. Summary of Key Trials  
+NCT No.  Trial Name  Planned 
+Enrollment  Completion 
+Date  
+NCT04912843a A Phase 1/2/3, Single -arm, Multi -center, Two -
+stage Clinical Trial to Evaluate the Safety and 
+Efficacy of Gene Therapy for Leber Hereditary 55 Apr 2027  
+(recruiting)   
+ 
+Genetic Testing for Mitochondrial Disorders  
+ 
+Policy #  00435  
+Original Effective Date:  07/16/2014  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the  Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, pho tocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 14 of 21 
+Optic Neuropathy (LHON) Associated With 
+ND4 Mutation  
+NCT03747328a A Phase 2a, Open -label St udy to Evaluate the 
+Safety, Tolerability, and Clinical Activity of 
+ABI-009 (Nab -sirolimus) in Patients With 
+Genetically -confirmed Leigh or Leigh -like 
+Syndrome  32 Mar 202 5  
+(not yet 
+recruiting)  
+NCT03153293  Safety and Efficacy Study of Gene Therapy for 
+The Treatment of Leber's Hereditary Optic 
+Neuropathy  159 Jan 202 5  
+NCT03293524a Efficacy and Safety of Bilateral Intravitreal 
+Injection of GS010: A Randomized, Double -
+Masked, Placebo -Controlled Trial in Subjec ts 
+Affected With G11778A ND4 Leber 
+Hereditary Optic Neuropathy for Up to One 
+Year (REFLECT)  90 Jun 2024  
+NCT02161380  An Open -label Dose Escalation Study of an 
+Adeno -associated Virus Vector (scAAV2 -
+P1ND4v2) for Gene Therapy of Leber's 
+Hereditary Optic Neuropathy (LHON) Caused 
+by the G11778A Mutation in Mitochondrial 
+DNA  28 Mar 2023  
+NCT03406104a Long -term Follow -up of ND4 LHON Subjects 
+Treated With GS010 Ocular Gene Therapy in 
+the RESCUE or REVERSE Phase III Clinical 
+Trials  61 Aug 2022  
+NCT04165239a A Phase IIb Double -blind, Randomised, 
+Placebo -controlled, Multi -centre, Confirmative 
+Three -way Cross -over Stu dy on Cognitive 
+Function With Two Doses of KH176 in 27 Mar 2022  
+(recruiting)   
+ 
+Genetic Testing for Mitochondrial Disorders  
+ 
+Policy #  00435  
+Original Effective Date:  07/16/2014  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the  Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, pho tocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 15 of 21 
+Subjects With a Genetically Confirmed  
+Mitochondrial  DNA tRNALeu(UUR) 
+m.3243A>G Mutation (KHENERGYZE)  
+NCT04102501a A Randomized, Double -Blind, Controlled, 
+Phase 2/3 Study to Assess Efficacy, Long Term 
+Safety and Tolerability of RT001 in Subjects 
+With Friedreich's Ataxia  65 Dec 2021  
+NCT02774005a External Natural History Controlled, Open -
+Label Intervention Study to Assess the Efficacy 
+and Safety of Long -Term Treatment With 
+Raxo ne®‡ in Leber's Hereditary Optic 
+Neuropathy (LHON) (LEROS)  199 March 2021  
+NCT03428178  Efficacy Study of Gene Therapy for The 
+Treatment of Acute LHON Onset Within Three 
+Months  120 Dec 2020  
+NCT03917225a A Double -Blind, Placebo -controlled Study on 
+the Effects of MIN -102 on Biochemical, 
+Imaging, Neurophisyiological, and Clinical 
+Markers in Patients With Friedreich's Ataxia 
+(FRAMES)  36 Sep 2020  
+NCT: national clinical trial.  
+a Denotes industry -sponsored or c osponsored trial.  
+ 
+References  
+1. Schon EA, DiMauro S, Hirano M. Human mitochondrial DNA: roles of inherited and somatic 
+mutations. Nat Rev Genet. Dec 2012; 13(12): 878 -90. PMID 23154810  
+2. Wong LJ. Diagnostic challenges of mitochondrial DNA disorders. Mitochondrion. Feb -Apr 
+2007; 7(1 -2): 45 -52. PMID 17276740  
+3. DiMauro S, Schon EA. Mitochondrial DNA mutations in human disease. Am J Med Genet. 
+2001; 106(1): 18 -26. PMID 11579421   
+ 
+Genetic Testing for Mitochondrial Disorders  
+ 
+Policy #  00435  
+Original Effective Date:  07/16/2014  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the  Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, pho tocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 16 of 21 
+4. Falk MJ, Sondheimer N. Mitochondrial genetic diseases. Curr Opin Pediatr. Dec 20 10; 22(6): 
+711-6. PMID 21045694  
+5. Chinnery PF. Mitochondrial Disorders Overview. In: Pagon RA, Adam MP, Ardinger HH, et 
+al., eds. GeneReviews. Seattle, WA: University of Washington; 2014.  
+6. Chinnery P, Majamaa K, Turnbull D, et al. Treatment for mitochondrial disorders. Cochrane 
+Database Syst Rev. Jan 25 2006; (1): CD004426. PMID 16437486  
+7. Angelini C, Bello L, Spinazzi M, et al. Mitochondrial disorders of the nuclear genome. Acta 
+Myol. Jul 2009; 28(1): 16 -23. PMID 19772191  
+8. FOSWIKI. MITOMAP: a human mitochondrial  genome database. 2018; 
+https://www.mitomap.org//MITOMAP.  
+9. National Center for Biotechnology Information. GTR: Genetic Testing Registry. n.d.; 
+https://www.ncbi.nlm.nih.gov/gtr/.  
+10. Riley LG, Cowley MJ, Gayevskiy V, et al. The diagnostic utility of genome seque ncing in a 
+pediatric cohort with suspected mitochondrial disease. Genet Med. Jul 2020; 22(7): 1254 -1261. 
+PMID 32313153  
+11. Nogueira C, Silva L, Pereira C, et al. Targeted next generation sequencing identifies novel 
+pathogenic variants and provides molecular di agnoses in a cohort of pediatric and adult patients 
+with unexplained mitochondrial dysfunction. Mitochondrion. Jul 2019; 47: 309 -317. PMID 
+30831263  
+12. Fang F, Liu Z, Fang H, et al. The clinical and genetic characteristics in children with 
+mitochondrial diseas e in China. Sci China Life Sci. Jul 2017; 60(7): 746 -757. PMID 28639102  
+13. Legati A, Reyes A, Nasca A, et al. New genes and pathomechanisms in mitochondrial disorders 
+unraveled by NGS technologies. Biochim Biophys Acta. Aug 2016; 1857(8): 1326 -1335. PMID 
+2696 8897  
+14. Pronicka E, Piekutowska -Abramczuk D, Ciara E, et al. New perspective in diagnostics of 
+mitochondrial disorders: two years' experience with whole -exome sequencing at a national 
+paediatric centre. J Transl Med. Jun 12 2016; 14(1): 174. PMID 27290639  
+15. Kohda M, Tokuzawa Y, Kishita Y, et al. A Comprehensive Genomic Analysis Reveals the 
+Genetic Landscape of Mitochondrial Respiratory Chain Complex Deficiencies. PLoS Genet. Jan 
+2016; 12(1): e1005679. PMID 26741492  
+16. Wortmann SB, Koolen DA, Smeitink JA, et al. Who le exome sequencing of suspected 
+mitochondrial patients in clinical practice. J Inherit Metab Dis. May 2015; 38(3): 437 -43. PMID 
+25735936   
+ 
+Genetic Testing for Mitochondrial Disorders  
+ 
+Policy #  00435  
+Original Effective Date:  07/16/2014  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the  Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, pho tocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 17 of 21 
+17. Ohtake A, Murayama K, Mori M, et al. Diagnosis and molecular basis of mitochondrial 
+respiratory chain disorders: exome  sequencing for disease gene identification. Biochim Biophys 
+Acta. Apr 2014; 1840(4): 1355 -9. PMID 24462578  
+18. Taylor RW, Pyle A, Griffin H, et al. Use of whole -exome sequencing to determine the genetic 
+basis of multiple mitochondrial respiratory chain comple x deficiencies. JAMA. Jul 02 2014; 
+312(1): 68 -77. PMID 25058219  
+19. Lieber DS, Calvo SE, Shanahan K, et al. Targeted exome sequencing of suspected mitochondrial 
+disorders. Neurology. May 07 2013; 80(19): 1762 -70. PMID 23596069  
+20. DaRe JT, Vasta V, Penn J, et al. Targeted exome sequencing for mitochondrial disorders reveals 
+high genetic heterogeneity. BMC Med Genet. Nov 11 2013; 14: 118. PMID 24215330  
+21. McCormick E, Place E, Falk MJ. Molecular genetic testing for mitochondrial disease: from one 
+generation to the next . Neurotherapeutics. Apr 2013; 10(2): 251 -61. PMID 23269497  
+22. Calvo SE, Compton AG, Hershman SG, et al. Molecular diagnosis of infantile mitochondrial 
+disease with targeted next -generation sequencing. Sci Transl Med. Jan 25 2012; 4(118): 118ra10. 
+PMID 222779 67 
+23. Qi Y, Zhang Y, Wang Z, et al. Screening of common mitochondrial mutations in Chinese patients 
+with mitochondrial encephalomyopathies. Mitochondrion. Feb -Apr 2007; 7(1 -2): 147 -50. PMID 
+17276742  
+24. Deschauer M, Krasnianski A, Zierz  S, et al. False -positive diagnosis of a single, large -scale 
+mitochondrial DNA deletion by Southern blot analysis: the role of neutral polymorphisms. Genet 
+Test. 2004; 8(4): 395 -9. PMID 15684869  
+25. Elliott HR, Samuels DC, Eden JA, et al. Pathogenic mitochondr ial DNA mutations are common 
+in the general population. Am J Hum Genet. Aug 2008; 83(2): 254 -60. PMID 18674747  
+26. Majamaa K, Moilanen JS, Uimonen S, et al. Epidemiology of A3243G, the mutation for 
+mitochondrial encephalomyopathy, lactic acidosis, and strokeli ke episodes: prevalence of the 
+mutation in an adult population. Am J Hum Genet. Aug 1998; 63(2): 447 -54. PMID 9683591  
+27. DiMauro S, Hirano M. Melas. In: Pagon RA, Adam MP, Ardinger HH, et al., eds. GeneReviews. 
+Seattle, WA: University of Washington; 2013.  
+28. Jean-Francois MJ, Lertrit P, Berkovic SF, et al. Heterogeneity in the phenotypic expression of 
+the mutation in the mitochondrial tRNA(Leu) (UUR) gene generally associated with the MELAS 
+subset of mitochondrial encephalomyopathies. Aust N Z J Med. Apr 1994; 24 (2): 188 -93. PMID 
+8042948  
+29. Pfeffer G, Majamaa K, Turnbull DM, et al. Treatment for mitochondrial disorders. Cochrane 
+Database Syst Rev. Apr 18 2012; (4): CD004426. PMID 22513923   
+ 
+Genetic Testing for Mitochondrial Disorders  
+ 
+Policy #  00435  
+Original Effective Date:  07/16/2014  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the  Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, pho tocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 18 of 21 
+30. Parikh S, Goldstein A, Koenig MK, et al. Diagnosis and management of mitochondrial disease: 
+a consensus statement from the Mitochondrial Medicine Society. Genet Med. Sep 2015; 17(9): 
+689-701. PMID 25503498  
+ 
+Policy History  
+Original Effective Date: 07/16/2014 
+Current Effective Date: 10/10/2022 
+07/10/2014 Medical Policy Committee review 
+07/16/2014 Medical Policy Implementation Committee approval. New policy. 
+06/25/2015 Medical Policy Committee review 
+07/15/2015 Medical Policy Implementation Committee approval. Coverage eligibility 
+unchanged. 
+09/08/2016 Medical Policy Committee review 
+09/21/2016 Medical Policy Implementation Committee approval.  Updated coverage 
+statements for clarification. Combined investigational statements for clarification. 
+01/01/2017 Coding update: Removing ICD-9 Diagnosis Codes 
+09/07/2017 Medical Policy Committee review 
+09/20/2017 Medical Policy Implementation Committee approval. Policy revised with updated 
+genetics nomenclature. Policy statements revised so that genetic testing is no longer 
+restricted to a set of specific mutations documented for a particular mitochondrial 
+disorder. Removed the investigational statement for the use of genetic testing for 
+mitochondrial disorders using expanded panel testing. 
+09/06/2018 Medical Policy Committee review 
+09/19/2018 Medical Policy Implementation Committee approval. Coverage eligibility 
+unchanged. 
+09/05/2019 Medical Policy Committee review 
+09/11/2019 Medical Policy Implementation Committee approval. Revisions made to the 
+eligible for coverage statements. First statement revised to read: “ genetic testing to 
+establish a genetic diagnosis of a mitochondrial disorder when signs and symptoms 
+of a mitochondrial disorder are present and genetic testing may eliminate the need 
+for muscle biopsy may be eligible for coverage.” Correct insertion of term 
+“preconceptional carrier testing” made to the second eligible for coverage  
+ 
+Genetic Testing for Mitochondrial Disorders  
+ 
+Policy #  00435  
+Original Effective Date:  07/16/2014  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the  Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, pho tocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 19 of 21 
+statement. Added a “Note” that coverage for genetic testing maybe provided only 
+if benefits are available in the member’s contract/certificate.  
+09/03/2020 Medical Policy Committee review 
+09/09/2020 Medical Policy Implementation Committee approval. Coverage eligibility 
+unchanged. 
+09/22/2020 Coding update 
+09/02/2021 Medical Policy Committee review 
+09/08/2021 Medical Policy Implementation Committee approval. Coverage eligibility 
+unchanged. 
+09/01/2022 Medical Policy Committee review 
+09/14 /2022 Medical Policy Implementation Committee approval. Revised Patient Selection 
+Criteria for targeted genetic testing to establish the diagnosis of a mitochondrial 
+disorder.  
+Next Scheduled Review Date: 09/2023 
+ 
+Coding  
+The five character codes included in the Blue Cross Blue Shield of Louisiana Medical Policy 
+Coverage Guidelines are obtained from Current Procedural Terminology (CPT®)‡, copyright 20 21 
+by the American Medical Association (AMA). CPT is developed by the AMA as a listing of 
+descriptive terms and five character identifying codes and modifiers for reporting medical services 
+and procedures  performed by physician.  
+ 
+The responsibility for the content of Blue Cross Blue Shield of Louisiana Medical Policy Coverage 
+Guidelines is with Blue Cross and Blue Shield of Louisiana and no endorsement by the AMA is 
+intended or should be implied.  The AMA disclaims responsibility for any consequences or liability 
+attributable or related to any use, nonuse or interpretation of information contained in Blue Cross 
+Blue Shield of Louisiana Medical Policy Coverage Guidelines.  Fee schedules, relative value units , 
+conversion factors and/or related components are not assigned by the AMA, are not part of CPT, 
+and the AMA is not recommending their use.  The AMA does not directly or indirectly practice 
+medicine or dispense medical services.  The AMA assumes no liabili ty for data contained or not 
+contained herein.  Any use of CPT outside of Blue Cross Blue Shield of Louisiana Medical Policy 
+Coverage Guidelines should refer to the most current Current Procedural Terminology which  
+ 
+Genetic Testing for Mitochondrial Disorders  
+ 
+Policy #  00435  
+Original Effective Date:  07/16/2014  
+Current Effective Date:  10/10/2022  
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the  Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, pho tocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 20 of 21 
+contains the complete and most current li sting of CPT codes and descriptive terms. Applicable 
+FARS/DFARS apply.  
+ 
+CPT is a registered trademark of the American Medical Association. 
+ 
+Codes used to identify services associated with this policy may include (but may not be limited to) 
+the following: 
+Code Type  Code  
+CPT 0214U, 0215U,  81401, 81403, 81405, 81406, 81440, 81460, 81465,    
+81479  
+HCPCS  No codes  
+ICD-10 Diagnosis  E88.40 -E88.49, F84.2, G31.81 -G31.82, H49.811 -H49.819, H50.89  
+ 
+*Investigational – A medical treatment, procedure, drug, device, or biological product is 
+Investigational if the effectiveness has not been clearly tested and it has not been incorporated into 
+standard medical practice. Any determination we make that a medical treatment, procedure, drug, 
+device, or biological product is Investigational will be based on a consideration of the following: 
+A. Whether the medical treatment, procedure, drug, device, or biological product can be 
+lawfully marketed without approval of the U.S. Food and Drug Administration (FDA) and 
+whether such approval has been granted at the time the medical treatment, procedure, drug, 
+device, or biological product is sought to be furnished; or 
+B. Whether the medical treatment, procedure, drug, device, or biological product requires 
+further studies or clinical trials to determine its maximum tolerated dose, toxicity, safety, 
+effectiveness, or effectiveness as compared with the standard means of treatment or 
+diagnosis, must improve health outcomes, according to the consensus of opinion amo ng 
+experts as shown by reliable evidence, including: 
+1. Consultation with technology evaluation center(s); 
+2. Credible scientific evidence published in peer-reviewed medical literature generally 
+recognized by the relevant medical community; or 
+3. Reference to federal regulations. 
+ 
+**Medically Necessary (or “Medical Necessity”) - Health care services, treatment, procedures, 
+equipment, drugs, devices, items or supplies that a Provider, exercising prudent clinical judgment,  
+ 
+Genetic Testing for Mitochondrial Disorders  
+ 
+Policy #  00435  
+Original Effective Date:  07/16/2014  
+Current Effective Date:  10/10/2022  
+ 
+would provide to a patient for the purpose of preventing, evaluating, diagnosing or treating an illness, 
+injury, disease or its symptoms, and that are: 
+A. In accordance with nationally accepted standards of medical practice; 
+B. Clinically appropriate, in terms of type, frequency, extent, level of care, site and duration, 
+and considered effective for the patient's illness, injury or disease; and 
+C. Not primarily for the personal comfort or convenience of the patient, physician or other 
+health care provider, and not more costly than an alternative service or sequence of services 
+at least as likely to produce equivalent therapeutic or diagnostic results as to the diagnosis or 
+treatment of that patient's illness, injury or disease. 
+For these purposes, “nationally accepted standards of medical practice” means standards that are 
+based on credible scientific evidence published in peer-reviewed medical literature generally 
+recognized by the relevant medical community, Physician Specialty Society recommendations and 
+the views of Physicians practicing in relevant clinical areas and any other relevant factors. 
+ 
+‡ Indicated trademarks are the registered trademarks of their respective owners. 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the  Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, ele ctronic, 
+mechanical, pho tocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 21 of 21 
+ 
+NOTICE:   If the Patient’s health insurance contract contains language that differs from the 
+BCBSLA Medical Policy definition noted above, the definition in the health insurance contract will 
+be relied upon for specific coverage determinations.  
+ 
+NOTICE:   Medical Policies are scientific based opinions, provided solely for coverage and 
+informational purpos es. Medical Policies should not be construed to suggest that the Company 
+recommends, advocates, requires, encourages, or discourages any particular treatment, procedure, 
+or service, or any particular course of treatment, procedure, or service.  

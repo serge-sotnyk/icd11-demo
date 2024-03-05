@@ -1,0 +1,589 @@
+    
+Lumasiran (Oxlumo)  - Medical Clinical Policy Bulletins | Aetna   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+          
+ 
+ 
+   
+ 
+ 
+ 
+         
+          
+         
+ 
+       
+          
+          
+ 
+    
+        
+          
+    
+ 
+ 
+  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+   
+ 
+    
+ Page 1 of 9 
+Lumasiran (Oxlumo) 
+ 
+POLICY HISTORY 
+Last Review: 12/09/2021 
+Effective:  03/19/2021 
+Next Review: 12/08/2022 
+Review History 
+Deﬁnitions 
+Additional Information 
+Clinical Policy Bulletin  
+Notes Number: 0983 
+POLICY 
+*Please see amendment forPennsylvania Medicaid at theend ofthis 
+CPB. 
+Note : Requires Precertification. 
+Precertification of lumasiran (Oxlumo) is required of all Aetna participating 
+providers and members in applicable plan designs. For precertification of 
+lumasiran (Oxlumo), call (866) 752 -7021 or fax (888) 267 -3277. 
+Note : Site of Care Utilization Management Policy applies. For 
+information on site of service for lumasiran (Oxlumo), see Utilization 
+Management Policy on Site of Care for Specialty Drug Infusions. 
+I. Criteria for Initial Approval 
+Aetna considers lumasiran (Oxlumo) medically necessary for the 
+treatment of primary hyperoxaluria type 1 (PH1) to lower urinary 
+oxalate levels when all of the following criteria are met: 
+A. Member has a documented diagnosis of primary hyperoxaluria 
+type 1 (PH1) conﬁrmed by a molecular genetic test showing a 
+mutation in the alanine: glyoxyla te aminotransferase  (AGXT) 
+gene or liver enzyme analysis demonstrating absent or 
+signiﬁcantly reduced alanine: glyoxylate aminotransferase (AGT) 
+activity; and       Lumasiran (Oxlumo) -Medical Clinical Policy Bulletins | Aetna Page 2 of 9  
+        
+           
+ 
+ 
+  
+ 
+        
+ 
+  
+ 
+ 
+         
+          
+    
+ 
+        
+     
+ 
+ 
+ 
+ 
+ 
+    
+ 
+   
+  
+ 
+   
+ 
+     
+ 
+ 
+   
+ 
+      
+       
+    
+  
+ 
+ 
+ 
+  
+ 
+  B. Member hasapretreatment estimatedglomerular ﬁltration
+ 
+rate (eGFR) of greater than or equal to 30 mL/min/1.73 m2 .
+ 
+II. Aetna considers all other indications as experimental and investigational 
+III. Continuation of Therapy 
+Aetna considers continuation of lumasiran therapy medically
+ 
+necessary for members who meet all initial authorization criteria 
+and the member’s urinary oxalate excretion has decreased or
+ normalized since initiation of therapy.
+ 
+Dosage and Administration 
+Lumasiran is available as Oxlumo and supplied as 94.5 mg/0.5 mL in a
+ single -dose vial. Oxlumo is intended for subcutaneous use and should be 
+administered by a healthcare professional.
+ 
+The recommended dose of lumasiran (Oxlumo) by subcutaneous
+ 
+injection is based on body weight.
+ 
+Table:  Oxlumo We ight-Based Dosing  Regimen 
+ 
+Body 
+Weight Loading Dose Maintenance Dose (begin 1 month after the last loading dose) 
+Less than 10 
+kg 6 mg/kg once-
+monthly for 3 doses 3 mg/kg once- monthly 
+10 to less 
+than 20 kg 6 mg/kg once-
+monthly for 3 doses 6 mg/kg once every 3 months (quarterly) 
+20 kg and 
+above 3 mg/kg once-
+monthly for 3 doses 3 mg/kg once every 3 months (quarterly) 
+Source: Alnylam, 2020 
+Background 
+U.S. Food and Drug Administration (FDA) -Approved  Indications  
+Lumasiran (Oxlumo) is indicated for the treatment of primary 
+hyperoxaluria type 1 (PH1) to lower urinary oxalate levels in 
+pediatric and adult patients.        
+ Lumasiran (Oxlumo) -Medical Clinical Policy Bulletins | Aetna Page 3 of 9 
+        
+         
+     
+       
+        
+          
+             
+       
+         
+          
+       
+         
+      
+ 
+            
+   
+ 
+ 
+ 
+      
+       
+          
+         
+          
+         
+         
+       
+        
+           
+      
+        
+        
+      
+         
+       
+     
+ 
+          
+    
+         Lumasiran, a HAO1 -directed small interfering ribonucleic acid (siRNA), is 
+available as the brand Oxlumo (Alnylam Pharmaceuticals, Inc.). Per the 
+label for Oxlumo, lumasiran reduces levels of glycolate oxidase (GO) 
+enzyme by targeting the hydroxyacid oxidase 1 (HAO1) messenger 
+ribonucleic acid (mRNA) in hepatocytes through RNA interference. 
+Decreased GO enzyme levels reduce the amount of available glyoxylate, 
+a substrate for oxalate production. As the GO enzyme is upstream of the 
+deficient alanine: glyoxylate aminotransferase (AGT) enzyme that 
+causes PH1, the mechanism of action of lumasiran is independent of the underlying AGXT gene mutation. Oxlumo is not expected to be 
+effective in primary hyperoxaluria type 2 (PH2) or type 3 (PH3) 
+because its mechanism of action does not affect the metabolic pathways causing hyperoxaluria in PH2 and PH3 (Alnylam, 2020). 
+The most common adverse reaction (reported in 20% or more of patients) 
+is injection site reactions. 
+Primary hyper oxaluria type 1 (PH1) 
+Primary hyperoxalurias (PHs) are rare inborn errors of glyoxylate metabolism characterized by the over -production of oxalate, which is 
+poorly soluble and is deposited as calcium oxalate in various organs (including the bones, eyes, heart, and kidney). Primary hyperoxaluria is caused by mutations in 1 of the 3 genes that encode enzymes involved in 
+glyoxylate metabolism. Primary hyperoxaluria type 1 (PH1; about 80 % of 
+cases) is due to mutations of hepatic peroxisomal enzyme alanine-glyoxylate aminotransferase (AGT); it is the most common and severe 
+type affecting an estimated 1 to 3 individuals per million in Europe and North America. As oxalate is primarily excreted in the urine, the kidney is 
+the prime target for oxalate deposition, which leads to end- stage renal 
+disease (ESRD) in many cases. Patients with PH1 produce excessive 
+oxalate, which can combine with calcium to cause kidney stones and deposits in the kidneys. Patients can experience progressive kidney damage, which can lead t o kidney failure and the need for dialysis. As 
+kidney function worsens, oxalate can build up and damage other organs (Cochat and Rumsby, 2013; Niaudet, 2020). 
+Liebow and associates (2017) stated that PH1 arises from mutations in the enzyme AGT; and the resulting deficiency in this enzyme leads to abnormally high oxalate production resulting in calcium oxalate crystal        
+Lumasiran (Oxlumo) -Medical Clinical Policy Bulletins | Aetna Page 4 of 9 
+        
+         
+         
+           
+     
+       
+    
+     
+         
+    
+    
+     
+        
+         
+               
+          
+       
+         
+ 
+ 
+  
+    
+     
+      
+    
+       
+            
+      
+     
+       
+        
+         
+      
+     
+       
+         
+     
+         
+   formation and deposition in the kidney and many other organs, with 
+systemic oxalosis and ESRD being common outcomes. Although a small 
+subset of patients can manage the disease with vitamin B6 treatments, the only effective treatment for most is a combined liver-kidney transplant. 
+These researchers discussed the development of ALN -GO1, an 
+investigational RNA interference (RNAi) therapeutic targeting glycolate 
+oxidase, to deplete the substrate for oxalate synthesis. Subcutaneous
+ admi nistration of ALN-GO1 resulted in potent, dose- dependent, and
+ 
+durable silencing of the mRNA encoding glycolate oxidase and increased 
+serum glycolate concentrations in wild -type mice, rats, and non- human 
+primates. Furthermore, ALN -GO1 increased urinary glycolate
+ 
+concentrations in normal non- human primates and in a genetic mouse 
+model of PH1. Notably, ALN-GO1 reduced urinary oxalate concentration 
+up to 50 % following a single -dose in the genetic mouse model of PH1,
+ 
+and up to 98 % after multiple doses in a rat model of hyperoxaluria. The
+ 
+authors concluded that these findings showed the ability of ALN-GO1 to 
+reduce oxalate production in pre- clinical models of PH1 across multiple 
+species and provided a clear rationale for clinical trials with this
+ compound.
+ 
+McGregor and colleagues (2020) noted that by sequencing autozygous
+ human populations, these researchers identified a healthy adult woman
+ with lifelong complete knockout of HAO1 (expected about 1 in 30 million
+ outbred people). HAO1 (glycolate oxidase) silencing is the mechanism of
+ 
+lumasiran, an investigational RNAi therapeutic for PH1. Lumasiran acts 
+by lowering oxalate production. Her plasma glycolate levels were 12 
+times, and urinary glycolate 6 times, the upper limit of normal observed in 
+healthy reference individuals (n = 67). Plasma metabolomics and 
+lipidomics (1,871 biochemicals) revealed 18 markedly elevated
+ biochemicals (greater than 5 standard deviations outliers versus n = 25 
+controls) suggesting additional HAO1 effects. Comparison withlumasiran
+ 
+pre-clinical and clinical trial data suggested she had less than 2 %
+ 
+residual glycolate oxidase activity. Cell line p.Leu333SerfsTer4 
+expression showed markedly reduced HAO1 protein levels and cellular
+ protein mis -localization. The authors concluded that in this patient,
+ 
+lifelong HAO1 knockout is safe and without clinical phenotype, de- risking 
+a therapeutic approach and informing therapeutic mechanisms .
+ 
+Unlocking evidence from the diversity of human genetic variation can 
+facilitate drug development.
+        
+Lumasiran (Oxlumo) -Medical Clinical Policy Bulletins | Aetna Page 5 of 9 
+        
+        
+       
+               
+        
+       
+        
+        
+       
+             
+          
+           
+    
+        
+              
+  
+ Lumasiran acts by lowering oxalate production. It was examined in 2 
+studies in patients with PH1: a randomized, placebo -controlled trial in 
+patients 6 years and older and an open -label study in patients younger 
+than 6 years. Patients ranged in age from 4 months to 61 years at the 1st 
+dose. In the first study, 26 patients received a monthly injection of 
+Oxlumo followed by a maintenance dose every 3 months; 13 patients 
+received placebo injections. The primary end -point was the amount of 
+oxalate measured in the urine over 24 hours. In the Oxlumo group, 
+patients had, on average, a 65 % reduction of oxalate in the urine, 
+compared to an average 12 % reduction in the placebo group. By the 6th 
+month of the study, 52 % of patients treated with Oxlumo reached a 
+normal 24 -hour urinary oxalate level; no patients treated with the placebo 
+did. In the 2nd study, 16 patients younger than 6 years all received 
+Oxlumo. Using another measure of oxalate in the urine, the study 
+showed, on average, a 71 % decrease in urinary oxalate by the 6th month 
+of the study. 
+On November  23,  2020,  the  Food and Drug Administration  (FDA)  
+ 
+approved Oxlumo  (lumasiran)  as  the  1st  treatment  for  PH1;  Oxlumo  
+ 
+received  orphan drug designation.  The FDA approval  was  based  on the 
+positive findings from  2 clinical trials in patients  with PH1 -- the 
+ILLUMINATE -A and ILLUMINATE -B phase -III studies. ILLUMINATE -A
+  
+was  a  randomized (2:1;  drug  to placebo),  double -blind, placebo - 
+controlled,  multi -national  study.  It  enrolled  39 patients  with  PH1,  aged 6  
+ 
+and above,  with  relatively  preserved  renal  function (an estimated  
+ 
+glomerular  filtration  rate  [eGFR]  of  greater  than  or  equal  to  30  ml/min/1.73 
+m2),  at  16  study  sites,  in  8  countries  around  the  world.  Oxlumo  achieved 
+the ILLUMINATE -A primary end -point  of  %  change from  baseline,  
+ 
+relative -to-placebo,  in  24-hour  urinary  oxalate  excretion  averaged  across  
+ 
+months  3  to  6 and  corrected  for  body  surface  area (BSA).  Specifically,  
+ 
+treatment  with  Oxlumo resulted  in  a  65 %  mean reduction in  urinary 
+  
+oxalate  relative  to  baseline  versus  12  %  reduction  reported  in  response  to 
+placebo,  resulting in  a mean  treatment  difference of  53 %  relative  to 
+placebo  (p  =  1.7 x  10-14).  At  month 6,  all  tested secondary  end-points 
+  
+were  met,  including  the proportion  of  patients  treated with  Oxlumo  
+ 
+achieving  at  or  below  the  upper  limit  of  normal *  (13/25  patients  or  52  %;  p
+  
+=  0.001)  and  at  or  below  1.5  x  upper  limit  of  norma l**  (21/25  patients  or
+  
+84  %;  p =  8.3 x  10-7) levels of  urinary  oxalate, compared to none  (0/13)  
+ 
+of  the patients  receiving  placebo.  No serious  or  severe  adverse  events  
+ 
+(AEs)  were  reported.  Injection site  reactions  (ISRs)  were  the most  
+ 
+common  drug-related  adverse  reaction,  reported  in  10  out  of  26  (38  %)  of
+         
+Lumasiran (Oxlumo) -Medical Clinical Policy Bulletins | Aetna Page 6 of 9 
+       
+    
+ 
+        
+         
+ 
+ 
+             
+        
+ 
+            
+             
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+    
+ 
+    
+   
+   
+  
+   patients receiving Oxlumo. No ISRs were reported in patients receiving 
+placebo; and ISRs occurr ed throughout the study period and included 
+erythema, pain, pruritus, and swelling. These symptoms were generally
+ 
+mild and resolved within 1 day of the injection and did not lead to
+ discontinuation of treatment.
+ 
+* Normalization was defined as urinary oxalate levels of less than or equal
+ 
+to upper limit of normal (0.514 mmol/24 hour/1.73 m )
+ 
+2
+** Near -normalization was defined as urinary oxalate levels of less than or
+ 
+equal to 1.5 x the upper limit of normal (0.771 mmol/24 hour/1.73 m )
+ 2
+ILLUMINATE -B was  an  open-label, single- arm, multi -national  pediatric  
+ 
+study.  The  approval  was  based  on  an  interim  analysis,  which  included  16 
+of  18  PH1  patients  enrolled  in  the  study;  patients  were  under  the  age  of  6 
+with  an  eGFR  of  greater  than or  equal  to  45 ml/min/1.73 m2 or  normal
+  
+serum  creatinine,  if  less  than  12  months  old.  The  primary  end-point  of  the 
+study  was  the  %  change from  baseline  to  month 6  in  spot  urinary
+  
+oxalate:  creatinine  ratio averaged across  mont hs  3 to 6.  In the interim  
+ 
+analysis  (n  =  16),  patients  treated  with  Oxlumo  attained  a  71  %  mean
+  
+reduction in spot  urinary  oxalate:  creatinine  ratio from  baseline (95 %  
+CI:  65 to 77)  . In the 6 -month  primary  analysis  (n  =  18),  patients  treated  
+ 
+with  Oxlumo  attained  a  72  %  mean  reduction  in  spot  urinary  oxalate:
+  
+creatinine  ratio  from  baseline.  The  overall safety  and  tolerability  profile  
+ 
+of  Oxlumo w as  consistent  with  that  observed  in  the  ILLUMINATE -A
+  
+pivotal  study.
+  
+CPT Codes/ HCPCS Codes/ICD- 10 Codes
+ 
+Information in the [brackets] below  has been added for clarification 
+purposes. Codes requiring  a 7th character are represented by “+”
+  
+Code Code Description 
+Other CPT codes related to the CPB : 
+96372 Therapeutic, prophylactic, or diagnostic injection (specify
+ 
+substance or drug); subcutaneous or intramuscular
+ 
+HCPCS codes covered if selection criteria are met : 
+J0224 Injection, lumasiran, 0.5 mg 
+ICD-10 codes covered if selection criteria are met : 
+E72.53 Primary hyperoxaluria        
+ Lumasiran (Oxlumo) -Medical Clinical Policy Bulletins | Aetna Page 7 of 9 
+ 
+    
+ 
+   
+  
+  
+  
+    
+   
+  
+  
+    
+  
+ 
+ 
+ 
+  
+    
+   The above policy is based on the following references: 
+1.	 Alnylam Pharmaceuticals, Inc. Oxlumo (lumasiran) injection, for subcutaneous use. Cambridge, MA: 
+Alnylam; revised November 2020. 
+2.	 Alnylam Pharmaceuticals. Oxlumo (lumasiran). Product Fact Sheet. Cambridge, MA: Alnylam 
+Pharmaceuticals; 2020. Available at: https://www.alnylam.com/wp -content/uploads/pdfs/OXLUMO -
+Product -Fact-Sheet.pdf. Accessed December 8, 2021. 
+3.	 Cochat P, Rumsby G. Primary hyperoxaluria. N Engl J Med. 2013;369(7):649 -658. 
+4.	 Liebow A, Li X, Racie T, et al. An investigational RNAi therapeutic targeting glycolate oxidase reduce s 
+oxalate production in models of primary hyperoxaluria. J Am Soc Nephrol. 2017;28(2):494 -503. 
+5.	 McGregor TL, Hunt KA, Yee E, et al. Characterizing a healthy adult with a rare HAO1 knockout to 
+support a therapeutic strategy for primary hyperoxaluria. Elife. 2020;9:e54363. 
+6.	 Milliner DS. The primary hyperoxalurias: An algorithm for diagnosis. Am J Nephrol. 2005;25(2):154 - 
+160. 
+7.	 Niaudet P. Primary hyperoxaluria. UpToDate [online serial]. Waltham, MA: UpToDate; reviewed 
+November 2020. 
+8.	 U.S. Food and Drug Administration (FDA). FDA approves first drug to treat rare metabolic disorder. 
+FDA News Release. Silver Spring, MD: FDA; November 23, 2020.        
+Lumasiran (Oxlumo) -Medical Clinical Policy Bulletins | Aetna Page 8 of 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+                 
+        
+                 
+                  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Copyright Aetna Inc. All rights reserved. Clinical Policy Bulletins are developed by Aetna to assist in administering plan benefits and 
+constitute neither offers of coverage nor medical advice. This Clinical Policy Bulletin contains only a partial, general description of plan or 
+program benefits and does not constitute a contract. Aetna does not provide health care services and, therefore, cannot guarantee any 
+results or outcomes. Participating providers are independent contractors in private practice and are neither employees nor agents of Aetna 
+or its affiliates. Treating providers are solely responsible for medical advice and treatment of members. This Clinical Policy Bulletin may be 
+updated and therefore is subject to change. 
+Copyright © 2001 -2022 Aetna Inc.        
+ Lumasiran (Oxlumo) -Medical Clinical Policy Bulletins | Aetna Page 9 of 9 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AETNA BETTER HEALTH® OF PENNSYLVANIA 
+Amendment to 
+Aetna Clinical Policy Bulletin Number: 0983 Lumasiran (Oxlumo) 
+There are no amendments for Medicaid. 
+Revised 02/22/2022 

@@ -1,0 +1,119 @@
+ 
+ 
+ 
+Pharmacy  Policy  Bulletin  
+ 
+Title:   Alpelisib (Vijoice ®) 
+Policy  #: Rx.01.267  
+ 
+Application of pharmacy policy is determined by benefits and contracts. Benefits may vary based on product 
+line, group, or contract. Some medications may be subject to precertification, age, quantity, or formulary 
+restrictions (ie limits on non -preferred drugs). Individual member benefits must be verified.  
+This pharmacy policy document describes the status of pharmaceutical information and/or technology at the  
+time the document was developed. Since that time, new information relating to drug efficacy, interactions, 
+contraindications, dosage, administration routes, safety, or FDA approval may have changed. This Pharmacy 
+Policy will be regularly updated as scient ific and medical literature becomes available. This information may 
+include new FDA -approved indications, withdrawals, or other FDA alerts. This type of information is relevant 
+not only when considering whether this policy should be updated, but also when applying it to current 
+requests for coverage.  
+Members are advised to use participating pharmacies in order to receive the highest level of benefits.  
+Intent:  
+The intent of this policy is to communicate the medical necessity criteria for  Alpelisib (Vijoice ®) as provided under the 
+member's  prescription drug  benefit.  
+ 
+Description:  
+Testing for genetic mutations in the PIK3CA gene is done at initial MBC diagnosis if tumor is HR+/HER2 - following 
+progression on or after an endocrine -based regimen. This gene effects cell growth and development and can contribute 
+to a worse prognosis for patients. Knowledge of the presence of this mutation can inform providers in their treatment 
+selection for these patients.  
+ 
+Alpelisib is a small -molecule phosphatidylinositol -3-kinase (PI3K) inhibitor with selective (and strong) activity against 
+PI3Kα (André 2019). Mutations in the gene encoding the catalytic α -subunit of PI3K (PI3KCA) lead to activation of 
+PI3Kα and Akt -signaling, cellular transformation, and tumor generation. Alpelisib inhibits phosphorylation of PI3K 
+downstream targets (including Akt) and demonstrated activity in cell lines harboring a PIK3CA mutation. When 
+compared with eith er agent alone, the combination of alpelisib with fulvestrant has synergistic antitumor activity in 
+PIK3CA -mutated, estrogen receptor -positive models.  
+ 
+Activating mutations in PIK3CA may induce a spectrum of overgrowths/malformations comprising clinically recognizable 
+disorders commonly known as PIK3CA -related overgrowth spectrum (PROS). In an animal model PROS phenotype 
+(congenital lipomatous overgrowth, vascular malformations, epidermal nevi, scoliosis/skeletal and spinal syndrome 
+[CLOVES]), alpelisib inh ibited the PI3K pathway, resulting in prevention or improvement of organ abnormalities 
+associated with the disease; findings were reversed following alpelisib withdrawal  
+ 
+Breast cancer, advanced or metastatic: Treatment (in combination with fulvestrant) of  HR-positive, HER2 -negative, 
+PIK3CA -mutated (as detected by an approved test), advanced or metastatic breast cancer in males and 
+postmenopausal females following progression on or after an endocrine -based regimen.  
+ 
+PIK3CA -related overgrowth spectrum: Treat ment of severe manifestations of PIK3CA -related overgrowth spectrum in 
+patients ≥2 years of age who require systemic therapy.   
+Policy:  
+INITIAL CRITERIA Alpelisib (Vijoice) is approved when ALL of the following are met:  
+ 
+1. Diagnosis of PIK3CA -Related Overgrowth Spectrum (PROS); and  
+2. Documentation of mutation in the PIK3CA gene; and  
+3. Member is 2 years of age or older; and  
+4. Documentation of severe clinical ma nifestations (e.g., Congenital Lipomatous Overgrowth, 
+Vascular malformations, Epidermal nevi, Scoliosis/skeletal and spinal [CLOVES], Facial Infiltrating 
+Lipomatosis [FIL], Klippel -Trenaunay Syndrome [KTS], Megalencephaly -Capillary Malformation 
+Polymicrogy ria [MCAP]); and  
+5. Prescribed by or in consultation with a provider  who specialized in the treatment of PROS   
+Initial authorization duration: 6 months  
+ 
+REAUTHORIZATION CRITERIA Alpelisib (Vijoice®) is re -approved when ALL of the following are met:  
+ 
+1. Docum entation of positive clinical response to therapy (e.g., radiological response defined as a ≥ 
+20% reduction from baseline in the sum of target lesion volume); and  
+2. Prescribed by or in consultation with a provider  who specializes in the treatment of PROS  
+ 
+Reauthorization duration: 12 months  
+  
+ 
+Black  Box Warning  as shown  in the drug  Prescribing  Information:  
+N/A 
+Guidelines:  
+Refer to the specific manufacturer's prescribing information for administration and dosage details and any applicable 
+Black Box warnings.  
+BENEFIT APPLICATION  
+Subject to the terms and conditions of the applicable benefit contract, the applicable drug(s) identified in this policy is 
+(are) covered under the prescription drug benefits of the Company’s products when the medical necessit y criteria listed 
+in this pharmacy policy are met. Any services that are experimental/investigational or cosmetic are benefit contract 
+exclusions for all products of the Company.  
+References:  
+André F, Ciruelos E, Rubovszky G, et al; SOLAR -1 Study Group. A lpelisib for PIK3CA -mutated, hormone receptor -
+positive advanced breast cancer. N Engl J Med. 2019;380(20):1929 -1940.[PubMed 31091374]  
+Venot Q, Blanc T, Rabia SH, et al. Targeted therapy in patients with PIK3CA -related overgrowth syndrome. Nature. 
+2018;558( 7711):540 -546. doi:10.1038/s41586 -018-0217 -9[PubMed 29899452]  
+Vijoice® (alpelisib) [prescribing information]. East Hanover, NJ: Novartis Pharmaceuticals Corporation; April 2022. 
+Available from: https://www.novartis.com/us -en/sites/novartis_us/files/vijoice .pdf. Accessed October 31, 2022.  
+ 
+Applicable  Drugs:   
+Inclusion of a drug in this table does not imply coverage. Eligibility, benefits, limitations, exclusions, 
+precertification/referral requirements, provider contracts, and Company policies apply.  
+ 
+  
+Brand Name  Generic Name  
+Vijoice ® Alpelisib  
+  
+Cross  References:  
+Rx.01.33 Off Label Use  
+Rx.01.76 Quantity Level Limits for Pharmaceuticals Covered Under the Prescription Drug Benefit  
+ 
+Policy  Version  Number:   1.00 
+P&T Approval  Date:   September 15, 2022  
+Policy  Effective  Date:   January 01, 2023  
+Next  Required  Review  Date:   September 15, 2023  
+ 
+ The Policy Bulletins on this web site were developed to assist the Company in administering the provisions of the 
+respective benefit programs, and do not constitute a contract. If you have coverage through the Company, please refer 
+to your specific benefit program for the terms, conditions, limitations and exclusions of your coverage. Company does 
+not provide health care services, medical advice or treatment, or guarantee the outcome or results of any medical 
+services/treatments. The facility and professional providers are responsible for providing medical advice and treatment. 
+Facility and professional providers are independent contractors and ar e not employees or agents of the Company. If 
+you have a specific medical condition, please consult with your doctor. The Company reserves the right at any time to 
+change or update its Policy Bulletins.  
+ 
+ 
+  
+  
+ 
+ 

@@ -1,0 +1,147 @@
+ 
+GA-MED -P-366579         DCH Approved Template on: 12/23/2020  
+ 
+ 
+PHARMACY POLICY STATEMENT  
+Ohio  Medicaid  
+ 
+DRUG NAME  Acthar Gel (repository corticotropin 
+injection)  
+BILLING CODE  J0800  
+BENEFIT TYPE  Medical  
+STATUS  Prior Authorization Required  
+ 
+Acthar Gel is a corticotropin initially approved by the FDA in 1952. It is indicated as monotherapy for the 
+treatment of infantile spasms in infants and children under 2 years of age and for the treatment of 
+exacerbations of multiple sclerosis in adults . The mechanism of action of Acthar Gel in the treatment of 
+infantile spasms is unknown. Acthar Gel and endogenous ACTH stimulate the adrenal cortex to secrete 
+cortisol, corticosterone, aldosterone, and a number of weakly androgenic substances. Prolonged 
+admi nistration of large doses of Acthar Gel induces hyperplasia and hypertrophy of the adrenal cortex and 
+continuous high output of cortisol, corticosterone and weak androgens. The release of endogenous ACTH is 
+under the influence of the nervous system via the regulatory hormone released from the hypothalamus and 
+by a negative corticosteroid feedback mechanism. Elevated plasma cortisol suppresses ACTH release. 
+Acthar Gel is also reported to bind to melanocortin receptors. The trophic effects of endogenous ACTH and 
+Acthar Gel on the adrenal cortex are not well understood beyond the fact that they appear to be mediated by 
+cyclic AMP. A recent review found repository corticotropin injection was not superior to corticosteroids for 
+treating relapses of MS.  
+ 
+Acthar Gel (repository corticotropin injection) will be considered for coverage when the 
+following criteria are met:  
+ 
+Infantile Spasms (West syndrome, X -linked infantile spasms syndrome)  
+For initial  authorization:  
+1. Member is an infant or a child under 2 years of age; AND  
+2. Medication must be prescribed by a pediatric neurologist or an epileptologist; AND  
+3. Member has documented diagnosis of infantile spasms in chart notes; AND  
+4. Member’s body surface area (BSA, m2) or hei ght and weight have been provided to determine the 
+appropriate dosage.  
+5. Medication is used as monotherapy; AND  
+6. Dosage allowed/Quanity limit:  The recommended regimen is a maximum daily dose of 150 U/m2 
+(divided into twice daily injections of 75 U/m2) for 2 weeks. After 2 weeks of treatment, dosing should 
+be gradually tapered and discontinued over a 2 -week period. Quantity Limit: 3 vials (15 mL total) per 
+28 days.  
+ 
+If all the above requirements are met , the medication will be approved for 1 month . 
+  
+GA-MED -P-366579         DCH Approved Template on: 12/23/2020  
+ 
+For reauthorization : 
+1. Member must be under 2 years of age; AND  
+2. Chart notes demonstrate clinical benefit from the initial use of medication (e.g., suppression of spasm 
+symptoms); AND  
+3. Member experienced a relapse in spasm symptoms after Acthar was discontinued.  
+ 
+If all the above requirements are met , the medication will be approved for an additional month . 
+ 
+Multiple Sclerosis  
+For initial  authorization:  
+1. Member is at least 18 years of age or older; AND  
+2. Medication must be prescribed by a neurologist; AND  
+3. Member must have documentation of a current acute exacerbation of MS; AND  
+4. Member must have a previous  3-day trial and failure of intravenous methylprednisolone at a dose  
+4. of at least 1000 mg daily; AND  
+Medication is being used as add -on treatment to disease modifying therapy (ex. Copaxone,Gilenya, 
+Plegridy, etc.)  
+5. Member does not have ANY of the following:  
+a. Scleroderma  
+b. Osteoporosis  
+c. Systemic fungal infections  
+d. Ocular herpes simplex  
+e. History of or the presence of a peptic ulcer  
+f. Congestive heart failure 
+g. Primary adrenocortical insufficiency or adrenocortical hyperfunction  
+7. Dosage allowed/Quantity limit: Administer 80 -120 units daily intramuscularly for 2 -3 weeks.  
+Quantity Limit: 7 vials per 21 days.  
+ 
+If all the above requirements are met, the medication will be approved for 3 weeks.  
+ 
+For reauthorization : 
+1. Acthar gel will not be reauthorized for chronic use.  
+ 
+ 
+ 
+CareSource considers Acthar Gel (repository corticotropin injection)  not 
+medically necessary for the treatment of conditions that are not listed in this 
+document.  For any other indication, please refer to the Off -Label policy.  
+ 
+DATE  ACTION/DESCRIPTION  
+10/08/2018  
+ New policy for H.P.Acthar created. Policy placed in the new format.  
+ 
+ 
+ 
+ 01/22/2021  Changed name to Acthar. Increased the quantity limit to 3 vials (15 mL) per 28 days. 
+Adjusted specialist name. Added that BSA or height/weight must be provided to 
+calculate quantity. Reworded reauth requirement to be more specific. Added member 
+must be under 2 years of age for reauth. Added that member must experience relapse 
+in spasm symptoms after Acthar was discontinued. Updated references.  
+05/05/2022  Transferre d to new format. Updated references. Added medication must be used as 
+monotherapy.  
+03/16/2023  Added diagnosis of multiple sclerosis (MS). Added references. Updated background 
+information to include MS.   
+GA-MED -P-366579         DCH Approved Template on: 12/23/2020  
+ 
+ 
+References:  
+ 
+1. H.P. Acthar Gel [package insert]. Hazelwood, MO: Mallinckrodt ARD Inc.; October  2021. 
+2. AAN/CNS evidence- based guideline update on medical treatment of infantile spasms. Neurology 2012: 78 (24): 
+1974 – 80. doi: 10.1212/WNL.0b013e318259e2cf.  
+3. Wilmshurst JM, Gaillard WD, Vinayan KP, et al. Summary of recommendations for the management of infantile 
+seizures: Task Force Report for the ILAE Commission of Pediatrics. Epilepsia . 2015;56(8):1185- 1197. 
+doi:10.1111/epi.13057.  
+4. Nelson GR. Management of infantile spasms. Transl Pediatr . 2015;4(4):260- 270. doi:10.3978/j.issn.2224-
+4336.2015.09.01.  
+5. Gold Standard, Inc. Corticotropin ACTH. Clinical Pharmacology [database online]. Tampa, FL: Gold Standard, 
+Inc; 2012. Available from: http://www.clinicalpharmacology.com.  
+6. Management and prognosis of infantile spasms. Daniel G Glaze. UpToDate [online database]. Available from: http://www.uptodate.com  
+7. Milanese C, La Mantia L, Salmaggi A, et al. Double- blind randomized trial of ACTH versus dexamethasone 
+versus methylprednisolone in multiple sclerosis bouts. Clinical, cerebrospinal fluid and neurophysiological results. 
+Eur Neurol. 1989; 29 (1): 10 –  14. 
+8. Thompson AJ, Kennard C, Swash M, et al. Relative efficacy of intravenous methylprednisolone and ACTH in the 
+treatment of acute relapse in MS. Neurology. 1989; 39 (7): 969 – 971. 
+9. Tran KA, Harrod C, Bourdette DN, Cohen DM, Deodhar AA, Hartung DM. Characterization of the Clinical 
+Evidence Supporting Repository Corticotropin Injection for FDA -Approved Indications: A Scoping Review. JAMA 
+Intern Med. 2022;182(2):206– 217. 
+10. Grant AR, Day GS, Ann Marrie R, et al. Practice guidelines: Disease- modifying therapies for adults with multiple 
+sclerosis: report of the Guideline Development, Dissemination, and Implementation Subcommittee of the 
+American Academy of Neurology. Neurology. 2018; 90(17): 777- 788 
+11. Filippini G, Brusaferri F, Sibley WA, et al. Corticosteroids or ACTH for acute exacerbations in multiple sclerosis. 
+Cochrane Database Syst Rev. 2000;(4):CD001331. doi:10.1002/14651858.CD001331  
+12. Berkovich R. Treatment of acute relapses in multiple sclerosis. Neurotherapeutics. 2013;10(1):97- 105. 
+doi:10.1007/s13311- 012-0160- 7 
+13. Ohio  Administrative Code. (2022, February 23). 5160- 1-01 (C) Medicaid medical necessity: definitions and 
+principles. Retrieved February 22 2023 from codes.ohio.gov.  
+14. Ohio Administrative Code. (2022, July 18). 5160- 26-03 Managed care: covered services. Retrieved February 22, 
+2023 from codes.ohio.gov.  
+15. Ohio Administrative Code. (2020, January 1). 5160- 9-03 Pharmacy services: covered drugs and associated 
+limitations. Retrieved February 22, 2023 from codes.ohio.gov.  
+ 
+ 
+ 
+Effective date: 04/14/2023  
+Revised date: 03/16/2023  
+ 
+ 
+ 
+ 

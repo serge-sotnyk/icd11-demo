@@ -1,0 +1,588 @@
+ 
+PHARMACY POLICY – 5.01.518  
+BCR-ABL Kinase Inhibitors  
+Effective Date:  Jan. 1 , 202 3 
+Last Revised:  Dec. 23 , 2022  
+Replaces:  N/A RELATED MEDICAL POLICIES:  
+5.01.517  Use of Vascular Endothelial Growth Factor Receptor (VEGF) Inhibitors 
+and Other Angiogenesis Inhibitors in Oncology  Treatment  
+5.01.534  Multiple Receptor Tyrosine Kinase Inhibitors 
+5.01.544  Prostate Cancer Targeted Therapies  
+5.01.603  Epidermal Growth Factor Receptor (EGFR) Inhibitors  
+ 
+Select a hyperlink below to be directed to that section.  
+POLICY CRITERIA   |  CODING   |  RELATED INFORMATION  
+EVIDENCE REVIEW   |  REFERENCES  |   HISTORY  
+∞ Clicking this icon returns you to the hyperlinks menu above.  
+ 
+Introduction  
+BCR-ABL is a n abnormal  gene that is  found in a specific chromosome in people who have 
+chronic myelogenous leukemia (CML). The BCR -ABL gene makes a protein known as a tyrosine 
+kinase. Tyrosine kinase acts as an “on/off switch” in a cell and  causes certain types of cancer cells 
+to grow uncontrollably, leading to specific types of blood cancer (leukemia). Newer types of 
+chemotherapy attack cellular targets specifically involved in tumor growth. Drugs that target the 
+BCR-ABL protein are known as BCR -ABL tyrosine kinase inhibitors. This policy describes when 
+BCR-ABL kinase inhibitors may be considered medically necessary.  
+ 
+Note:    The Introduction section is for your general knowledge and is not to be taken  as policy coverage criteria. The 
+rest of the policy uses specific words and concepts familiar to medical professionals. It is intended for 
+providers . A provider can be a person, such as a doctor, nurse, psychologist, or dentist. A provider also can 
+be a place where medical care is given, like a hospital, clinic, or lab.  This policy informs them  about when a 
+service may be covered.  
+ 
+Policy Coverage Criteria   
+ 
+ 
+5.01.518_PBC (12-23-2022) 
+ 
+ 
+   
+ 
+ 
+   
+Page | 2 of 18  ∞ Drug  Medical Necessity  
+Gleevec® (imatinib)  Gleevec® (imatinib) may be considered medically necessary 
+for: 
+• Treatment of adult and pediatric individuals with Philadelphia 
+chromosome positive chronic myeloid leukemia (Ph+ CML) in 
+chronic phase, accelerated phase or blast crisis 
+• Treatment of pediatric individuals with Ph+ chronic phase CML whose disease has recurred after stem cell transplant  
+• Treatment of adult and pediatric individuals with relapsed or refractory Philadelphia chromosome positive acute lymphoblastic leukemia (Ph+ ALL)  
+• Adult individual s with myelodysplastic/ myeloproliferative 
+diseases (MDS/MPD) associated with PDGFR (platelet -derived 
+growth factor receptor) gene re-arrangements  
+• Adult individual s with aggressive systemic mastocytosis (ASM) 
+without the D816V c-Kit mutation or with c-Kit mutational 
+status unknown  
+• Adult individual s with hypereosinophilic syndrome (HES) 
+and/or chronic eosinophilic leukemia (CEL) who have the FIP1L1- PDGFRα fusion kinase (mutational analysis or FISH 
+demonstration of CHIC2 allele deletion) and for individual s with 
+HES and/or CEL who are FIP1L1-PDGFRα fu sion kinase negat ive 
+or unknown 
+• Adult individual s with unresectable, recurrent and/or metastatic 
+dermatofibrosarcoma protuberans (DFSP) or aggressive 
+desmoid tumors 
+• Single -agent therapy or in combination with cisplatin or 
+sirolimus for the treatment of recurrent cho rdoma  
+• Single -agent therapy for the treatment of Pigmented 
+Villonodular Synovitis/Tenosynovial Giant Cell Tumor  
+• Treatment of individuals with Kit (CD117) positive G IST, 
+melanoma and other tumors 
+• Treatment of individuals with P h+ NHL – Lymphoblastic 
+lymphoma  
+Sprycel® (dasatinib)  Sprycel® (dasatinib) may be considered medically necessary in 
+individual s with resistance or intolerance to prior therapy with 
+imatinib for:  Page | 3 of 18  ∞ Drug  Medical Necessity  
+• Treatment of newly diagnosed adults with  Philadelphia 
+chromosome- positive chronic myeloid leukemia (Ph+ CML) in 
+chronic phase 
+• Treatment of adults with chronic, accelerated, or blast phase 
+Ph+ CML 
+• Treatment of adults with Philadelphia chromosome positive acute lymphoblastic leukemia (Ph+ ALL)  
+• Treatment of individuals with gastrointestinal stromal tumor (GIST)  
+• Treatment of pediatric individuals with Ph+  CML in chronic 
+phase  
+ 
+Sprycel® (dasatinib) may be considered medically necessary 
+for the treatment of newly diagnosed pediatric individu als 
+with Ph+ ALL in combination with chemotherapy . 
+ 
+Note:      Individual s that have not demonstrated objective response to imatinib 
+therapy after three months are considered imatinib -resistant for 
+purposes of prescribing an alternative therapy.  
+Scemblix® (asciminib)  Scemblix® (asciminib)  may be considered medically necessary 
+in individuals with resistance or intolerance to prior therapy 
+with imatinib and an additional tyrosine kinase inhibitor ( e.g., 
+bosutinib, dasat inib, nilotinib) for : 
+• Treatment of adults with Philadelphia chromosome positive chronic myeloid leukemia (Ph+ CML)  in chronic phase 
+ Scemblix® (asciminib)  may be considered medically necessary 
+for the treatment of adults with:  
+• T315I- positive Ph+ CML  in chronic phase 
+ 
+Note:      Individual s that have not demonstrated objective response to imatinib 
+therapy after three months a re considered imatinib-resistant for 
+purposes of prescribing an alternative therapy. Individuals that have not 
+demonstrated objective response to bosutinib, dasatinib, or nilotinib 
+therapy after three months are considered resistant for purposes of 
+prescribing Scemblix® (asciminib). Page | 4 of 18  ∞ Drug  Medical Necessity  
+Tasigna® (nilotinib)  Tasigna® (nilotinib ) may be considered medically necessary in 
+individual s with resistance or intolerance to prior therapy with 
+imatinib for:  
+• Treatment of adults with chronic, accelerated, or blast phase 
+Philadelphia chromosome positive chronic myeloid leukemia 
+(Ph+CML)  
+• Treatment of adults with Philadelphia chromosome positive acute lymphoblastic leukemia (Ph+ ALL)  
+• Treatment of pediatric individuals greater than or equal to 1 
+year of age with Ph+ CML in chronic phase  
+ 
+Note:      Individuals that have not demonstrated objective response to imatinib 
+therapy after three months are considered imatinib -resistant for 
+purposes of prescribing an alternative therapy.  
+Bosulif ™ (bosutinib)  Bosulif ™ (bosutinib) may be considered medically necessary in 
+individual s with resistance or intolerance to prior therapy with 
+imatinib for t reatment of adults with chronic, accelerated, or 
+blast phase Philadelphia chromosome positive chronic myeloid leukemia (Ph+CML). 
+ 
+Note:      Individual s that have not demonstrated objective response to imatinib 
+therapy after three months are considered imatinib -resistant for 
+purposes of prescribing an alternative therapy.  
+Iclusig ™ (ponatinib)  Iclusig ™ (ponatinib) may be considered medically necessary in 
+individual s with resistance or intolerance to prior therapy with 
+imatinib and an additional tyrosine kinase inhibitor ( e.g., 
+bosutinib, dasat inib, nilotinib) for : 
+• Treatment of adults with chronic, accelerated, or blast phase Philadelphia chromosome positive chronic myeloid leukemia 
+(Ph+CML)  
+• Treatment of adults with Philadelphia chromosome positive 
+acute lymphoblastic leukemia (Ph+ ALL)  
+ Iclusig™ (ponatinib) may be considered medically necessary 
+for the treatment of adults with:  
+• T315I -positive  chronic, accelerated, or blast phase Ph+ CML  Page | 5 of 18  ∞ Drug  Medical Necessity  
+• T315I -positive Ph+ ALL  
+ 
+Note:      Individual s that have not demonstrated objective response to imatinib 
+therapy after three months are cons idered imatinib -resistant for 
+purposes of prescribing an alternative therapy. Individuals that have not 
+demonstrated objective response to bosutinib, dasatinib, or nilotinib 
+therapy after three months are considered resistant for purposes of 
+prescri bing Iclusig™ (ponatinib).  
+Synribo ™ (omacetaxine)  Synribo ™ (omacetaxine)  may be considered medically 
+necessary in adult individuals with resistance or intolerance to 
+prior therapy with imatinib and an additional tyrosine kinase 
+inhibitor ( e.g., bosutinib, dasat inib, nilotinib) for the t reatment 
+of chronic or accelerated phase chronic myeloid leukemia. 
+ 
+Note:     Individuals that have not demonstrated objective response to imatinib 
+therapy after three months are considered imatinib -resistant for 
+purposes of prescribing an alternative therapy. Individuals that have not 
+demonstrated objective response to bosutinib, dasatinib, or nilotinib  
+therapy after three months are considered resistant for purposes of prescribing Synribo ™ (omacetaxine).  
+ 
+Drug  Investigational  
+As listed  All other uses of the medications  listed in this policy are  
+considered investigational. 
+ 
+Length of Approval  
+Approval  Criteria  
+Initial authorization  All drugs listed in policy may be approved up to 3 months.  
+Re-authorization criteria  Future re -authorization of all drugs  listed in policy  may be  
+approved up to 12 months as long as the drug -specific 
+coverage criteria are met and chart notes demonstrate that the  
+individual  continues to show a positive clinical response to 
+therapy.  
+ 
+ Page | 6 of 18  ∞ Coding   
+ 
+N/A 
+ 
+Related Information   
+ 
+Benefit Application 
+This coverage is managed through the Pharmacy benefit.  
+ 
+Evidence Review   
+ 
+Description 
+Cancer is characterized by the uncontrolled growth and spread of malignant cells. Nearly 1.4 
+million Americans will be diagnosed with cancer this year, and approximately 570,000 will die of 
+the disease. The good news is, survival rates for cancer are on the rise, increasing from 50% to 
+64% over the last 30 years.  
+Conventional cytotoxic cancer chemotherapy has been one of the major medical advances 
+realized in the last few decades. Although directed toward certain biologic targets thought to be 
+involved in cellular growth and proliferation, typically they have not discriminated well between 
+rapidly dividing normal cells ( e.g., bone marrow, gastrointestinal tract) and tumor cells, 
+frequently resulting in toxicities. In addition, tumor responses to traditional cytotoxic cancer chemotherapies can be unpredictable and brief.  
+“Targeted chemotherapies” ( e.g., monoclonal antibodies, tyrosine kinase inhibitors, antisense 
+inhibitors of growth factor receptors) are the newest therapeutic approach. These agents have 
+been designed to interfere with molecular targets that have a role in tumor growth and 
+progression ( e.g., tyrosine kinase, vascular endothelial growth factor, epithelial growth factor, 
+farnesyl transferase inhibition). There are typically more of these targets on or in tumor cells, 
+thus these therapies are more attracted to tumor cells than to normal cells. The promise of these Page | 7 of 18  ∞ agents is that they will provide a broader therapeutic index with less toxicity. They may also be 
+useful in combination with traditional cytotoxic chemotherapies, immunotherapies or radiation 
+to produce additive or synergistic activity without overlap in toxicity profiles.  
+The Philadelphia Chromosome mutation was first described in 1960 as a translocation of parts of 
+chromosomes 9 and 22. The result is that part of the BCR ("breakpoint cluster region") gene 
+from chromosome 22 (region q11) is fused with part of the ABL gene on chromosome 9 (region q34). A BL stands for "Abelson", the name of a leukemia virus which carries a similar protein. The 
+result of the translocation is a protein of p210 or sometimes p185 (p simply stands for "protein"; the numbers represent the apparent molecular weight of the mutant proteins in kDa  
+[kilodaltons] ). The fused " BCR-ABL " gene is located on the resulting, shorter chromosome 22. 
+Because ABL carries a domain that can add phosphate groups to tyrosine residues (tyrosine 
+kinase) the BCR-ABL fusion gene is also a tyrosine kinase. The BCR region is also a 
+serine/threonine kinase. 
+The fused BCR-ABL protein interacts with the interleukin-3 receptor beta(c) subunit. The BCR -
+ABL transcript is constitutively active. In turn, BCR -ABL activates a number of cell cycle-
+controlling proteins and enzymes, speeding up cell division. Moreover, it inhibits DNA repair, 
+causing genomic instability and potentially causing blast crisis in CML.  
+The BCR-ABL kinase inhibiting agents currently available are as follows:  
+Drug Name  Pharmacology  How Given  FDA-approved Uses  
+Bosulif ™ (bosutinib ) BCR-ABL kinase inhibitor  Oral (Rx)  Philadelphia chromosome +CML  
+Gleevec® (imatinib)  BCR-ABL kinase inhibitor  Oral (Rx)  Philadelphia chromosome +CML, ALL, PDGFR -
+associated MDS/MPD,  KIT+ (CD117) cancers  
+Iclusig ™ (ponatinib)  BCR-ABL kinase inhibitor  Oral (Rx)  Philadelphia chromosome +CML, ALL  
+Scemblix®  
+(asciminib)  BCR-ABL kinase inhibitor  
+with binding to ABL 
+myristoyl pocket  Oral (Rx)  Philadelphia chromosome +CML  
+Sprycel® (dasatinib)  BCR-ABL kinase inhibitor  Oral (Rx)  Philadelphia chromosome +CML, ALL, KIT+ GIST  
+Synribo® 
+(omacetaxine 
+mepesuccinate ) BCR-ABL kinase inhibitor  SC (Rx) Philadelphia chromosome +CML  
+Tasigna® (nilotinib)  BCR-ABL kinase inhibitor  Oral (Rx)  Philadelphia chromosome +CML, KIT+ GIST  
+ 
+Gleevec® (imatinib) is a protein- tyrosine kinase inhibitor that inhibits the BCR -ABL tyrosine 
+kinase, the abnormal tyrosine kinase created by the Philadelphia chromosome abnormality in Page | 8 of 18  ∞ chronic myelogenous leukemia (CML). This inhibition prevents proliferation and induces 
+apoptosis of the abnormal cells. Gleevec® is also an inhibitor of the receptor tyrosine kinases 
+for platelet -derived growth factor (PDGF) and stem cell factor (SCF), and c- kit. In vitro, Gleevec® 
+inhibits proliferation and induces apoptosis in gastrointestinal stromal tumors (GIST) cells, which express an activating c- kit mutation.  
+Sprycel® (dasatinib) and nilotinib are inhibitors of multiple protein- tyrosine kinases, including 
+BCR-ABL, SRC family, c -KIT, EPHA2 and PDGFR -beta). Based on modeling studies, Sprycel is 
+predicted to bind to multiple conformations of the ABL kinase.  
+Scemblix®  (asciminib)  is an ABL/BCR -ABL1 tyrosine kinase inhibitor. Asciminib inhibits the ABL1 
+kinase activity of the BCR -ABL1 fusion protein, by binding to the ABL myristoyl pocket. In studies 
+conducted in vitro or in animal  models of CML, asciminib showed activity against wild -type BCR -
+ABL1 and several mutant forms of the kinase, including the T315I mutation. 
+Gleevec® , approved in 2001, revolutionized treatment of CML. The imatinib molecule fits tightly 
+into the ATP binding site of the BCR -ABL tyrosine kinase, interfering with function of the 
+abnormal protein. Thus it is called a BCR -ABL tyrosine kinase inhibitor or BCR -ABL TKI. Long 
+term follow -up of some of the first imatinib individual s shows an 8- year event -free survival of 
+81%. However, 17% of individuals do not respond to imatinib, and of those that do, 15% later 
+lose their response. Primary resistance (failure to achieve remission in 3 -6 months) may be 
+caused by excessive plasma protein binding, or reduced drug transport into the cell. Secondary resistance is thought to be most commonly due to acquired mutations in the drug binding site of the BCR -ABL TK protein. Mutations in imatinib- resistant individual s have been mapped and 
+sequenced. Second and third generation TKI’s – dasatinib, nilotinib, later bosutanib, and most 
+recently ponatinib - have been developed to overcome imatinib-resistant mutations. In vitro 
+binding and growth inhibition studies for these drugs are ava ilable for an ever- increasing 
+number of mutations. 
+There is increasing evidence that mutations in the BCR -ABL gene correspond to success or 
+failure of different TKI’s. However, this information has limits on clinical usefulness. Over 80% of 
+individuals do well on first -line agents and do not harbor mutations. Of individuals that fail 
+imatinib therapy, Parker et al. were able to detect mutations in 28% of individuals by sequencing, and 32% by mass spectrometry. Soverini et al. estimated that 29% of individuals 
+with imatinib failur e harbor a detectible mutation in the BCR -ABL binding site. Branford et al. 
+report a 10- 20% mutation detection rate by sequencing, and of those for whom a mutation was 
+detected, 43% had a mutation that was useful to guide clinical decisions. Mutations are now 
+detected in about half of imatinib resistant individuals, and of those mutations that are detected, 
+20-25% are useful for guiding treatment choice. Differences in defining treatment failure, as well Page | 9 of 18  ∞ as increasing numbers of mutations in advancing disease, may account for variability in reported 
+percentages.  
+New methods of mutation detection are developing. Mass spectrometry can be used to identify mutations that are at too low a clonal level to be detected by sequencing. Denaturing high-performa nce liquid chromatography (D -HPLC) is also more sensitive but does not characterize 
+the mutation, and may be used to screen samples before sequencing. A rapid PCR method is available to detect the T315I mutation, which is resistant to all TKI’s except ponatinib. Whether 
+individuals could be screened for this single mutation to guide therapy has not been tested.  
+Despite the wealth of information on mutations and in vitro sensitivity, there are no published 
+prospective clinical trials on the clinical usefulness of mutational analysis to select a TKI. Studies 
+to date are r etrospective or observational. For example, in the phase II efficacy trial of Nilotinib 
+in imatinib -resistant individual s, mutation data were collected at baseline and thereafter. 
+Individual s who had no mutation detected, or mutations with high in vitro sensitivity to nilotinib, 
+had a better response than those with mutations that were resistant to nilotinib in vitro 
+(mutations Y253H, E255K/V, F359C/F). Omacetaxine, a protein translation inhibitor, has been 
+approved by the FDA as second- line therapy, and other potential treatments for imatinib-
+resistant individuals are being tested. 
+As individuals who are successful on primary therapy are maintained for longer periods with 
+molecular markers below the level of detection, the question has arisen as to whether they may 
+actually be able to discontinue TKI therapy. In one pilot study, 100 individuals who had been on imatinib for >2 years with complete molecular response discontinued treatment. At one year, 
+41% remained in complete molecular response. All of the 69% that relapsed remained sensitive 
+to imatinib.  
+ 
+Rationale  
+The effectiveness of Sprycel® (dasatinib) is based on hematologic and cytogenetic response 
+rates. There are no controlled trials demonstrating a clinical benefit, such as improvement in 
+disease- related symptoms or increased survival. To date, Sprycel® has been studied in four 
+uncontrolled Phase II pivotal clinical trials and one Phase II pilot study in individuals in all phases 
+of CML, as well as BRC -ABL+ (Ph+) ALL.  
+Two Phase II studies evaluated the efficacy and safety of Sprycel® in individual s with chronic 
+phase CML who were previously treated with Gleevec® (imatinib). One randomized, non-comparative pilot study enrolled individual s (N=150) after failure of low -dose Gleevec® ( i.e., 
+<600 mg/day). One other single-arm study enrolled individuals (N=186) who were resistant to Page | 10 of 18  ∞ or intolerant of Gleevec® at any dose. The primary endpoint in both studies was the rate of 
+major cytogenetic response (MCyR). In the pilot study, 35% of Sprycel® -treated individuals 
+achieved a MCyR at 12 weeks and 21% achieved a complete cytogenetic response (CCyR). In the single -arm study 39% of individuals achieved a MCyR.  
+Three single- arm Phase II studies were performed to evaluate the safety and efficacy of 
+Sprycel® in individuals with advanced stage CML and BRC -ABL+ (Ph+) ALL who were resistant 
+to or intolerant of Gleevec. The primary endpoint in these studies was the rate of major 
+hematologic response (MaHR) and overall hematologic response (OHR). 
+Spyrcel® was also evaluated in two pediatric studies which examined chronic phase CML in 97 
+total individuals. The first trial (N=51) examined newly diagnosed chronic phase CML individuals, 
+while the 2
+nd trial (n=46) looked at individuals that were resistant or intolerant to imatinib. The 
+studies both found increasing trends for CCyR, MCyR, and MMR across 3 to 24 months.  
+The safety and efficacy of nilotinib has been studied in one uncontrolled, open- label, phase II 
+pivotal clinical trial in imatinib -resistant and -intolerant individuals with all phases of CML, as 
+well as Ph+ ALL.  Hematologic and cytogenetic response rates ranged from 16%- 74%. In a 
+preliminary report from another single-arm, open- label, phase II study, nilotinib has also shown 
+activity in individuals with all phases of Ph+ CML and Ph+ ALL who were unresponsive or 
+intolerant to both imatinib and dasatinib. No controlled clinical trials for the agent are available 
+at this time.  
+Although no head -to-head clinical t rials between the second -generation TKIs nilotinib and 
+dasatinib are available, their safety profiles appear to differ. Nilotinib notably carries a boxed warning for QT prolongation and sudden death and the need to take the drug on an empty 
+stomach (avoid food two hours before and within one hour after dose). A greater incidence of grade 3/4 elevated serum lipase and electrolyte abnormalities were reported with nilotinib. 
+While a greater incidence of grade 3/4 myelosuppression, bleeding- related events, and fluid 
+retention were reported with dasatinib.  
+Management guidelines developed by the National Comprehensive Cancer Network (NCCN) recommend individuals with disease resistant to primary treatment with imatinib should be 
+treated with bosutinib, dasatinib, or nilotinib in the second -line setting, taking into account 
+BCR::ABL1 kinase domain mutation. For individual with disease resistant to primary treatment 
+with bosutinib, dasatinib, or nilotinib can be treated with an alternative TKI (other than imatinib)  in the second- line setting, taking into account BCR::ABL1 kinase domain mutation status. 
+ Page | 11 of 18  ∞ NCCN Compendium and Other Practice Guidelines  
+The National Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium is 
+based directly on the NCCN Clinical Practice Guidelines in Oncology. The compendium lists specific panel recommendations for off -label uses of drugs, and each recommendation is 
+supported  by a level of evidence category. 
+The NCCN Categories of Evidence and Consensus used in the recommendations are:  
+• Category 1: The recommendation is based on high level evidence ( e.g., randomized 
+controlled trials) and there is uniform NCCN consensus.  
+• Category  2A: The recommendation is based on lower -level evidence and there is uniform 
+NCCN consensus.  
+• Category 2B: The recommendation is based on lower -level evidence and there is nonuniform 
+NCCN consensus (but no major disagreement).  
+• Category 3: The recommendation is based on any level of evidence but reflects major disagreement. 
+In June 2008, the NCCN Compendium became one of four references for Centers for Medicare 
+and Medicaid Services (CMS) for oncology coverage policy. In its national coverage decision 
+CMS st ates that, in general, a use identified by the NCCN Compendium is medically accepted if 
+the indication is a Category 1 or 2A as defined by NCCN. A use is not medically accepted if the 
+indication is a Category 3 in NCCN. The local CMS contractor, Noridian Administrative Services 
+(NAS), has issued an additional coverage statement regarding Category 2B:  
+NAS recognizes NCCN Categories of Evidence Levels Category 1 and Category 2A ONLY as 
+medically accepted indications. If a provider chooses to use NCCN level 2B in support of a 
+chemotherapeutic drug used off -label in an anti -cancer chemotherapeutic regimen, NAS 
+expects that the provider will make available to NAS significant peer-reviewed Phase II or Phase III studies demonstrating such support. In the absence of such studies, level 2B evidence does not support such use.  
+ 
+2010 Update  - The NCCN Drug Compendium  
+The Company recognizes indications and uses of drugs listed in the NCCN Drugs and Biologics 
+Compendium with Categories of Evidence and consensus of 1 and 2A as proven and Categories 
+of Evidence and Consensus of 2B and 3 as unproven. However, Category 2B uses may be Page | 12 of 18  ∞ considered for coverage if they are substantiated by provider submission of significant peer-
+reviewed Phase II or Phase III studies demonstrating treatment effectiveness.  
+This policy agrees with July 2010 NCCN Drugs and Biologics Compendium recommendations of 
+1 and 2A. 
+ 
+2011 Update  
+A literature search was conducted from October 2010 to September 2011. No maj or new 
+developments were found.  
+Emerging evidence in CML individuals suggests that response rates can be increased by careful 
+attention to therapeutic drug monitoring. Hehlmann and colleagues randomized 1014 newly-
+diagnosed CML individuals to receive 400mg/day, 800mg/day tolerability adjusted or 
+400mg/day plus alpha interferon. Individual s receiving the higher dose imatinib had a higher 
+rate of MMR at 12 months than with imatinib 400 mg/d (59% [95% CI: 53% to 65%] v 44% [95% CI: 37% to 50%]; P < .001) or imatinib 400 mg/d plus IFN -α (59% v 46% [95% CI: 40% to 52%]; P 
+= .002). Median dose in the 800-mg/d arm was 628 mg/d with a maximum dose of 737 mg/d during months 4 to 6 and a maintenance dose of 600 mg/d. All three treatment approa ches 
+were well tolerated with similar grade 3 and 4 adverse events. The authors concluded that treatment of early- phase CML with imatinib can be optimized by giving early high- dose therapy 
+followed by rapid adaptation to good tolerability. MMR at 12 months was strongly correlated 
+with survival at 1 and 3 years.  
+ 
+2012 Update  
+A literature search was conducted from October 2011 to October 2012. No major new 
+developments were found.  
+The TOPS trial published this year further elucidated the relationship between Imatinib trough 
+plasma levels and achievement of complete cytogenetic response (CCyR) and major molecular 
+response (MMR). The clinical significance of this in terms of practice changes remains to be assessed.  
+Ibrahim et al. demonstrated an incremental benefit from sequential administration of imatinib followed by one of the newer tyrosine kinase inhibitors after imatinib failure.  
+ Page | 13 of 18  ∞ 2013 Update  
+A complete review was prepared for the Pharmacy and Therapeutics Committee in January 2013. 
+Focus was on the role of the newer agents in this class and the possibility of using genetic testing to predict resistance to imatinib or some of the other drugs in this class. Unfortunately, 
+the technology was not sufficiently developed for use in routine clinical practice. 
+The medical necessity criteria for imatinib, dasatinib and nilotinib were updated to include 
+currently labeled indications, and indications were added for bosutinib and ponatinib. These 
+were also compared with current NCCN Compendium listings.  
+The European Leukemia Net (ELN) guidelines recommend imatinib as first- line therapy, with 
+nilotinib or dasatinib as second line. Bosutinib and ponatinib have now also been approved as second -line agents.  
+ 
+2014 Update  
+A literature search was conducted from January 2013 to June 2014. No major new developments were found.  
+ 
+2015 Update  
+A literature search was conducted from June 2014 to May 2015. No major new developments 
+were found. Reference list updated.  
+ 
+2016 Update  
+A literature search was conducted from July 1, 2015, to December 5, 2016, . No major new 
+developments were found. Reference list updated. 
+ 
+2018 Update  
+Annual review, literature search from 5/1/2017 to 3/6/2018. Updated pediatric indication on 
+dasatinib and revised wording in tables.  Page | 14 of 18  ∞  
+2019 Update  
+Reviewed prescribing information for all drugs  and updated criteria for Tasigna ® (nilotinib) for 
+use in pediat ric individuals greater than or equal to 1 year of age with Ph+ CML in chronic 
+phase.  
+ 
+2020 Update  
+Reviewed prescribing information for all drugs. Indications for Gleevec were updated in August 
+2020, but were already included in medical policy. No other new developments were found. 
+Reference list updated.  
+ 
+2021 Update  
+Reviewed prescribing information for all drugs. Added to Iclusig ® (ponatinib) coverage for 
+T315I- positive Ph+ CML and T315I- positive Ph+ ALL. Iclusig® is the only TKI with significant 
+activity against the T315I mutation. Added the standard Investigational and Length of Approval 
+tables to policy. Captured information listed in a separate Additional Information table as a “Note” to applicable drugs in policy and deleted the Ad ditional Information table.  
+ 
+2022 Update  
+Reviewed prescribing information for all drugs in policy. No new evidence was identified that 
+required changes to coverage criteria. 
+ 
+References   
+ 
+1. Shah N, Rousselot P, Pasquini D et al. Dasatinib  vs imatinib in patients with chronic phase chronic myeloid leukemia resistant to 
+imatinib: results of the CA180017 START- R randomized trial [Presentation]. American Society of Clinical Oncology (ASCO) 
+Annual Meeting. Atlanta, GA. June 2 -6, 2006.  Page | 15 of 18  ∞ 2. Hochhaus  A, Baccarani M, Sawyers CL et al. Efficacy of dasatinib in patients with chronic phase Ph+ CML resistant or intolerant 
+to imatinib: first results of the CA180013 START- C phase II study [Presentation]. American Society of Hematology (ASH) 47th 
+Annual Meeting and Exposition. Atlanta, GA December 10 -13, 2005.  
+3. Guilhot F, Apperley JF, Shah N et al. A phase II study of dasatinib in patients with accelerated phase chronic myeloid leukemia 
+who are resistant or intolerant to imatinib: first results of the CA 18005 START- A study. American Society of Hematology (ASH) 
+47th Annual Meeting and Exposition. Atlanta, GA December 10 -13, 2005.  
+4. Talpaz M, Rousselot P, Kim DW et al. A phase II study of dasatinib in patients with chronic myeloid leukemia in myeloid blast  
+crisis: first results of the CA 180006 START- B study. American Society of Hematology (ASH) 47th Annual Meeting and 
+Exposition. Atlanta, GA  December 10 -13, 2005.  
+5. Ottmann OG, Martinelli G, Dombret H et al. A phase II study of dasatinib in patients with chronic myeloid leukemia in lymphoid 
+blast crisis: the START -L CA 180015 study. American Society of Hematology (ASH) 47th Annual Meeting and Exposition. Atlanta, 
+GA December 10 -13, 2005.  
+6. Sprycel (dasatinib) Prescribing Information. Bristol Myers Squibb. Princeton, NJ.  Revised June  2021. 
+7. National Comprehensive Cancer Network (NCCN). Clinical Practice Guidelines in Oncology. Chronic Myelo id Leukemia. 
+V.1.2023. Available at: http: //www.nccn.org/professionals/physician_gls/pdf/cml.pdf  Accessed December  5, 2022. 
+8. National Comprehensive Cancer Network (NCCN). National Comprehensive Cancer Network Drug and Biologics Compendium 
+Available at:  http://www.nccn.org/   Accessed December  5, 2022. 
+9. Hehlmann R, Lauseker M, Jung -Munkwitz S,, et al. Tolerability -adapted imatinib 800 mg/d versus 400 mg/d versus 40 0 mg/d 
+plus interferon- α in newly diagnosed chronic myeloid leukemia. J Clin Oncol. 2011 Apr 20;29(12):1634 -42. 
+10. Guilhot F, Hughes TP, Cortes J, et al. Plasma exposure of imatinib and its correlation with clinical response in the Tyrosine Kinase 
+Inhibitor O ptimization and Selectivity Trial. Haematologica 2012;97(5):731.8.Ibrahim AR, Clark RE, Holyoake TL, et al. Second 
+generation tyrosine kinase inhibitors improve the survival of patients with chronic myeloid leukemia in whom imatinib therapy  
+has failed. Haematologica 2011;96(12):1779- 82. 
+11. Deininger M, O'Brien SG, Guilhot F, et al. International randomized study of interferon vs. STI571 (IRIS) 8 -year follow up: 
+sustained survival and low risk for progression or events in patients with newly diagnosed chronic m yeloid leukemia in chronic 
+phase (CML -CP) treated with imatinib [abstract]. Blood 2009;114. Abstract 1126.  
+12. Jelinek J, Gharibyan V, Estecio M, et al. Aberrant DNA methylation is associated with disease progression, resistance to imat inib 
+and shortened survi val in chronic myelogenous leukemia.  PLoS One. 2011;6(7):e22110. 
+13. Apperley JF. Mechanisms of resistance to imatinib in chronic myeloid leukaemia. Lancet Oncol 207;8(11):1018 -29. 
+14. Parker WT, Lawrence RM, Ho M et al. Sensitive detection of BCR -ABL1 mutations in patients with chronic myeloid leudemia 
+after imatinib resistance is predictive of outcome during subsequent therapy. J Clin Oncol. 2011 Nov 10;29(32):4250 -9. 
+15. Soverini S, Hochhaus A, Nicolini FE, et al. BCR -ABL kinase domain mutation analysis in chronic myeloid leudemia patients 
+treated with tyrosine kinase inhibitors: recommendations from an expert panel on behalf of European LeudemiaNet. Blood 2011 118:1208- 1215.  
+16. Branford S, Melo JV, Hughes TP.  Selecting optimal second -line tyrosine kinase inhibitor therapy for chronic myeloid leudemia 
+patients after imatinib failure: does the BCR -ABL mutation status really matter? Blood 2009; 114(27):5426- 5435.  
+17. Schumacher JA, Szankasi P, Bahler DW, et al. A pyrosequencing -based test for detection and relative quantification of the BCR -
+ABL1 T315I point mutation. J Clin Pathol 2011; 64:618- 25. 
+18. Hughes T, Saglio G, Branford S, et al. Impact of baseline BCR -ABL mutations on response to nilotinib in p atients with chronic 
+myeloid leukemia in chronic phase. J Clin Oncol 2009; 27:4204 -4210.  
+19. Mahon FX, Réa D, Guilhot J, et al. Discontinuation of imatinib in patients with chronic myeloid leukaemia who have maintained  
+complete molecular remission for at least 2 years: the prospective, multicentre Stop Imatinib (STIM) trial. Lancet Oncol. 2010 Nov;11(11):1029- 35. Page | 16 of 18  ∞ 20.  
+21. European LeukemiaNet. Available at: https://www.leukemia-net.org   Accessed December  5, 2022. 
+22. Hanfstein B, Müller MC, Hochhaus A. Response -related predictors of survival in CML. Ann Hematol. 2015 Apr;94 Suppl 2:S227 -
+39. 
+23. Mahon FX. Discontinuation of tyrosine kinase inhibitor therapy in CML. Ann Hematol 2015 Apr;94 Suppl 2:S187-93. 
+24. Hochhaus A, Ernst T, Eigendorff E, et al. Causes of resistance and treatment choices of second - and third -line treatment in 
+chronic myelogenous leukemia patients. Ann Hematol. 2015 Apr;94 Suppl 2:S133 -40. 
+25. Casado LF, García -Gutiérrez JV,  Massagué I, et al. Switching to second -generation tyrosine kinase inhibitor improves the 
+response and outcome of frontline imatinib -treated patients with chronic myeloid leukemia with more than 10% of BCR -
+ABL/ABL ratio at 3 months. Cancer Med. 2015 Mar 10 . doi: 10.1002/cam4.440. [Epub ahead of print]  
+26. Brümmendorf TH, Cortes JE, de Souza CA, et al. Bosutinib versus imatinib in newly diagnosed chronic -phase chronic myeloid 
+leukaemia: results from the 24 -month follow -up of the BELA trial. Br J Haematol. 2015 J an;168(1):69- 81. 
+27. Deininger MW, Kopecky KJ, Radich JP, et al. Imatinib 800 mg daily induces deeper molecular responses than imatinib 400 mg 
+daily: results of SWOG S0325, an intergroup randomized PHASE II trial in newly diagnosed chronic phase chronic myeloi d 
+leukaemia. Br J Haematol. 2014 Jan;164(2):223- 32. 
+28. Reviewed by Company Pharmacy and Therapeutics Committee (P&T) on March 7, 2013; May 2014; May 2015.  
+29. Soverini, et al. In Chronic Myeloid Leukemia Patients on Second -line Tyrosine Kinase Inhibitor Therapy, Deep Sequencing of 
+BCR=ABL1 at the Time of Warning May Allow Sensitive Detection of Emerging Drug -Resistant Mutants. BMC Cancer. Augt 2, 
+2016. doi: 10.1186/s12885- 016-2635-0.  
+30. Tekgunduz E, et al. Adult Philadelphia Chromosome -Positive Acute Lymphoblastic Leukemia in Daily Practice: A Multicenter 
+Experience. Clin Lymphoma Myeloma Leuk. May, 2016. doi: 10.1016/j.clml.2016.01.007. Epub 2016 Feb 4.  
+31. Inclusig (ponatinib) Prescribing Information. Takeda Pharmaceutical Company Limited. Cambridge, MA. Revised Februar y 2022. 
+32. Bosulif  (bosutinib ) Prescribing Information. Pfizer Inc . New York , NY. Revised May  2021. 
+33. Tasigna (nilotinib) Prescribing Information. Novartis. East Hanover, NJ. Revised September  2021. 
+34. Gleevec (imatinib) Prescribing Information. Novartis. East Hanover, NJ. Revised August  2022. 
+35. Scemblix (asciminib) Prescribing Information. Novartis. East Hanover, NJ. Revised October  2022. 
+36. Synribo  (omacetaxine mepesuccinate) Prescribing Information. Teva. North Wales , PA. Revised May  2021. 
+ 
+History   
+ 
+Date  Comments  
+08/12/08  Add to Prescription Drug Section - New PR policy.  
+12/16/08  Minor Update - Corrected table under description.  
+12/08/09  Replace Policy - Additional wording regarding NCCN added to Description and 
+Rationale.  No change to policy statements.  Reference added.  
+11/09/10  Replace Policy - Reviewed by OAP in August 2010 – The policy statement has been 
+reworded for purposes of clarification, listing the specific typ es of tumors covered Page | 17 of 18  ∞ Date  Comments  
+under the medically necessary indication; the intent remains the same. A literature 
+review was conducted; references added. Reviewed by P&T in September 2010.  
+11/10/11  Replace Policy – Policy updated with literature review; no change in policy statement. 
+Reference 11 added. Reviewed by P&T on September 27, 2011.  
+11/13/12  Replace policy. Policy updated with literature review; no change in policy statements. 
+References 12 and 13 added.  
+03/11/13  Replace policy. Policy section updated w ith medically necessary statements for 
+dasatinib, dasatinib, nilotinib and omacetaxine. The medical necessity criteria for 
+imatinib, dasatinib and nilotinib were updated to include currently labeled indications, 
+and indications were added for bosutinib and  ponatinib.  Policy Guidelines and 
+Rationale sections updated; references added. Reviewed by P&T on March 7, 2013. 
+HCPCS codes C9297, 9399 and J9999 added.  
+08/15/13  Update Related Policies. Add 5.01.534.  
+12/06/13  Update Related Policies. Add 5.01.544.  
+07/31/14  Annual review. Policy updated with literature review. No change in policy statements.  
+12/03/14  Update Related Policies. Add 5.01.517.  
+06/09/15  Annual review. Policy updated with literature review. No change in policy statements.  
+01/01/17  Annual review, changes approved December 13, 2016. Policy updated with literature 
+review. No change in policy statements. Note added that coverage is managed 
+through the Pharmacy benefit. 
+05/01/17  Annual R eview, changes approved April 11, 2017. A statement outlining the length of 
+therapy for initial and subsequent approval has been added to the policy.  
+10/24/17  Policy moved to new format; no change to policy statements.  
+05/01 /18 Annual Review, approved April 3, 2018. L iterature search from 5/1/2017 to 3/6/2018.  
+Updated pediatric indication on dasatinib and revised wording in tables.  Removed 
+HCPCS codes J8999, J9999, and S0088 (oral) from policy.  
+03/01 /19 Interim  Review, approved February 12 , 2019.  Updated criteria for d asatinib.  
+05/01 /19 Annual Review, approved April 9 , 2019.  Updated criteria for Tasigna  (nilotinib).  
+10/01 /20 Annual review, approved September 17 , 2020.  No change to policy statements.  
+02/01/21  Annual Review, approved January 6, 2021. Added to Iclusig (ponatinib)  coverage for 
+T315I-positive  Ph+ CML and T315I-positive Ph+ ALL.  
+02/01 /22 Interim  Review, approved January 11 , 2022.  Added coverage criteria for Scemblix 
+(asciminib) for the treatment of Ph+ CML in chronic phase after intolerance to prior 
+therapy with imatinib and an additional tyrosine kinase inhibitor and for the treatment 
+of Ph+ CML in chronic phase with the T315I mutation. Page | 18 of 18  ∞ Date  Comments  
+01/01/23  Annual Review, approved December 23 , 2022.  No changes to policy statements.  
+Changed the wording from "patient" to "individual" throughout the policy for 
+standardization.  
+ 
+Disclaimer : This medical policy is a guide in evaluating the medical necessity of a particular service or treatment. The 
+Company adopts policies after careful review of published peer -reviewed scientific literature, national guidelines and 
+local standards of practic e. Since medical technology is constantly changing, the Company reserves the right to review 
+and update policies as appropriate. Member contracts differ in their benefits. Always consult the member benefit 
+booklet or contact a member service representative  to determine coverage for a specific medical service or supply. 
+CPT codes, descriptions and materials are copyrighted by the American Medical Association (AMA). © 2023  Premera 
+All Rights Reserved.  
+Scope : Medical policies are systematically developed guidelines that serve as a resource for Company staff when 
+determining coverage for specific medical procedures, drugs or devices. Coverage for medical services is subject to the limits and conditions of the member benefit plan. Members and their providers should consult the member benefit booklet or contact a customer service representative to determine whether there are any benefit limitations 
+applicable to this service or supply. This medical policy does not apply to Medicare Advantage.  
+ Premera Blue Cross is a n independent licensee of the Blue Cross Blue Shield Association  serving businesses and residents of Alaska and Washington State, excluding C lark County.   
+052493  (07-01-2021) Discrimination is Against the Law  
+Premera Blue Cross  (Premera) complies with applicable Federal and Washington state civil rights laws and does not discriminate on the basis of race, 
+color, national o rigin, age, disability, sex, gender identity, or sexual orientation . Premera does not exclude people or treat them differently because of race, 
+color, national origin, age, disability , sex, gender identity, or sexual orientation.  Premera  provides free aids and services to people with disabilities to 
+communica te effectively with us, such as q ualified sign language interpreters  and w ritten information in other formats (large print, audio, accessible 
+electronic formats, other formats) . Premera p rovides fre e language services to people whose primary language is not English, such as  qualified interpreters  
+and i nformation written in other languages . If you need these services, contact the Civil Rights Coordinator.  If you believe that Premera has failed to 
+provide these services or discriminated in another way on the basis of race, color, national origin, age, disability, sex, gender identity, or sexual orientation , 
+you can file a grievance with:  Civil Rights Coordinator ─ Complaints and Appeals , PO Box 91102 , Seattle, WA 98111 , Toll free : 855-332-4535 , Fax: 425-918-5592 , 
+TTY: 711 , Email  AppealsDepartmentInquiries@Premera.com . You can file a grievance in person or by mail, fax, or email.  If you need help filing a 
+grievance, the Civil Rights Coordinator is available to help you.  You can also file a civil rights complaint with the U.S. Department of Health and Human 
+Services, Office for Civil Rights, electronically through the Office for Civil Righ ts Complaint Portal, available at  https://ocrportal.hhs.gov/ocr/portal/lobby.jsf , 
+or by mail or phone at:  U.S. Department of Health and Human Services,  200 Independence Ave SW, Room 509F, HHH B uilding , Washington, D.C. 20201, 
+1-800-368-1019,  800-537-7697 (TDD). Complaint forms are available at  http://www.hhs.gov/ocr/office/file/index.html .  
+Washington  residents : You can also file a civil rights complaint wi th the Washington State Office of the Insurance Commissioner, electronically through 
+the Office of the Insurance Commissioner Complaint Portal available at https://www.insurance.wa.gov/file -complaint -or-check -your-complaint -status , or by 
+phone at 800 -562-6900, 360 -586-0241 (TDD). Complaint forms are available at https: //fortress.wa.gov/oic/onlineservices/cc/pub/complaintinformation.aspx .  
+Alaska  residents : Contact the Alaska Division of Insurance via email at insurance@alaska.gov , or by phone at 907-269-7900 or 1 -800-INSURAK  (in-state, 
+outside Anchorage) . 
+Language Assistance  
+ATENCIÓN : si habla español, tiene a su disposición servicios gratuitos de asistencia lingüística. Llame al 800 -722-1471  (TTY: 711).  
+PAUNAWA : Kung nagsasalita ka ng Tagalog , maaari kang gumamit ng mga serbisyo ng tulong sa wika nang walang bayad. Tumawag sa  800-722-1471  (TTY: 711).  
+注意：如果您使用繁體中文，您可以免費獲得語言援助服務。請致電  800-722-1471  (TTY：711）。 
+CHÚ Ý : Nếu bạn nói Tiếng Việt, có các dịch vụ hỗ trợ ngôn ngữ miễn phí dành cho b ạn.  Gọi số 800-722-1471  (TTY: 711). 
+주의: 한국어를  사용하시는  경우, 언어 지원 서비스를  무료로  이용하실  수 있습니다 . 800-722-1471  (TTY: 711)  번으로  전화해  주십시오 . 
+ВНИМАНИЕ : Если вы говорите на русском языке, то вам доступны бесплатные услуги перевода.  Звоните  800-722-1471  (телетайп: 711). 
+LUS CEEV : Yog tias koj hais lus Hmoob , cov kev pab txog lus, muaj  kev pab dawb  rau koj. Hu rau 800-722-1471  (TTY:  711).  
+MO LOU SILAFIA : Afai e te tautala  Gagana fa'a Sāmoa, o loo iai auaunaga  fesoasoan, e fai fua e leai se totogi, mo oe,  Telefoni mai:  800-722-1471  (TTY: 711).  
+ໂປດຊາບ: ຖ້າວ່າ ທ່ານເວ ້າພາສາ ລາວ, ການບໍລິການຊ່ວຍເຫ  ຼື ອດ້ານພາສາ, ໂດຍບໍ່ເສ ັ ຽຄ່າ, ແມ່ນມ ີພ້ອມໃຫ້ທ່ານ. ໂທຣ 800-722-1471  (TTY: 711) . 
+注意事項 ：日本語を話される場合、無料の言語支援をご利用いただけます。 800-722-1471  （TTY:711）まで、お電話にてご連絡ください。  
+PAKDAAR : Nu saritaem ti Ilocano, ti serbisyo para ti baddang ti lengguahe nga awanan bayadna, ket sidadaan para kenyam.  Awagan ti  800-722-1471  (TTY: 711).  
+УВАГА!  Якщо ви розмовляєте українською мовою, ви можете звернутися до безкоштовної служби мовної підтримки.  Тел ефонуйте за 
+номером 800 -722-1471  (телетайп:  711). 
+ប្រយ័ត្ន៖   បរើសិនជាអ្នកនិយាយ  ភាសាខ្មែរ , បសវាជំនួយខ្ននកភាសា បោយមិនគិត្ឈ្ ន ួល គឺអាចមានសំរារ់រំបរ ើ អ្នក។  ចូរ ទូរស័ព្ទ   800-722-1471 ( TTY: 711)។ 
+ማስታወሻ :  የሚናገሩት  ቋንቋ ኣማርኛ  ከሆነ የትርጉም  እርዳታ ድርጅቶች፣  በነጻ ሊያግዝዎት  ተዘጋጀተዋል፡  ወደ ሚከተለው  ቁጥር ይደውሉ  800-722-1471 (መስማት  ለተሳናቸው : 711). 
+XIYYEEFFANNAA : Afaan  dubbattu  Oroomiffa , tajaajila  gargaarsa  afaanii , kanfaltiidhaan  ala, ni argama . Bilbilaa  800-722-1471 ( TTY: 711).  
+ملحوظة:  إذا كنت تتحدث اذكر اللغة، فإن خدمات المساعدة اللغوية تتوافر لك بالمجان.  اتصل برقم   1471-722-800    :(رقم هاتف الصم والبكم711 .) 
+ਧਿਆਨ  ਧਿਓ: ਜੇ ਤੁਸੀਂ ਪੰਜਾਬੀ  ਬੋਲਿੇ ਹੋ, ਤਾਂ ਭਾਸ਼ਾ ਧ ਿੱਚ ਸਹਾਇਤਾ  ਸੇ ਾ ਤੁਹਾਡੇ ਲਈ ਮੁਫਤ ਉਪਲਬਿ  ਹੈ। 800-722-1471 (TTY:  711) 'ਤੇ ਕਾਲ ਕਰੋ। 
+เรียน : ถ้าคุณพูดภาษาไทยคุณสามารถใช้บริการช่วยเหลือทางภาษาได้ฟรี  โทร 800-722-1471  (TTY: 711).  
+ACHTUNG : Wenn Sie Deutsch sprechen, stehen Ihnen kostenlos sprachliche Hilfsdienstleistungen zur Verfügung. Rufnummer: 800 -722-1471  (TTY: 711).  
+UWAGA : Jeżeli mówisz po polsku, możesz skorzystać z bezpłatnej pomocy językowej. Zadzwoń pod numer 800 -722-1471  (TTY: 711).  
+ATANSYON : Si w pale Kreyòl Ayisyen, gen sèvis èd pou lang ki disponib gratis pou ou.  Rele 800 -722-1471  (TTY: 711).  
+ATTENTION  : Si vous parlez français, des services d'aide linguistique vous sont proposés gratuitement.  Appelez le 800 -722-1471  (ATS :  711).  
+ATENÇÃO : Se fala português, encontram -se disponíveis serviços linguísticos, grátis.  Ligue para 800 -722-1471  (TTY: 711).  
+ATTENZIONE : In caso la lingua parlata sia l'italiano, sono disponibili servizi di assistenza linguistica gratuiti. Chiamare il numero  800-722-1471  (TTY: 711).   
+ توجه: اگر به زبان فارسی گفتگو می کنید، تسهیالت زبانی بصورت رايگان برای شما فراهم می باشد. با   (TTY: 711) 1471-722-800   .تماس بگیريد 

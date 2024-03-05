@@ -1,0 +1,2045 @@
+   
+Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis  - Medical Clinical Policy Bulletins 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+        
+        
+        
+           
+ 
+   
+ 
+ 
+ 
+       
+ 
+       
+  
+   
+ 
+  
+ 
+  
+ 
+ 
+ 
+ | … Page 1 of 30 
+Complex Regional Pain Syndrome
+(CRPS)/Reflex Sympathetic Dystrophy
+(RSD): Diagnosis 
+POLICY HISTORY 
+Last Review: 03/09/2022 
+Effective:  04/10/1997 
+Next Review: 01/26/2023 
+Review History 
+Deﬁnitions 
+Additional Information 
+Clinical Policy Bulletin 
+Notes  Number: 0147 
+POLICY 
+*Please see amendment for Pennsylvania Medicaid at the end of this CPB. 
+Aetna considers the following tests experimental and investigational for 
+the diagnosis of reflex sympathetic dystrophy (RSD), also known as 
+complex regional pain syndrome (CRPS), because there is insufficient 
+scientific evidence to support the effectiveness of these approaches: 
+Antioxidant  proﬁle   (e.g.,  enzymatic  activities  consisting  of  serum  
+glutathion  peroxidase  (GPX),  glutathione  S-transferase  (GST),  and   
+superoxide  dismutase  (SOD)  
+Biomarkers of inﬂammation (e.g., autoantibodies, calcitonin gene-
+related peptide [CGRP], CD8+ T lymphocytes, CD14+CD16+ 
+monocytes, interleukin -6 [IL -6], mast cell numbers, microRNA 
+[miRNA], soluble interleukin -2 receptor [sIL-2R], substance P [SP], 
+and tumor necrosis factor -alpha [TNF -α]) 
+Bone SPECT/CT  
+Computed tomography (CT) (including high -resolution 
+peripheral quantitative CT for evaluation of CRPS -associated 
+osteopenia) 
+Determination of highly unsaturated fatty acids and trans fatty 
+acid status      
+ 
+ 
+ 
+            
+     
+ 
+ 
+ 
+ 
+        
+           
+         
+        
+        
+         Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 2 of 30 
+DNA  methylation  proﬁles   (for  predicting  the  development  of  CRPS 
+after traumatic  injury) 
+  
+Electronic nose (Aeonose)  for  diagnosis of CRPS 
+  
+Gene  expression  proﬁling   (e.g.,  CREB‑binding  protein  (CREBBP), 
+  
+early region 1A  binding  protein  p300 (EP300), human leukocyte  
+ 
+antigen (HLA) family genes such as HLA ‑DQB1 and HLA ‑DRB1, 
+  
+integrin  alpha  M,  signal  transducer  and  activator  of  transcription 
+  
+(STAT)3, and  STAT5A) 
+  
+Intravenous phentolamine (Regitine) 
+  
+Laser Doppler ﬂowmetry   
+Magnetic resonance imaging (MRI)  
+Magnetic resonance spectroscopy (MRS) and positron emission  
+tomography  (PET)  of  brain  metabolites  and  peripheral  biomarkers  
+of  inﬂammation   
+Measurement  of  dermal  nerve  ﬁber  and  mast  cell  density,  and 
+proximity of mast cells to nerve  ﬁbers  
+Measurement of serum anti -neuronalantibodies/autoantibodies  
+Musculoskeletal ultrasonography  
+Plain   ﬁlm  radiography   
+Positron  emission tomography (PET) 
+  
+Small  non-coding  RNAs  (microRNAs)  as  diagnostic  and  prognostic 
+  
+biomarkers for  CRPS 
+  
+Thermography. 
+  
+For  autonomic  testing  for  reflex  sympathetic  dystrophy  (e.g.,  quantitative  
+sudomotor  axon  reflex  test  (QSART),  resting  sweat  output  (RSO),  and 
+resting skin t  emperature (RST)), see CPB 0485 - Autonomic Testing  /  
+Sudomotor Tests (../400_499/0485.html) .  
+See also CPB 0447 -Complex Regional Pain Syndrome (CRPS) / Reﬂex  
+Sympathetic Dystrophy (RSD): Treatments (../400_499/0447.html) . 
+BACKGROUND  
+Reflex sympathetic dystrophy (RSD), one of the major causes of 
+disability, is a general descriptive term for a set of symptoms and signs 
+without any implication of pathophysiology or etiology. It is characterized 
+by diffused burning pain, allodynia (pain on light touch), and autonomic 
+dysfunction with sweating, temperature change, and redness or cyanotic 
+mottling. Reflex sympathetic dystrophy occurs in adults and children,      
+Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 3 of 30 
+          
+           
+     
+      
+     
+ 
+    
+         
+       
+          
+        
+        
+          
+         
+        
+           
+     
+ 
+        
+               
+        
+           
+             
+      
+        
+  
+  
+  and usually develops in a limb after a relatively minor injury. It can be 
+temporary, permanent, episodic, or migratory, and may occur in one area 
+or mor e. In an attempt to clarify the subject, the International 
+Association for the Study of Pain listed 4 diagnostic criteria for RSD. All 
+4 of the following criteria must be met for the diagnosis of RSD to be 
+established: 
+(i) the presence of an initiating nox ious event, or a cause of 
+  
+immobilization; (ii) continuing pain, allodynia, or hyperalgesia with 
+  
+which the pain is disproportionate to the initiating event; (iii)  
+ 
+conﬁrmation at some time of edema, changes in blood ﬂow, or   
+abnormal  sudomotor  activity  in  the  area  of  the  pain  such  as  changes 
+  
+in skin temperature, skin color, or sweating; and (iv) the absence of  
+ 
+other  conditions  that  would  account  for  the  pain  and  dysfunction. 
+  
+Despite intensive clinical investigations in the past 5 decades, the 
+diagnostic and therapeutic approaches for RSD remain controversial. In 
+ 
+this regard, some researchers have advocated the use of systemic 
+ 
+sympathetic blockade with phentolamine as a diagnostic test for this 
+ 
+condition. Phentolamine mesylate (Regitine) is a short -acting alp ha­
+adrenergic blocking agent that acts at both alpha -1 and alpha -2 
+adrenergic receptor sites. As a test to diagnose RSD, patients are 
+ 
+usually given an intravenous infusion of 25 to 75 mg phentolamine for 20 
+ 
+mins. Pain relief following phentolamine administration is then taken as a 
+confirmation of RSD. However, the value of the phentolamine test in 
+ 
+diagnosing RSD has been challenged by many investigators. 
+ 
+In a recent review on complex regional pain syndrome (CRPS) (Wasner 
+ 
+et al, 2003), the phentolamine test is not listed as a diagnostic test for this
+ 
+syndrome. Furthermore, Atkins (2003) stated that CRPS is a clinical 
+ 
+diagnosis and there is no single diagnostic test. Laser Doppler flowmetry 
+ 
+has been used evaluate blood flow in patients with CRPS because it has
+ 
+been suggested that CRPS may be associated with vascular 
+ 
+disturbances (e.g., a loss of cutaneous sympathetic vasoconstrictor 
+ 
+activity). Vital capillaroscopy is a technique using Doppler flowmetry to 
+gauge anatomical vascular mapping and capillary blood flow in the 
+affected extremity. 
+      
+ 
+       
+        
+      
+          
+         
+           
+         
+         
+         
+        
+     
+          
+            
+        
+          
+   
+        
+     
+        
+          
+     
+   
+ 
+         
+       
+        
+      
+  
+ 
+           
+         
+          
+        
+       
+ 
+   
+      
+         Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 4 of 30 
+Wasner et al (1999) examined cutaneous sympathetic vasoconstrictor 
+innervation by laser Doppler flowmetry in 2 patients with CRPS and 1 
+normal control subject. This study was design ed to investigate the 
+pathophysiology of CRPS. However, the study did not demonstrate how 
+well laser Doppler flowmetry would perform in establishing or excluding 
+the diagnosis of CRPS. Nor did this study show how management is 
+influenced and clinical outcomes are improved in patients with symptoms 
+of CRPS. Baron and Maier (1996) assessed the role of the sympathetic 
+nervous system in patients with RSD of the hand using laser Doppler 
+flowmetry. Cutaneous blood flow, skin resistance and skin temperature 
+were m easured at the affected and contralateral hands. These 
+investigators found that (i) side diﬀerences  in skin temperature and 
+blood ﬂow are no static descriptors in RSD. They are dynamic values 
+depending critically on environmental temperature. Thus, they have 
+to be interpreted with care when deﬁning  reliable diagnostic criteria,, 
+and (ii) vascular disturbances in RSD are not due to constant over -
+activity of sympathetic vasoconstrictor neurons. Changes in vascular 
+sensitivity to cold temperature and circulating catecholamines may be 
+responsible for vascular abnormalities. Alternatively, RSD may be 
+associated with an abnormal (side different) reflex pattern of sympathetic 
+vasoconstrictor neurons due to thermoregulatory and emotional sti muli 
+generated in the central nervous system. 
+Gorodkin et al (2004) assessed microvascular endothelial function in 
+patients with CRPS compared with healthy controls, as measured by 
+iontophoresis of vasoactive chemicals and laser Doppler imaging. These 
+researchers found that CRPS was not associated with impairment of 
+microvascular endothelial function. 
+Laser Doppler flowmetry has been used as a research tool in quantifying 
+blood perfusion in persons with microvascular disease due to diabetes 
+and other vascular conditions. However, there is insufficient evidence of 
+the clinical value of this study in improving the management of patients 
+with diabetes such that clinical outcomes areimproved. 
+Thermography involves the use of an infrared thermometer to measure 
+several symmetrical points on the affected and contralateral extremity, 
+making comparisons between the 2 extremities. In general, a difference      
+ 
+ 
+        
+     
+        
+     
+        
+        
+        
+         
+           
+  
+ 
+        
+         
+       
+          
+        
+          
+          
+         
+         
+   
+        
+            
+        
+         
+  
+ 
+          
+        
+        
+           
+      
+        Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 5 of 30 
+of  0.5  degrees  C  is  considered  mildly  asymmetrical,  and  a difference of  
+1.0 degrees  C  is  considered  significant.  Although asymmetries in 
+temperature  have  been  found  in  persons  with  CRPS,  it  has  been  reported  
+that  a  lack  of  asymmetry  does  not  exclude  the diagnosis  (Rho et  al,  
+2002).  
+N
+iehof et al (2007) found that, although observer assessment of 
+thermographic images may distinguish bet ween CRPS1 patients and 
+healthy controls, the reliability and repeatability of this assessment was 
+"rather low." This study aimed at evaluating the sensitivity, specificity, 
+reliability and repeatability of observer assessment of thermographic 
+images taken from CRPS 1. A computer program was developed to let 
+observers rate the difference between randomly presented thermographic 
+images of pairs of hands of individuals. The investigators reported that the sensitivity was 71 % and the specificity 85 %. The repeatability was 
+0.5267 and the reliability was 0.4967. 
+Gradl and colleagues (2003) reported that thermography had poor sensitivity and specificity for CRPS1. The investigators studied the value 
+of clinical evaluation, radiography and thermography in the early 
+diagnosis of traumatic CRPS1. A total of 158 patients with distal radial 
+fractures were followed- up for 16 weeks after trauma. Apart from a 
+detailed clinical examination 8 and 16 weeks after trauma, thermography 
+and bilateral radiographs of both hands were carried out. At the end of 
+the observation period 18 patients (11 %) were clinically identified as CRPS1. Sixteen weeks after trauma easy differentiation between normal 
+fracture patients and CRPS1 patients was possible. The investigators 
+reported that, 8 weeks after distal radial fracture, clinical evaluation showed a sensitivity of 78 % and a specificity of 94 %. On the other hand, thermography (58 %) and bilateral radiography (33 %) revealed poor sensitivities. The specificity was high for radiography (91 %) and 
+again poor for thermography (66 %). 
+Schürmann et al (2007) compared several imaging studies in diagnosing 
+post-traumatic CRPS. A total of 158 consecutive patients with distal 
+radial fracture were followed- up for 16 weeks after trauma. A detailed 
+clinical examination was carried out 2, 8, and 16 weeks after trauma in conjunction with bilateral thermography, plain radiographs of the hand 
+skeleton, 3-phase bone scans (TPBSs), and contrast -enhanced magnetic      
+ 
+    
+         
+            
+     
+         
+          
+            
+          
+             
+          
+        
+        
+       
+         
+         
+       
+        
+         
+             
+           
+  
+ 
+           
+     
+        
+       
+             
+          
+          
+          
+         
+      
+    
+    
+       
+         
+   
+   
+         Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 6 of 30 
+resonance imaging (MRI). All imaging procedures were assessed 
+blinded. At the end of the observation period 18 patients (11 %) were clinically identified as having CRPS I and 13 patients (8 %) revealed an 
+incomplete clinical picture which were defined as CRPS borderline 
+cases. The sensitivity of all diagnostic procedures used was poor and decreased between the 1st and the last examinations (thermography: 45 
+% to 29 %; TPBS: 19 % to 14 %; MRI: 43 % to 13 %; bilateral radiographs: 36 %). In contrast a high specificity was observed in the TPBS and MRI at the 8th and 16th-week examinations (TPBS: 96 %, 100 
+%; MRI: 78 %, 98 %) and for bilateral radiographs 8 weeks after trauma (94 %). Thermography presented a fair specificity that improved from the 
+2nd to the 16th week (50 % to 89 %). The authors concluded that the poor sensitivity of all tested procedures combined with a reasonable specificity produced a low positive predictive value (17 % to 60 %) and a moderate negative predictive value (79 % to 86 %). These results suggested that those procedures cannot be used as screening tests. 
+Imaging methods are not able to reliably differentiate between normal 
+post-traumatic changes and changes due to CRPS I. Clinical findi ngs 
+remain the gold standard for the diagnosis of CRPS I and the procedures 
+described above may serve as additional tools to establish the diagnosis 
+in doubtful cases. 
+Niehof et al (2008) evaluated the validity of skin surface temperature 
+recordings, based on various calculation methods applied to the thermographic data, to diagnose acute CRPS1 fracture patients. 
+Thermographic recordings of the palmar/plantar side and dorsal side of both hands or feet were made on CRPS1 patients and in control fracture 
+patients with/without and without complaints similar to CRPS1 (total in the 
+3 subgroups = 120) just after removal of plaster. Various calculation methods applied to the thermographic data were compared using receiver 
+operating characteristics analysis to obtain indicators of diagnostic value. 
+There were no significant differences in demographic data and 
+characteristics among the 3 subgroups. The most pronounced 
+differences among the subgroups were vasomotor signs in the CRPS1 
+patients. The involved side in CRPS1 patients was often warmer 
+compared with the non-involved extremity. The difference in temperature 
+between the involved site and the non- involved extremity in CRPS1 
+patients significantly differed from the difference in temperature between the contralateral extremities of the 2 control groups. The largest      
+ 
+      
+    
+          
+    
+      
+         
+           
+        
+        
+     
+         
+     
+         
+           
+          
+ 
+ 
+      
+          
+             
+        
+         
+          
+    
+         
+       
+        
+        
+    
+         
+           
+            
+          
+ 
+      
+          
+         
+           
+           Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 7 of 30 
+temperature difference between extremities was found in CRPS1 
+patients. The difference in temperature recordings comparing the 
+palmar/plantar and dorsal recording was not significant in any group. The 
+sensitivity and specificity varied considerably between the various calculation methods used to calculate temperature difference between extremities. The highest level of sensitivity was 71 % and the h ighest 
+specificity was 64 %; the highest positive predictive value reached a value 
+of 35 % and the highest negative predictive 84 %, with a moderate 0.60 greater than or equal to area under the curve less than or equal to 0.65. The authors concluded that t he validity of skin surface temperature 
+recordings under resting conditions to discriminate between acute CRPS1 
+fracture patients and control fracture patients with/without complaints is limited. Furthermore, in a review on CRPS, Albazaz and colleagues (2008) stated that no specific diagnostic test is available. Thus, diagnosis 
+is based mainly on history, clinical examination, and supportive laboratory 
+findings. 
+Krumova et al (2008) evaluated long- term skin temperature changes 
+under everyday circumstances in 22 patients with CRPS, 18 patients with 
+limb pain of other origin and 23 healthy controls. The asymmetries in skin 
+temperature and oscillation number (Q Oscill), the percentage of assessed time with a-synchron temperature changes on both body sides 
+and the determination coefficient of the individual regression (r2 id) were 
+compared between the groups. Patients with CRPS differed significantly from healthy controls in nearly all parameters. Minor differences between 
+both patient groups were found regarding the percentage of assessed time with side difference greater than 2 degrees C (DeltaT2). However, 
+both patient groups differed significantly in parameters characterizing the 
+skin temperature dynamics. A sum score (2 *Q Oscill +r2 id +DeltaT2) 
+allowed diagnosing CRPS with a specificity of 67 % versus patients with other painful diseases and 79 % versus healthy controls (sensitivity: 73 
+%, and 94 %, respectively) and reflected the severity of the dysfunction in 
+CRPS better than the mean skin temperature side differences alone. 
+Cohen and Raja (2009) stated that measurement of skin temperature dynamics differentiated between CRPS and arm pain secondary to other 
+etiologies with a sensitivity of 73 % and a specificity of 67 %. Although the technique Krumova and colleagues (2008) used is more practical than 
+those previously described, it is still too onerous for patients and      
+ 
+    
+         
+         
+ 
+          
+          
+             
+        
+           
+        
+       
+         
+   
+    
+       
+        
+        
+      
+         
+       
+       
+            
+        
+       
+           
+     
+ 
+         
+        
+             
+     
+    
+         
+      
+   
+       
+         
+      
+     Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 8 of 30 
+physicians to routinely employ. These researchers anticipate that 
+improved identification of pain mechanisms will translate into better 
+treatment outcomes, but this hypothesis remains to be tested. 
+In a pilot study, Ramsden and colleagues (2010) compared the omega- 6 
+(n-6) and omega-3 (n-3) highly unsaturated fatty acids (HUFA), and trans 
+fatty acid (trans FA) status of CRPS patients to pain-free controls. A total 
+of 20 patients that met the Budapest research diagnostic criteria for 
+CRPS and 15 pain- free control subjects were included in this study. 
+Fasting plasma fatty acids were collected from all participants. In CRPS 
+patients, pain was assessed using the McGill Pain Questionnaire- Short 
+Form. In addition, results from the perceived disability (Pain Disability 
+Index), pain- related anxiety (Pain Anxiety Symptom Scale Short Form), 
+depression (Center for Epidemiologic Studies Depression Scale Short Form), and quality of life (Short Form -36 [SF -36]) were evaluated. 
+Compared with controls, CRPS patients reported elevated concentrations 
+of n-6 HUFA and trans FA. No differences in n- 3 HUFA concentrations 
+were observed. Plasma concentrations of the n- 6 HUFA 
+docosatetraenoic acid were inversely correlated with the "vitality" section 
+of the SF -36. Trans FA concentrations positi vely correlated with pain -
+related disability and anxiety. The authors concluded that these preliminary data suggest that elevated n-6 HUFA and trans FA may play a 
+role in CRPS pathogenesis. They stated that these findings should be replicated, and more research is needed to explore the clinical significance of low n- 6 and trans FA diets with or without concurrent n- 3 
+HUFA supplementation, for the management of CRPS. 
+Ringer and colleagues (2012) stated that to date, no attempt has been made to investigate the agreement between qualitative bone scintigraphy 
+(BS) and the presence of CRPS 1 and the agreement between a negative 
+BS in the absence of CRPS 1. These investigators summarized the 
+existing evidence quantifying the concordance of qualitative BS in the 
+presence or absence of clinical CRPS 1. They searched Medline, 
+Embase, Dare and the Cochrane Library and screened bibliographies of all included studies; and selected diagnostic studies investigating the association between qualitative BS results and the clinical diagnosis of 
+CRPS 1. The minimum requirement for inclusion was enough information 
+to fill the 2 -by-2 tables. A total of 12 studies met inclusion criteria and 
+were included in the meta- analysis. The pooled mean sensitivity of      
+ 
+      
+       
+          
+             
+         
+              
+          
+         
+        
+     
+ 
+  
+ 
+    
+    
+      
+            
+       
+       
+        
+    
+    
+     
+     
+   
+      
+        
+            
+       
+         
+         
+           
+           
+    
+ 
+  Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 9 of 30 
+twelve 2 -by-2 tables was 0.87 (95 % confidence interval [CI]: 0.68 to 0.97) 
+and specificity was 0.69 (95 % CI: 0.47 to 0.85). The pooled mean 
+sensitivity for the subgroup with clearly defined diagnostic criteria (seven 
+2-by-2 tables) was 0.80 (95 % CI: 0.44 to 0.95) and specificity was 0.73 
+(95 % CI: 0.40 to 0.91). The authors concluded that based on the findings of this study, clinicians must be advised that a positive BS is not 
+necessarily concordant with presence of absence or CRPS 1. Moreover, 
+they noted that given the moderate level of concordance between a positive BS in the absence of clinical CRPS 1, discordant results potentially impede the diagnosis of CRPS 1. 
+Antioxidant Proﬁle 
+Baykal et l (2014) stated that the mechanism and pathogenesis of CRPS 
+still remains unknown. Some findings indicating oxidative stress have been reported. These researchers examined the role of oxidative stress in patients with CRPS. A total of 20 patients (13 women and 7 men) with CRPS and 20 age- and s ex-matched healthy controls were enrolled in 
+this study. Complex regional pain syndrome was diagnosed according to the modified International Association for the Study of Pain (IASP) criteria. These investigators evaluated demographic, clinical and laborat ory characteristics of the patients. Antioxidant enzymatic activities 
+consisting of serum glutathion peroxidase (GPX), glutathione S ­
+transferase (GST) and superoxide dismutase (SOD) activities were measured using appropriate methods and compared with heal thy 
+controls. The mean age of the patients was 39.5 years and the mean duration of symptoms was 5.5 months. Complex regional pain syndrome developed after a traumatic event in 90 % of patients. In 10 % of patients 
+there were no traumatic events; GPX, GST and SOD levels were 
+significantly higher in patients with CRPS than healthy controls (p = 0.036, p = 0.016, and p = 0.012, respectively). The authors concluded that their findings suggested a possible role of oxidative stress in the pathogenesis of CRPS. The role of antioxidant profile in the diagnosis of 
+CRPS has yet to be established. 
+Musculoskeletal Ultrasonography      
+ 
+       
+   
+        
+         
+      
+      
+      
+         
+         
+        
+        
+      
+       
+      
+      
+  
+ 
+  
+ 
+       
+        
+        
+   
+      
+          
+        
+        
+         
+           
+          
+         
+              
+           
+            
+     
+ 
+  Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 10 of 30 
+Vas and Pai (2016) noted that musculoskeletal ultrasonography (MSK­
+US) can identify myofascial structural lesions. In a retro spective study, 
+these investigators described the observational findings of US data of muscles from limbs affected with neuropathic pain in 7 patients and compared them with muscles affected with CRPS- 1 in 7 patients. These 
+researchers highlighted findings that distinguish between the 2 
+conditions. Musculoskeletal US of muscles in CRPS was characterized by a variable or/and global intramuscular structural disruption with loss of muscle bulk. Adjacent muscles coalesced with one another to present an uniform hyper -echogenic mass of tissue. Muscle edema was found in 
+some patients. In comparison, MSK- US in muscles affected by 
+neuropathic pain exhibited structural normalcy, but also showed considerable reduction in muscle bulk. The authors concluded that MSK ­
+US showed promise as a diagnostic modality to distinguish between 
+these 2 conditions that currently have only clinical diagnostic criteria to 
+aid diagnosis. 
+Other Experimental and Investigational Procedures 
+An UpToDate review on "Complex regional pain syndr ome in adults: 
+Pathogenesis, clinical manifestations, and diagnosis" (Abdi, 2015) states 
+that "Plain radiographs often demonstrate patchy osteoporosis but the 
+sensitivity of this finding for CRPS is very low …. Autonomic tests that have been used to evaluate patients with suspected CRPS include the 
+resting sweat output (RSO), the resting skin temperature (RST), and the 
+quantitative sudomotor axon reflex test (QSART). Some experts advocate serial measurement of skin temperatures, based upon evidence 
+from one small study that a 2°C difference for the affected versus 
+unaffected side was supportive of the diagnosis of CRPS. However, this method requires monitoring for five to eight hours with recording of skin 
+temperature at one minute intervals using temperature sensors applied to 
+the index fingers. Thus, it is not practical as a routine clinical test …. 
+There is no clear role for MRI or CT scanning in the evaluation of 
+suspected CRPS, nor is there any role for the response to sympatholysis 
+to confirm the diagnosis of CRPS". 
+Anti -Neuronal antibodies/Autoantibodies      
+ 
+         
+      
+     
+      
+     
+      
+         
+       
+         
+        
+         
+        
+     
+   
+             
+    
+   
+   
+ 
+ 
+ 
+       
+        
+               
+       
+      
+           
+         
+      
+    
+          
+            
+         
+       
+           
+         
+           
+         Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 11 of 30 
+Dirckx et al (2015) noted that autoimmunity has been suggested as one 
+of the pathophysiologic mechanisms that may underlie CRPS. Screening 
+for anti -nuclear antibodies (ANA) is one of the diagnostic tests, which is 
+usually performed if a person is suspected to have a systemic autoimmune disease. Anti -neuronal antibodies are autoantibodies 
+directed against antigens in the central and/or peripheral nervous system. These researchers compared the prevalence of these antibodies 
+in CRPS patients with the normal values of those antibodies in the healthy population; 27 (33 %) of the 82 CRPS patients of whom serum was available showed a positive ANA test. This prevalence was 
+significantly higher than in the general population; 6 patients (7.3 %) 
+showed a positive result for typical anti -neuronal antibodies. This 
+proportion, however, did not deviate from that in the general population. The authors concluded that these findings suggested that autoantibodies may be associated with the pathophysiology of CRPS, at least in a subs et 
+of patients. Moreover, they stated that further research is needed into defining this subset and into the role of autoantibodies in the pathogenesis of CRPS. 
+Response to Systemic Chemical Sympatholysis 
+An UpToDate review on "Complex regional pain syndrome in adults: 
+Pathogenesis, clinical manifestations, and diagnosis" (Abdi, 2016) states 
+that "Other tests and interventions --There is no clear role for MRI or CT 
+scanning in the evaluation of suspected CRPS, nor is there any role for 
+the response to sympatholysis to confirm the diagnosis of CRPS. MRI may be useful for excluding some conditions in the differential diagnosis; 
+but is not useful for confirming the diagnosis of CRPS. Limited data 
+suggest that CT scanning can show focal areas of osteoporosis in a Swiss cheese-like appearance. However, weighing the cost, radiation dose, and limited experience with use of CT scanning in evaluation of patients with CRPS, we suggest not using CT as a diagnostic test. 
+Historically, abrupt transient relief from pain and dysesthesia with a systemic chemical sympatholysis (i.e., intravenous regional anesthesia, 
+also termed a Bier block, and/or a regional sympathetic nerve block such 
+as stellate ganglion or lumbar sympathetic nerve blocks) was considered 
+necessary to make the diagnosis of CRPS. However, as the role of the sympathetic nervous system in the pathogenesis of CRPS remains      
+ 
+     
+          
+      
+ 
+  
+ Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 12 of 30 
+unclear and contradictory, it is now widely accepted that a positive 
+response to sympathetic block is not diagnostic of CRPS. Rather, such a 
+response is an important indicator of sympathetically maintained pain". 
+Bone Scintigraphy 
+Wertli  and  colleagues  (2017)  noted  that  since  2007,  the  Budapest  criteria  
+are  recommended for  the  diagnosis  of  CRPS 1.  The usefulness  of  bone 
+scintigraphy (BS, index test) for the d  iagnosis  of  CRPS 1 r  emains  
+controversial.  Imperfect  reference  tests  (RT)  result  in  under -estimation  of  
+the diagnostic  accuracy  of  BS.  Further,  biased  results  can  occur  when a 
+dependency  between  the  RT  and BS  exists.  These researchers  
+evaluated the impact  of  different  RTs,  specifically the B  udapest criteria,  
+and the as  sumed imperfect nature o  f the RT  on the d iagnostic  accuracy  
+of  BS.  Further,  these  investigators  analyzed  the  association  between 
+baseline characteristics  and  positive  BS in  patients  with  CRPS 1.  The 
+authors  performed a systematic  literature  review  and Bayesian  meta-  
+analysis  to  assess  the  test  accuracy  of  BS  with  and  without  accounting  for 
+the imperfect  nature of   the  RT.  They  examined  correlations  (Spearman 
+correlation  coefficients  /  Wilcoxon  tests)  between  baseline  characteristics  
+and the  proportion  of  positive  BS in  patients  with  CRPS 1.  The pooled 
+sensitivity  was  0.804  (95  %  CI:  0.225  to  1.0,  21  studies)  and  specificity  
+0.853  (95  %CI:  0.278  to  1.00).  Sensitivity  and  specificity  of  BS  increased  
+when  accounting  for  the  imperfect  nature  of t he  RT.  However,  in  studies  
+using  Budapest  criteria  as  reference,  the  sensitivity  decreased  (0.551;  95  
+%  CI:  0.046  to  1)  and  the  specificity  increased  (0.935;  95  %  CI:  0.306  to 
+1).  Shorter  disease  duration  and a  higher  proportion  of  males  were  
+associated  with  a higher  proportion  of  positive  BS (27 studies,  disease  
+duration  less  than  52  weeks;  Wilcoxon  test  p  =  0.047,  female  proportion  
+Spearman correlation  -0.63,  p  =  0.009).  The authors  concluded  that  
+compared to  the accepted  Budapest  diagnostic  criteria,  BS cannot  be  
+used to rule-in the d  iagnosi s  of  CRPS 1.  In  patients  with  negative BS,  
+CRPS 1 is less likely the underlying illness.  They  stated that  studies  
+using  older  or  no  diagnostic  criteria  should not  be used  to  evaluate the  
+diagnostic  accuracy  of BS in C  RPS 1.  These investigators stated that  
+based  on  the  results  of  this  study,  BS  did  not  add  any  value  to  the  clinical 
+diagnosis  of  CRPS  1,  and  cannot  be  used  to  confirm  the  diagnosis.       
+ 
+           
+         
+      
+        
+       
+    
+           
+          
+  
+       
+ 
+ 
+ 
+       
+    
+       
+          
+     
+       
+        
+    
+      
+        
+     
+        
+      
+       
+   
+       
+       
+      
+       
+         
+      
+   
+      
+          
+         
+       Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 13 of 30 
+The study was limited by the small number of studies using a reference 
+test for the diagnosis of CRPS 1. Furthermore, many studies were only of 
+moderate or low quality and some of small sample size. Small studies on diagnostic accuracy were often imprecise, with wide CIs. The lack of a gold standard reference test is another drawback, whi ch the authors 
+addressed within the Bayesian model formulation; however, the resulting 
+posterior CIs for overall sensitivity and specificity of the index test were 
+wider than they would be with a perfect reference test. Only few studies reported factors that influence sensitivity and therefore, the findings need to be interpreted with caution and addressed in future studies 
+Gene Expression Proﬁling 
+Tan and colleagues (2017) predicted key genes and proteins associated 
+with CRPS using bioinformatics analysis. The gene expression profiling 
+microarray data, GSE47603, which included peripheral blood samples from 4 patients with CRPS and 5 healthy controls, was obtained from the Gene Expression Omnibus (GEO) database. The differentially expressed 
+genes (DEGs) in CRPS patients compared with healthy controls were 
+identified using the GEO2R online tool. Functional enrichment analysis was then performed using the Database for Annotation Visualization and Integrated Discovery online tool. Protein -protein interaction ( PPI) network 
+analysis was subsequently performed using Search Tool for the Retrieval 
+of Interaction Genes database and analyzed with Cytoscape software. A 
+total of 257 DEGs were identified, including 243 up- regulated genes and 
+14 down- regulated ones. Genes in the human leukocyte antigen (HLA) 
+family were most significantly differentially expressed. Enrichment analysis demonstrated that signaling pathways, including immune 
+response, cell motion, adhesion and angiogenesis were associated with 
+CRPS. Protein- protein interaction network analysis revealed that key 
+genes, including early region 1A binding protein p300 (EP300), 
+CREB
+‑binding protein (CREBBP), signal transducer and activator of 
+transcription (STAT)3, STAT5A and integrin α M were associated with 
+CRPS. The authors concluded that the results suggested that the immune response may therefore serve an important role in CRPS 
+development. Also, genes in the HLA family, such as HLA
+‑DQB1 and 
+HLA‑DRB1, may present potential biomarkers for the diagnosis of C RPS. 
+Furthermore, EP300, its paralog CREBBP, and the STAT family genes, STAT3 and STAT5 may be important in the development of CRPS.      
+ 
+ 
+           
+           
+     
+    
+  
+            
+         
+         
+         
+        
+                 
+                      
+       
+                 
+   
+       
+            
+                  
+                
+       
+   
+       
+        
+         
+   
+ 
+ 
+     
+ 
+           
+             
+  
+          
+            
+        
+           
+    Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 14 of 30 
+Positron Emission Tomography 
+Jeon and colleagues (2017) noted that CRPS is characterized by chronic, 
+severe pain, but its pathophysiology is not clearly understood. In a pilot 
+study, these researchers examined neuro -inflammation in patients with 
+CRPS using positron emission tomography (PET), with an 18 -kDa 
+translocator protein specific radio -ligand [C] -(R)-PK111 95. [C] -(R)­
+PK11195 PET scans were acquired for 11 patients with CRPS (aged 30 to 
+55 years) and 12 control subjects (aged 30 to 52 years). Parametric 
+image of distribution volume ratio (DVR) for each participant was 
+generated by applying a relative equilibrium -based graphical analysis . 
+The DVR of [C] -(R)-PK11195 in the caudate nucleus (t(21)= -3.209, 
+p=0.004), putamen (t(21)= -2.492, p=0.022), nucleus accumbens 
+(t(21)= -2.218, p=0.040), and thalamus (t(21)= -2.395, p=0.026) were 
+significantly higher in CRPS patients than in healthy controls. Those 
+of globus pallidus (t(21)= -2.045, p=0.054) tended to be higher in 
+CRPS patients than in healthy controls. In patients with CRPS, there 
+was a positive correlation between the DVR of [C]-(R)-PK11195 in 
+the caudate nucleus and the pain score, the visual analog scale (VAS; 
+r=0.661, p=0.026,R=0.408) and affective subscales of McGill Pain 
+Questionnaire (r=0.604, p=0.049, R=0.364). These investigators 
+demonstrated neuro -inflamm ation in basal ganglia of CRPS patients. 
+The authors concluded that these findings suggested that microglial 
+pathology can be an important pathophysiology of CRPS; association 
+between the level of caudate nucleus and pain severity indicated that 
+neuro -inflammation in this region might play a key role in the central 
+sensitization in CRPS highlighting a fascinating area for future 
+research. 
+This study had 2 main drawbacks: (i) this study only examined a small 
+number of CRPS type I patients (n = 11). Thus, future studies with 
+larger  sample  size are needed  to generalize  this ﬁnding  to CRPS  
+patients as a whole, and (ii) CRPS patients included in this study were 
+taking analgesic agents, including opioids, during the study period, 
+and these researchers were therefore unable to exclude this analgesic 
+eﬀect  in the results. However, they did examine subjects who were not 
+taking benzodiazepine drugs, which directly affects 18-kDa translocator 
+protein (TSPO) -binding affinities, for at least 2 weeks before the [11C] ­
+(R)-PK11195 PET examination to minimize medicationeffect.      
+  
+ 
+       
+        
+      
+    
+   
+        
+   
+       
+    
+       
+    
+ 
+       
+       
+         
+     
+      
+         
+           
+          
+     
+          
+            
+ 
+ 
+   
+ 
+ 
+     
+          
+     
+              
+       
+          
+         
+          
+              Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 15 of 30 
+Bone SPECT/CT 
+Narimatsu and colleagues (2017) reported on the case of a 64- year old 
+man with lung cancer with a history of re- vascularization of the occluded 
+right femoral artery who underwent bone scintigraphy, which showed 
+intense uptake in the distal side of the right leg. The additional SPECT/CT clarified that the uptake was predominantly increased in the epiphyses of the right ankle and foot with possible osteopenia. One 
+month later, follow -up SPECT/CT showed the manifestation of periosteal 
+resorption in the hyper -metabolic sites with slight decrease in bone 
+metabolism. The authors concluded that radiological correlation between 
+bone metabolism and subsequent bone resorption in addition to clinical symptoms in this patient suggested the diagnosis of RSD. 
+An UpToDate review on "Complex regional pain syndrome in adults: 
+Pathogenesis, clinical manifestations, and diagnosis" (Abdi, 2018) states 
+"There is no clear role for magnetic resonance imaging (MRI) or computed tomography (CT) scanning in the evaluation of suspected 
+CRPS, nor is there any role for the response to sympatholysis to confirm 
+the diagnosis of CRPS. MRI may be useful for excluding some conditions in the differential diagnosis but is not useful for confirming the diagnosis of CRPS. Limited data suggest that CT scanning can show focal areas of osteoporosis in a Swiss cheese- like appearance. However, weighing the 
+cost, radiation dose, and limited experience with use of CT scanning in evaluation of patients with CRPS, we suggest not using CT as a diagnostic test". 
+Measurements of Dermal Nerve Fiber and Mast Cell Density, and 
+Proximity of Mast Cells to Nerve Fibers 
+Morellini and colleagues (2018) noted that an interaction between cutaneous nerves and mast cells may contribute to pain in CRPS. To 
+explore this, these investigators examined the density of dermal nerve fibers, and the density and proximity of mast cells to nerve fibers, in skin 
+biopsies obtained from the affected and unaffected limbs of 57 patients with CRPS and 28 site-matched healthy controls. The percentage of the 
+dermis stained by the pan- neuronal marker protein gene -product 9.5 was 
+lower in the affected limb of patients than in controls (0.12 ± 0.01 % versus 0.22 ± 0.04 %, p < 0.05), indicating a reduction in dermal nerve      
+ 
+         
+             
+          
+           
+        
+            
+           
+           
+           
+          
+          
+          
+        
+            
+              
+  
+ 
+  
+ 
+ 
+             
+         
+     
+    
+          
+     
+         
+       
+     
+      
+    
+         
+        
+ 
+         
+       
+        
+      
+          Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 16 of 30 
+fiber density. This parameter did not correlate with CRPS duration. 
+However, it was lower in the affected than unaffected limb of patients with 
+warm CRPS. Dermal mast cell numbers were similar in patients and controls, but the percentage of mast cells less than 5 µm from nerve fibers was significantly lower in the affected and unaffected limbs of patients than in controls (16.8 ± 1.7 %, 16.5 ± 1.7 %, and 31.4 ± 2.3 % 
+respectively, p < 0.05). The authors confirmed previous findings of a mild 
+neuropathy in CRPS. They stated that these findings suggested that this 
+either developed very early after injury or preceded CRPS onset; and loss 
+of dermal nerve fibers in CRPS might result in loss of chemotactic 
+signals, thus halting mast cell migration toward surviving nerve fibers. 
+Failure of normal nerve fiber -mast cell interactions could contribute to the 
+pathophysiology of CRPS. Further investigation is needed to establish the clinical value, if any, of measurement of dermal nerve fiber and mast 
+cell density, and proximity of mast cells to nerve fibers as a diagnostic tool 
+for CRPS. 
+Small Non -Coding RNAs (microRNAs) as Diagnostic and Prognostic 
+Biomarkers for CRPS 
+Konig and co-workers (2017) stated that CRPS is a rare, but often painful 
+and disabling, disease. Biomarkers are lacking, but several inflammatory 
+substances have been associated with the pathophysiology. These 
+researchers outlined the current knowledge with respect to target 
+biomolecules and the analytical tools available to measure them. Targets 
+include cytokines, neuropeptides and resolvins; analysis strategies are thus needed for different classes of substances such as proteins, peptides, lipids and small molecules. Traditional methods like 
+immunoassays are of importance next to state -of-the art high- resolution 
+mass spectrometry techniques and "omics" approaches. The authors 
+concluded that future biomarker studies need larger cohorts, which improve sub-grouping of patients due totheir presumed pathophysiology, 
+and highly standardized work -flows from sampling to analysis. 
+Birklein and colleagues (2018) CRPS is a pain condition that usually 
+affects a single limb, often following an injury. The underlying pathophysiology appeared to be complex and probably varies between 
+patients. Clinical diagnosis is based on internationally agreed- upon 
+criteria, which consider the reported symptoms, presence of signs and      
+ 
+      
+      
+       
+       
+      
+          
+         
+      
+        
+    
+         
+        
+         
+            
+           
+      
+       
+ 
+ 
+ 
+ 
+ 
+ 
+        
+       
+   
+     
+        
+     
+       
+        
+     
+           
+          
+       
+           
+          
+          
+         Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 17 of 30 
+exclusion of alternative causes. Research into CRPS biomarkers to 
+support patient stratification and improve diagnostic certainty is an important scientific focus, a nd recent progress in this area provides an 
+opportunity for an up-to -date topical review of measurable disease- 
+predictive, diagnostic and prognostic parameters. Clinical and biochemical attributes of CRPS that may aid diagnosis and determination 
+of appropriate treatment are delineated. Findings that predict the development of CRPS and support the diagnosis include trauma- related 
+factors, neurocognitive peculiarities, psychological markers, and local and 
+systemic changes that indicate activation of the immune system. The authors concluded that analysis of signatures of non- coding microRNAs 
+that could predict the treatment response represents a new line of research; and results from the past 5 years of CRPS research indicated that a single marker for CRPS would probably never be found; however, a 
+range of biomarkers might assist in clinical diagnosis and guide prognosis 
+and treatment. These researchers noted that small non -coding RNAs 
+(microRNAs) are emerging as diagnostic and prognostic biomarkers for CRP S. 
+Magnetic Resonance Spectroscopy (MRS) and Positron Emission 
+Tomography (PET) of Brain Metabolites and Peripheral Biomarkers of Inﬂammation in Diagnosis and Management ofCRPS 
+In a pilot study, Jung and colleagues (2019a) examined peripheral 
+biomarkers and central metabolites affecting neuroinflammation in CRPS 
+patients using [11C] -(R)-PK11195 PET and magnetic resonance 
+spectroscopy (MRS). These researchers measured associations 
+between neuro- metabolites and neuroinflammation in 12 CRPS patients 
+and 11 healthy controls. Furthermore, these investigators examined 
+various peripheral parameters that may affect neuroinflammation in CRPS. They found positive correlations of Lipid (Lip)13a/total creatine (tCr) and Lip09/tCr with neuroinflammation, the distribution volume ratio 
+(DVR) of [11C] -(R)-PK11195 in the right and left insula in CRPS patients. 
+However, these correlations were not found in controls. High hemoglobin 
+levels correlated with decreased neuroinflammation (the DVR of [11C] ­
+(R)-PK11195) in the right thalamus and left insula in healthy controls. 
+These researchers found that high levels of glucose and pH correlated 
+with increased neuroinflammation, but high levels of CO2, basophil, and 
+creatinine were associated with decreased neuroinflammation in the left      
+ 
+         
+   
+         
+       
+   
+     
+       
+   
+ 
+         
+       
+        
+    
+    
+     
+        
+            
+            
+            
+             
+    
+          
+       
+        
+         
+        
+          
+           
+   
+ 
+ 
+ 
+ 
+         
+          
+     
+             
+         
+           Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 18 of 30 
+thalamus and the right and left insula in CRPS patients. The authors 
+concluded that this was the first report indicating that elevated neuroinflammation levels were associated primarily with lipids in the brain 
+and pH, glucose, CO2, basophil, and creatinine in the peripheral parameters in CRPS patients. These researchers stated that these findings suggested that characterizing the peripheral biomarkers and 
+central metabolites affecting neuroinflammation is essential to understanding the pathophysiology of CRPS. 
+In a pilot study, Jung and associates (2019b) examined distinct neuro­metabolites in the right and left thalamus and insula of patients with CRPS compared with healthy controls using proton MRS. Levels of N ­
+acetyl -aspartate (NAA), N-acetyl -aspartyl -glutamate (NAAG), myo-inositol 
+(ml), glutamine (Gln), glycerol- phospho- choline (GPC), glutathione 
+(GSH ), and alanine (Ala) relative to tCr levels, including creatine and 
+phosphocreatine, were determined in the right and left thalamus and insula in 12 patients with CRPS compared with 11 healthy controls using 
+MRS. Levels of NAAG/tCr and Ala/tCr were higher in patients with CRPS 
+than in controls in the left thalamus; NAAG/tCr, ml/tCr, and Gln/tCr levels 
+were higher but NAA/tCr levels were lower in the right insula of patients with CRPS compared with controls. There were negative correlations between GSH/tCr and pain score (McGill Pain Questionnaire) in the left thalamus. These findings were paramount to understand and determine all aspects of the complex pathophysiological mechanisms that underlie 
+CRPS, including involvement of the central and para- sympathetic nervous 
+systems as well as oxidative stress and antioxidants. The authors 
+concluded that the distinct metabolites presented herein may be essential 
+to understand a strong diagnostic and prognostic potential for CRPS and 
+to develop effectiv e medical treatments. 
+Biomarkers of Inﬂammation in the Diagnosis and Management of 
+CRPS 
+Bharwani and colleagues (2019) stated that CRPS is characterized by 
+continuous pain that is often accompanied by sensory, motor, vasomotor, 
+sudomotor, and trophic disturbances. If left untreated, it could have a 
+significant impact on the quality of life (QOL) of patients. The diagnosis of 
+CRPS is currently based on a set of relatively subjective clinical criteria: the New International Association for the Study of Pain clinical diagnostic      
+ 
+         
+       
+       
+    
+    
+       
+     
+  
+  
+       
+       
+        
+    
+      
+    
+         
+ 
+  
+ 
+   
+        
+         
+     
+          
+       
+        
+   
+         
+    
+   
+      
+          
+    
+        
+   
+   
+     
+       
+         Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 19 of 30 
+criteria for CRPS. There are still no objective laboratory tests to diagnose 
+CRPS and there is a great need for simple, objective, and easily measurable biomarkers in the diagnosis and management of this disease. These investigators discussed the role of inflammation in the 
+multi -mechanism pathophysiology of CRPS and highlighted the 
+application of potential biomarkers of inflammation (e.g., autoantibodies, 
+calcitonin gene- related peptide [CGRP], CD8+ T lymphocytes, 
+CD14+CD16+ monocytes, interleukin- 6 [IL-6], mast cell numbers, 
+microRNA [miRNA], soluble interleukin- 2 receptor [sIL- 2R], substance P 
+[SP], and tumor necrosis factor -alpha [TNF -α]) in the diagnosis and 
+management of this disease. The authors concluded that although there are a number of promising biomarkers of inflammation described in 
+CRPS, it is still difficult to determine the place of these biomarkers in the diagnosis and management of CRPS based on the current literature. 
+These researchers stated that future studies should focus on finding correlations between clinical symptoms and signs and these biomarkers. 
+DNA Methylation Proﬁles and CRPS After Traumatic Injury 
+Bruehl and colleagues (2019) noted that factors contributing to 
+development of CRPS are not fully understood. These researchers examined possible epigenetic mechanisms that may contribute to CRPS 
+following traumatic injury. DNA methylation profiles were compared 
+between individuals developing CRPS (n = 9) and those developing non- 
+CRPS neuropathic pain (n = 38) after undergoing amputation following military trauma. Linear Models for Microarray (LIMMA) analyses revealed 
+48 differentially methylated cytosine- phosphate- guanine dinucleotide 
+(CpG) sites between groups (unadjusted p's < 0.005), with the top gene 
+COL11A1 meeting Bonferroni -adjusted p < 0.05. The 2nd largest 
+differential methylation was observed for the HLA-DRB6 gene, an 
+immune- related gene linked previously to CRPS in a small gene 
+expression study. For all but 7 of the significant CpG sites, the CRPS 
+group was hypo- methylated. Numerous functional Gene Ontology -
+Biological Process categories were significantly enriched (false discovery 
+rate-adjusted q value < 0.15), including multiple immune -related 
+categories (e.g., activation of immune response, immune system development, regulation of immune system processes, and antigen processing and presentation). Differentially methylated genes were more 
+highly connected in human protein -protein networks than expected by      
+ 
+         
+           
+            
+     
+  
+           
+         
+   
+     
+ 
+ 
+ 
+        
+            
+    
+           
+       
+      
+         
+           
+       
+         
+         
+      
+   
+   
+     
+       
+     
+         
+     
+     
+          
+           
+          
+                  
+         
+ 
+           Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 20 of 30 
+chance (p < 0.05), supporting the biological relevance of the findings. 
+Results were validated in an independent sample linking a DNA biobank 
+with electronic health records (n = 126 for CRPS phenotype, n = 19,768 
+for non- CRPS chronic pain phenotype). Analyses using PrediXcan 
+methodology indicated differences in the genetically determined component of gene expression in 7 of 48 genes identified in methylation 
+analyses (p's < 0.02). The authors concluded that these findings suggested that immune- and inflammatory -related factors might confer 
+risk of developing CRPS following traumatic injury. 
+Electronic Nose (Aeonose) for Diagnosis of CRPS 
+Bijl and co lleagues (2019) noted that CRPS is a complication after 
+surgery or trauma and is characterized by a continuing regional pain in a 
+distal extremity. The pain is disproportionate in severity and duration in relation to the preceding trauma. Currently, the diagnosis is based on the 
+patients' signs and symptoms. There is no objective clinically applicable test available to confirm the diagnosis of CRPS, however this could contribute to a more reliable and valid diagnosis. Since the treatment of CRPS differs from that of other types of pain this could thereby lead to earlier and (more) appropriate treatment and possibly to lower medical 
+costs. The Aeonose is a diagnostic test device that detects volatile 
+organic profiles in exhaled air. Exhaled breath analysis using an electronic nose has been successfully applied to differentiate between sick and healthy individuals for various indications. In a prospective, observational, feasibility/pilot study, these investigators examined if the 
+Aeonose is ab le to measure a difference in the volatome of CRPS 
+patients compared to the volatome of healthy controls. Subjects were 
+adult patients diagnosed with CRPS according to the latest IASP criteria (n = 36) and matched healthy controls (n = 36). Breath profiles were 
+sampled by breathing in and out through the Aeonose. Data were 
+compressed using a Tucker3-like solution and subsequently used for 
+training an artificial neural network together with the classification "CRPS: 
+Yes" or "CRPS: No". Cross -validation was applied using the leave- 10 %­
+out method. Data of the 72 subjects were analyzed, resulting in a sensitivity of 83 % (95 % CI: 67 % to 93 %), specificity of 78 % (95 % CI: 
+60 % to 89 %), and an overall accuracy of 81 %. The authors concluded that the findings of this study suggested that the Aeonose could distinguish patients with CRPS from healthy controls based on analysis of      
+ 
+        
+             
+    
+ 
+     
+         
+       
+      
+           
+        
+          
+ 
+ 
+ 
+   
+ Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 21 of 30 
+their volatome. Moreover, these researchers stated that further validation 
+steps are needed to establish the value of the Aeonose in the differential 
+diagnostic process of CRPS. 
+The authors stated that drawbacks of this study were that these 
+researchers did not correct for lifestyle, physiological status and genetic background, that the percentage of cardiac, pulmonary and gastro­intestinal co -morbidities were significantly different between the patients 
+and healthy controls and that although patients were asked to refrain from 
+drinking alcohol, coffee and smoking 1 hour before the breath sample 
+was taken, there was no period of refrainment on eating and drinking in 
+general. 
+High -Resolution Peripheral Quantitative Computed Tomography for 
+Evaluation of CRPS -Associated Osteopenia 
+Oehler  and  colleagues  (2019)  noted  that  in  the  course of  CRPS,  local  
+osteopenia in the s  ubchondral/subcortical  areas  of the affected limb  
+represents  a  central  manifestation.  Mechanistic  aspects  of  CRPS - 
+associated  pathologies remain unc  lear,  and knowledge regarding bone  
+morphology in C  RPS -affected areas is rare.  These researchers  
+examined trabecular  and cortical  bone microstructure  in  patients  with  
+CRPS of  the distal  tibiae.  They  retrospectively  analyzed  14 women 
+diagnosed with  unilateral  CRPS type  I  of  the  lower  limb  whose affected 
+and unaffected  distal  tibiae  were  examined by  high- resolution  peripheral  
+quantitative  computed  tomography  (HR-pQCT).  Laboratory tests  
+included  serum  levels  of  calcium,  phosphate,  25-hydroxyvitamin  D,  bone 
+alkaline  phosphatase,  parathyroid hormone,  osteocalcin  and urinary  
+levels  of  deoxypyridinoline  (DPD).  Bone mineral  density  (BMD)  was 
+measured  by  dual-energy  X-ray  absorptiometry  (DXA)  at  the  lumbar  spine 
+and both proximal  femurs.  Average urinary  DPD levels, a b  iochemical  
+marker  of  bone resorption,  were  elevated in  the  examined patient  cohort  
+(7.1  ±  1.9  nmol/mmol,  reference  3.0  to  7.0  nmol/mmol).  According  to  HR­ 
+pQCT,  CRPS -affected distal  tibiae  showed significantly  lower  values  of  
+cortical BMD and c ortical thickness  compared to the unaffected 
+contralateral  side.  Furthermore,  bone  volume  relative  to  total  volume  was 
+significantly  lower.  Trabecular  number  and  trabecular  thickness  tended  to 
+be lower  in  the affected tibiae.  The authors  concluded  that  CRPS is  
+associated  with  significant  alterations  in  bone  microstructure  of  the       
+ 
+          
+         
+ 
+ 
+ 
+        
+      
+           
+        
+         
+        
+          
+          
+        
+          
+          
+    
+      
+         
+    
+     
+   
+       
+         
+           
+     
+          
+        
+        
+         
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+  Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 22 of 30 
+affected tibiae; and increased bone resorption appeared to play a crucial 
+role within a multi -factorial process of CRPS -mediated bone atrophy. 
+Screening and Diagnostic Tools for CRPS 
+Mesaroli and colleagues (2021) stated that CRPS is a severely painful 
+condition that presents with a constellation of symptoms. The 
+understanding of the pathophysiology of CRPS has evolved over time, as 
+have the diagnostic criteria. These investigators identified screening and 
+diagnostic tools for CRPS and summarized their feasibility, measurement 
+properties, and study quality. A secondary objective was to identify 
+screening and diagnostic tools used for CRPS in pediatric populations (0 
+to 21 years of age). They carried out a systematic review of English articles in electronic databases (PsycINFO, Medline, Embase, CINAHL, CENTRAL, and Web of Science) with the aid of a librarian in November 2018 and updated in July 2020. Studies were included if the tool was a 
+screening or diagnostic tool, the tool included self -report or physical 
+examination, and the primary objective of the study was to assess the 
+measurement properties or feasibility of use. For each study, data were 
+extracted for quality indicators using the QUADAS -2 tool. No screening 
+tools were identified. A total of 4 diagnostic tools were identified: the 
+Veldman criteria, International Association for the Study of Pain criteria, 
+Budapest Criteria, and Budapest Research Criteria. There are no diagnostic tools validated for use in pediatric CRPS. The authors concluded that because there are no extant screening tools for CRPS, all 
+individuals with suspected disease should undergo rapid diagnostic 
+assessment by a clinician. For adults, the Budapest Criteria are the 
+preferred diagnostic tool. Moreover, these investigators stated that future 
+research is recommended to develop a diagnostic tool for pediatric populations and screening tools for both pediatric and adults. 
+CPT Codes/  HCPCS Codes/ICD- 10 Codes  
+Information in the [brackets] below has been added for clarification 
+purposes. Codes requiring a 7th character are represented by “+” 
+Code  Code Description  
+CPT codes not covered for indications listed in the CPB: 
+CREB -binding protein (CREBBP), Measurement of serum anti -neuronal 
+antibodies/ autoantibodies, Gene expression profiling of early region 1A 
+binding protein p300 (EP300), Signal transducer and activator of 
+transcription (STAT)3, Signal transducer and activator of transcription of 
+(STAT5A), Measurement of dermal nerve fiber and mast cell density,      
+ 
+  
+  
+ 
+  
+  
+    
+     
+     
+    
+    
+   
+     
+   
+  
+ 
+   
+ 
+   
+  
+ 
+ 
+ 
+ 
+  
+ 
+     
+ 
+    
+ 
+  
+   
+  
+   
+  
+   
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+  
+  
+  
+ Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 23 of 30 
+Proximity of mast cells to nerve fibers, Small non -coding RNAs (microRNAs) 
+ 
+as diagnostic and prognostic biomarkers, inflammation biomarkers, DNA 
+ 
+methy lation profiles, electronic nose (Aeonose), high -resolution peripheral 
+ 
+quantitative computed tomography : No specific code 
+ 
+• 72170, 
+• 72190 Radiologic examination, pelvis 
+73000 -73140 Radiologic examination, upper extremities 
+73501 -73660 Radiologic examination, lower extremities 
+73218 -73222 Magnetic resonance imaging, upper extremities 
+73718 -73723 Magnetic resonance imaging, lower extremities 
+76390 Magnetic resonance spectroscopy 
+76881 -76882 Ultrasound, extremity, nonvascular, real -time with image 
+documentation; complete or limited, anatomic specific 
+ 
+77078 Computed tomography, bone mineral density study, 1 or 
+ 
+more sites, axial skeleton (e.g., hips, pelvis, spine) 
+ 
+78811 Positron emission tomography (PET) imaging, limited area 
+ 
+(e.g., chest, head/neck) 
+ 
+78812 skull base to mid -thigh 
+78813 whole body 
+81111 Human Platelet Antigen 9 genotyping (HPA -hyphen9w0, 
+ITGA2B (integrin, alpha 2b (platelet glycoprotein llb of 
+llb/llla complex, antigen CD41) [GPllb]) (e.g. neonatal 
+alloimmune thrombocytopenia [NAIT], post -transfusion 
+ 
+purpural), gene analysis, common variant, HPA -9a/b 
+ 
+(V837M) 
+ 
+81370 -81377 HLA Class I and II typing, low resolution (e.g., antigen 
+ 
+equivalents) 
+ 
+81378 -81383 HLA Class I typing, high resolution (i.e., alleles or allele 
+ 
+groups) 
+ 
+82725 Fatty acids, nonesterified 
+82726 Very long chain fatty acids 
+82978 Glutathione 
+93740 Temperature gradient studies 
+93922 Limited bilateral non -invasive physiologic studies of upper
+or lower extremity arteries, (e.g., for lower extremity:
+ankle/brachial indices at distal posterior tibial and anterior 
+tibial/dorsalis pedis arteries plus bidirectional, Doppler 
+waveform recording and analysis at 1 -hyphen2 levels, or 
+ankle/brachial indices at distal posterior tibial and anterior 
+tibial/dorsalis pedis arteries plus volume plethysmography 
+at 1-2 lev els, or ankle/brachial indices at distal posterior 
+tibial and anterior tibial/dorsalis pedis arteries with 
+transcutaneous oxygen tension measurements at 1 -2 
+levels) 
+93923 Complete bilateral non -invasive physiologic studies of 
+ 
+upper or lower extremity arteries, 3 or more levels (e.g., 
+ 
+for lower extremity: ankle/brachial indices at distal 
+posterior tibial and anterior tibial/dorsalis pedis arteries 
+ 
+plus segmental blood pressure measurements with 
+      
+ 
+    
+ 
+  
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+   
+  
+  
+   
+   
+ 
+  
+ 
+    
+    
+ 
+   
+ 
+ 
+    
+          
+      
+  
+          
+      
+  
+          
+     
+  
+        
+        
+        
+     
+        
+           
+ 
+           
+        
+   Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 24 of 30 
+bidirectional Doppler waveform recording and analysis at 
+3 or more levels, or ankle/brachial indices at distal 
+posterior tibial and anterior tibial/dorsalis pedis arteries 
+plus segmental volume plethysmography at 3 or more 
+levels, or ankle/brachial indices at distal posterior t ibial 
+and anterior tibial/dorsalis pedis arteries plus segmental
+transcutaneous oxygen tension measurements at 3 or
+more level(s), or single level study with provocative 
+functional maneuvers (e.g., measurements with postural 
+provocative tests or measuremen ts with reactive 
+hyperemial) 
+93925 Duplex scan of lower extremity arteries or arterial bypass 
+grafts; complete bilateral study 
+93926 unilateral or limited study 
+93931 Duplex scan of upper extremity arteries or arterial bypass 
+grafts; unilateral or limited study 
+HCPCS codes not covered for indications listed in the CPB: 
+J2760 Injection, phentolamine mesylate, [Regitine], up to 5 mg 
+ICD-10 codes not covered for indications listed in the CPB (not all -inclusive): 
+G90.50 -G90.9 Complex regional pain syndrome I (CRPS I) 
+M85.80 – M85.9 Other specified disorders of bone density and structure 
+[osteopenia] 
+S00.00xA -T34.99xS Injury, poisoning and certain other consequences of 
+external causes 
+The above policy is based on the following references: 
+1. Abdi S. Complex regional pain syndrome in adults: Pathogenesis, 
+clinical manifestations, and diagnosis. UpToDate [online serial]. 
+Waltham, MA: UpToDate; reviewed November 2015. 
+2. Abdi S. Complex regional pain syndrome in adults: Pathogenesis, 
+clinical manifestations, and diagnosis. UpToDate [online serial]. 
+Waltham, MA: UpToDate; reviewed September 2016. 
+3. Abdi S. Complex regional pain syndrome in adults: Pathogenesis, 
+clinical manifestations, and diagnosis. UpToDate [online serial] . 
+Waltham, MA: UpToDate; reviewed September 2018. 
+4. Albazaz R, Wong YT, Homer -Vanniasinkam S. Complex regional 
+pain syndrome: A review. Ann Vasc Surg. 2008;22(2):297 -306. 
+5. Alberta Heritage Foundation for Medical Research (AHFMR). 
+Reﬂex  sympathetic dystrophy. Information Paper. Tech -Wise 
+Publications Issue 11. Edmonton, AB: AHFMR; May 1998. 
+6. Atkins RM. Complex regional pain syndrome. J Bone Joint Surg Br. 
+2003;85(8):1100 -1106. 
+7. Baron R, Maier C. Reﬂex  sympathetic dystrophy: Skin blood ﬂow, 
+sympathetic  vasoconstrictor  reﬂexes  and pain  before  and after  
+surgical sympathectomy. Pain. 1996;67(2 -3):317 -326.      
+           
+         
+  
+          
+ 
+  
+  
+          
+          
+  
+    
+       
+  
+             
+        
+  
+    
+        
+ 
+            
+        
+   
+ 
+       
+       
+  
+  
+         
+  
+ 
+        
+ 
+         
+  
+ 
+  
+   
+       
+        
+   Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 25 of 30 
+8. Baykal T,  Seferoglu  B, Karsan  O, et al. Antioxidant  proﬁle  in
+ 
+patients with complex regional pain syndrome type I. Int J Rheum 
+Dis. 2014;17(2):156 -158. 
+ 
+9. Bharwani KD, Dik WA, Dirckx M, Huygen FJPM. Highlighting the 
+role of biomarkers of inﬂammation in the diagnosis and  
+management of complex regional pain syndrome. Mol Diagn 
+ 
+Ther. 2019;23(5):615 -626. 
+ 
+10. Bijl EJ, Groeneweg JG, Wess elius DW, et al. Diagnosing complex 
+regional pain syndrome using an electronic nose, a pilot study. J 
+Breath Res. 2019 Apr 16;13(3):036004. 
+ 
+11. Birklein F, Ajit SK, Goebel A, et al. Complex regional pain 
+ 
+syndrome -phenotypic characteristics andpotential biomarkers. 
+ 
+Nat Rev Neurol. 2018;14(5):272 -284. 
+ 
+12. Bruehl S, Gamazon ER, Van de Ven T, et al. DNA methylation 
+ 
+proﬁles  are associated with complex regional pain syndrome 
+ 
+after traumatic injury. Pain. 2019;160(10):2328 -2337. 
+ 
+13. Cohen SP, Raja SN. Does prolonged skin temperature 
+ 
+measurement improve the diagnosis of complex regional pain 
+ 
+syndrome? Nat Clin Pract Neurol. 2009;5(1):14 -15. 
+14. Dirckx M, Schreurs MW, de Mos M, et al. The prevalence of 
+autoantibodies in complex regional pain syndrome type I.
+ 
+Mediators  Inﬂamm.  2015;2015:718201. 
+ 
+15. Fine PG, Roberts WJ, Gillette RG, Child TR. Slowly developing 
+placebo responses confound tests of intravenous phentolamine 
+ 
+to determine mechanisms underlying idiopathic chronic low back 
+pain. Pain. 1994;56(2):235 -242. 
+ 
+16. Forst T, Caduﬀ A, Talary M, et al. Impact of environmental 
+ 
+temperature on skin thickness and microvascular blood ﬂow in
+ 
+subjects with and without diabetes. Diabetes Technol Ther. 
+ 
+2006;8(1):94 -101. 
+ 
+17. Galer BS. Reﬂex  sympathetic dystrophy syndrome. Lancet. 
+ 
+1994;344(8923):691. 
+ 
+18. Gorodkin R, Moore T, Herrick A. Assessment of endothelial 
+function in complex regional pain syndrome type I using 
+ 
+iontophoresis and laser Doppler imaging. Rheumatology 
+ 
+(Oxford). 2004;43(6):727 -730. 
+ 
+19. Gradl G, Beyer A, Azad S, Schurmann M. Evaluation of 
+ 
+sympathicolysis after continuous brachial plexus analgesia using 
+ 
+laser  Doppler  ﬂowmetry  in patients suﬀering  from  CRPS  I. 
+Anasthesiol Intensivmed Notfallmed Schmerzther.      
+ 
+          
+  
+            
+         
+     
+             
+    
+ 
+       
+   
+   
+        
+  
+ 
+          
+         
+ 
+           
+       
+      
+         
+        
+  
+         
+  
+  
+        
+ 
+ 
+            
+         
+  
+           
+            
+   
+  
+          
+       
+        Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 26 of 30 
+2005;40(6):345 -349. 
+20. Harden RN. A clinical approach to complex regional pain 
+syndrome. Clin J Pain. 2000;16(2 Suppl):S26 -S32. 
+21. Jeon SY, Seo S, Lee JS, et al. [11C] -(R)-PK11195 positron emission 
+tomography in patients with complex regional pain syndrome: A 
+pilot study. Medicine (Baltimore). 2017;96(1):e5735. 
+22. Jung YH, Kim H, Jeon SY, et al. Brain metabolites and peripheral 
+biomarkers associated with neuroinﬂammation  in complex  
+regional pain syndrome using [11C] -(R)-PK11195 positron 
+emission tomography and magnetic resonancespectroscopy: A 
+pilot study. Pain Med. 2019a;20(3):504 -514. 
+23. Jung YH, Kim H, Jeon SY, et al. Neurometabolite changes in 
+patients with complex regional pain syndrome using magnetic 
+resonance spectroscopy: A pilot study. Neuroreport. 
+2019b;30(2):108 -112. 
+24. Konig S, Schlereth T, Birklein F. Molecular signature of complex 
+regional pain syndrome (CRPS) and its analysis. Expert Rev 
+Proteomics. 2017;14(10):857 -867. 
+25. Krumova EK, Frettlöh J, Klauenberg S, et al. Long -term skin 
+temperature measurements - a practical diagnostic tool in 
+complex regional pain syndrome. Pain. 2008;140(1):8 -22. 
+26. Lacey SH, Chelimsky TC. Controversies in etiology, avoidance, 
+and treatment  of reﬂex  sympathetic  dystrophy.  Curr  Opin  
+Orthop. 1995;6(4):45 -50. 
+27. Martin CW; WCB Evidence Based Practice Group. CRPS (Complex 
+Regional Pain Syndrome): Towards the development of 
+diagnostic criteria and treatment guidelines. Richmond, BC: 
+Workers Compensation Board of British Columbia (WorkSafe BC), 
+Compensation and Rehabilitation Services Division; January 
+2004. 
+28. Mesaroli G, Hundert A, Birnie KA, et al. Screening and diagnostic 
+tools for complex regional pain syndrome: A systematic review. 
+Pain. 2021;162(5):1295 -1304. 
+29. Morellini N, Finch PM, Goebel A, Drummond PD. Dermal nerve 
+ﬁbre  and mast cell density, and proximity of mast cells to nerve 
+ﬁbres  in the skin of patients with complex regional pain 
+syndrome. Pain. 2018;159(10):2021 -2029. 
+30. Narimatsu H, Nakahara T, Kodama S, et al. Bone SPECT/CT 
+localizes increased bone metabolism and subsequent bone 
+resorption in reﬂex  sympathetic dystrophy. Clin Nucl Med.      
+ 
+            
+      
+ 
+ 
+ 
+         
+        
+   
+  
+         
+ 
+  
+   
+            
+  
+            
+  
+     
+       
+     
+  
+          
+ 
+        
+       
+  
+            
+   
+      
+  
+       
+  
+           
+        
+  
+              
+        
+  
+         Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 27 of 30 
+2017;42(10):784 -786. 
+31. Niehof SP, Beerthuizen A, Huygen FJ, Zijlstra FJ. Using skin surface 
+temperature  to diﬀerentiate  between  complex regional  pain  
+syndrome type 1 patients after a fracture and control patients 
+with various complain ts after a fracture. Anesth Analg. 
+2008;106(1):270 -277. 
+32. Niehof SP, Huygen FJ, Stronks DL, et al. Reliability of observer 
+assessment of thermographic images in complex regional pain 
+syndrome type 1. Acta Orthop Belg. 2007;73(1):31 -37. 
+33. Oehler N, Rolvien T, Schmidt T, et al. Bone microstructure is 
+signiﬁcantly  altered in CRPS -aﬀected  distal tibiae as detected by 
+HR-pQCT: A retrospective cross -sectional study. J Bone Miner 
+Metab. 2019;37(4):741 -748. 
+34. Ramsden C, Gagnon C, Graciosa J, et al. Do omega -6 and trans 
+fatty acids play a role in complex regional pain syndrome? A pilot 
+study. Pain Med. 2010;11(7):1115 -1125. 
+35. Rho RH, Brewer RP, Lamer TJ, Wilson PR. Complex regional pain 
+syndrome. Mayo Clin Proc. 2002;77(2):174 -180. 
+36. Ringer R, Wertli M, Bachmann LM, et al. Concordance of 
+qualitative bone scintigraphy results with presence of clinical 
+complex regional pain syndrome 1: Meta -analysis of test 
+accuracy studies. Eur J Pain. 2012;16(10):1347 -1356. 
+37. Schott GD. An unsympathetic view of pain. Lancet. 1995;345:634 ­
+636. 
+38.  Schott GD. Interrupting the sympathetic outﬂow  in causalgia and 
+reﬂex  sympathetic  dystrophy:  A futile  procedure  for many 
+patients. Br Med J. 1998;316(7134):792 -793. 
+39. Schurmann M, Gradl G, Furst H. A standardized bedside test for 
+assessment of peripheral sympathetic nervous function using 
+laser Doppler ﬂowmetry. Microvasc Res. 1996;52(2):157 -170. 
+40. Schürmann M, Zaspel J, Löhr P, et al. Imaging in early 
+posttraumatic complex regional pain syndrome: A comparison of 
+diagnostic methods. Clin J Pain. 2007;23(5):449 -457. 
+41. Sorensen J, Bengtsson M. Intravenous phentolamine test --an aid 
+in the evaluation of patients with persistent pain after low -back 
+surgery? Acta Anaesthesiol Scand. 1997;41(5):581 -585. 
+42. Tan W, Song Y, Mo C, et al. Analysis of gene expression proﬁle  
+microarray data in complex regional pain syndrome. Mol Med 
+Rep. 2017;16(3):3371 -3378. 
+43. Vacariu G. Complex regional pain syndrome. Disabil Rehabil.      
+ 
+             
+        
+  
+  
+          
+ 
+ 
+    
+        
+  
+ 
+         
+  
+ 
+           
+       
+  
+  
+         
+ 
+      
+    
+  
+        
+  Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 28 of 30 
+2002;24(8):435 -442. 
+44. van de Beek WJ, Schwartzman RJ, van Nes SI, et al. Diagnostic 
+criteria  used  in studies  of reﬂex  sympathetic  dystrophy.  
+Neurology. 2002;58(4) :522 -526. 
+45. Vas L, Pai R. Musculoskeletal ultrasonography to distinguish 
+muscle changes in complex regional pain syndrome type 1 from 
+those of neuropathic pain: An observational study. Pain Pract. 
+2016;16(1):E1 -E13. 
+46. Verdugo RJ, Campero M, Ochoa JL. Phentolamine sympathetic 
+block in painful polyneuropathies. II. Further questioning of the 
+concept of 'sympathetically maintained pain'. Neurology. 
+1994;44(6):1010 -1014. 
+47. Verdugo RJ, Ochoa JL. 'Sympathetically maintained pain.' I. 
+Phentolamine block questions the concept. Neurology. 
+1994;44(6):1003 -1010. 
+48. Wasner G, Heckmann K, Maier C, Baron R. Vascular abnormalities 
+in acute  reﬂex  sympathetic  dystrophy (CRPS  I): Complete  
+inhibition of sympathetic nerve activity with recovery. Arch 
+Neurol. 1999;56(5):613 -620. 
+49. Wasner G, Schattschneider J, Binder A, Baron R. Complex 
+regional pain syndrome --diagnostic, mechanisms, CNS 
+involvement and therapy. Spinal Cord. 2003;41(2):61 -75. 
+50. Wertli MM, Brunner F, Steurer J, Held U. Usefulness of bone 
+scintigraphy for the diagnosis of complex regional pain 
+syndrome 1: A systematic review and Bayesian meta -analysis. 
+PLoS One. 2017;12(3):e0173688.      
+ 
+ 
+ 
+ 
+ 
+ 
+   
+                 
+       
+                 
+                  
+  
+ 
+ 
+ 
+ 
+ 
+ Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 29 of 30 
+Copyright Aetna Inc. All rights reserved. Clinical Policy Bulletins are developed by Aetna to assist in administering plan be nefits and 
+constitute neither offers of coverage nor medical advice. This Clinical Policy Bulletin contains only a partial, general description of plan or 
+program benefits and does not constitute a contract. Aetna does not provide health care services and, therefore, cannot guarantee any 
+results or outcomes. Participating providers are independent contractors in private practice and are neither employees nor agents of Aetna 
+or its affiliates. Treating providers are solely responsible for medical advice and treatment of members. This Clinical Policy Bulletin may be 
+updated and therefore is subject to change. 
+Copyright © 2001 -2022 Aetna Inc.      
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Complex Regional Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): Diagnosis -Medical Clinical Policy Bulletins | … Page 30 of 30 
+AETNA BETTER HEALTH® OF PENNSYLVANIA 
+Amendment to 
+ 
+Aetna Clinical Policy Bulletin Number: CPB 0147 Complex Regional 
+ 
+Pain Syndrome (CRPS)/Reflex Sympathetic Dystrophy (RSD): 
+ 
+Diagnosis 
+ 
+There are no amendments for Medicaid. 
+Updated 03/09/2022 

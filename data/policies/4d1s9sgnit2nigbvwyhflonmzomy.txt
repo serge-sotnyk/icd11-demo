@@ -1,0 +1,449 @@
+ 
+PHARMACY POLICY – 5.01.589  
+BRAF and MEK Inhibitors  
+Effective Date:  June 1 , 2023  
+Last Revised:  May 9 , 2023 
+Replaces:  N/A RELATED MEDICAL POLICIES:  
+5.01.543  General Medical  Necessity Criteria for Companion Diagnostics Related 
+to Drug Approval  
+ 
+Select a hyperlink below to be directed to that section.  
+POLICY CRITERIA   |  DOCUMENTATION REQUIREMENTS  |  CODING  
+RELATED INFORMATION   |  EVIDENCE REVIEW   |  REFERENCES  |   HISTORY  
+∞ Clicking this icon returns you to the hyperlinks menu above.  
+ 
+Introduction  
+BRAF and MEK are proteins involved in a key pathway that  sends signals inside cells which 
+stimulate cell growth. It is  faulty (mutated) in some human cancers. The defective proteins signal 
+constantly, stimulating overgrowth of the cells. BRAF and MEK inhibitors stop this signaling. This 
+has been shown to slow the growth of melanomas that have spread through the body and can’t 
+be removed by surgery. This policy describes when BRAF and MEK inhibitors may be considered 
+medically necessary.  
+ 
+Note:    The Introduction section is for your general knowledge and is not to be taken  as policy coverage criteria. The 
+rest of the policy uses spe cific words and concepts familiar to medical professionals. It is intended for 
+providers . A provider can be a person, such as a doctor, nurse, psychologist, or dentist. A provider also can 
+be a place where medical care is given, like a hospital, clinic, or lab. This policy informs them about when a 
+service may be covered.  
+ 
+Policy Coverage Criteria   
+ 
+5.01.589_PBC (05-09-2023) 
+ 
+ 
+   
+ 
+ 
+   
+Page | 2 of 13  ∞ Drug  Medical Necessity  
+BRAF/MEK Inhibitors  
+Combination therapy for 
+melanoma: 
+Braftovi ® + Mektovi ® 
+Tafinlar® + Mekinist®  
+Zelboraf® + Cotellic®  The following combination regimens may be considered 
+medically necessary for treatment of unresectable or 
+metastatic melanoma with  a BRAF V600E or V600K mutation:  
+• Braftovi ® (encorafenib) and Mektovi ® (binimetinib)  
+• Tafinlar® (dabrafenib) and Mekinist® (trameti nib) 
+• Zelboraf ® (vemurafenib) and Cotellic® (cobimetinib)  
+ 
+Testing for BRAF V600 mutations is covered whenever use of 
+BRAF inhibitors is contemplated.  
+Combination therapy for 
+metastatic colorectal 
+cancer:  
+Braftovi® + Erbitux® The following combination regimen may be considered 
+medically necessary  after prior therapy  for the treatment of 
+adult individual s with metastatic colorectal cancer (CRC) with a 
+BRAF V600E mutation:  
+• Braftovi ® (encorafenib) and Erbitux® ( cetuximab) 
+ 
+Testing for BRAF V60 0 mutations is covered whenever use of 
+BRAF inhibitors is contemplated.  
+Combination therapy for 
+other indications:  
+Tafinlar® + Mekinist®  Tafinlar® (dabrafenib) in combination with Mekinist® 
+(trametinib) may be considered medically necessary  for:   
+• Adjuvant treatment of individuals with melanoma with BRAF 
+V600E or V600K mutations and involvement of lymph node(s), 
+following complete resection 
+• Treatment of individuals with metastatic non- small cell lung 
+cancer (NSCLC) with BRAF V600E mutations  
+• Treatment of individuals with locally advanced or metastatic anaplastic  thyroid cancer (ATC) with BRAF V600E mutation and 
+with no satisfactory locoregional treatment options 
+• Treatment of adult and pediatric individuals 6 years of age and older with unresectable or metastatic solid tumors with BRAF 
+V600E mutation who have progressed following prior 
+treatment and have no satisfactory alternative treatment 
+options  
+• Treatment of pediatric individuals 1 year of age and older with 
+low grade glioma (LGG) with BRAF  V600E mutation who require 
+systemic therapy  
+ Page | 3 of 13  ∞ Drug  Medical Necessity  
+BRAF/MEK Inhibitors  
+Testing for BRAF V600 mutations is covered whenever use of 
+BRAF inhibitors is contemplated.  
+Monotherapy with  
+Cotellic® (cobimetinib)  Cotellic® (cobimetinib) , as a single agent, may be considered 
+medically necessary for the treatment of adult individuals with 
+histiocytic neoplasms.  
+Monotherapy with  
+Tafinlar® (dabrafenib)  Tafinlar® (dabrafenib) monotherapy may be considered 
+medically necessary for:  
+• Treatment of unresectable or metastatic melanoma with a BRAF 
+V600E or V600K mutation. 
+ 
+Testing for BRAF V600 mutations is covered whenever use of 
+BRAF inhibitors is contemplated . 
+Monotherapy with 
+Zelboraf ® (vemurafenib)   Zelboraf ® (vemurafenib) monotherapy may be considered 
+medically necessary for:  
+• Treatment of unresectable or metastatic melanoma with a BRAF V600E mutation  
+OR 
+• Treatment of individuals with Erdheim- Chester Disease (ECD) 
+with BRAF  V600 mutation 
+ 
+Testing for BRAF V600 mutations is covered whenever use of 
+BRAF inhibitors is contemplated.  
+Monotherapy with  
+Mekinist® ( trametinib) Mekinist®( trametinib ) monotherapy may be considered 
+medically necessary for:  
+• Treatment  of BRAF -inhibitor treatment -naïve individual s with 
+unresectable or metastatic melanoma with BRAF V600E or V600K mutations 
+ 
+Testing for BRAF V600 mutations is covered whenever use of 
+BRAF inh ibitors is contemplated.  
+Koselugo ™ (selumetinib)  Koselugo ™ (selumetinib)  may be considered medically 
+necessary for the treatment of pediatric individual s 2 years of 
+age and older with neurofibromatosis type 1 (NF1) who have 
+symptomatic, inoperable plexiform neurofibromas (PN).  
+ Page | 4 of 13  ∞ Drug  Not Medically Necessary  
+As listed  Use of BRAF and/or MEK inhibitors  for treatment of 
+individual s with wild -type BRAF is considered not medically 
+necessary . 
+ 
+Drug  Investigational  
+As listed  All other uses of the medications listed in this policy are 
+considered investigational.  
+ 
+Length of Approval  
+Approval  Criteria  
+Initial authorization  All drugs listed in policy  may be approved up to 3 months.  
+Re-authorization criteria  Future re-authorization  of all drugs listed in policy may be 
+approved up to 12 months as long as the drug -specific 
+coverage criteria are met and chart notes demonstrate that the 
+individual  continues to show a positive clinical response to 
+therapy.  
+ 
+Documentation  Requirements  
+The individual ’s medical records submitted for review for all conditions should document 
+that medical necessity criteria are met. The record should include the following:  
+• Chart notes demonstrating that the individual meets the stated  criteria for medical necessity  
+• For BRAF inhibitors, test results showing the presence of BRAF V600 mutations must be 
+included  
+ 
+Coding   
+ 
+N/A 
+ 
+Related Information   
+ Page | 5 of 13  ∞ Benefit Application 
+The drugs in this policy are managed through the Pharmacy benefit. 
+ 
+Evidence Review   
+ 
+Melanoma 
+Melanoma accounts for only about 1% of skin cancers but, because it is more likely to 
+metastasize than squamous cell or basal cell cancers, it causes a large  amount of skin cancer 
+deaths. If recognized and treated early, it is almost always curable. Approximately 84% of 
+melanomas are diagno sed at a localized stage with 5 -year survival of 98%. However, the 5- year 
+survival for the 4% of individuals with metastatic disease at diagnosis is 15%.  
+Incidence rates for melanoma have been rising for at least 30 years. The age- adjusted incidence 
+rate of melanoma was 20.8 per 100,000 men and women per year for the years 2004 to 2008. 
+The American Cancer Society estimates that approximately 99, 780 new melanomas will be 
+diagnosed (approximately 57, 180 in men and 42, 600 in women), and that approximately 7, 650 
+people will die of melanoma  (approximately 5,0 80 men and 2,570 women)  in 2022 in the U.S.  
+The lifetime risk of melanoma is about 2.6% for Caucasians, 0.6 % for Hispanics, and 0.1% for 
+African Americans. Major risk factors for melanoma include atypical nevi (moles), more than 50 
+benign or atypical nevi, giant congenital nevus, and a personal or family history of melanoma. 
+Other risk factors for all skin cancer types include: sun sensitivity (defined as easily being sun 
+burned), freckling, tanning with difficulty, or having naturally blond or red hair. Other risk factors 
+include having a history of excessive sun exposure (including sunburns), use of tanning booths and immune-deficiency states ( e.g., immunosuppressive chemotherapy, post -transplant 
+immunosup pression, HIV/AIDS). 
+ 
+BRAFV600E Mutation and Response to Dabrafenib, Encorafenib and 
+Vemurafenib (BRAF Inhibitors) and Binimetinib, Cobimetinib and 
+Trametinib (MEK Inhibitors)  
+BRAF (B member of the Rapidly Accelerated Fibrosarcoma family of serine/threonine tyrosine 
+kinases) is a protein that in normal melanocytes is part of the mitogen- activated protein kinase Page | 6 of 13  ∞ (MAPK) – extracellular signal -regulated kinase (ERK) signal transduction pathway. This signaling 
+pathway controls cell growth, survival, differentiation and senescence. More than 40 mutations 
+of BRAF are known in human cancer, 90% to 95% of which are V600E, in which glutamic acid is 
+substituted for valine at amino acid position 600. Mutated BRAF leads to constitutive activation 
+of the MAPK -ERK signaling pathway, resulting in tumor maintenance and progression. BRAF 
+mutation may be a negative prognostic indicator in metastatic melanoma.  
+ 
+Summary of Evidence  
+Encorafenib/Binimetinib  
+Encorafenib in combination with binimetinib was evaluated in a randomized, active- controlled, 
+open-label,  multicenter trial (COLUMBUS; NCT01909453). Eligible individuals were required to 
+have BRAF V600E or V600K mutation -positive unresectable or metastatic melanoma . Individuals 
+could have received immunotherapy for unresectable locally advanced or metastatic disease. 
+Prior use of BRAF  inhibitors or MEK inhibitors was prohibited. Individual s were randomized 
+(1:1:1) to receive encorafenib 450 mg once daily in combination with binimetinib 45 mg twice 
+daily (encorafenib in combination with binimetinib), encorafenib 300 mg once daily, or 
+vemurafenib 960 mg twice daily. Treatment continued until disease progression or unacceptable 
+toxicity.  
+A total of 577 individuals were randomized, 192 to the encorafenib in combination with 
+binimetinib arm, 194 to the encorafenib arm, and 191 to the vemurafenib arm. Of the 383 
+individuals randomized to either the encorafenib in combination with binimetinib or the 
+vemurafenib arms, the median age was 56 years (20 to  89 years), 59% were male, 91% were 
+White, and 72% had baseline ECOG performance status of 0. Of these 95% had metastatic disease, 65% were Stage IVM1c, and 4% received prior immunotherapy. Twenty- eight percent 
+(28%) had elevated baseline serum lactate dehydrogenase (LDH), 45% had ≥ 3 organs with 
+tumor involvement at baseline, and 3% had brain metastases. Based on centralized testing, 
+100% of individual s’ tumors tested positive for BRAF mutations; BRAF V600E (88%), BRAF V600K 
+(11%) , or both (<1%). Encorafenib in combination with binimetinib demonstrated a statistically 
+significant improvement in median PFS (14.9 months compared to 7.3 months with vemurafenib 
+monotherapy. 
+ Page | 7 of 13  ∞ Dabrafenib/Trametinib  
+The safety and efficacy of dabrafenib co- administered with trametinib were evaluated in two 
+international, randomized, active- controlled trials: one double- blind trial (the COMBI -d study; 
+NCT01584648) and one open- label trial (the COMBI -v study; NCT01597908). The COMBI- d study 
+compared dabrafenib and trametinib to dabrafenib and placebo as first -line therapy for 
+individuals with unresectable (Stage IIIC) or metastatic (Stage IV) BRAF V600E or V600K 
+mutation -positive cutaneous melanoma. Individuals were randomized (1:1) to receive dabrafenib 
+150 mg twice daily and trametinib 2 mg once daily or dabrafenib 150 mg twice daily plus matching placebo. Randomization was stratified by lactate dehydrogenase (LDH) level (> the 
+upper limit of normal (ULN) vs. ≤ ULN) and  BRAF mutation subtype (V600E vs. V600K). The 
+major efficacy outcome was investigator- assessed progression- free survival (PFS) per RECIST 
+v1.1 with additional efficacy outcome measures of overall survival (OS) and confirmed overall response rate (ORR).  
+The COMBI -v study compared dabrafenib and trametinib to vemurafenib as first -line treatment 
+therapy for individual s with unresectable (Stage IIIC) or metastatic (Stage IV) BRAF V600E or 
+V600K mutation-positive cutaneous melanoma. Individuals were randomized (1:1) to receive 
+dabrafenib 150 mg twice daily and trametinib 2 mg once daily or vemurafenib 960 mg twice daily. Randomization was stratified by lactate dehydrogenase (LDH) level (> the upper limit of 
+normal (ULN) vs. ≤ ULN) and BRAF mutation subtype (V600E vs. V600K). The major efficacy 
+outcome measure was overall survival. Additional efficacy outcome measures were PFS and ORR 
+as assessed by investigator per RECIST v1.1.  
+In the COMBI- d study, 423 individuals were randomized to dabrafenib plus trametinib (n = 211) 
+or dabrafenib plus placebo (n = 212). The median age was 56 years (range: 22 to 89 years), 53% were male, > 99% were White, 72% had ECOG performance status of 0, 4% had Stage IIIC, 66% 
+had M1c disease, 65% had a normal LDH, and 2 individual s had a h istory of brain metastases. All 
+individuals had tumor containing BRAF V600E or V600K mutations as determined by centralized testing, 85% with BRAF V600E mutations and 15% with BRAF V600K mutations. 
+In the COMBI- v study, 704 individuals were randomized to dabrafenib plus trametinib (n = 352) 
+or single- agent vemurafenib (n = 352). The median age was 55 years (range: 18 to 91 years), 
+96% were White, and 55% were male, 6% percent of individuals had Stage IIIC, 61% had M1c 
+disease, 67% had a normal LDH, 70% had ECOG performance status of 0, 89% had BRAF V600E 
+mutation -positive melanoma, and one individual had a history of brain metastases.  
+The COMBI -d and COMBI -v studies demonstrated statistically significant improvements in PFS: 
+11.4 months with dabrafenib+trametinib (95% CI 9.9, 14.9) vs 7.3 months (5.8, 7.8) with vemurafenib. Page | 8 of 13  ∞ A phase 2/3 randomized, open-label, global, parallel assignment study was conducted to 
+evaluate the safety and efficacy of dabrafenib in combination with trametinib in individuals with 
+BRAFV600 mutation positive low -grade glioma (LGG) or relapsed/refractory high-grade glioma 
+(HGG). Individuals were randomized to receive either dabrafenib in combination with trametinib or carboplatin in combination with vincristine. The primary efficacy endpoint was overall 
+response rate (ORR) in the first 32 weeks of treatment, and the individuals in the treatment 
+group had a statistically significant overall response rate (ORR) of 47% compared to 11% for the 
+chemotherapy group (p <0.001). The secondary efficacy endpoints were duration of response, progression- free survival, and overall survival. The result showed that the individuals in the 
+treatment group had a median progression-free survival (PFS) of 20.1 months, which was significantly longer than the 7.4 months observed in the chemotherapy group (p < 0.001). 
+Furthermore , 89% of individuals in the treatment group experienced a reduction in tumor size 
+compared to baseline, while only 70% of the individuals in the chemotherapy group had a reduction in the tumor size compared to the baseline.  
+Pyrexia, vomiting, and headache were among the common adverse events observed in the 
+treatment group. About 47% individuals in the treatment group had grade 3 or higher adverse 
+events, which was significantly lower than the 94% observed in the chemotherapy group. The 
+discontinuation rate due to adverse events was also lower in the treatment group, with only 4% 
+individuals discontinuing the treatment, compared to 18% in the chemotherapy group. 
+ 
+Vemurafenib/Cobimetinib  
+The safety and efficacy of vemurafenib+cobimetinib was established in a multicenter, 
+randomized (1:1), double- blinded, placebo -controlled trial conducted in 495 individuals with 
+previously untreated, BRAF V600 mutation-positive, unresectable or metastatic, melanoma. All individuals received vemurafenib 960 mg orally twice daily on days 1– 28 and were randomized 
+to receive cobimetinib 60 mg or matching placebo orally once daily on days 1– 21 of an every 
+28-day cycle. Randomization was stratified by geographic region (North America vs. Europe vs. 
+Australia/New Zealand/others) and disease stage (unresectable Stage IIIc, M1a, or M1b vs. Stage 
+M1c). Treatment continued until disease progression or unacceptable toxicity. Individuals 
+randomized to receive placebo were not offered cobimetinib at the time of disease progression. 
+The major efficacy outcome was investigator- assessed progression-free survival (PFS) per RECIST 
+v1.1. The median age of the study population was 55 years (range 23 to 88 years), 58% of 
+individuals were male, 93% were White and 5% had no race reported, 60% had stage M1c 
+disease, 72% had a baseline ECOG performance status of 0, 45% had an elevated baseline serum lactate dehydrogenase (LDH), 10% had received prior adjuvant therapy, and <1% had previously Page | 9 of 13  ∞ treated brain metastases. Individual s with available tumor samples were retrospectively tested 
+using next generation sequencing to further classify mutations as V600E or V600K; test results 
+were obtained on 81% of randomized individuals. Of these, 86% were identified as having a 
+V600E mutation and 14% as having a V600K mutation. Median PFS was 12.3 months ( 95% CI 9.5, 
+13.4) vs. 7.2 months with vemurafenib monotherapy (5.6,7.5) . 
+ 
+Practice Guidelines and Position Statements  
+National Comprehensive Cancer Network ( NCCN) 
+NCCN guidelines recommend combination BRAF/MEK inhibitor therapy for metastatic or 
+unresectable melanoma  with a BRAF V600 activating mutation: 
+• First-line therapy for BRAF/MEK inhibitors:  
+o Dabrafenib/trametinib (category 1)  
+o Vemurafenib/cobimetinib (category 1)  
+o Encorafenib/binimetinib (category 1)  
+• Other recommended first -line preferred regimens  
+o Combination targeted therapy and immunotherapy with vemurafenib/cobimetinib + 
+atezolizumab (category 2A)  
+• Second -line or subsequent therapy  
+o Dabrafenib/trametinib (category 2A)  
+o Vemurafenib/cobimetinib (category 2A)  
+o Encorafenib/binimetinib (category 2A)  
+• Re-induction therapy for individuals who experience disease control (complete response, 
+partial response, or stable disease) and have no residual toxicity, but subsequently experience disease progression/relapse >3 months after treatment discontinuation. 
+• In previously untreated individuals with unresectable AJCC 7th Edition stage IIIC or stage IV 
+disease, BRAF/MEK inhibitor combination therapy was associated with improved response 
+rate, PFS, and OS compared to BRAF inhibitor monotherapy  Page | 10 of 13  ∞ • If BRAF/MEK inhibitor combination therapy is contraindicated, BRAF inhibitor monotherapy 
+is an option, especially in individuals who are not appropriate candidates for checkpoint 
+immunotherapy 
+ 
+2019 Update  
+Annual review, literature search from 11 /1/2018 to 11/1/2019 and reviewed package inserts for 
+medications in this policy. Updated indications for Tafinlar®(dabrafenib) and Mekinist®  
+(trametinib) per product label. Added  monotherapy indication for Tafinlar®  (dabrafenib), 
+Mekinist®  (trametinib)  and Zelboraf® ( vemurafenib) for unresectable or metastatic melanoma.  
+ 
+2020 Update  
+Reviewed prescribing information for all drugs in policy. No new information was identified that 
+would require changes to this policy. 
+ 
+2021 Update  
+Reviewed prescribing information for all drugs in policy. No new information was identified that 
+would require changes to this policy. 
+ 
+2022 Update  
+Reviewed prescribing information for all drugs in policy and added a new indication for 
+Tafinlar ® (dabrafenib)  in combination with Mekinist® (trametinib) for the treatment of BRAF 
+V600E mutation-positive unresectable or metastatic solid tumors. Reviewed NCCN Guidelines 
+Version 3.2022 Melanoma: Cutaneous on systemic therapy for metastatic or unresectable 
+disease and listed the first line  and second line or subsequent therapies. 
+ Page | 11 of 13  ∞ 2023 Update  
+Reviewed prescribing information for all drugs in policy and added a new indication for 
+Tafinlar ® (dabrafenib) in combination with Mekinist® (trametinib) for the treatment of  pediatric 
+individuals  1 year of age and older with low -grade glioma (LGG) with a BRAF V600E  mutation 
+who require systemic therapy.  
+ 
+References   
+ 
+1. National Comprehensive Cancer Network (NCCN). Drugs and Biologics Compendium. Available at: https://www.nccn.org/ .   
+Accessed  May 1, 2023.  
+2. Chapman PB, Hauschild A, Robert C, et al. Improved survival with vemurafenib in melanoma with BRAF V600E mutation. New 
+England Journal of Medicine 2011;364(26):2507- 2516.  
+3. Ribas A, Kim K, Schuchter L, Gonzalez R. BRIM -2: An open -label, multicenter phase II  study of vemurafenib in previously treated 
+patients with BRAF V600E mutation- positive metastatic melanoma. J Clin Oncol 2011;19(15suppl):8509.  
+4. Cantwell -Dorris ER, O'Leary JJ, Sheils OM. BRAFV600E: Implications for carcinogenesis and molecular therapy. Molecular Cancer 
+Therapeutics 2011;10(3):385- 394.  
+5. Huang PH, Marais R. Cancer: Melanoma troops massed. Nature 2009;459(7245):336- 337.  
+6. Long GV, Menzies AM, Nagrial AM, et al. Prognostic and clinicopathologic associations of oncogenic BRAF in metastatic 
+melan oma. Journal of Clinical Oncology 2011;29(10):1239- 1246.  
+7. American Cancer Society. Melanoma skin cancer. Available at: http://www.cancer.org/Cancer/SkinCancer-
+Melanoma/DetailedGuide/melanoma- skin-cancer -key-statistics   Accessed  May 1, 2023. 
+8. Hauschild A, Grob J, Demidov LV, et al. Dabrafenib in BRAF -mutated metastatic melanoma: a multicentre, open -label, phase 3 
+randomised controlled trial. The Lancet. 2012; 380: 358 -365.  
+9. Chapman PB, Hauschild A, Robert C, et al. Improved survival with vemurafenib in melanoma with BRAF V600E mutation. NEJM 
+2011; 364:2507- 2516.  
+10. Sosman JA, Kim KB, Schuchter L, et al. Survival in BRAF V600 -mutant advanced melanoma treated with vemurafenib.  
+11. Unpublished. BREAK- 3 trial (dabrafenib). Data on File. Study BRF113683. Available at: ht tp://www.gsk-
+clinicalstudyregister.com   Accessed  May 1, 2023  
+12. Long GV, Trefzer U, Davies MA, et al. Dabrafenib in patients with Val600Glu or Val600Lys BRAF -mutant melanoma metastatic to 
+the brain (BREAK -MB): a multicentre, open -label, phase 2 trial. The Lancet. 2012; 13: 1087- 1095.  
+13. Tafinlar® (d abrafenib) Product Information. Glaxo SmithKline, Research Triangle Park, NC. Revised .March 2023.  
+14. Mekinist® (t rametinib ) Product Information. Glaxo SmithKline, Research Triangle Park, NC. Revised  March 2023.  
+15. Zelboraf® (v emurafenib ) Product Information. Genentech Pharmaceuticals , South San Francisco, CA. Revised  May 2020. 
+16. Cotellic® (cobimetinib ) Product Information. Genentech Pharmaceuticals , South  San Francisco, CA. Revised  October  2022. 
+17. Braftovi® (e ncorafenib ) Product Information. Array BioPharma, Boulder, CO. Revised   February 202 2 
+18. Mektovi® (b inimetinib ) Product Information. Array BioPharma, Boulder, CO. Revised  October 2020. Page | 12 of 13  ∞ 19. Koselugo ™ (selumetinib)  Product Information. AstraZeneca Pharmaceuticals LP, Wilmington, DE. Revised December  2021. 
+20. Flaherty KT, Robert C, Hersey P, et al. Improved survival with MEK  inhibition in BRAF -mutated melanoma. N Engl J Med. 
+2012;367(2):107–114. 
+21. Eisenhauer EA, Therasse P, Bogaerts J, et al. New response evaluation criteria in solid tumours: Revised RECIST guideline 
+(version 1.1). Eur J Cancer 2009;45:228- 247. 
+22. Kim KB, Kefford R, Pavlick AC, et al. Phase II study of the MEK1/MEK2 inhibitor trametinib in patients with metastatic BRAF -
+mutant cutaneous melanoma previously treated with or without a BRAF inhibitor. J Clin Oncol 2013;31(4):482- 489. 
+23. Flaherty KT, Infante JR, Daud A, et al. Combined BRAF and MEK inhibition in melanoma with BRAF V600 mutations. NEJM 
+2012;367:1694- 1703. 
+24. Dummer R, Ascierto PA, Gogas HJ, et al. Overall survival in patients with BRAF- mutant melanoma receiving encorafenib plus 
+binimetinib versus vemurafenib or encorafenib (COLUMBUS): a multicentre, open -label, randomised, phase 3 trial.. Lancet 
+Oncol. 2018 Sep 12. pii: S1470-2045(18)30497- 2. doi: 10.1016/S1470- 2045(18)30497 -2. [Epub ahead of print]  
+25. Kuske M, Westphal D, Wehner R, et al. Immunomodulatory effects o f BRAF and MEK inhibitors: Implications for Melanoma 
+therapy. Pharmacol Res. 2018 Aug 23;136:151- 159. doi: 10.1016/j.phrs.2018.08.019. [Epub ahead of print]  
+26. Phase II Pediatric Study With Dabrafenib in Combination With Trametinib in Patients With HGG and LGG. Clinicaltrials.gov. Phase II Pediatric Study With Dabrafenib in Combination With Trametinib in Patients With HGG and LGG - Tabular View - 
+ClinicalTrials.gov . Accessed April 5, 2023. 
+ 
+History   
+ 
+Date  Comments  
+11/01/18  New policy, approved October 9, 2018. A dd to Prescription Drug section. BRAF and 
+MEK inhibitors are medically necessary for treating unresectable or m etastatic 
+melanoma with a BRAF V600E or V600K mutation. Content moved from policy 
+5.01.534 (Multikinase Inhibitors.) Added two new products, Braftovi and Mektovi. 
+Updated indications per product label.  
+01/01/20  Annual Review, approved December 17 , 2019. Updated  coverage criteria  for Tafinlar  
+(dabrafenib), Mekinist  (trameti nib) and Zelbo raf (vemurafenib ).  
+06/01 /20 Interim Review, approved May 12 , 2020.  Added Braftovi + Erbitux  combination therapy 
+for the treatment of metastatic CRC  when criteria are met.  
+08/01 /20 Interim Review, approved July 14, 2020. Added coverage criteria for Koselugo 
+(selumetinib) for the treatment of NF1.  
+12/01 /20 Annual Review, approved November 19 , 2020.  No changes to policy statements . 
+11/01 /21 Annual Review, approved October 5 , 2021.  No changes to policy statements.  
+08/01 /22 Annual Review, approved July 12 , 2022.  Added coverage for Tafinlar (dabrafenib) in 
+combination with Mekinist (trametinib)  for the treatment of BRAF V6 00E mutation-
+positive unresectable or metastatic solid tumors . Page | 13 of 13  ∞ Date  Comments  
+01/01/23  Interim Review, approved December 13 , 2022.  Added coverage for Cotellic 
+(cobimetinib), as a single agent, for the treatment of adult individuals with histiocytic 
+neoplasms.  Changed the wording from "patient" to "individual" throughout the policy 
+for standardization.   
+06/01 /23 Annual Review , approved May 9 , 2023. A dded a new indication for Tafinlar® 
+(dabrafenib) in combination with Mekinist® (trametinib) for the treatment of pediatric 
+individuals  1 year of age and older with low -grade glioma (LGG) with a BRAF 
+V600E mutation who require systemic therapy.  
+ 
+Disclaimer : This medical policy is a guide in evaluating the medical necessity of a particular service or treatment. The 
+Company adopts policies after careful review of published peer -reviewed scientific literature, national guidelines and 
+local standards of practic e. Since medical technology is constantly changing, the Company reserves the right to review 
+and update policies as appropriate. Member contracts differ in their benefits. Always consult the member benefit booklet or contact a member service representative  to determine coverage for a specific medical service or supply. 
+CPT codes, descriptions and materials are copyrighted by the American Medical Association (AMA). © 2023 Premera 
+All Rights Reserved.  
+Scope : Medical policies are systematically developed guidelines that serve as a resource for Company staff when 
+determining coverage for specific medical procedures, drugs or devices. Coverage for medical services is subject to 
+the limits and conditions of the member benefit plan. Members and their providers should consult the member 
+benefit booklet or contact a customer service representative to determine whether there are any benefit limitations 
+applicable to this service or supply. This medical policy does not apply to Medicare Advantage.  
+ Premera Blue Cross is a n independent licensee of the Blue Cross Blue Shield Association  serving businesses and residents of Alaska and Washington State, excluding C lark County.   
+052493  (07-01-2021) Discrimination is Against the Law  
+Premera Blue Cross  (Premera) complies with applicable Federal and Washington state civil rights laws and does not discriminate on the basis of race, 
+color, national o rigin, age, disability, sex, gender identity, or sexual orientation . Premera does not exclude people or treat them differently because of race, 
+color, national origin, age, disability , sex, gender identity, or sexual orientation.  Premera  provides free aids and services to people with disabilities to 
+communica te effectively with us, such as q ualified sign language interpreters  and w ritten information in other formats (large print, audio, accessible 
+electronic formats, other formats) . Premera p rovides fre e language services to people whose primary language is not English, such as  qualified interpreters  
+and i nformation written in other languages . If you need these services, contact the Civil Rights Coordinator.  If you believe that Premera has failed to 
+provide these services or discriminated in another way on the basis of race, color, national origin, age, disability, sex, gender identity, or sexual orientation , 
+you can file a grievance with:  Civil Rights Coordinator ─ Complaints and Appeals , PO Box 91102 , Seattle, WA 98111 , Toll free : 855-332-4535 , Fax: 425-918-5592 , 
+TTY: 711 , Email  AppealsDepartmentInquiries@Premera.com . You can file a grievance in person or by mail, fax, or email.  If you need help filing a 
+grievance, the Civil Rights Coordinator is available to help you.  You can also file a civil rights complaint with the U.S. Department of Health and Human 
+Services, Office for Civil Rights, electronically through the Office for Civil Righ ts Complaint Portal, available at  https://ocrportal.hhs.gov/ocr/portal/lobby.jsf , 
+or by mail or phone at:  U.S. Department of Health and Human Services,  200 Independence Ave SW, Room 509F, HHH B uilding , Washington, D.C. 20201, 
+1-800-368-1019,  800-537-7697 (TDD). Complaint forms are available at  http://www.hhs.gov/ocr/office/file/index.html .  
+Washington  residents : You can also file a civil rights complaint wi th the Washington State Office of the Insurance Commissioner, electronically through 
+the Office of the Insurance Commissioner Complaint Portal available at https://www.insurance.wa.gov/file -complaint -or-check -your-complaint -status , or by 
+phone at 800 -562-6900, 360 -586-0241 (TDD). Complaint forms are available at https: //fortress.wa.gov/oic/onlineservices/cc/pub/complaintinformation.aspx .  
+Alaska  residents : Contact the Alaska Division of Insurance via email at insurance@alaska.gov , or by phone at 907-269-7900 or 1 -800-INSURAK  (in-state, 
+outside Anchorage) . 
+Language Assistance  
+ATENCIÓN : si habla español, tiene a su disposición servicios gratuitos de asistencia lingüística. Llame al 800 -722-1471  (TTY: 711).  
+PAUNAWA : Kung nagsasalita ka ng Tagalog , maaari kang gumamit ng mga serbisyo ng tulong sa wika nang walang bayad. Tumawag sa  800-722-1471  (TTY: 711).  
+注意：如果您使用繁體中文，您可以免費獲得語言援助服務。請致電  800-722-1471  (TTY：711）。 
+CHÚ Ý : Nếu bạn nói Tiếng Việt, có các dịch vụ hỗ trợ ngôn ngữ miễn phí dành cho b ạn.  Gọi số 800-722-1471  (TTY: 711). 
+주의: 한국어를  사용하시는  경우, 언어 지원 서비스를  무료로  이용하실  수 있습니다 . 800-722-1471  (TTY: 711)  번으로  전화해  주십시오 . 
+ВНИМАНИЕ : Если вы говорите на русском языке, то вам доступны бесплатные услуги перевода.  Звоните  800-722-1471  (телетайп: 711). 
+LUS CEEV : Yog tias koj hais lus Hmoob , cov kev pab txog lus, muaj  kev pab dawb  rau koj. Hu rau 800-722-1471  (TTY:  711).  
+MO LOU SILAFIA : Afai e te tautala  Gagana fa'a Sāmoa, o loo iai auaunaga  fesoasoan, e fai fua e leai se totogi, mo oe,  Telefoni mai:  800-722-1471  (TTY: 711).  
+ໂປດຊາບ: ຖ້າວ່າ ທ່ານເວ ້າພາສາ ລາວ, ການບໍລິການຊ່ວຍເຫ  ຼື ອດ້ານພາສາ, ໂດຍບໍ່ເສ ັ ຽຄ່າ, ແມ່ນມ ີພ້ອມໃຫ້ທ່ານ. ໂທຣ 800-722-1471  (TTY: 711) . 
+注意事項 ：日本語を話される場合、無料の言語支援をご利用いただけます。 800-722-1471  （TTY:711）まで、お電話にてご連絡ください。  
+PAKDAAR : Nu saritaem ti Ilocano, ti serbisyo para ti baddang ti lengguahe nga awanan bayadna, ket sidadaan para kenyam.  Awagan ti  800-722-1471  (TTY: 711).  
+УВАГА!  Якщо ви розмовляєте українською мовою, ви можете звернутися до безкоштовної служби мовної підтримки.  Тел ефонуйте за 
+номером 800 -722-1471  (телетайп:  711). 
+ប្រយ័ត្ន៖   បរើសិនជាអ្នកនិយាយ  ភាសាខ្មែរ , បសវាជំនួយខ្ននកភាសា បោយមិនគិត្ឈ្ ន ួល គឺអាចមានសំរារ់រំបរ ើ អ្នក។  ចូរ ទូរស័ព្ទ   800-722-1471 ( TTY: 711)។ 
+ማስታወሻ :  የሚናገሩት  ቋንቋ ኣማርኛ  ከሆነ የትርጉም  እርዳታ ድርጅቶች፣  በነጻ ሊያግዝዎት  ተዘጋጀተዋል፡  ወደ ሚከተለው  ቁጥር ይደውሉ  800-722-1471 (መስማት  ለተሳናቸው : 711). 
+XIYYEEFFANNAA : Afaan  dubbattu  Oroomiffa , tajaajila  gargaarsa  afaanii , kanfaltiidhaan  ala, ni argama . Bilbilaa  800-722-1471 ( TTY: 711).  
+ملحوظة:  إذا كنت تتحدث اذكر اللغة، فإن خدمات المساعدة اللغوية تتوافر لك بالمجان.  اتصل برقم   1471-722-800    :(رقم هاتف الصم والبكم711 .) 
+ਧਿਆਨ  ਧਿਓ: ਜੇ ਤੁਸੀਂ ਪੰਜਾਬੀ  ਬੋਲਿੇ ਹੋ, ਤਾਂ ਭਾਸ਼ਾ ਧ ਿੱਚ ਸਹਾਇਤਾ  ਸੇ ਾ ਤੁਹਾਡੇ ਲਈ ਮੁਫਤ ਉਪਲਬਿ  ਹੈ। 800-722-1471 (TTY:  711) 'ਤੇ ਕਾਲ ਕਰੋ। 
+เรียน : ถ้าคุณพูดภาษาไทยคุณสามารถใช้บริการช่วยเหลือทางภาษาได้ฟรี  โทร 800-722-1471  (TTY: 711).  
+ACHTUNG : Wenn Sie Deutsch sprechen, stehen Ihnen kostenlos sprachliche Hilfsdienstleistungen zur Verfügung. Rufnummer: 800 -722-1471  (TTY: 711).  
+UWAGA : Jeżeli mówisz po polsku, możesz skorzystać z bezpłatnej pomocy językowej. Zadzwoń pod numer 800 -722-1471  (TTY: 711).  
+ATANSYON : Si w pale Kreyòl Ayisyen, gen sèvis èd pou lang ki disponib gratis pou ou.  Rele 800 -722-1471  (TTY: 711).  
+ATTENTION  : Si vous parlez français, des services d'aide linguistique vous sont proposés gratuitement.  Appelez le 800 -722-1471  (ATS :  711).  
+ATENÇÃO : Se fala português, encontram -se disponíveis serviços linguísticos, grátis.  Ligue para 800 -722-1471  (TTY: 711).  
+ATTENZIONE : In caso la lingua parlata sia l'italiano, sono disponibili servizi di assistenza linguistica gratuiti. Chiamare il numero  800-722-1471  (TTY: 711).   
+ توجه: اگر به زبان فارسی گفتگو می کنید، تسهیالت زبانی بصورت رايگان برای شما فراهم می باشد. با   (TTY: 711) 1471-722-800   .تماس بگیريد 

@@ -1,0 +1,340 @@
+Page : 1 of 8  
+Proprietary Information of Excellus BlueCross BlueShield
+MEDICAL POLICY    
+MEDICAL POLICY DETAILS  
+Medical Policy Title  Ablation/Denervation  Techniques for Knee Pain  
+Policy Number 7.01.100  
+Category  Technology Assessment  
+Original Effective Date  05/16/19  
+Committee Approval 
+Date  04/16/20 , 11/19/20 , 04/15/21 , 06/16/22 
+Current Effective Date  10/15/22 
+Archive Date  N/A 
+Archive Review Date  N/A 
+Product  Disclaimer  •If a product excludes coverage for a service, it is not covered, and medical policy
+criteria do not apply.
+•If a commercial product (including  an Essential Plan or Child Health Plus product),
+medical policy criteria apply to the benefit.
+•If a Medicaid product covers a specific service, and there are no New York State
+Medicaid guidelines (eMedNY) criteria, medical policy criteria apply to the benefit.
+•If a Medicare product  (including Medicare, HMO -Dual Special Needs Program
+(DSNP) product) covers a specific service, and there is no national or local Medicare
+coverage decision for the service, medical policy criteria apply to the benefit.
+•If a Medicare HMO -Dual Special Needs Program (DSNP) product DOES NOT cover a
+specific service,  please re fer to the Medicaid Product coverage line.
+POLICY STATEMENT  
+I.Based upon our criteria and assessment of the peer -reviewed literature,  radiofrequency ablation (RFA)/denervation
+(including cooled and pulsed) of genicular nerves to treat pain has not been medically proven to be effective and,
+therefore, is considered investigational  for all indications, including, but not limited to, knee pain/osteoarthritis  (OA) .
+II.Based upon our criteria and assessment of the peer- reviewed literature, cryoneurolysis/cryoablation to treat pain
+associated with knee OA or total knee arthroplasty (TKA) has not been medically proven to be effective and,
+therefore, is considered investigational .
+III.Based upon our criteria and assessment of the peer -reviewed lite rature, the addition of an IPACK block to multimodal
+analgesia regimens to reduce post-operative pain or improve functional performance has not been medically proven to
+be effective and, therefore, is considered investigational .
+Refer to Corporate Medical Policy #7.01.42 Radiofrequency Facet and Sacroiliac Joint Ablation/Denervation  
+Refer to Corporate Medical Policy #11.01.03 Experimental and Investigational Services  
+DESCRIPTION 
+Radiofrequency Ablation 
+Nerve RFA is a minimally invasive treatment method that involves the use of heat and coagulation necrosis to destroy 
+tissue. A needle electrode is inserted through the skin and into the tissue to be ablated. A high- frequency  electrical current 
+is applied to the target tissue, causing a small sphere of tissue to coagulate around the needle by the heat generated. It is 
+theorized that the thermal lesioning of the nerve destroys peripheral sensory nerve endings, resulting in the alleviation of 
+pain.  Medical Policy : ABLATION/ DENERVATION TECHNIQUES FOR KNEE PAIN  
+Policy Number : 7.01.100  
+Page : 2 of 8   
+Proprietary In formation of Excellus BlueCross BlueShield  Cooled rad iofrequency (RF) treatment is a variation of nerve RFA, using a special device that applies more energy at the 
+desired location without excessive heat diffusing beyond the area, causing less tissue damage away from the nerve. The 
+goal of ablating the nerve is the same.   COOLIEF (Haylard Health, Inc.) cooled RF treatment is a minimally invasive 
+outpatient procedure that uses cooled radiofrequency energy to target the sensory nerves causing pain. COOLIEF 
+circulates water through the device while heating nervous tissue, to create a treatment area that is larger than conventional 
+RF treatments. This combination targets the pain -causing nerves without excessive heating and is proposed to relieve hip 
+and knee pain  associated with OA.  
+Nerve RFA is different from pulsed RF treatment, which has been investigated for different types of pain. The  mechanism 
+of action of pulsed RF treatment is uncertain, but it is thought not to destroy the nerve , or, if it does produce  some degree 
+of nerve destruction, t o cause less damage than standard RFA. Some studies refer to pulsed RF  treatment as ablation.  
+Cryoneurolysis  
+Cryoneurolysis is being investigated to alleviate pain in knee OA and to manage pain following TKA. Temperatures of -
+20° to -100°C applied to a nerve cause Wallerian (anterograde axonal) degeneration, with disruption of nerve structure 
+and conduction. However, maintenance of the perineural and epineural elements of the nerve bundle purportedly allows 
+near complete regeneration and recovery of nerve function in about three to five months.  The iovera cryoablation system 
+is a portable handheld device that applies percutaneous and targeted delivery of cold to superficial peripheral nerves. 
+IPACK  
+For patients undergoing total knee replacement (TKR), one of the most common surgical procedures in the United States, 
+optimal pain control is paramount to promote rapid recovery, early ambulation and overall patient satisfaction.  In addition 
+to general or spinal analgesia, surgeons utilize local infiltration analgesia (LIA) as well as adductor canal block ( ACB) as 
+a multi- modal pain protocol.  A relatively new technique, known as the IPACK block, describes infiltration between the 
+popliteal artery and capsule of the knee, anesthetizing the distal branches of the genicular nerves and popliteal plexus to 
+innervate the posterior capsule of the knee joint, while retaining the trunk of the tibial and common peroneal nerves.   
+RATIONALE 
+Radiofrequency Ablation 
+A number of RF generators and probes have be en cleared for marketing by the U.S. Food and Drug Administration ( FDA) 
+through the Section 510(k) process. In 2005, the SInergy (Kimberly- Clark/Baylis), a water -cooled single- use probe, was 
+cleared by the FDA, listing the Baylis Pain Management Probe as a predicate device. It is intended for use with an RF 
+generator , to create RF lesions in nervous tissue.  
+In 2011, the NeuroTherm NT 2000 (NeuroTherm) was cleared for marketing by the FDA through the Section  510(k) 
+process. The FDA determined that this device was substantially equivalent to existing devices for use in lesioning neural 
+tissue. Existing predicate devices included the NeuroTherm NT 1000, Stryker Multi-Gen, and Cosman G4 RF 
+Generator.   
+In 2013, t he Cryo -Touch IV (iovera; Myoscience) was cleared for marketing by the FDA through the Section 510(k) 
+process. Predicate devices were the Cryo -Touch II and Cryo- Touch III.  
+In December 2016 , the COOLIEF Cooled Radiofrequency Kit (Halyard Health Inc., Alpharetta, GA ) was cleared  by the 
+FDA through the Section 510(k) process for the creation of RF heat lesions in nervous tissue for the relief of pain . The 
+kit includes a fluid delivery system for com monly used fluid agents, limited to  contrast medium, saline, and/or anesthetic 
+solution  delivery at the target site.   
+Gupta et al . (2017) completed a systematic review aimed at analyzing published studies on RFA (conventional, pulsed, 
+or cooled radiofreque ncy) for patients suffering from OA of the knee , as well as patients post -TKA who have developed 
+refractory disabling chronic knee pain. The systematic review was intended to provide an overview of the current 
+knowledge regarding variations in procedures, nerve targets, adverse events and temporal extent of clinical benefit. 
+Seventeen publications were identified in the search, including articles investigating conventional, pulsed, or cooled 
+RFA. These studies primarily targeted either the genicular nerves or used an intra- articular approach. Of the studies, five  Medical Policy : ABLATION/ DENERVATION TECHNIQUES FOR KNEE PAIN  
+Policy Number : 7.01.100  
+Page : 3 of 8   
+Proprietary In formation of Excellus BlueCross BlueShield  were small -sized , randomized , controlled trials, although one involved diathermy radiofrequency ablation. There we re 
+eight  retrospective or prospective case series and four  case reports. Utilizing the strength of evidence grading, the study 
+identified a low level of certainty to suggest a superior benefit between targeting the genicular nerve, an intra- articular 
+approach, or targeting the larger nerves such as femoral and tibial nerves. It also identified a low level of certainty 
+supporting the superiority of any specific RFA procedure modality. The majority of the studies report ed positive patient 
+outcomes, but the inconsistent procedural methodology, inconsistent patient assessment measures, and small study sizes 
+limit the applicability of any specific study to clinical practice. The authors concluded that, overall, the studies showed 
+promising results for the treatme nt of severe chronic knee pain by RFA at up to one year, with minimal complications. 
+Numerous studies, however, yielded concerns about procedural protocols, study quality, and patient follow-up. RFA can 
+offer substantial clinical and functional benefit to patients with chronic knee pain due to OA or post -TKA. 
+In 2018, Davis et al . c ompleted a prospective, multicenter, randomized, crossover clinical trial comparing the safety and 
+effectiveness of cooled RF with corticosteroid injection in the management of k nee pain from OA in 151 subjects with 
+chronic knee pain lasting six months or more that was unresponsive to conservative modalities. Knee pain (Numeric Rating 
+Scale [NRS]), Oxford Knee Score, overall treatment effect (Global Perceived Effect), analgesic dr ug use, and adverse 
+events were compared between cooled RFA and intra -articular steroid  (IAS ) cohorts at one, three , and six months after 
+intervention. At six  months, the cooled RF group had more favorable outcomes in NRS with  pain reduction of 50% or 
+greater  in 74.1% versus 16.2% of IAS cases.  Non-responders consisted of 25.9% in the cooled RFA group and 83.8% in 
+the steroid group. At six months, mean Oxford Knee Score was 35.7 in the cooled RF A group v ersus 22.4 in the steroid 
+group, and mean improved Global Perceived Effect was 91.4% versu s 23.9%, respectively.  There was no change in the 
+average daily dose of opioids at six months between the groups.  No procedure- related seriou s adverse events were 
+identified. While the authors concluded that the findings of this study indicated that cooled RFA for genicular nerve 
+ablation is superior to a single corticosteroid injection in osteoarthritic subjects for managing knee pain, the lim itations of 
+this study included the following: the comparison group (IAS subjects) underwent a singular injection rather than multiple 
+injections, and the six-month time point at which the primary outcome was assessed is not consistent with the expected 
+duration of effectiveness of a steroid injection; this was an open label trial, and so, not all study site observers were blinded 
+to procedures; medication diaries were not used to record medication usage in this study , which introduced potential for 
+error a nd/or inability to identify acute changes in medication dosage during the study; and the effect of each treatment on 
+opioid use for OA-related knee pain could not be specifically measured because patients in both study groups used opioids 
+for medical indic ations other than OA -related knee pain.  
+In 2019, Davis et al . published a follow -up study investigating the longer -term durability of analgesic effects of cooled RFA 
+for knee pain from OA. A total of 58 patients (82%) from the original IAS cohort who were dissatisfied with their IAS 
+treatment after six months were allowed to crossover to receive cooled RFA treatment.  In addition, 58 patients who 
+received cooled RFA were followed for an additional six months , for a total of 12 months’ follow -up.  At 12 months, 52 
+patients (78%) in the originally treated cooled RFA group contributed data to the primary endpoint. Diminished pain 
+relative to baseline greater than or equal to 50% was reported as 65% (34/52) after 12 months, and the OKS mea n score was 
+34.3, an increase in baseline by 17.3 points after 12 months.  In the crossover group, 49% (18/37) of patients experienced a 50% or more decrease in pain from baseline at six months. No serious adverse events identified were related to cooled 
+RFA . Opioid use stayed consistent with baseline during the trial.  The authors are unclear why a difference in analgesic 
+response was seen in the originally treated group (65% at 12 months) and the crossover group (49% at six  months); 
+however, the study was not powered or designed to draw conclusions from the crossover group.  The authors concluded that 
+statistically significant and clinically relevant pain relief and functional improvements were sustained 12 months following cooled RFA treatment of OA -related knee pain and dysfunction. This study was partially funded by Halyard Health. 
+In a single, blind , randomized, controlled trial, El- Hakeim et al . (2018) studied the efficacy of fluoroscopic-guided 
+radiofrequency neurotomy of the genicular nerves for alleviation of chronic pain and improvement of function in patients 
+with knee OA. A total of 60 patients with chronic knee OA received either radiofrequency neurotomy of the genicular 
+nerves (n=30), considered Group A, or conventional analgesics only (n=30), identified as Group C. For Group C, the 
+following treatments were prescribed: oral paracetamol (max of 1 gram in six hours), Diclofenac sodium 75mg BID, and physiotherapy, if needed. The outcomes measures included visual analog  scale (VAS), Western Ontario and McMaster 
+Universities Index (WOMAC), and Likert scale for patient satisfaction in the second  week,  third  week , and sixth  month .  Medical Policy : ABLATION/ DENERVATION TECHNIQUES FOR KNEE PAIN  
+Policy Number : 7.01.100  
+Page : 4 of 8   
+Proprietary In formation of Excellus BlueCross BlueShield  The authors found significant differences in the VAS in the second  week,  third  week , and sixth  month between the two 
+groups, and a significant difference in total WOMAC index in the sixth month only. A high percentage ratio of the patients 
+(63.3%) in the conventional Group C received physiotherapy during the follow -up period. N o diagnostic block was  done 
+prior to radiofrequency, which is a limitation in the study.  The authors conclude d that  RF can ameliorate pain and disability 
+in chronic knee OA in a safe and  effective manner.  
+Qudsi- Sinclair and colleagues  (2017) published the results of a double -blinded , randomized, controlled trial comparing 
+traditional RF neurolysis (n=14) to local anesthetic and corticosteroid block (n=14) of the genicular nerves for treatment of  
+persistent pain following TKA . Subjects were followed for one year after treatment  and evaluated for pain evolution, knee 
+functionality, quality of life, and degree of patient satisfaction. At three and six months, both groups demonstrated a 
+reduction in pain and significant joint function improvement, with similar results in both groups , including improvement in 
+quality of life and disability and a reduced need for analgesics . The authors could not recommend one treatment option over 
+another and suggest ed that further clinical trials are needed to establish safety and efficacy.  The study is limited by small 
+sample population and short -term outcomes .  
+While t here are a f ew studies in the published peer- reviewed literature which lend support to improvement in pain after 
+ablative treatment , these studies are limited by variability in RF tech nique, small sample populations, and differences in 
+patient selection criteria .  At present , there is insufficient evidence in the peer- reviewed scientific literature evaluating RF 
+ablative treatment for chronic knee pain .  Strong, evidence -based conclusions regarding the effects of th is technology on 
+health outcomes cannot be made. Additional well-designed studies involving larger populations and long- term outcomes are 
+needed , to support safety and efficacy  and to determine how this treatment compares to other medical and surgical 
+treatments for knee pain.  
+Cryoneurolysis 
+A randomized , controlled trial with 180 patients (Radnovich et al. , 2017) compared cryoneurolysis with sham treatment in 
+patients who had knee OA. Cryoneurolysis resulted in a greater decrease in WOMAC pain, WOMAC total, and VAS score 
+at 30 days, compared with sham -treated controls. Subsequent measurements showed no significan t benefit of 
+cryoneurolysis on WOMAC score at 60 days or in VAS scores at 60 or 90 days.  As the trial progressed, patients were able 
+to more accurately guess their treatment group assignment , which may have biased results in favor of active treatment.  
+Several technical issues, including the optimal number of applications for each nerve, the duration of treatment, and the 
+duration of thawing before moving the cannula, have yet to be resolved. Perioperative cryoneurolysis has shown mixed results in  reduc ing opioid prescriptions/ use in patients undergoing TKA (Dasa et al. , 2016 and Mihalko et al., 2021). 
+Larger, well -designed trials are needed to determine the effects on health outcomes. 
+IPACK  
+A systematic review and meta- analysis ( Mou  et al., 2021) evaluated level one evidence to determine whether the IPACK 
+block offered analgesic benefits to existing multimodal analgesia regimens. Data on a  total of 467 patients who underwent 
+total replacement (TKA)  from five randomized controlled studies were included in the analysis.  While four studies 
+compared the difference between ACB+IPACK and ACB alone, only one assessed the difference between 
+ACB+LIA+IPACK and ACB+LIA.  The primary outcome of pain scores with rest and activity, as well as seco ndary 
+outcomes of cumulative opioid consumption, cumulative distance ambulated, and length of stay (LOS) were compared between intervention and control groups.  While the results indicated significan tly improved pain scores with rest or activity 
+at 12 hours post-operatively, no such benefit was observed at subsequent time points throughout the postoperative period.  
+Additionally, IPACK supplementation did not reduced opioid consumption, especially in the first 24 hours after procedure, 
+nor did it improve ot her secondary outcomes of distance ambulated or LOS. Authors noted heterogeneity among included 
+studies as a limiting factor in conducting meta- analysis of additional secondary outcomes. Researchers  concluded that the 
+addition of IPACK block to multimodal analgesic regiments does not improve post -operative opioid consumption nor 
+improve functional performance but may offe r immediate analgesic benefit after TKR.  
+In a 2020 double-blinded randomized controlled trial, Vichainarong et al. evaluated the efficacy of an IPACK block added to local infiltration analgesia and continuous adductor canal block after TKA.  A total of 72 patients were randomized to 
+receive either LIA with CACB (control group) or IPACK block with LIA and CACB (intervention group).  The primary outcome measure was cumulative intravenous morphine consumption in the first 24 hours post-operatively, as well as Medical Policy : ABLATION/ DENERVATION TECHNIQUES FOR KNEE PAIN  
+Policy Number : 7.01.100  
+Page : 5 of 8   
+Proprietary In formation of Excellus BlueCross BlueShield  secondary outcomes of numerical pain scores, incidence of posterior knee pain, performance test results, patient 
+satisfaction, LOS, and adverse effects.  The results indicated no significant intergroup difference in terms of morphine 
+consumption within 24 hours post-operatively ((LIA+CACB; 1.31±1.85 mg vs iPACK+LIA+CACB; 0.61±1.25 mg, p=0.08).  There were no clinically significant differences in the overall pain scores between the groups, however, the lower 
+Timed Up and Go test scores on postoperative days one and two, along with a shorter LOS, were found in the 
+iPACK+LIA+CACB group ( p<0.05).  Researchers concluded the addition of the IPACK to the LIA and CACB does not 
+reduce postoperative opioid consumption nor improve analgesia, but it may improve immediate functional performance and 
+reduce the LOS following TKA.  
+CODES 
+• Eligibility for reimbursement is based upon the benefits set forth in the member’s subscriber contract.  
+• CODES MAY NOT BE COVERED UNDER ALL CIRCUMSTANCES. PLEASE READ THE POLICY AND 
+GUIDELINES STATEMENTS CAREFULLY.  
+• Codes may not be all inclusive as the AMA and CMS code updates may occur more frequently than policy updates. 
+• Code Key: Experimental/Investigational = (E/I), Not medically necessary/ appropriate = (NMN). 
+CPT Codes  
+Code  Description  
+64450  (E/I)  Injection(s), anesthetic agent(s) and/or steroid; other peripheral nerve or branch  
+64454 (E/I) Injection(s), anesthetic agent(s) and/or steroid; genicular nerve branches, including 
+imaging guidance, when performed 
+64624 (E/I)  Destruction by neurolytic agent, genicular nerve branches including imaging 
+guidance, when performed 
+64640 (E/I)  Destruction by neurolytic agent; other peripheral nerve or branch (when applied to 
+genicular nerve (s)) 
+0441T (E/I)  Ablation, percutaneous, cryoablation, includes imaging guidance; lower extremity 
+distal/peripheral nerve  (when applied to genicular nerve(s))  
+Copyright © 2022 American Medical Association, Chicago, IL  
+HCPCS Codes  
+Code  Description  
+No specific code(s)  
+ICD10  Codes  
+Code  Description  
+M17.0 -M17.9  
+(E/I)  Knee osteoarthritis (code range)  
+M25.561 -
+M25.569 (E/I)  Pain in knee (code range)  
+REFERENCES 
+Ajrawat  P, et al. Radiofrequency procedures for the treatment of symptomatic knee osteoarthritis: a systematic review. 
+Pain Med  2020 Feb 1;21(2):333-348. 
+Bannuru RR, et al. OARSI guidelines for the non-surgical management of knee, hip, and polyarticular osteoarthritis. 
+Osteoarthritis Cartilage  2019 Nov;27(11):1578-1589. Medical Policy : ABLATION/ DENERVATION TECHNIQUES FOR KNEE PAIN  
+Policy Number : 7.01.100  
+Page : 6 of 8   
+Proprietary In formation of Excellus BlueCross BlueShield  *Bhatia A, et al. Radiofrequency procedures to relieve chronic knee pain: an evidence- ba sed narrative review. Reg Anesth 
+Pain Med  2016 Jul-Aug;41(4):501-10. 
+Chen AF, et al. Cooled radiofrequency ablation compared with a single injection of hyaluronic acid for chronic knee pain: 
+A multicenter, randomized clinical trial demonstrating greater efficacy and equivalent safety for cooled radiofrequency 
+ablation.  J B one Joint Surg Am  2020 Sep 2;102(17):1501-1510. 
+*Chen AF, et al. Cooled radiofrequency ablation provides extended clinical utility in the management of knee 
+osteoarthritis: 12 -month results from a prospective, multi- center, randomized, cross -over trial com paring cooled 
+radiofrequency ablation to a single hyaluronic acid injection. BMC Musculoskelet Disord  2020 Jun 9;21(1):363. 
+Chen AF, et al. Thermal nerve radiofrequency ablation for the nonsurgical treatment of knee osteoarthritis: A systematic 
+literature review. J Am Acad Orthop Surg 2020 Jul 22. Online ahead of print.  
+*Choi WJ, et al. Radiofrequency treatment relieves chronic knee osteoarthritis pain: a double-blind randomized controlled trial. Pain  2011 Mar;152(3):481-7. 
+*Dasa V, et al. Percutaneous freezing of sensory nerves prior to total knee arthroplasty. Knee Jun  2016;23(3):523-528.  
+*Davis  T, et al. Prospective, multicenter, randomized, crossover clinical trial comparing the safety and effectiveness of 
+cooled radiofrequency ablation with corticosteroid injection in the  management of knee pain from osteoarthritis.  Reg 
+Anesth Pain Med  2018 Jan;43(1):84-91. 
+Davis T, et al. Twelve -month analgesia and rescue, by cooled radiofrequency ablation treatment of osteoarthritic knee 
+pain: results from a prospective, multicenter, randomized, cross-over trial. Reg Anesth Pain Med  2019 Feb 16. [Epub 
+ahead of print]  
+*El-Hakeim EH, et al. Fluoroscopic guided radiofrequency of genicular nerves for pain alleviation in chronic knee 
+o
+steoarthritis: a single -blind randomized controlled trial. Pain Physician  2018 Mar;21(2):169-177. 
+*Filippiadis D, et al. Intra -articular application of pulsed radiofrequency combined with viscosupplementation for 
+improvement of knee osteoarthritis symptoms: a single centre prospectiv e study. Int J Hyperthermia 2018 
+Dec;34(8):1265-1269. 
+Gabriel RA and Ilfeld BM. Novel methodologies in regional anesthesia for knee arthroplasty. An estheriol Clin  2018 
+Sep;36(3):387-401. 
+*Gupta A, et al. Comparative effectiveness review of cooled versus pulsed radiofrequency ablation for the treatment of 
+kn
+ee osteoarthritis: a systematic review. Pain Physician  2017 Mar;20(3):155-171. 
+Hong T, et al. Systematic review and meta-analysis of 12 randomized controlled trials evaluating the efficacy of invasive radiofrequency treatment for knee pain and function. Biomed Res Int 2019 Jun 26;2019:9037510. 
+House LM, et al. Severity of knee osteoarthritis and pain relief after cooled radiofrequency ablation of the genicular 
+nerves. Pain Med  2019 Dec 1;20(12):2601-2603. 
+*Hunter C, et al. Cooled radiofrequency ablation treatment of the genicular nerves in the treatment of osteoarthritic knee pain: 18- and 24-month results. Pain Pract  2020 Mar;20(3):238-246. 
+Iannaccone F, et al. A review of l ong-term pain r elief after genicular nerve  radiofrequency a blation in chronic knee 
+osteoarthritis.  Pain Physician  2017 Mar;20(3):E437-E444. 
+*Ikeuchi M, et al. Percutaneous radiofrequency treatment for refractory  anteromedial pain of osteoarthritic knees. Pain 
+Med 2011 Apr;12(4):546- 51.  
+Jadon A, et al. Comparative evaluation of monopolar and bipolar radiofrequency ablation of genicular nerves in chronic 
+knee pain due to osteoarthritis.  Indian J Anaesth  2018 Nov;62(11):876-880. 
+Jamison DE and Cohen SP.  Radiofrequency techniques to treat chronic knee pain: a comprehensive review of anatomy, effectiveness, treatment parameters, and patient selection. J Pain Res  2018 Sep 18;11:1879-1888. Medical Policy : ABLATION/ DENERVATION TECHNIQUES FOR KNEE PAIN  
+Policy Number : 7.01.100  
+Page : 7 of 8   
+Proprietary In formation of Excellus BlueCross BlueShield  Kapural L, et al. Long- t erm retrospective assessment of clinical efficacy of radiofrequency ablation of the knee using a 
+cooled radiofrequency system.  Pain Physician 2019 Sep;22(5):489-494. 
+Kesikburun S, et al. Ultrasound-guided genicular nerve pulsed radiofrequency  treatment for painful knee osteoarthritis: a 
+preliminary  report.  Pain Physician  2016 Jul;19(5):E751-9. 
+Khan D, et al. Clinically significant hematoma as a complication of cooled radiofrequency ablation of the genicular 
+nerves; a case series. Pain Med  2019 Dec 27. [Epub ahead of print] 
+Kirdemir P, et al. The genicular nerve: radiofrequency lesion application for chronic knee pain. Turk J Med Sci 2017 Feb 
+27;47(1):268-272. 
+Kolasinski SL, et al. 2019 American College of Rheumatology/Arthritis Foundation guideline for the m ana gement of 
+osteoarthritis of the hand, hip, and knee.  Arthritis Rheumatol 2020 Feb;72(2):220-233. 
+Konya ZY, et al.  Results of genicular nerve ablation by radiofrequency in osteoarthritis- related chronic refractory knee 
+pain. Turk J Med Sci  2020 Feb 13;50(1):86-95. 
+McCormick ZL, et al. A p rospective randomized t rial of prognostic genicular  nerve blocks to determine the predictive 
+value for the  outcome of cooled radiofrequency a blation for chronic knee pain due to osteoarthritis.  Pain Med  2018 Aug 
+1;19(8):1628-1638. McCormick ZL, et al. Cooled ra di
+ ofrequency a blation of the genicular nerves for  chronic p ain due to knee osteoarthritis: 
+six-month outcomes. Pain Med  2017 Sep 1;18(9):1631-1641. 
+McCormick ZL, et al. The safety of genicular nerve radiofrequency ablation. Pain Med  2020 Oct 28;pnaa355. Online 
+ahead of print.  
+*Mihalko WM, et al. Cryoneruolysis before total knee arthroplasty in patients with severe osteoarthritis for reduction of 
+post
+operative pain and opiod use in a single-center randomized controlled trial. J Arthroplasty 2021 May;36(5):1590-98. 
+Mou P, et al. Analgesia effects of IPACK block added to multimodal analgesia regiments after total knee replacement Medicine 2021 June;100(22) [Epub 2021 June 4]. 
+*Mihalko WM, et al. Cryoneurolysis before total knee arthroplasty in patients with severe o steoarthritis for reduction of 
+postoperative pain and opioid use in a single- center randomized controlled trial. J Arthroplasty 2020 Nov 14;S0883-
+5403(20)31204-3. 
+*Qudsi- Sinclair S, et al.  A comparison of genicular nerve treatment  using either radiofrequency or analgesic block with 
+corticosteroid for pain after a total knee arthroplasty: a double -blind, randomized clinical study.  Pain Pract  2017 
+Jun;17(5):578-588. 
+*Radnovich R, et al. Cryoneurolysis to treat the pain and symptoms of knee osteoar th ritis: a multicenter, randomized, 
+double-blind, sham- controlled trial. Osteoarthritis Cartilage  Aug 2017;25(8):1247-1256. 
+Reddy RD, et al. Cooled radiofrequency ablation of genicular nerves for knee  osteoarthritis p ain: a p rotocol for patient 
+selection and case s eries.  Anesth Pain Med  2016 Aug 24;6(6):e39696.  
+Roberts SL, et al. Review of knee joint innervation: implications for diagnostic blocks and radiofrequency ablation. Pain 
+Med 2020 May 1;21(5):922-938. 
+Rojhani S, et al. Water -cooled radiofrequency provides pain r elief,  decreases d isability, and improves quality of life in 
+chronic k nee o steoarthritis.  Am J Phys Med Rehabil 2017 Jan;96(1):e5-e8. 
+Santana Pineda MM, et al. Analgesic e ffect and functional i mprovement c aused by  radiofrequency t reatment of genicular 
+nerves in patients  with advanced o steoarthritis of the knee until 1 year  following t reatment.  Reg Anesth Pain Med  2017 
+Jan/Feb;42(1):62-68. 
+Sari S , et al. Which one is more effective for the clinical treatment of  chronic pain in knee osteoarthritis: radiofrequency 
+neurotomy  of the genicular nerves or intra -articular injection? Int J Rheum Dis 2018 Oct;21(10):1772-1778. Medical Policy : ABLATION/ DENERVATION TECHNIQUES FOR KNEE PAIN  
+Policy Number : 7.01.100  
+Page : 8 of 8   
+Proprietary In formation of Excellus BlueCross BlueShield  Shen WS, et al. R adiofrequency thermocoagulation in relieving r efractory  pain of knee o steoarthritis.  Am J Ther  2017 
+Nov/Dec;24(6):e693-e700. 
+Vichainarong C, et al. Analgesic efficacy of infiltration between the popliteal artery and capsule of the knee (iPACK) 
+bloc
+k added to local infiltration analgesia and continuous adductor canal block after total knee arthroplasty: a randomized 
+clinical trial. Reg Anesth Pain Med  2020; 45:872-879. 
+Wong J, et al. Ultrasound-guided genicular nerve t hermal radiofrequency a blation for chronic knee pain.  Case Rep 
+Anesthesiol  2016;2016:8292450. [ Epub  2016 Oct 16].  
+Xiao L, et al. Highly selective peripheral nerve radio frequency ablation for the treatment of severe knee osteoarthritis.  
+Exp Ther Med 2018 Nov;16(5):3973-3977. 
+Yoon JHE, et al.  Cryoneurolysis in patients with refractory chronic peripheral neuropathic pain. J Vasc Interv Radiol  2016 
+Feb;27(2):239-43. 
+*Key Article  
+KEY WORDS 
+Cooled radiofrequency ablation, COOLIEF, radiofrequency ablation of peripheral nerve , genicular radiofrequency 
+ablation, iovera, cryoablation 
+CMS COVERAGE FOR MEDICARE PRODUCT MEMBERS 
+There is currently a National Coverage Determination (NCD) for Induced Lesions of Nerve Tracts (160.1) .  Please refer to 
+the following NCD website for Medicare members:   https://www.cms.gov/medicare-coverage- d atabase/details/ncd -
+details.aspx?NCDId=19&ncd  
+ 
+There is currently a Local Coverage Determination (LCD) Peripheral Nerve Blocks (L36850) for destruction of genicular 
+nerve branches .  Please refer to the following LCD website for Medicare Members: https://www.cms.gov/medicare -
+coverage- database/details/article -
+details.aspx?articleId=57452&ver=19&LCDId=36850&SearchType=Advanced&CoverageSelection=Both&NCSelection=NCA%7cCAL%7cNCD%7cMEDCAC%7cTA%7cMCD&ArticleType=BC%7cSAD%7cRTC%7 cReg&PolicyType=Bo
+th&s=41&KeyWord=denervation&KeyWordLookUp=Doc&KeyWordSearchType=Exact&kq=true&bc=MAAAAAgAI
+AAA&  

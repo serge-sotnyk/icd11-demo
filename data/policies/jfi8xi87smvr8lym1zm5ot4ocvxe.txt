@@ -1,0 +1,294 @@
+B
+lueCross 
+BlueShield of Tennessee
+ Medical Policy Manual
+Ovarian Cancer Tumor Markers
+DESCRIPTION
+A variety of substances, including enzymes, hormones, 
+antigens, and proteins, can be detected in higher-than-normal
+amounts 
+in the blood, urine, or body tissues of some individuals with certain 
+types of cancer. These tumor markers may be
+produced by a tumor itself 
+or by the body's response to the presence of cancer. The detection of 
+tumor markers may be
+used to determine a diagnosis, disease progression, 
+or response to treatment; however, these markers may also be
+elevated 
+in individuals with benign conditions. The use of tumor markers for diagnosing 
+ovarian cancer is insufficient in the
+absence of a comprehensive evaluation 
+that includes abdominal/pelvic examination.
+The most extensively 
+studied serum marker is cancer antigen 125 (CA-125), which is a protein 
+associated with epithelial
+ovarian malignancies. Elevation of CA-125 levels 
+may occur in endometriosis, pregnancy, pelvic inflammatory disease and
+in other types of cancer. CA-125 appears to be most useful in identifying 
+nonmucinous epithelial cancer. Other tumor
+markers (e.g., alpha fetoprotein, 
+beta human chorionic gonadotropin, carcinoembryonic antigen, CA 19-9, 
+Inhibin and lactate
+dehydrogenase) can be elevated in less common ovarian 
+histopathologies (e.g., carcinosarcomas, clear cell carcinoma,
+mucinous 
+carcinoma, low-grade [grade 1] serous/endometrioid epithelial carcinoma, 
+borderline epithelial tumors, malignant
+sex cord-stromal tumors and malignant 
+germ cell tumor).
+Human epididymis 
+protein 4 (HE4) is a novel biomarker proposed as a replacement for or 
+a complement to CA-125 for
+screening asymptomatic women and evaluating 
+women with ovarian masses and monitoring ovarian cancer progression and
+recurrence. Data show that HE4 does not increase early enough to be useful 
+in the detection of early-stage ovarian cancer.
+There are also limited 
+data on the diagnostic test performance of the HE4 test used to monitor 
+disease progression and
+recurrence in women after initial treatment for 
+epithelial ovarian cancer.
+POLICY
+The measurement of ovarian 
+cancer tumor markers is considered 
+medically necessary
+ 
+if the medical
+appropriateness criteria are met. 
+(See Medical Appropriateness 
+below.)
+The measurement of multiple 
+ovarian cancer tumor markers is considered 
+not medically necessary.
+The measurement of ovarian 
+cancer tumor markers that do not meet medical appropriateness criteria 
+including, but
+not limited to human epididymis protein 4 (HE4) are 
+considered 
+investigational.
+MEDICAL 
+APPROPRIATENESS
+The measurement of ovarian 
+cancer tumor markers is considered 
+medically appropriate
+ if 
+ALL
+ of the following are
+met:
+Symptomatic 
+individual
+Measured 
+during initial workup or post-operative monitoring
+Request 
+for measurement of 
+ANY 
+ONE
+ of the following tumor markers:
+Alpha 
+fetoprotein (AFP)
+Beta 
+human chorionic gonadotropin (beta-HCG)
+Cancer 
+Antigen 125 (CA-125)
+Carcinoembryonic 
+Antigen (CEA)
+CA 
+19-9
+Inhibin
+Lactate 
+dehydrogenase (LDH)
+IMPORTANT REMINDERS
+Any 
+specific products referenced in this policy are just examples and 
+are intended for illustrative purposes only. It is not
+intended to 
+be a recommendation of one product over another and is not intended 
+to represent a complete listing of all
+products available. These examples 
+are contained in the parenthetical e.g. statement.
+We 
+develop Medical Policies to provide guidance to Members and Providers. This 
+Medical Policy relates only to the
+services or supplies described 
+in it. The existence of a Medical Policy is not an authorization, 
+certification, explanation
+of benefits or a contract for the service 
+(or supply) that is referenced in the Medical Policy. For a determination 
+of the
+benefits that a Member is entitled to receive under his or 
+her health plan, the Member's health plan must be
+reviewed. If 
+there is a conflict between the Medical Policy and a health plan or 
+government program (e.g., TennCare),
+the express terms of the health 
+plan or government program will govern.
+ADDITIONAL 
+INFORMATION
+There 
+is insufficient evidence to support the measurement of tumor markers not 
+referenced within the medical
+appropriateness criteria and for testing 
+asymptomatic, average risk individuals.
+ SOURCES
+American 
+Cancer Society. (2020). 
+Ovarian 
+cancer.
+ Retrieved May 15, 2020 from https://www.cancer.org/cancer/ovarian-
+cancer/detection-diagnosis-staging/how-diagnosed.html
+.
+American 
+College of Obstetricians and Gynecologists. (2016, November). Practice 
+Bulletin #174. Evaluation and
+management of adnexal masses. Retrieved 
+May 22, 2020 from http://www.acog.org.
+American 
+College of Obstetricians and Gynecologists. (2017, September; reaffirmed 
+2019). Committee opinion #716. 
+The
+role of the obstetrician-gynecologist in the early detection of epithelial 
+ovarian cancer in women at average risk.
+ Retrieved
+March 15, 2021 
+from http://www.acog.org.
+BlueCross 
+BlueShield Association. Evidence Positioning System. (1:2023). 
+Serum 
+biomarker human epididymis protein 4
+(2.04.66). Retrieved March 7, 
+2023 from https://www.evidencepositioningsystem.com/. (26 articles and 
+/ or guidelines
+reviewed)
+Buys, 
+S., Partridge, E., Black, A., Johnson, C., Camerato, L., Isaacs, C. et 
+al. (2011). Effect of screening on ovarian cancer
+mortality. The prostate, 
+lung, colorectal and ovarian (PLCO) cancer screening randomized controlled 
+trial. 
+Journal of
+American Medical Association
+, 305 (22), 2295-2303. 
+(Level 1 evidence)
+Centers 
+for Medicare & Medicaid Services. CMS.gov. 
+NCD 
+for tumor antigen by immunoassay - CA 125
+ (190.28).
+Dong, X., Men, X., Zhang, W., 
+Lei, P. (2014).
+ 
+ Advances 
+in tumor markers of ovarian cancer for early diagnosis. 
+Indian
+Journal of Cancer
+,
+ 51 
+Suppl 3, e72-
+e76. (Level 2 evidence)
+Gentry-Maharah, 
+A., Burnell, M., Dilley, J., Ryan, A., Karpinskyj, C., Gunu, R., et al. 
+(2019). Serum HE4 and diagnosis of
+ovarian cancer in postmenopausal women 
+with adnexal masses. 
+American 
+Journal of Obstetrics and Gynecology,
+ 
+222(1),
+56.e1-56.e17.
+ (Level 2 evidence)
+Giuliani, 
+M., Gui, B., Valentini, A., Giovanni, S., Miccò, M., Rodolfino, E. (2017). 
+Early detection of recurrence or progression
+disease in patients with 
+ovarian cancer after primary debulking surgery: a diagnostic challenge 
+still unresolved. Correlation
+between CT findings and CA 125 levels. 
+Minerva Ginecologic,
+ doi: 
+10.23736/S0026-4784.17.04062-X. Abstract retrieved
+July 7, 2017 from PubMed 
+database.
+National 
+Cancer Institute. (2023, February). 
+Ovarian, fallopian tube, and primary 
+peritoneal cancer screening (PDQ®)
+.
+Retrieved March 8, 2023 from https://www.cancer.gov.
+     
+National 
+Comprehensive Cancer Network. (2022, December). 
+NCCN 
+Clinical Practice Guidelines in Oncology (NCCN
+Guidelines ®)
+. 
+Ovarian cancer including fallopian 
+tube cancer and primary peritoneal cancer.
+ Retrieved March 8, 2023 
+from
+the National Comprehensive Cancer Network.
+National 
+Institute for Health and Clinical Excellence. (2011, April). Ovarian cancer: 
+the recognition and initial management of
+ovarian cancer. Retrieved May 
+30, 2012 from http://www.nice.org.uk.
+Retrieved 
+March 7, 2023 from https://www.cms.gov.
+Scaletta, 
+G., Plotti, F., Luvero, D., Capriglione, S., Montera, R., Miranda, A., 
+et al. (2017). The role of novel biomarker HE4
+in the diagnosis, prognosis 
+and follow-up of ovarian cancer: a systematic review. 
+Expert 
+Review of Anticancer Therapy,
+ 17
+(9), 827-839. Abstract retrieved 
+August 14, 2017 from PubMed database.
+Society 
+of Gynecologic Oncologists. (2017, March). 
+An 
+update on post-treatment surveillance and diagnosis of recurrence in
+women 
+with gynecologic malignancies: Society of Gynecologic Oncology (SGO) recommendations.
+ 
+Retrieved June 20, 2018
+from https://www.sgo.org.
+Sölètormos, 
+G., Duffy, M., Hassan, S., Verheijen, R., Tholander, B., Bast, R., et 
+al. (2016). Clinical use of cancer biomarkers
+in epithelial ovarian cancer. 
+International Journal of Gynecological 
+Cancer,
+ 26 (1), 43-51. (Level 1 evidence)
+United 
+States Preventive Services Task Force. (2018). 
+Ovarian 
+cancer screening.
+ Retrieved May 30, 2019 from
+https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/ovarian-cancer-screening.
+ORIGINAL 
+EFFECTIVE DATE:  
+9/1998
+ 
+  
+MOST RECENT 
+REVIEW DATE:  
+4/13/2023 
+ID_BT
+Policies included in the Medical 
+Policy Manual are not intended to certify coverage availability. They 
+are medical determinations about a particular technology, service, drug, 
+etc.
+While a policy or technology may be medically necessary, it could 
+be excluded in a member's benefit plan. Please check with the appropriate 
+claims department to determine if the
+service in question is a covered 
+service under a particular benefit plan. Use of the Medical Policy Manual 
+is not intended to replace independent medical judgment for treatment 
+of
+individuals. The content on this Web site is not intended to be a substitute 
+for professional medical advice in any way. Always seek the advice of 
+your physician or other qualified
+health care provider if you have questions 
+regarding a medical condition or treatment.
+This document 
+has been classified as public information.

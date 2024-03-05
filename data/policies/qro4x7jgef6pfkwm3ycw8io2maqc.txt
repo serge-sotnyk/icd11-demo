@@ -1,0 +1,1487 @@
+This policy is under revision. The revised policy will be effective on 
+or later. 
+Please click 
+HERE
+ to view the revised policy.
+Date Effective:
+07/17/2022
+Date Published to Web:
+ 
+06/13/2022
+Section
+: 
+Pharmacy
+Title
+:
+Colony Stimulating Factors (G-CSF & GM-CSF)
+Content
+: 
+1. PURPOSE
+To define the medical appropriateness of colony stimulating factors (G-CSF &
+GM-CSF). 
+To define the prior authorization guidelines for colony stimulating factors (G-
+CSF & GM-CSF).
+2. SCOPE AND APPLICABILITY
+The purpose of this policy is to provide general information applicable to the
+administration of outpatient prescription drug benefits that Horizon NJ Health
+administers for the NJ Family Care/Medicaid members. 
+This policy applies to the Medicaid/NJ FamilyCare plans issued and/or
+administered by Horizon Healthcare Services, Inc. d/b/a Horizon Blue Cross
+Blue Shield of New Jersey and/or its affiliates, including Horizon Healthcare of
+New Jersey, Inc. d/b/a Horizon NJ Health (collectively â€œHorizonâ€
+​
+).
+If a memberâ€™s contract benefits, as set forth in the NJ Medicaid State
+Contract differ from a pharmacy policy, the Contract prevails. 
+Applicable
+Federal and/or State regulations must be considered in the determinations.
+Although a prescription drug may be medically necessary, it may be subject to
+limitations and/or exclusions under a memberâ€™s benefit plan. 
+If a
+prescription drug is not covered and the member proceeds to obtain the
+prescription drug, the member may be responsible for the cost. Decisions
+regarding treatment and treatment plans are the responsibility of the physician.
+This policy is not intended to direct the course of clinical care a physician
+provides to a member, and does not replace a physicianâ€™s or
+pharmacistâ€™s independent professional clinical judgment or duty to exercise
+special knowledge and skill in the treatment of Horizon NJ Health members.
+Horizon NJ Health is not responsible for, does not provide, and does not hold
+itself out as a provider of medical care. 
+The physician remains responsible for
+the quality and type of health care services provided to a Horizon NJ Health
+member.
+Horizon NJ Healthâ€™s Pharmacy Policies do not constitute medical
+advice, authorization, certification, approval, explanation of benefits, offer
+of coverage, contract or guarantee of payment.
+POLICY STATEMENT: This policy defines the scope and process of colony
+stimulating factors (G-CSF & GM-CSF) coverage for Horizon NJ Health
+members.
+This policy ensures that colony stimulating factors (G-CSF & GM-CSF) are
+used for FDA-approved indications and medically appropriate â€œoff-labelâ€
+​
+uses at appropriate dosages for the purposes listed below. 
+The prior
+authorization process will begin when providers or members initially contact
+Horizon NJ Health for pre-approval. 
+Clinical information will be attempted to be
+obtained in a timely basis after initiation of the prior authorization request.
+Clinical decisions regarding approvals will be made by the clinical staff whileclinical decisions for denials will only be made by the medical directors.
+Providers and/or members will be notified regarding final decisions.
+Pharmacy Policies can be highly technical and are designed for use by the
+Horizon NJ Health professional staff in making coverage determinations.
+Members referring to a Horizon NJ Health pharmacy policy should discuss it
+with their treating physician or pharmacist, and should refer to their specific
+benefit plan for the terms, conditions, limitations and exclusions of their
+coverage.
+Horizon NJ Healthâ€™s Pharmacy Policies are proprietary. 
+They may be used
+only as authorized by Horizon NJ Health and its owner or affiliates. 
+The
+contents of the Horizon NJ Health Pharmacy Policies are not to be copied,
+reproduced or circulated to other parties without the express written consent of
+Horizon NJ Health. 
+The contents of these Pharmacy Policies may be updated
+or changed without notice, unless otherwise required by law and/or regulation.
+Benefit determinations are made in the context of policies existing at the time of
+the decision and are not subject to later revision as the result of a change in
+policy.
+This policy was developed in accordance with applicable Centers for Medicare
+and Medicaid Services (CMS) guidelines, the NJ Medicaid Managed Care
+Contract, applicable NJ State and Federal Guidelines, and national
+accreditation standards. This policy will be reviewed annually, revising
+procedures as necessary to reflect changes to specific guidelines. 
+The Director of Pharmacy or his/her designee will conduct an annual review of
+this policy and procedure to ensure that it is still relevant and compliant with
+appropriate New Jersey State and Federal Medicaid regulatory and accrediting
+requirements, and accurately reflects current operations.
+3. POLICY
+3.1. 
+POLICY OVERSIGHT
+The Director of Pharmacy Services is responsible for ensuring that the policy is
+in accordance with State Medicaid contract and all accrediting bodies. 
+Auditing
+will be done annually to ensure that this policy is being applied fairly and
+consistently.
+3.2.
+ 
+POLICY PLANNING AND REPORTING
+The pharmacy department reviews and reports to the Pharmacy and
+Therapeutics (P&T) committee on an annual basis approvals/denials of
+medications requiring prior authorization. 
+In addition, a quarterly report of
+denials is generated by the Pharmacy Department and submitted to DMAHS.
+Pharmacists are audited and are provided feedback on prior authorization
+request performance on a quarterly basis to ensure that approvals and
+recommendations for denials are done in accordance with policy criteria. 
+The
+pharmacy call center staff is audited and provided feedback on prior
+authorization request performance on a monthly basis to ensure that correct
+information is being captured and entered into that pharmacy system on a
+timely basis. 
+Medical Directors are audited annually on interrator reliability
+concerning pharmacy cases. 
+The results of the pharmacist, pharmacy call
+center, and medical director performance on these audits are reported annually
+to the P&T committee.
+3.3.
+ 
+POLICY DEVELOPMENTAL PROCESS
+This Horizon NJ Health Pharmacy Policy has been developed by Horizon NJ
+Healthâ€™s Pharmacy and Therapeutics Committee and Quality Improvement
+Committee, which include practicing physicians and pharmacists. 
+The Policy is
+consistent with generally accepted standards of medical and pharmacy
+practice, and reflects Horizon NJ Healthâ€™s view of the subject prescription
+drugs, and in what circumstances they are deemed to be medically necessaryor experimental/ investigational in nature. 
+The Pharmacy Policy also considers,
+in part, whether and to what degree the subject prescription drug is clinically
+appropriate, in terms of type, frequency, extent, site and duration and if they
+are considered effective for the illnesses, injuries or diseases discussed.
+Where relevant, this Pharmacy Policy considers whether the subject
+prescription drug is being requested primarily for the convenience of the
+covered person or the health care provider. 
+It also considers whether the
+prescription drug ordered is more costly than an alternative, equally effective
+prescription drug that is at least as likely to produce equivalent therapeutic or
+diagnostic results as to the diagnosis or treatment of the relevant illness, injury
+or disease. 
+In reaching its conclusion regarding what it considers to be the
+generally accepted standards of medical and pharmacy practice, the Pharmacy
+and Therapeutics Committee reviews and considers the following: 
+all credible
+scientific evidence published in peer-reviewed medical literature generally
+recognize d by the relevant medical community, physician and health care
+provider specialty society recommendations, the views of physicians,
+pharmacists and health care providers practicing in relevant clinical areas
+(including, but not limited to, the prevailing opinion within the appropriate
+specialty), the findings and directives of the Food and Drug Administration, 
+and
+any other relevant factor as determined by applicable State and Federal laws
+and regulations.
+4. DEFINITIONS
+AHFS = American Hospital Formulary Service
+AIDS = Acquired Immunodeficiency Syndrome 
+ALL = Acute lymphoblastic leukemia
+AML = Acute Myelogenous Leukemia 
+ANC = Absolute Neutrophil Count 
+ANLL = Acute Non-Lymphocytic Leukemia
+ARS = Acute Radiation Syndrome
+Bone marrow transplant (BMT) = Hematopoietic stem cell transplant (HSCT)
+CAR = Chimeric antigen receptor
+CHOP = Cyclophophamide, doxorubicin, vincristine, and prednisone
+CMS = Centers for Medicare and Medicaid Services
+CrCl = Creatinine Clearance
+CRS = Cytokine Release Syndrome
+CSF = Colony Stimulating Factors
+CT = Computerized tomography
+DLBCL = Diffuse large B-cell lymphoma
+DMAHS = Division of Medical Assistance and Health Services
+EPO = Erythropoietin
+ESA = Erythropoietin Stimulating Agent
+FDA = Food and Drug Administration
+FN = Febrile Neutropenia
+G-CSF = Granulocyte Colony Stimulating Factor (e.g., filgrastim (including filgrastim-
+sndz), tbo-filgrastim, pegfilgrastim) 
+GM-CSF = Granulocyte-Macrophage Colony Stimulating Factor (e.g., sargramostim)
+HD-M-VAC = Highâ€“dose-intensity methotrexate, vinblastine, doxorubicin, and cisplatin
+HHV8 = Human Herpes Virus 8
+HIV = Human Immunodeficiency Virus
+HLA = Human Leukocyte/lymphocyte Antigen
+HNJH = Horizon NJ Health 
+IPSS = International Prognostic Scoring System
+IPSS-R = Revised International Prognostic Scoring System
+MDS = Myelodysplastic Syndrome
+NCCN = National Comprehensive Cancer Network
+NHL = Non-Hodgkinâ€™s Lymphoma
+PBPC = Peripheral Blood Progenitor Cell 
+PMN = Polymorphonuclear leukocyte
+PET = Positron emission tomography
+SCN = Severe Chronic Neutropenia
+WPSS = WHO-based prognostic scoring system
+G-CSF and GM-CSF are naturally occurring glycoprotein cytokines. 
+Together, G-CSFand GM-CSF exert major control over the reproduction and maturation of committed
+myeloid-lineage progenitor cells.
+Filgrastim is a human G-CSF, produced by recombinant DNA technology. 
+G-CSF
+regulates the production of neutrophils within the bone marrow; endogenous G-CSF is a
+glycoprotein produced by monocyte, fibroblast, and endothelial cells. 
+G-CSF has been
+shown to have minimal direct in vivo or in vitro effects on the production of other
+hematopoietic cell types. 
+Pegfilgrastim is a conjugate of recombinant G-CSF and
+monomethoxypoly-ethylene glycol with a longer duration of action. 
+Sargramostim is a
+human GM-CSF also produced by recombinant DNA technology. 
+GM-CSF induces
+partially committed progenitor cells to divide and differentiate in the granulocyte-
+macrophage pathways. 
+It is also capable of activating mature granulocytes and
+macrophages and promoting proliferation of megakaryocytic and erythroid progenitors. 
+Filgrastim, sargramostim, pegfilgrastim, and tbo-filgrastim prevent/treat neutropenia.
+Neutropenia is defined as a decrease in neutrophils. ANC is a way of measuring the
+neutrophil count. 
+It is defined as white blood cell (cell/mcL) x (PMN % + bands %) / 100.
+When the ANC falls below 500, the infection risk significantly increases. 
+Therefore, by
+using these agents, one may have reduced the probability of developing infections. 
+Specifically, NCCN guidelines defines febrile neutropenia (Temperature: â‰¥ 38.3Â°C
+orally or â‰¥ 38.0Â°C for duration over 1 hour); and neutropenia <500 neutrophils/mcL
+or <1,000 neutrophils/mcL and a predicted decline to â‰¤500 neutrophils/mcL over the
+next 48 hours
+Table 1 illustrates the relationship between ANC and risk of infection. 
+TABLE 1
+Severity
+ANC
+(per mm
+3
+)
+Risk of Infection
+Neutropenia
+<2000
+Slight risk of infection
+Mild Neutropenia
+1000 - 1500
+Minimal risk of infection
+Moderate Neutropenia
+500 - 1000
+Moderate risk of infection
+Severe Neutropenia
+<500
+Severe risk of infection
+5. SANCTIONS
+Not applicable.
+6. EXCEPTIONS
+None.
+APPENDICES AND ATTACHMENTS
+APPENDIX 1: POLICY PROCEDURAL WORKFLOW:
+INITIAL AND SUBSEQUENT REQUEST CRITERIA:
+ 
+In order for initial requests and subsequent requests of colony
+stimulating factors (G-CSF & GM-CSF) to be authorized for filling,
+Horizon NJ Health must ensure all of the following:
+A. The medication must be prescribed in accordance with FDA
+established dosing regimens or in accordance with medically appropriate
+off-label dosing according to American Hospital Formulary Service
+(AHFS), Micromedex, Clinical Pharmacology, Wolters Kluwer Lexi-Drugs
+(Lexicomp), or national guidelines.
+B. The patient does not have any of the following contraindications to
+therapy: (See Table 2)
+Table 2 â€“ Contraindications CriteriaMedication
+Contraindication
+Sargramostim
+(Leukine)
+1. Patients with excessive leukemic myeloid
+blasts in the bone marrow or peripheral blood
+(10% or greater)
+2. Concomitant use with chemotherapy and
+radiotherapy
+C. The request must be for an appropriate drug for one of the following
+indications and meet all of the associated additional criteria (Table 3):
+Table 3 â€“ Indications and Additional Criteria
+Indication
+Additional Criteria
+Medication
+Chemo-
+therapy
+Induced
+For primary prophylaxis
+: The member must
+meet all of the following:
+1. The member has solid tumors or non-
+myeloid malignancies (Note, cancers such
+as myelodysplastic syndrome [MDS], acute
+myeloid leukemia [AML], and chronic
+myeloid leukemia [CML] are not considered
+solid tumors or non-myeloid malignancies.)
+2. The member is receiving
+myelosuppressive chemotherapy
+associated with a clinically significant
+incidence of febrile neutropenia defined as
+one
+ of the following):
+a. Member is receiving dose-
+dense chemotherapy (regimen
+that requires myeloid growth
+factor support to maintain dose
+intensity and schedule)
+b. Chemotherapy regimens
+associated with a 
+high risk (i.e.
+greater than 20%) 
+of developing
+FN (See Informational Note #2) 
+c. Chemotherapy regimens
+associated with an 
+intermediate
+risk (i.e. 10-20%)
+ of developing
+FN in patients with 
+at least one
+risk factors (See Informational
+Note #2) such as:
+i. Age greater than 65
+receiving full chemotherapy
+dose intensity
+ii. Persistent neutropenia 
+iii. Bone marrow involvement
+by tumor
+iv. Recent surgery/open
+wounds
+v. Liver dysfunction (bilirubin
+> 2.0)
+vi. Renal dysfunction (CrCl
+<50)
+vii. Poor performance or
+nutritional status
+viii. Advanced disease
+ix. Infection or HIV
+x. Prior chemotherapy or
+radiation therapy
+xi. Chronic
+immunosuppression in the
+Â§ 
+Fulphila
+Â§ 
+Fylnetra
+Â§ 
+Granix 
+Â§
+Neulasta 
+Â§
+Neupogen 
+Â§
+Nivestym
+Â§
+Nyvepria
+Â§
+Releuko
+Â§
+Udenyca
+Â§ 
+Zarxio
+Â§
+ZiextenzoFebrile
+Neutropenia
+(FN)
+Prophylaxis
+(Informational
+Note #1-3)
+post-transplant setting,
+including organ transplant
+xii. Cardiovascular disease
+or multiple comorbid
+conditions
+xiii. Member previously
+experienced febrile
+neutropenia or dose-limiting
+neutropenic event (a nadir
+count or a day-of-treatment
+count impacting the planned
+dose of chemotherapy) on
+the same chemotherapy
+regimen
+d. Chemotherapy regimens
+associated with a low risk (i.e.
+less than 10%) of developing FN
+with 
+at least one
+ of the following:
+i. Is receiving curative
+treatment and is at
+significant patient-specific
+risk for developing FN
+ii. Member previously
+experienced febrile
+neutropenia or dose-limiting
+neutropenic event (a nadir
+count or a day-of-treatment
+count impacting the planned
+dose of chemotherapy) on
+the same chemotherapy
+regimen
+For secondary prophylaxis
+: 
+The member must
+meet at least 
+one 
+of the following:
+1. Member is receiving dose-dense
+chemotherapy (regimen that requires
+myeloid growth factor support to maintain
+dose intensity and schedule)
+2. The member meets both of the following:
+a. Member previously
+experienced febrile neutropenia
+or dose-limiting neutropenic event
+(a nadir count or a day-of-
+treatment count impacting the
+planned dose of chemotherapy)
+on the same chemotherapy
+regimen 
+b. Chemotherapy dose reduction
+or change in treatment regimen is
+not an option
+Â§ 
+Fulphila
+Â§ 
+Fyletra
+Â§ 
+Granix
+Â§
+Neulasta
+Â§
+Neupogen
+Â§
+Nivestym
+Â§
+Nyvepria
+Â§
+Releuko
+Â§
+Udenyca
+Â§ 
+Zarxio
+Â§
+Ziextenzo
+Table 3 â€“ Indications and Additional Criteria 
+(Continued)
+Indication
+Additional Criteria
+MedicationChemo-
+therapy
+Induced
+Febrile
+Neutropenia
+Treatment
+For members with Hairy Cell Leukemia
+1. The member must have febrile
+neutropenia (
+See Informational Note #3 for
+definition of febrile neutropenia
+) following
+chemotherapy
+Â§ 
+All
+For members who are receiving or 
+HAVE
+previously received G-CSF prophylaxis in the
+current chemotherapy cycle, 
+the request must
+meet 
+all
+ of the following:
+1. The member must have febrile
+neutropenia (
+See Informational Note #3 for
+definition of febrile neutropenia
+) 
+2. The member must have been previously
+receiving one of the following:
+a. prophylactic Neupogen,
+Nivestym, Releuko, Zarxio,
+or Granix in the current
+chemotherapy cycle for
+prophylaxis of neutropenia
+b. prophylactic Neulasta,
+Fulphila, Udenyca, or
+Ziextenzo in members with
+prolonged neutropenia
+(beyond 12 days)
+(Informational Note #5)
+Â§ 
+Granix
+Â§
+Neupogen
+Â§
+Nivestym
+Â§
+Releuko
+Â§ 
+Zarxio
+For members who 
+HAVE NOT
+ previously
+received G-CSF prophylaxis in the current
+chemotherapy cycle,
+ the request must meet 
+all
+of the following:
+1. The member must have febrile
+neutropenia (
+See Informational Note #3 for
+definition of febrile neutropenia
+)
+2. The member must have a risk factor for
+an infection-associated complication, such
+as:
+a. Sepsis syndrome
+b. Age greater than 65 years
+c. ANC less than 0.1
+d. Neutropenia expected to last >
+10 days
+e. Pneumonia or other clinically
+documented infections
+f. Invasive fungal infection
+g. Hospitalization at the time of
+fever
+h. Prior episode of febrile
+neutropenia
+Â§ 
+Granix
+Â§
+Leukine
+Â§
+Neupogen
+Â§
+Nivestym
+Â§
+Releuko
+Â§ 
+Zarxio
+Table 3 â€“ Indications and Additional Criteria 
+(Continued)
+Indication
+Additional Criteria
+MedicationAcute
+Myelogenous
+Leukemia
+ 
+(
+AML
+)
+Aka: Acute non-
+lymphocytic
+leukemia (ANLL)
+AML induction treatment
+ that meets at least
+one of the following:
+1. The member is younger than 60 years
+old and the requested G-CSF is being
+used as part of the following regimen:
+Fludarabine and high dose cytarabine on
+days 2-6, idarubicin days 4-6, and G-CSF
+daily days 1-7 Â± a single dose of
+gemtuzumab ozogamicin in first course
+(
+See Information #9
+)
+2. The
+ 
+member has non-acute
+promyelocytic leukemia (non-APL)
+subtype of AML, is septic, and has a life-
+threatening infection
+Â§
+Fulphila
+Â§
+Fylnetra
+Â§ 
+Granix
+Â§
+Neulasta
+Â§
+Neupogen
+Â§
+Nivestym
+Â§
+Nyvepria
+Â§
+Releuko
+Â§
+Udenyca
+Â§ 
+Zarxio
+Â§
+Ziextenzo
+Â§ 
+All
+Following induction
+ chemotherapy for AML
+to reduce time to neutrophil recovery and the
+duration of fever
+1. For sargramostim requests: the
+member must be â‰¥ 55 years
+Â§ 
+Granix
+Â§
+Leukine
+Â§
+Neupogen
+Â§
+Nivestym
+Â§
+Releuko
+Â§ 
+Zarxio
+Following
+ 
+consolidation
+ chemotherapy for
+AML to reduce time to neutrophil recovery and
+the duration of fever
+Â§ 
+Granix
+Â§
+Neupogen
+Â§
+Nivestym
+Â§
+Releuko
+Â§ 
+ZarxioFor 
+relapsed or refractory AML (salvage
+therapy)
+ and the requested C-GSF is being
+used as part of one of the following regimens:
+1. Cladribine + cytarabine (aka cytosine
+arabinoside) + G-CSF 
+Â± mitoxantrone or
+idarubicin
+2. Fludarabine + cytarabine + G-CSF
+(FLAG)
+3. Fludarabine + cytarabine + G-CSF +
+idarubicin (FLAG-IDA)
+Â§
+Fulphila
+Â§
+Fylnetra
+Â§ 
+Granix
+Â§
+Neulasta
+Â§
+Neupogen
+Â§
+Nivestym
+Â§
+Nyvepria
+Â§
+Releuko
+Â§
+Udenyca
+Â§ 
+Zarxio
+Â§
+Ziextenzo
+Post remission
+ (Consolidation) AML therapy
+and meets all of the following:
+1. Member has a life-threatening infection
+or signs and symptoms of sepsis are
+present
+2. The leukemia is believed to be in
+remission
+Â§ 
+All
+Diffuse
+Aggressive
+Lymphoma
+The member meets all of the following:
+1. Member is 65 years or older
+2. The drug is being used for prophylaxis
+of neutropenia
+3. Member is being treated with curative
+chemotherapy (cyclophosphamide,
+doxorubicin, vincristine, prednisone, and
+rituximab)
+Â§
+Fulphila
+Â§
+Fylnetra
+Â§ 
+Granix
+Â§
+Neulasta 
+Â§
+Neupogen
+Â§
+Nivestym
+Â§
+Nyvepria
+Â§
+Releuko
+Â§
+Udenyca
+Â§ 
+Zarxio
+Â§
+Ziextenzo
+Dinutuximab
+(
+Unituxin
+)
+For children younger than 18 years old
+receiving Dinutuximab + interleukin-2 (IL-2) +
+13-cis-retinoic acid (RA) for the treatment of
+high-risk neuroblastoma who achieve at least a
+partial response to prior first-line multiagent,
+multimodality therapy 
+Note, approval is for a max of 5 cycles (136
+days).
+Â§
+LeukineLeukemia
+For use as an alternative or adjunct to donor
+leukocyte infusions in patients 18 years or
+older with leukemic relapses after allogeneic
+stem-cell transplantation
+Â§ 
+Granix
+Â§
+Neupogen
+Â§
+Nivestym
+Â§
+Releuko
+Â§ 
+Zarxio
+Myelo-dysplastic
+Syndrome (MDS)
+Anemia in MDS that meets all of the following:
+1. The member is in a lower risk group
+(See Informational Note #8)
+2. The member must have symptomatic
+anemia
+3. Member does not have the del(5q)
+abnormality
+4. The memberâ€™s serum
+erythropoietin is â‰¤ 500 mU/mL 
+5. The member will be receiving
+erythropoietin alfa or darbepoetin alfa
+concomitantly
+6. 
+For members with ring sideroblasts <
+15%
+: The member must also have failed
+to respond to prior erythropoietin alfa or
+darbepoetin alfa therapy despite
+adequate iron stores UNLESS member
+has an SF3B1 mutation and ring
+sideroblasts â‰¥ 5% (then this additional
+criteria is not required)
+(See Informational Note #7 for dosing)
+Â§ 
+Granix
+Â§
+Neupogen
+Â§
+Nivestym
+Â§
+Releuko
+Â§ 
+Zarxio
+Neutropenia in members with MDS that meets
+all of the following:
+1. Member has neutropenia
+2. Member has a recurrent or resistant
+bacterial infection
+Â§ 
+Granix
+Â§
+Leukine
+Â§
+NeupogenTable 3 â€“ Indications and Additional Criteria 
+(Continued)
+Indication
+Additional Criteria
+Medication
+Non-
+Hodgkinâ€™s
+Lymphoma
+:
+B-Cell
+Lymphoma
+For AIDS-related B-Cell Lymphoma
+, the member
+must meet all of the following:
+1. The member has human
+immunodeficiency virus (HIV)/acquired
+immune deficiency syndrome (AIDS) 
+2. The member has one of the following:
+Â§ 
+Burkitt Lymphoma
+Â§ 
+Diffuse large B-cell lymphoma
+(DLBCL)
+Â§ 
+Human Herpes Virus 8 (HHV8)-
+positive DLBCL (
+formerly known as
+Lymphoma associated with
+Castlemanâ€™s disease
+)
+Â§ 
+Primary effusion lymphoma (PEL)
+For Rituximab-related Neutropenia
+:
+1. The member must have had prolonged
+neutropenia
+For Post-Transplant Lymphoproliferative
+Disorder (PTLD)
+, the member must meet all of
+the following:
+1. The member has either Polymorphic
+PTLD or B-cell type Monomorphic PTLD
+2. The member has a positive PET/CT scan
+after treatment with Rituximab
+3. The request is for CHOP-21 every 3
+weeks plus G-CSF (on days 50, 72, 94, and
+116) for 4 cycles
+Â§
+Fulphila
+Â§
+Fylnetra
+Â§ 
+Granix
+Â§
+Neulasta
+Â§
+Neupogen
+Â§
+Nivestym
+Â§
+Nyvepria
+Â§
+Releuko
+Â§
+Udenyca
+Â§ 
+Zarxio
+Â§
+ZiextenzoTable 3 â€“ Indications and Additional Criteria 
+(Continued)
+Indication
+Additional Criteria
+Medication
+Transplant:
+Mobilization
+for
+Harvesting
+For mobilization of 
+autologous
+hematopoietic progenitor cells
+(HSCT/BMT/PBPC)
+Â§ 
+Granix
+Â§ 
+Nivestym/
+Neupogen/ Zarxio
++ Leukine
+Â§ 
+Leukine
+Â§ 
+Neupogen
+Â§ 
+Nivestym
+Â§ 
+Releuko
+Â§ 
+Zarxio
+Â§ 
+Ziextenzo
+For mobilization of 
+allogeneic donors
+1. For mobilization of 
+allogeneic
+hematopoietic cells
+ or for granulocyte
+transfusion
+Â§ 
+Granix 
+Â§ 
+Neupogen
+Â§ 
+Nivestym
+Â§ 
+Releuko
+Â§ 
+Zarxio
+Transplant:
+Supportive
+Care
+(Myeloid
+Recovery,
+Delayed/
+Failed
+Engraftment)
+After 
+autologous
+ hematopoietic cell
+transplant (
+HSCT/ BMT/PBPC
+)
+Â§ 
+All
+Reduce duration of neutropenia in members
+undergoing myeloablative chemotherapy
+followed by 
+allogeneic
+ 
+HSCT/BMT
+Â§ 
+Granix
+Â§ 
+Neupogen
+Â§ 
+Nivestym
+Â§ 
+Releuko
+Â§ 
+Zarxio
+To accelerate myeloid recovery in members
+undergoing 
+allogeneic HSCT/BMT 
+from
+HLA-matched related donor in members 2
+years and older
+Â§ 
+Leukine
+For 
+delayed or failed
+ hematopoietic
+engraftment after HSCT/BMT transplant in
+members 2 years and older
+Â§ 
+Leukine
+After 
+haploidentical
+ or 
+cord blood
+transplant
+Â§ 
+Granix
+Â§ 
+Neupogen
+Â§ 
+Nivestym
+Â§ 
+Releuko
+Â§ 
+Zarxio
+Table 3 â€“ Indications and Additional Criteria 
+(Continued)
+Indication
+Additional Criteria
+MedicationCongenital/ Cyclic/
+Idiopathic
+Neutropenia
+The member must meet 
+all
+ of the following:
+1. The member has either congenital
+(Kostmann syndrome), cyclic, or
+idiopathic neutropenia 
+2. The member has severe neutropenia
+3. The member is symptomatic (e.g.,
+fever, infections, oropharyngeal ulcers)
+(See Informational Note #11 for dosing
+information)
+Â§
+Fulphila
+Â§
+Fylnetra
+Â§ 
+Granix
+Â§
+Neulasta
+Â§
+Neupogen
+Â§
+Nivestym
+Â§
+Nyvepria
+Â§
+Releuko
+Â§
+Udenyca
+Â§ 
+Zarxio
+Â§
+Ziextenzo
+Drug Induced
+Neutropenia
+Drugs that cause neutropenia (e.g.,
+methotrexate, clozapine, methimazole,
+captopril, procainamide, gold,
+phenothiazide, azathioprine, ticlopidine,
+phenobarbital, phenytoin, ciprofloxacin,
+penfloxacin, cefuroxime, chloramphenicol,
+sulfasalazine, ribavirin, peg-interferon)
+Â§
+Leukine
+Â§
+Neupogen
+Â§
+Nivestym
+Â§
+Releuko
+Â§ 
+Zarxio
+HIV/AIDS-
+Associated
+Neutropenia
+HIV/AIDS-associated neutropenia caused
+by the disease itself or antiretroviral agents
+(zidovudine, ganciclovir) 
+(See Informational
+Notes #12-15)
+Â§ 
+Granix
+Â§
+Leukine
+Â§
+Neupogen
+Â§
+Nivestym
+Â§
+Releuko
+Â§ 
+Zarxio
+Acute 
+Radiation
+Syndrome (ARS)
+Member has radiation-induced
+myelosuppression following a
+radiologic/nuclear incident (hematopoietic
+acute radiation syndrome [H-ARS]).
+Â§ 
+AllChimeric antigen
+receptor
+(CAR) T-Cell Related
+Toxicities
+For Supportive Care in members with
+Cytokine Release Syndrome (CRS) if
+neutropenic.
+Â§
+Fulphila
+Â§
+Fylnetra
+Â§ 
+Granix
+Â§
+Neulasta
+Â§
+Neupogen
+Â§
+Nivestym
+Â§
+Nyvepria
+Â§
+Releuko
+Â§
+Udenyca
+Â§ 
+Zarxio
+Â§
+Ziextenzo
+Wilmâ€™s Tumor
+(Nephroblastoma)
+For Supportive
+ 
+Care being used as part of
+one of the following regimens:
+1) Cyclophosphamide and Etoposide
+2) Regimen M (Vincristine,
+dactinomycin, doxorubicin,
+cyclophosphamide, and etoposide)
+3) Regimen I (Vincristine, doxorubicin,
+cyclophosphamide, etoposide)
+Â§
+Fulphila 
+Â§
+Fylnetra
+Â§
+Neulasta 
+Â§
+Neupogen
+Â§
+Nivestym
+Â§
+Nyvepria
+Â§
+Releuko
+Â§
+Udenyca
+Â§ 
+Zarxio
+Â§
+Ziextenzo
+If the member meets Horizon NJ Health criteria, approval will be for
+up to:
+Â§ 
+Transplant mobilization/supportive care: 1 month
+Â§ 
+Acute radiation syndrome: 1 month
+Â§ 
+Use with Unituxin: max of 136 days therapy
+Â§ 
+All other indications: 6 months
+[Informational Note(s):
+1. 
+Per NCCN Hematopoietic Growth Factors 2.2020 guidelines, â€œalthough
+there are no biosimilars designated as interchangeable by the FDA, limited
+data suggest that patients can alternate between the biosimilar and the
+originator biologic without any clinically meaningful differences regarding
+efficacy or safety. Based on recent FDA approvals and review of the data,
+Filgrastim-sndz, Filgrastim-aafi, pegfilgrastim-jmdb, pegfilgrastim-cbqv,
+pegfilgrastim-bmezâ€¦have been included in the NCCN Guidelines as
+appropriate substitutions for originator Filgrastim [and] pegfilgrastim. Although
+a potential concern regarding immunogenicity exists regarding biosimilars,
+immunogenicity is anticipated to be low to nonexistent in filgrastim biosimilarsbased on the lack of immunogenicity seen with filgrastim and the nature of
+filgrastim as an unglycosylated protein.â€
+​
+2. 
+The most current NCCN Hematopoietic Growth Factors guideline is available
+at 
+ht
+ 
+https://www.nccn.org/professionals/physician_gls/pdf/growthfactors.pdf
+.
+Included in the guideline are:
+Â· 
+Examples of Disease Settings and Chemotherapy Regimens with
+a High Risk for Febrile Neutropenia (>20%)
+Â· 
+Examples of Disease Settings and Chemotherapy Regimens with
+an Intermediate Risk for Febrile Neutropenia (10-20%)
+Â· 
+Additional Evaluation of Patient Risk Factors for Prophylactic Use
+of MGFs
+Â· 
+Therapeutic Use of MGFs
+Â· 
+MGFs in Mobilization and Post Hematopoietic Cell Transplant
+3. 
+Per NCCN Hematopoietic Growth Factors 2.2020 guidelines: Febrile
+neutropenia is defined as single temperature: â‰¥ 38.3Â°C orally or â‰¥
+38.0Â°C for duration over 1 hour; neutropenia: <500 neutrophils/mcL or <1,000
+neutrophils/mcL and a predicted decline to â‰¤ 500mcL over the next 48 hour
+4. 
+According to NCCN
+ 
+Hematopoietic Growth Factors 2.2020 guidelines, there
+are no studies which have addressed therapeutic use of filgrastim for febrile
+neutropenia in patients who have already received prophylactic pegfilgrastim.
+However, pharmacokinetic data of pegfilgrastim demonstrated high levels
+during neutropenia and suggests that additional CSF will not be beneficial.
+However, in patients with prolonged neutropenia additional G-CSFs may be
+considered
+5. 
+Per ASCO 2002 guidelines, â€œseveral small studies of CSFs in patients
+undergoing large-field irradiation have demonstrated that CSFs may help
+ameliorate the effect of radiation on neutropenia. However, it should be noted
+that the thrombocytopenia observed might be unique to this site of irradiation
+and only in the setting of combined chemoradiation. At present, the routine use
+of CSF in this setting should be avoided unless studied as part of a clinical trial
+with appropriate monitoring of thrombocytopenia and pulmonary toxicity. CSF
+use to support large-field irradiation may have benefits, but further studies are
+required to recommend this usage. CSF use in conjunction with radiation has
+not been studied extensively, and further studies are required to ascertain the
+optimal sequencing
+6. 
+According to ASCO 2015 Update of Recommendations for the Use of White
+Blood Cell Growth Factors: Accidental/intentional total body radiation leads to
+probable or certain death from bone marrow failure at doses of 3 to 10 Grays
+without supportive care, CSFs, and/or a bone marrow transplant. Doses below
+that level are almost always survivable with excellent nursing care, and higher
+doses are lethal because of injury to other organs such as the gastrointestinal
+tract. Although no prospective, randomized trials have been carried out to
+determine the benefit of hematopoietic growth factors in humans exposed to
+accidental or intentional (e.g., resulting from a terrorist attack or war) radiation
+injury, they have been utilized in radiation accident victims, and neutrophil
+recovery appears to have been hastened in 25 of 28 cases (REACT/TS
+registry). In animal models, prompt administration of hematopoietic growth
+factors after otherwise lethal total body radiation exposure dramatically
+increases survival
+7. 
+According to NCCN Myelodysplastic Syndromes guideline 2.2018, For the
+erythroid synergistic effect, relatively low doses of G-CSF are needed to help
+normalize the neutrophil count in initially neutropenic patients or to double the
+neutrophil count in patients who are initially non-neutropenicâ€¦an average of
+1-2 mcg/kg subcutaneous G-CSF is administered either daily or 1 to 2 times
+per week. 
+Detection of erythroid responses generally occurs within 6-8 weeks
+of treatment. If no response occurs within this time frame, treatment should be
+considered a failure and discontinued. 
+In the case of treatment failure, one
+should rule out and treat deficient iron stores). This treatment is not suggested
+for patients with endogenous sEpo levels greater than 500 mU/mL due to the
+very low erythroid response rate to these drugs in this patient population. In
+patients who do not respond by 3 months or who have an erythroid response
+that is followed by a loss of response, lenalidomide may be combined withESAs, with or without G-CSF.
+8. 
+Per NCCN Myelodysplastic Syndromes guidelines, prognostic categories for
+lower risk include:
+Â· 
+Low or intermediate-1 risk category based on International
+Prognostic Scoring System (IPSS)
+Â· 
+Very low, low, or intermediate risk category based on Revised
+IPSS (IPSS-R) 
+Â· 
+Very low, low, or intermediate risk category based on WHO-based
+prognostic scoring system (WPSS)
+9. 
+Per NCCN Acute Myeloid Leukemia for members younger than 60 years old
+an option for treatment induction is: Fludarabine 30mg/m
+2
+ IV days 2-6, HiDAC
+(High dose cytarabine) 2g/m
+2
+ over 4 hours starting 4 hours after fludarabine on
+days 2-6, idarubicin 8mg/m
+2
+ IV days 4-6, and G-CSF subcutaneously daily on
+days 1-7 Â± single dose of gemtuzumab ozogamicin 3mg/m2 in first course
+10. 
+Per NCCN Hematopoietic Growth Factors 2.2019 guidelines, for allogeneic
+hematopoietic cell donors, dose is 10-16 mcg/kg/day by subcutaneous
+injection, start collection on day 4 or 5. For granulocyte transfusion: single dose
+5mcg/kg subcutaneously with dexamethasone 10mg 8-24 hours prior to
+collection
+11. 
+Per NCCN Hematopoietic Growth Factors 2.2020 guidelines, patients with
+idiopathic and cyclic neutropenia generally responded to low-dose daily,
+alternate-day, or thrice-per-week subcutaneous G-CSF administration (1-3
+mcg/kg per day). Congenital neutropenia patients generally require higher
+doses (3-10mcg/kg/day). All patients should have doses adjusted to maintain a
+blood neutrophil level in the normal or low-normal range.]
+REFERENCES
+1. Fulphila. 
+Prescribing Information. 
+Mylan GmbH. 
+Steinhausen, Switzerland.
+3/2021. 
+2. Neupogen. 
+Prescribing Information. 
+Amgen Inc. 
+Thousand Oaks, CA. 
+2/2021. 
+3. Leukine. 
+Prescribing Information. 
+Immunex Corporation. 
+Seattle, WA. 
+5/2018.
+4. Neulasta. 
+Prescribing Information. 
+Amgen Inc. 
+Thousand Oaks, CA. 
+2/2021. 
+5. Nivestym. Prescribing Information. Hospira, Inc., Lake Forest, IL. 5/2021.
+6. Nyvepria. Prescribing Information. 
+Hospira, Inc., Lake Forest, IL. 4/2021.
+7. Granix. Prescribing Information. 
+Teva Pharmaceuticals. NorthWales, PA. 
+4/2019.
+8. Udenyca. Prescribing Information. Coherus BioSciences, Inc., Redwood City, CA.
+6/2021.
+9. Ziextenzo. Prescribing Information. Sandoz Inc. Princeton, NJ. 03/2021.
+10. Unituxin. Prescribing Information. United Therapeutics Corp., Silver Spring, MD.
+9/2020.
+11. Zarxio. Prescribing Information. Sandoz Inc., Princeton, NJ. 1/2021.
+12. Releuko. Prescribing Information. 
+Amneal, Bridgewater, NJ. 02/2022.
+13. Fylnetra. Prescribing Information. 
+Amneal, Piscataway, NJ. 
+05/2022.
+14. AHFS Drug Information [database online]. Bethesda, MD: 
+American Society of
+Health-System Pharmacists; 2022. URL: 
+https://www.ahfscdi.com
+. 
+15. MicromedexÂ® Healthcare Series [Internet database]. Greenwood Village, Colo:
+Thomson Reuters (Healthcare) Inc. Updated periodically.
+16. Clinical Pharmacology [database online]. Tampa, FL: Gold Standard, Inc.; 2022.
+URL: 
+http://www.clinicalpharmacology.com
+ 
+Last accessed 03/2022.
+17. HBCBSNJ. 
+Uniform Medical Policy Manual: 
+Granulocyte Colony Stimulating
+Factor (G-CSF - Neupogen, Neulasta, Granix, Zarxio, Fulphila, Nivestym, Udenyca,
+Ziextenzo) and Granulocyte-Macrophage Colony Stimulating Factor (GM-CSF -
+Leukine). 
+3/18/93. 
+Last reviewed: 
+03/08/2022. 
+Drugs 012.
+18. National Comprehensive Cancer Network (NCCN). 
+Clinical practice guidelines in
+oncology: 
+hematopoietic growth factors. 
+Version 1.2022. 
+12/22/2021. [102 screens]
+https://www.nccn.org/professionals/physician_gls/pdf/growthfactors.pdf
+ 
+19. National Comprehensive Cancer Network (NCCN). 
+Clinical practice guidelines in
+oncology: 
+myelodysplastic syndrome. 
+Version 3.2022. 
+1/13/2022. [102 screens]
+http://www.nccn.org/professionals/physician_gls/pdf/mds.pdf
+ 
+20. National Comprehensive Cancer Network (NCCN). 
+Clinical practice guidelines inoncology: hairy cell leukemia. 
+Version 1.2022. 
+9/08/21. [24 screens]
+https://www.nccn.org/professionals/physician_gls/pdf/hairy_cell.pdf
+ 
+21. National Comprehensive Cancer Network (NCCN). 
+Clinical practice guidelines in
+oncology: acute myeloid leukemia. 
+Version 1.2022. 
+12/2/2021. [156 screens]
+http://www.nccn.org/professionals/physician_gls/pdf/aml.pdf
+ 
+22. National Comprehensive Cancer Network (NCCN). 
+Clinical practice guidelines in
+oncology: prevention and treatment of cancer-related infections. 
+Version 1.2021.
+7/2/2021. [160 screens]
+http://www.nccn.org/professionals/physician_gls/pdf/infections.pdf
+ 
+23. National Comprehensive Cancer Network (NCCN). 
+Clinical practice guidelines in
+oncology: b-cell lymphomas. 
+Version 3.2022. 
+4/25/2022. [306 screens]
+http://www.nccn.org/professionals/physician_gls/pdf/b-cell.pdf
+ 
+24. Panel on Opportunistic Infections in HIV-Infected Adults and Adolescents.
+Guidelines for the prevention and treatment of opportunistic infections in HIV-
+infected adults and adolescents: recommendations from the Centers for Disease
+Control and Prevention, the National Institutes of Health, and the HIV Medicine
+Association of the Infectious Diseases Society of America. Available at
+http://aidsinfo.nih.gov/contentfiles/lvguidelines/adult_oi.pdf
+. Accessed 11/2017.
+25. Smith TJ, Bohlke K, Lyman GH, et al. Recommendations for the Use of WBC
+Growth Factors: American Society of Clinical Oncology Clinical Practice Guideline
+Update. 
+J Clin Oncol.
+ 2006 Jul 1;24(19):3187-205. Available at:
+http://ascopubs.org/doi/pdf/10.1200/JCO.2015.62.3488
+26. Smith TJ, Khatcheressian J, Lyman GH, et al. 
+From the ASCO Colony
+Stimulating Factors Update Committee. 2006 Update of recommendations for the
+use of white blood cell growth factors: an evidence-based clinical practice guideline.
+Available at: 
+http://jco.ascopubs.org/cgi/reprint/JCO.2006.06.4451v2.pdf
+ . 
+Assessed
+6/2009.
+27. Balmer C, Valley AW. 
+Basic principles of cancer treatment and cancer
+chemotherapy. In: 
+Pharmacotherapy: 
+a pathophysiological approach. 
+DiPiro JT, et
+al., eds. 
+3rd ed., Lippincott, NY: 1996. 
+p. 2403-65.
+28. Baehner RL. 
+Overview of neutropenia. 
+UpToDate Online 10.2.
+www.utdol.com/application/topic/topicOutline.asp?file=whitecel/5073
+ 
+Accessed on
+8/27/02
+29. Harper ML and Smith KM. 
+Adult Colony Stimulating Factor Guidelines Approved.
+Current Topics, 2000; 30 (5).
+30. FDA. 
+List of all orphan products designations and approval.
+http://www.fda.gov/orphan/designat/allap.rtf
+ 
+Last updated 7-31-06. 
+31. 
+Blue Cross and Blue Shield Association. 
+Medical Policy Reference Manual:
+Colony-Stimulating Factors (G-CSF and GM-CSF). 
+Policy #5.01.03. 11/30/96 (Last
+updated: 
+3/2002). 
+32. Horizon Blue Cross Blue Shield Association. 
+Medical Necessity and
+Appropriateness Guidelines. 
+Neupogen. 
+QIC approved 7/04.
+33. Horizon Blue Cross Blue Shield Association. 
+Medical Necessity and
+Appropriateness Guidelines. 
+Leukine. 
+QIC approved 7/04.
+34. Horizon Blue Cross Blue Shield Association. 
+Medical Necessity and
+Appropriateness Guidelines. 
+Neulasta. 
+QIC approved 7/04.
+35. Anon: 1999 USPHS/IDSA guidelines for the prevention of opportunistic
+infections in persons infected with human immunodeficiency virus. MMWR 1999;
+48(RR-10):1-66.
+36. Shang X, et al. 
+Application of recombinant human granulocyte colony stimulating
+factor in children with acute myeloid leukemia. 
+Chin Med J (Engl). 1999
+Jul;112(7):620-2. 
+37. 1998 Physiciansâ€™ Desk Reference. 
+52nd Edition. 
+Medical Economics
+Publishing Company.
+38. Cavallaro AM, Lilleby K, Majolino I. 
+Three to six year follow-up of normal donors
+who received recombinant human granulocyte colony-stimulating factor. 
+Bone
+Marrow Transplantation. 
+2000;25:85-9.
+39. Donato M, Champlin R. 
+Granulocyte colony-stimulating factor-primed allogeneic
+bone marrow transplants: capturing the advantages of blood stem cell transplants
+without increased risk of chronic graft-versus-host disease. 
+Biology of Blood and
+Marrow Transplantation. 
+2000;6:419-21.
+40. Morton J, Hutchins C, Durrant S. 
+Granulocyte-colony-stimulating factor (G-CSF)-primed allogeneic bone marrow: significantly less graft-versus-host disease and
+comparable engraftment to G-CSF-mobilized peripheral blood stem cells. 
+Blood.
+2001;98:3186-91.
+41. Bone marrow transplant. Medline Plus.
+http://www.nlm.nih.gov/medlineplus/ency/article/003009.htm
+ 
+42. Bilgin K, Yaramis A, Haspolat K, et al: A randomized trial of granulocyte-
+macrophage colony-stimulating factor in neonates with sepsis and neutropenia.
+Pediatrics 2001; 107(1):36-41.
+43. Venkateswaran L, Wilimas JA, & Dancy R: Granulocyte-macrophage colony-
+stimulating factor in the treatment of neonates with neutropenia and sepsis. Pediatr
+Hematol Oncol 2000; 17:469-473.
+INDEX
+Colony Stimulating Factors
+G-CSF:
+Â· 
+Filgrastim (Neupogen) and biosimilars, including:
+o 
+Filgrastim-sndz (Zarxio)
+o 
+Filgrastim-aafi (Nivestym)
+o 
+Filgrastin-ayow (Releuko)
+Â· 
+Pegfilgrastim (Neulasta) and biosimilars, including:
+o 
+Pegfilgrastim-jmdb (Fulphila)
+o 
+Pegfilgrastim-cbqv (Udenyca)
+o 
+Pegfilgrastim-bmez (Ziextenzo)
+o 
+Pegfilgrastim-apgf (Nyvepria)
+o 
+Pegfilgrastim-pbbk (Fylnetra)
+Â· 
+Tbo-filgrastim (Granix)
+GM-CSF:
+Â· 
+Sargramostim (Leukine)
+Index:
+Â· Pegfilgrastim (Neulasta) and biosimilars, including:

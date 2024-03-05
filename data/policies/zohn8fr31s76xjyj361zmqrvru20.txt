@@ -1,0 +1,2209 @@
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+     
+  
+ 
+ 
+  
+        
+    
+          
+   
+ 
+ 
+  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+ 
+ Radiofrequency Ablation of the Renal Sympathetic Nerve - Medical Clinical Policy Bulletins | Aetna  Page 1 of 34 
+Radiofrequency Ablation of the Renal 
+Sympathetic Nerve 
+POLICY HISTORY 
+Last Review: 12/17/2020 
+Effective:  05/17/2013 
+Next Review: 10/14/2021 
+Review History 
+Deﬁnitions  
+Additional Information 
+Clinical Policy Bulletin 
+Notes Number: 0847 
+POLICY 
+*Please see amendment for Pennsylvania Medicaid at the end of this CPB. 
+Aetna considers radiofrequency ablation of the renal sympathetic nerve 
+experimental and investigational for the treatment of the following 
+indications (not an all-inclusive list) because of insufficient evidence in the 
+peer-reviewed literature: 
+Acute myocardial infarction 
+ 
+Cardiac arrhythmias 
+  
+Chronic kidney -related pain 
+ 
+Chronic renal failure 
+  
+Heart failure 
+ 
+Hypertension  
+ 
+Obstructive sleep apnea 
+ 
+Ventricular tachycardia. 
+  
+See also: 
+ 
+CPB 0820 -Carotid Sinus Stimulation for Hypertension (0820.html) .
+      
+ 
+ 
+ 
+     
+         
+          
+         
+        
+        
+        
+     
+     
+ 
+    
+         
+   
+     
+           
+          
+         
+          
+  
+ 
+           
+        
+              
+        
+   
+          
+          
+      
+          
+       
+          
+      
+           
+            
+         
+    
+      
+             
+        Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 2 of 34 
+BACKGROUND 
+Hypertension is an independent risk factor for cardiovascular disease. 
+Treatment frequently includes administration of three or more drugs. Resistant hypertension is defined as blood pressure which remains above 
+target levels despite use of the maximum tolerated dose of antihypertensive medications, consisting of at least three different classes 
+of drugs, including a diuretic. Radiofrequency (RF) ablation of sympathetic nerve fibers around renal arteries has been proposed as a non-pharmacologic treatment to reduce blood pressure in drug resistant 
+hypertension (Simonyi et al, 2013). 
+Selective renal sympathetic denervation interrupts the influence of the 
+sympathetic nervous system on the kidney and systemic hemodynamics. 
+The sympathetic innervation of the kidney is implicated in the 
+pathogenesis of hypertension through effects on renin secretion, 
+increased plasma renin activity that leads to sodium and water retention, 
+and reduction of renal blood flow. Renal sympathetic ablation is a minimally invasive procedure utilizing a RF catheter inserted through the 
+femoral artery and selectively engaging the renal artery (Papademitriou et 
+al, 2011). 
+Krum et al (2009) performed a proof -of-principle trial of therapeutic renal 
+sympathetic denervation in patients with resistant hypertension (i.e., 
+systolic blood pressure greater than or equal to 160 mm Hg on 3 or more 
+anti-hypertensive medications, including a diuretic) to assess safety and 
+blood- pressure reduction effectiveness. The investigators enrolled 50 
+patients at 5 Australian and European centers; 5 patients were excluded 
+for anatomical reasons (primarily due to dual renal artery systems). 
+Patients received percutaneous RF catheter -basedtreatment between 
+June 2007 and November 2008, with subsequent follow -up to 1 
+year. The effectiveness of renal sympathetic denervation with renal noradrenaline spillover was assessed in a subgroup of patients. Primary 
+endpoints were office blood pressure and safety data before the 
+procedure and at 1, 3, 6, 9, and 12 months after the procedure. Renal 
+angiography was done before, immediately after, and 14 to 30 days after 
+procedure, and magnetic resonance angiogram was assessed 6 months 
+after procedure. Blood- pressure lowering effectiveness was analyzed 
+using repeated measures ANOVA. In treated patients, baseline mean 
+office blood pressure was 177/101 mm Hg (SD 20/15), (mean of 4.7 anti-
+hypertensive medications); estimated glomerular filtration rate was 81      
+ 
+     
+           
+      
+           
+      
+              
+  
+        
+      
+    
+        
+       
+           
+    
+ 
+      
+        
+          
+          
+       
+     
+          
+         
+             
+      
+      
+  
+         
+     
+    
+ 
+       
+         
+     
+            
+          
+           
+        
+           Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 3 of 34 
+ml/min/1.73m(2) (SD 23); and mean reduction in renal noradrenaline 
+spillover was 47 % (95 % confidence interval [CI]: 28 % to 65 %). Office blood pressures after procedure were reduced by -14/-10, -21/-10, 
+-22/-11, -24/-11, and - 27/-17 mm Hg at 1, 3, 6, 9, and 12 months, 
+respectively. In the 5 non -treated patients, mean rise in office blood 
+pressure was +3/-2, +2/+3, +14/+9, and +26/+17 mm Hg at 1, 3, 6, and 9 
+months, respectively. One intra- procedural renal artery dissection 
+occurred before RF energy delivery, without further sequelae. There 
+were no other renovascular complications. The authors concluded that 
+catheter -based renal denervation causes substantial and sustained 
+blood- pressure reduction, without serious adverse events , in patients with 
+resistant hypertension. They also stated that prospective randomized 
+clinical trials are needed to investigate the usefulness of this procedure in 
+the management of this condition. 
+A prioritizing summary of the Australia and New Zealand Horizon Scanning Network on renal sympathetic denervation for the treatment of resistant hypertension concluded that based on the low level of available 
+evidence, it would appear that renal denervation may be a viable option 
+for the treatment of resistant hypertension (Mundy & Hiller, 2010). Blood 
+pressure was significantly lower after renal denervation than that measured at baseline; however, it is unclear whether this decrease is considered clinically significant. Final 12-month follow -up data wer e only 
+reported for a small portion of the enrolled patients (22%) and in addition, 
+six of the 45 patients were considered non- responders with non-
+significant reductions in blood pressure. The summary concluded that well conducted randomized controlled trial is needed to adequately investigate whether renal denervation is capable of producing a sustained 
+lowering of blood pressure in hypertensive patients resistant to 
+medication (Mundy & Hiller, 2010). 
+Voskuil et al (2011) described their fir st experience with a percutaneous 
+treatment modality using renal artery RF ablation. Selected patients were 
+resistant to at least 3 types of anti -hypertensive medical therapy (office 
+systolic blood pressure greater than or equal to 160 mm Hg; n = 9) or who did not tolerate medication (n = 2). Between July and November 
+2010, a total of 11 patients received percutaneous RF treatment and were 
+followed for 1 month after treatment. Urine and blood samples were 
+taken to evaluate the effects on renal function and neurohumeral factors.      
+ 
+        
+     
+             
+         
+          
+              
+            
+         
+       
+        
+         
+ 
+       
+      
+         
+     
+        
+      
+          
+         
+         
+              
+        
+         
+       
+          
+     
+          
+   
+      
+      
+     
+        
+          
+       
+       
+      Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 4 of 34 
+No peri-procedural complications or adverse events during follow -up were 
+noted. A reduction of mean office blood pressure was observed from 
+203/109 +/-32/19 mmHg at baseline to 178/97 +/-28/21 mm Hg at 
+1 month follow -up (mean difference 25 +/ -12 mm Hg, p < 0.01). The 
+investigators also noted a significant decrease in aldosterone level (391 
++/-210 pmol/L versus 250 +/-142 pmol/L; p = 0.03), but there was no 
+decrease in plasma renin activity (190 +/-134 fmol/L/s versus 195 +/­
+163 fmol/L/s; p = 0.43). No change in renal function was noted. The authors concluded that catheter -based renal denervation seems an 
+attractive novel minimally invasive treatment option in patients with resistant hypertension, with a low-risk of serious adverse events. 
+Mahfoud et al (2011) summarized the expert consensus and recommendations of the working group 'Herz und Niere' of the German Society of Cardiology (DGK), the German Society of Nephrology (DGfN) and the German Hypertension League (DHL) on renal denervation for 
+anti-hypertensive treatment. Renal denervation was defined as a new, 
+interventional approach to selectively denervate renal afferent and efferent sympathetic fibers. The authors noted that renal denervation has 
+been demonstrated to reduce office systolic and diastolic blood pressure 
+in patients with resistant hypertension, defined as systolic office blood pressure greater than or equal to 160 mm Hg and greater than or equal to 
+150 mm Hg in patients with diabetes type 2, which should currently be used as blood pressure thresholds for undergoing the procedure. 
+Exclusion of secondary hypertension causes and optimized anti -
+hypertensive drug treatment was described as mandatory in every patient 
+with resistant hypertension. They also specified that 24 -hour blood 
+pressure measurements should be performed in order to exclude pseudo-
+resistance. Preserved renal function was an inclusion criterion in the Symplicity studies. Therefore, renal denervation should be only 
+considered in patients with a glomerular filtration rate greater than 45 
+ml/min. Adequate center qualification in both treatment of hypertension and interventional expertise are essential to ensure correct patient selection and procedural safet y. The authors stated that long- term follow -
+up after renal denervation and participation in the German Renal 
+Denervation (GREAT) Registry are recommended to assess safety and 
+efficacy after renal denervation over time.      
+ 
+    
+     
+   
+       
+     
+          
+       
+    
+          
+         
+     
+          
+         
+  
+ 
+         
+            
+         
+        
+      
+    
+    
+ 
+            
+          
+            
+         
+      
+       
+      
+            
+      
+         
+       
+     
+   
+      
+         Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 5 of 34 
+Lobodzinski (2011) reviewed renal denervation system technology for 
+treatment of drug resistant hypertension. These researchers described "an investigational device that is currently tested in an on- going clinical 
+trial. The denervation device uses the RF thermal ablation catheter 
+attached to the RF generator. The RF catheter is inserted into the renal artery and positioned in the vicinity of the efferent and afferent parasympathetic innervations. Renal denervation is a minimally invasive, localized procedure and the procedural and recovery times are very short. The entire procedure lasts about 40 minutes. In early clinical trials, 
+the systolic blood pressure in 87 % of patients who underwent the 
+denervation procedure resulted in an average blood pressure drop of greater than 10 mm Hg. The procedure has no systematic side effects, and appears to be beneficial in the management of hypertension in patients refractory to pharmacological therapy." 
+Patel and White (2012) stated that renal artery intervention to t reat 
+hypertension is one of the frontiers of ongoing research in combating this 
+epidemic. The investigators discussed recent data regarding renal artery 
+angioplasty with stenting (PTRS) and catheter -based renal sympathetic 
+denervation. They noted that despite progress in this field, large, multi -
+center, randomized trials that compare these treatment modalities with 
+medical therapy for hypertension are lacking. 
+Tam et al (2013) stated that resistant hypertension, defined as the failure 
+to achieve target blood pressure despite concurrent use of 3 anti -
+hypertensive agents of different classes, is estimated to affect 20 to 30 % 
+of hypertensive patients. These patients are vulnerable to cardiovascular, 
+cerebrovascular and renal complications. There is ample evidence that 
+sympathetic nervous system hyperactivity contributes to the initiation, maintenance, and progression of hypertension. The renal sympathetic nervous system, in particular, has been identified as a major culprit for the 
+development and progression of hypertension, heart failure and chronic kidney disease in both preclinical and human studies. Traditional surgical 
+sympathectomy proposed in the 1940s was halted due to unacceptable operative risk and the emergence of anti-hypertensive medications. The 
+authors report that recently, catheter -based renal sympathetic 
+denervation by RF ablation has shown encouraging intermediate- term 
+results with minimal complications in patients with resistant hypertension.      
+ 
+      
+        
+         
+          
+       
+   
+         
+        
+      
+        
+   
+ 
+         
+       
+    
+    
+       
+       
+        
+      
+             
+           
+    
+      
+        
+     
+           
+         
+   
+        
+        
+       
+         
+       
+      
+           
+       
+        
+     Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 6 of 34 
+A May, 2012 National Institute for Health and Clinical Excellence 
+guideline stated that "current evidence on percutaneous transluminal RF 
+sympathetic denervation of the renal artery for resistant hypertension is from limited numbers of patients, but there is evidence of efficacy in the 
+short and medium term. There is inadequate evidence on efficacy in the 
+long term; this is particularly important for a procedure aimed at treating resistant hypertension. The limited evidence suggests a low incidence of 
+serious periprocedural complications, but there is inadequate evidence on 
+long- term safety. Therefore this procedure should only be used with 
+special arrangements for clinical governance, consent, and audit or research (NICE, 2012)." 
+Esler et al (2012) noted that renal sympathetic nerve activation contributes to the pathogenesis of hypertension. Symplicity HTN -2, a 
+multicenter, randomized trial, demonstrated that catheter -based renal 
+denervation produced significant blood pressure lowering in treatment -
+resistant patients 6 months after the procedure compared with controls, which were medication -only patients. The authors presented longer -term 
+follow -up, including 6-month crossover results, is now presented. Eligible 
+patients were on ≥3 antihypertensive drugs and had a baseline systolic 
+blood pressure ≥160 mm Hg (≥150 mm Hg for type 2 diabetics). After the 
+6-month primary end point was met, renal denervation in control patients 
+was permitted. Patients randomized to immediate renal denervation 
+(n=47) were evaluated one year post -procedure and crossover patients 
+were evaluated 6 months post -procedure. At 12 months after the 
+procedure, the mean fall in office systolic blood pressure in the initial 
+renal denervation group (-28.1 mm Hg; 95% confidence interval, -35.4 to 
+-20.7; P<0.001) was similar to the 6- month fall ( -31.7 mm Hg; 95% 
+confidence interval, -38.3 to - 25.0; P=0.16 versus 6- month change). The 
+mean systolic blood pressure of the crossover group 6 months after the 
+procedure was significantly lowered (from 190.0±19.6 to 166.3±24.7 mm 
+Hg; change, -23.7±27.5; P<0.001). In the crossover group, there was 1 
+renal artery dissection during guide catheter insertion, before denervation, 
+corrected by renal artery stenting, and 1 hypotensive episode, which 
+resolved with medication adjustment. Control patients who crossed over 
+to renal denervation with the Symplicity system had a significant drop in 
+blood pressure similar to that observed in patients receiving immediate denervation. The authors concluded that renal denervation provided safe 
+and sustained reduction of blood pressure to 1 year.      
+ 
+ 
+       
+       
+       
+      
+      
+      
+           
+      
+        
+          
+           Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 7 of 34 
+Geisler  et  al  (2012)  conducted a  study  to  assess  cost-effectiveness  and 
+long- term  clinical  benefits  of  renal  denervation in  resistant  hypertensive  
+patients.  The authors  noted  that  in  the  Symplicity  HTN -2  randomized 
+controlled  trial,  catheter -based  renal  denervation  (RDN)  lowered  systolic 
+blood pressure  by  32  ±  23 mm  Hg  from  178 ±  18  mm  Hg  at  baseline.  A 
+state -transition  model  was  used  to  predict  the  effect  of  RDN  and  standard 
+of  care  on 10-year  and  lifetime probabilities  of  stroke,  myocardial  
+infarction,  all  coronary  heart  disease,  heart  failure,  end-stage renal  
+disease,  and  median  survival.  The investigators  adopted  a societal  
+perspective  and  estimated  an  incremental  cost-effectiveness  ratio  in  U.S. 
+dollars  per  quality -adjusted  life-year,  both  discounted  at  3%  per  year.  
+Robustness  and uncertainty  were  evaluated using  deterministic  and 
+probabilistic  sensitivity  analyses.  Renal  denervation  substantially  reduced 
+event  probabilities  (10-year/lifetime  relative risks: stroke  0.70/0.83; 
+myocardial  infarction  0.68/0.85;  all  coronary  heart  disease  0.78/0.90;  
+heart  failure  0.79/0.92;  end-stage  renal  disease  0.72/0.81).  Median 
+survival  was  18.4 years  for  RDN  versus  17.1  years  for  standard of  care.  
+The discounted lifetime incremental cost -effectiveness  ratio  was  $3,071 
+per  quality -adjusted life- year.  The investigators  acknowledged that  
+findings  were  relatively insensitive to v  ariations in input  parameters  
+except  for  systolic  blood  pressure reduction,  baseline  systolic  blood  
+pressure,  and  effect  duration.  The 95%  credible  interval  for  incremental  
+cost-effectiveness  ratio was  cost-saving to  $31,460 per  quality -adjusted  
+life-year.  The  model  suggests  that  catheter -based  renal  denervation,  over  
+a  wide  range of  assumptions,  is  a  cost -effective strategy for resistant  
+hypertension  that  might  result  in  lower  cardiovascular  morbidity  and 
+mortality.  
+The Sy
+mplic ity HTN -3 Trial is currently in progress. Early clinical 
+evaluation withcatheter -based, selective renal sympathetic denervation in 
+patients with resistant hypertension has mechanistically correlated 
+sympathetic efferent denervation with decreased renal norepinephrine 
+spillover and renin activity, increased renal plasma flow, and has 
+demonstrated clinically significant, sustained reductions in blood pressure. The SYMPLICITY HTN -3 Trial is a pivotal study designed as a 
+prospective, randomized, masked procedure, single -blind trial evaluating 
+the safety and effectiveness of catheter -based bilateral renal denervation 
+for the treatment of uncontrolled hypertension despite compliance with at 
+least 3 antihypertensive medications of different classes (at least one of      
+ 
+           
+          
+        
+ 
+          
+       
+      
+      
+             
+        
+       
+       
+         
+          
+   
+            
+         
+                
+                  
+             
+           
+                
+             
+                     
+        
+      
+           
+       
+      
+          
+   
+ 
+ 
+            
+          
+         
+       
+       
+             Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 8 of 34 
+which is a diuretic) at maximal tolerable doses. The primary effectiveness 
+endpoint is defined as the change in office -based systolic blood pressure 
+from baseline to 6 months (Kandzari et al, 2012). 
+In a pilot study, Ott et al (2013) examined the effect of RDN in patients 
+with treatment -resistant hypertension (TRH) according to the established 
+definition (Joint National Committee VII and European Society of 
+Hypertension/European Society of Cardiology guidelines), i.e., office 
+blood pressure (BP) greater than or equal to 140/90 mm Hg (with at least 
+3 anti -hypertensive drugs, including a diuretic, in adequate doses) and 
+confirmed by 24- hour ambulatory BP monitoring (ABPM). In this study, 
+there were 54 patients with moderate TRH (office BP greater than or 
+equal to 140/90 mm Hg and less than 160/100 mm Hg and diagnosis confirmed by 24- hour ABPM of greater than or equal to 130/80 mm Hg) 
+who underwent catheter -based RDN using the Symplicity catheter 
+(Medtronic Inc., Mountain View, CA). Patients were treated with 5.1 ± 1.4 
+anti-hypertensive drugs on average. Office BP was significantly reduced 
+by 13/7 mm Hg 6 months after RDN (systolic: 151 ± 6 mm Hg versus 138 
+± 21 mm Hg, p < 0.001; diastolic: 83 ± 11 mm Hg versus 75 ± 11 mm Hg, 
+p < 0.001). In patients (n = 36) who underwent ABPM 6 months after treatment, there was a reduction in average 24- hour ABPM by 14/7 mm 
+Hg (systolic: 150 ± 16 mm Hg versus 136 ± 16 mm Hg, p < 0.001; 
+diastolic: 83 ± 10 mm Hg versus 76 ± 10 mm Hg, p < 0.001). In 51 % of 
+patients, office BP was controlled below 140/90 mm Hg after RDN. In addition, heart rate decreased from 67 ± 11 to 63 ± 10 beats/min (p = 0.006). The authors concluded that these findings indicated that RDN 
+may reduce office and 24- hour ambulatory BP substantially in patients 
+with moderate TRH. The main drawbacks of this study were the lack of a 
+control group and the relatively small sample size. These researchers stated that there is a need for a large- scale, prospective, randomized, 
+multi-center, controlled trial in this group of TRH patients to precisely 
+define the therapeutic role of RDN in moderate TRH. 
+Fadl Elmula et al (2014) examined the BP -lowering effect of RDN versus 
+clinically adjusted drug treatment in true TRH after excluding patients with 
+confounding poor drug adherence. Patients with apparent TRH (n = 65) 
+were referred for RDN, and those with secondary and spurious 
+hypertension (n = 26) were excluded. Treatment -resistant hypertension 
+was defined as office systolic BP (SBP) greater than 140 mm Hg, despite      
+ 
+           
+       
+      
+        
+        
+        
+          
+          
+               
+                   
+            
+                     
+    
+             
+            
+          
+   
+        
+    
+ 
+            
+      
+     
+    
+            
+       
+        
+        
+            
+       
+         
+    
+        
+          
+          
+        
+      
+                
+             Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 9 of 34 
+maximally tolerated doses of greater than or equal to 3 anti-hypertensive 
+drugs including a diuretic. In addition, ambulatory daytime SBP greater 
+than 135 mm Hg after witnessed intake of anti-hypertensive drugs was 
+required, after which 20 patients had normalized BP and were excluded. 
+Patients with true TRH were randomized and underwent RDN (n = 9) 
+performed with Symplicity Catheter System versus clinically adjusted drug 
+treatment (n = 10). The study was stopped early for ethical reasons because RDN had uncertain BP -lowering effect. Office SBP and diastolic 
+BP in the drug-adjusted group changed from 160 ± 14/88 ± 13 mm Hg (± 
+SD) at baseline to 132 ± 10/77 ± 8 mm Hg at 6 months (p < 0.0005 and p 
+= 0.02, SBP and diastolic BP, respectively) and in the RDN group from 
+156 ± 13/91 ± 15 to 148 ± 7/89 ± 8 mm Hg (p = 0.42 and p = 0.48, SBP 
+and diastolic BP, respectively). Systolic BP and diastolic BP were 
+significantly lower in the drug- adjusted group at 6 months (p = 0.002 and 
+p = 0.004, respectively), and absolute changes in SBP were larger in the 
+drug- adjusted group (p = 0.008). Ambulatory BPs changed in parallel to 
+office BPs. The authors concluded that these findings suggested t hat 
+adjusted drug treatment has superior BP-lowering effects compared with 
+RDN in patients with true TRH. 
+Bhatt et al (2014) stated that prior unblinded studies have suggested that 
+catheter -based RDN reduces blood pressure in patients with resistant 
+hypertension. These investigators designed a prospective, single- blind, 
+randomized, sham -controlled trial. Patients with severe resistant 
+hypertension were randomly assigned in a 2:1 ratio to undergo RDN or a 
+sham procedure. Before randomization, patients were receiving a stable 
+anti-hypertensive regimen involving maximally tolerated doses of at least 
+3 drugs, including a diuretic. The primary efficacy end- point was the 
+change in office SBP at 6 months; a secondary efficacy end-point was the 
+change in mean 24- hour ambulatory SBP. The primary safety end- point 
+was a composite of death, end- stage renal disease, embolic events 
+resulting in end -organ damage, renovascular complications, or 
+hypertensive crisis at 1 month or new renal -artery stenosis of more than 
+70 % at 6 months. A total of 535 patients underwent randomization. The mean (± SD) change in SBP at 6 months was -14.13 ± 23.93 mm Hg in 
+the denervation group as compared with -11.74 ± 25.94 mm Hg in the 
+sham -procedure group (p < 0.001 for both comparisons of the change 
+from baseline), for a difference of -2.39 mm Hg (95 % CI: -6.89 to 2.12; p 
+= 0.26 for superiority with a margin of 5 mm Hg). The change in 24- hour      
+ 
+       
+           
+          
+        
+       
+         
+         
+ 
+          
+     
+       
+        
+   
+          
+     
+          
+        
+       
+        
+           
+             
+      
+            
+                 
+         
+          
+              
+            
+              
+               
+             
+            
+             
+  
+ 
+            
+          
+    
+            Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 10 of 34 
+ambulatory SBP was -6.75 ± 15.11 mm Hg in the denervation group and 
+-4.79 ± 17.25 mm Hg in the sham -procedure group, for a difference of 
+-1.96 mm Hg (95 % CI: -4.97 to 1.06; p = 0.98 for superiority with a 
+margin of 2 mm Hg). There were no significant differences in safety 
+between the 2 groups. The authors concluded that this blinded trial did not show a significant reduction of SBP in patients with resistant 
+hypertension 6 months after RDN as compared with a sham control. 
+Bakris et al (2014) noted that prior studies of catheter -based RDN have 
+not systematically performed ambulatory blood pressure monitoring 
+(ABPM) to assess the efficacy of the procedure. SYMPLICITY HTN -3 
+(Renal Denervation in Patients With Uncontrolled Hypertension) was a prospective, blinded, randomized, sham -controlled trial. The cu rrent 
+analysis detailed the effect of RDN or a sham procedure on ABPM 
+measurements 6 months post -randomization. Patients with resistant 
+hypertension were randomized 2:1 to renal denervation or sham control. 
+Patients were on a stable anti-hypertensive regimen including maximally 
+tolerated doses of at least 3 drugs including a diuretic before randomization. The powered secondary efficacy end-point was a change 
+in mean 24-h ambulatory SBP. Non- dipper to dipper (nighttime BP 10 % 
+to 20 % lower than daytime BP) conversion was calculated at 6 months. 
+The 24- hour ambulatory SBP changed - 6.8 ± 15.1 mm Hg in the RDN 
+group and -4.8 ± 17.3 mm Hg in the sham group: difference of -2.0 mm 
+Hg (95 % CI: -5.0 to 1.1; p = 0.98 with a 2 mm Hg superiority margin). 
+The daytime ambulatory SBP change difference between groups was 
+-1.1 (95 % CI: -4.3 to 2.2; p = 0.52). The nocturnal ambulatory SBP 
+change difference between groups was -3.3 (95 CI: -6.7 to 0.1; p = 0.06). 
+The percent of non-dippers converted to dippers was 21.2 % in the RDN 
+group and 15.0 % in the sham group (95 % CI: -3.8 % to 16.2 %; p = 
+0.30). Change in 24-hour heart rate was -1.4 ± 7.4 in the RDN group and 
+-1.3 ± 7.3 in the sham group; (95 % CI: -1.5 to 1.4; p = 0.94). The 
+authors concluded that this trial did not demonstrate a benefit of RDN on 
+reduction in ambulatory BP in either the 24- hour or day and night periods 
+compared with sham. 
+On January 9, 2014, Medtronic, Inc. announced that its U.S. pivotal trial in 
+RDN for TRH, SYMPLICITY HTN- 3, failed to meet its primary efficacy 
+end-point. Medtronic intends to formulate a panel of independent 
+advisors made up of physicians and researchers who will be asked to      
+ 
+       
+        
+    
+       
+ 
+ 
+           
+       
+          
+     
+      
+     
+        
+        
+    
+   
+    
+     
+      
+        
+         
+       
+    
+      
+    
+          
+           Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 11 of 34 
+make recommendations about the future of the global hypertension 
+clinical trial program, as well as provide advice on continued physician 
+and patient access to the Symplicity technology in countries with regulatory approvals. Pending this panel review, the company intends to: 
+Suspend  enrollment  in  the  3  countries  where  renal  denervation  
+hypertension  trials  are  being  conducted  for  regulatory  approvals  
+(SYMPLICITY  HTN -4  in  the  U.S.,  HTN -Japan  and  HTN -India).  
+Begin informing clinical trial sites and  investigators,  global 
+regulatory  bodies,  and  customers  of  these  ﬁndings  and  decisions.  
+Continue  to  ensure  patient  access  to  the  Symplicity  technology  at 
+the  discretion  of  their  physicians  in  markets  where  it  is  approved.  
+Continue  the  Global  SYMPLICITY  post -market  surveillance  registry  
+and  renal  denervation  studies  evaluating  other  non- hypertension  
+indications.  
+Ukena et al (2012) stated that sympathetic activity plays an important role 
+in the pathogenesis of ventricular tachyarrhythmia. Catheter -based RDN 
+is a novel treatment option for patients with resistant hypertension, proved 
+to reduce local and whole -body sympathetic activity. Two patients with 
+chronic heart failure (CHF) (non- obstructive hypertrophic and dilated 
+cardiomyopathy, New York Heart Association [NYHA] III) suffering from 
+therapy -resistant electrical storm underwent therapeutic RDN. In both 
+patients, RDN was conducted with agreement of the local ethics committee and after obtaining informed consent. The pat ient with 
+hypertrophic cardiomyopathy had recurrent monomorphic ventricular tachycardia (VT) despite extensive anti -arrhythmic therapy, following 
+repeated endocardial and epicardial electrophysiological ablation attempts to destroy an arrhythmogenic intra- mural focus in the left 
+ventricle. The second patient, with dilated non-ischemic cardiomyopathy, 
+suffered from recurrent episodes of polymorphic VT and ventricular fibrillation. The patient declined catheter ablation of these tachycardias. 
+In both patients, RDN was performed without procedure- related 
+complications. Following RDN, ventricular tachyarrhythmias were 
+significantly reduced in both patients. Blood pressure and clinical status remained stable during the procedure and follow -up in these patients with 
+CHF. The authors concluded that these findings suggested that RDN is      
+ 
+       
+   
+       
+ 
+         
+         
+         
+      
+         
+    
+            
+      
+           
+        
+        
+            
+        
+           
+               
+         
+               
+              
+       
+         
+        
+               
+        
+           
+         
+      
+        
+ 
+          
+        
+  
+            
+          
+      
+           Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 12 of 34 
+feasible even in cardiac unstable patients. Moreover, they stated that 
+randomized controlled trials (RCTs) are urgently needed to study the 
+effects of RD in patients with electrical storm and CHF. 
+Tsioufis (2013) reported that a small study presented at ACC 2013 has 
+shown that RDN, besides reducing resistant hypertension, produces a favorable effect on atrial and ventricular arrhythmias. In the study, the 
+researchers treated 14 patients with resistant hypertension who 
+underwent ABPM and Holter monitoring at baseline and 1 month after 
+RDN. For the procedure, the investigators used the EnligHTN ablation catheter (St Jude Medical). Patients with grade II and above of the Lown- 
+Wolf classification were considered to have complex ventricular arrhythmias while the presence of greater than or equal to 3 consecutive 
+premature supraventricular contractions was defined as paroxysmal atrial 
+fibrillation. These researchers found that after 1 month, office and 24­hour BP was significantly reduced by 38/14.1 mmHg, p < 0.001/0.003 and 
+18/9.5 mmHg, p < 0.001/0.001, respectively. Offic e heart rate was 
+reduced by 7 beats per minute (bpm), (p = 0.046), ambulatory heart rate by 5.5 bpm, and average 24 -hour heart rate by 6.7 bpm (p = 0.022). The 
+researchers also found that complex ventricular arrhythmias were present 
+in 5 out of the 14 patients (1 with non-sustained VT and 4 with ventricular 
+couplets) at baseline but persisted only in 2 of them 1 month after RDN (2 
+patients with ventricular couplets). The number of premature ventricular contractions was significantly decreased after RDN (from 2.23/hour to 0.39/hour, p = 0.019). Episodes of paroxysmal atrial fibrillation were detected in 5 of 14 subjects at baseline and in 2 of those patients 1 month 
+after RDN. The total number of premature supraventricular contractions 
+was also significantly decreased after RDN from 1.62/hour to 0.72/hour (p 
+= 0.039), the authors found. There was no relationship between the observed difference in premature supraventricular and ventricular contractions after RDN and the drop in office and 24- hour BP. 
+Hoffman et al (2013) presented a case of ventricular storm (VS) in a patient with acute ST-elevation myocardial infarction (STEMI). After initial 
+successful thrombus extraction and percutaneous coronary intervention 
+(PCI) of the proximal left anterior descending (LAD) coronary artery, a 63­
+year old male patient showed recurrent monomorphic VT and ventricular 
+fibrillation (VF) episodes refractory to anti- arrhythmic drug therapy. After 
+initial successful VT ablation, fast VT and VF episodes remained an      
+ 
+       
+      
+     
+          
+           
+           
+       
+        
+   
+ 
+            
+         
+         
+        
+          
+            
+         
+           
+         
+     
+     
+        
+         
+              
+               
+             
+       
+        
+          
+    
+   
+ 
+         
+       
+   
+ 
+       
+         
+        Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 13 of 34 
+evident problem despite maximum anti -arrhythmic drug therapy. Due to 
+an increasing instability, RDN was performed. Implantable cardioverter 
+defibrillator interrogation and 24- hour Holter monitoring excluded 
+recurrent episodes of VT or VF at a 6- month follow -up after discharge. 
+The authors concluded that this case high-lighted that RDN was effective 
+and safely performed in a hemodynamically unstable patient with VS after 
+STEMI and adjunct catheter ablation. They stated that RDN may open a new avenue for an adjunctive interventional bailout treatment of such highly challenging patients. 
+Remo et al (2014) reported the largest case series to-date using RDN as 
+adjunctive therapy for refractory VT in patients with underlying cardiomyopathy. A total of 4 patients with cardiomyopathy (2 non­ischemic, 2 ischemic) with recurrent VT despite maximized anti -
+arrhythmic therapy and prior endocardial (n = 2) or endocardial/epicardial 
+(n = 2) ablation underwent RDN ± repeat VT ablation. Renal denervation 
+was performed spirally along each main renal artery with either a non-irrigated (6 W at 50°C for 60 seconds) or an open irrigated ablation 
+catheter (10 to 12 W for 30 to 60 seconds). Renal arteriography was 
+performed before and after RDN. Renal denervation was well -tolerated 
+acutely and demonstrated no clinically significant complications during follow -up of 8.8 ± 2.6 months (range of 5.0 to 11.0 months). No 
+hemodynamic deterioration or worsening of renal function was observed. 
+The number of VT episodes was decreased from 11.0 ± 4.2 (5.0 to 14.0) 
+during the month before ablation to 0.3 ± 0.1 (0.2 to 0.4) per month after 
+ablation. All VT episodes occurred in the first 4 months after ablation (2.6 
+± 1.5 months). The responses to RDN were similar for ischemic and non­ischemic patients. The authors concluded that this case series provided 
+promising preliminary data on the safety and effectiveness of RDN as an 
+adjunctive therapy in the treatment of patients with cardiom yopathy and 
+VT resistant to standard interventions. 
+There is an ongoing clinical trial, "RESCUE -VT" (REnal SympathetiC 
+Denervation to sUpprEss Ventricular Tachyarrhythmias); this study is 
+currently recruiting participants (Last verified June 2016). 
+Shantha and Pancholy (2015) noted that recent evidence associates 
+sympathetic tone with severity of obstructive sleep apnea (OSA). Renal sympathetic denervation, by decreasing sympathetic tone, has the      
+ 
+ 
+    
+      
+   
+         
+           
+        
+       
+          
+       
+        
+    
+          Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 14 of 34 
+potential  to  decrease OSA severity.  Sma ll  observational studies that  
+assessed  this  hypothesis  lacked precision.  In  a  meta- analysis, these 
+investigators  attempted  to  pool  available  data  from  studies  that  have  
+assessed  the effect  of  RDN  on OSA severity  in  patients  with OSA.  
+Medline,  Embase,  Cochrane  central,  Ovid,  Cinahl,  web of  science,  and 
+conference  abstracts  were  searched for  eligible  citations  by  2  
+independent  reviewers  using  key  words  "renal  denervation",  
+"hypertension",  and "obstructive  sleep apnea".  From  a  total  of  2,863 
+identified citatio ns,  using meta- analysis  of  observational studies in  
+epidemiology  method,  5 studies  were  assessed  eligible and included in  
+the meta- analysis.  All  5  studies  followed an  observational  study  design,  
+involved  patients  with  OSA and hypertension,  and reported  an apnea­  
+hypopnea index  (AHI)  6  months  post -RDN;  4 were  "before  and after"  
+studies  and 1 compared continuous  positive  airway  pressure with  RDN.  
+In  the  pooled  analysis,  involving  49  patients,  RDN  was  associated  with  a 
+significant  reduction  in  mean  AHI  [weighted  mean  difference  -9.61  (95  % 
+CI: -15.43 to  -3.79,  p =  0.001)]  6  months  post-RDN.  One  study  also 
+reported improvement  in  oxygen  desaturation  index  and  Epworth  
+sleepiness  scale  score  6  months  post-RDN.  The  authors  concluded  that  
+RDN  is  associated  with  significant  improvement  in  OSA  severity.  
+Moreover,  they  stated  that  these  findings  need  validation  in  RCTs  that  
+evaluate  the  effect  of  RDN  in  patients  with  OSA,  which  can  potentially  
+broaden the clinical  applicability  of  RDN.  
+Chen and U
+padhyay (2017) stated that early clinical studies primarily in 
+Australia and Europe established renal denervation as a well -tolerated 
+and feasible procedure that resulted in a sustained reduction in BP 
+among individuals with severe resistant HTN. A recent RCT in t he U.S. 
+using a sham procedure in the control arm, however, did not show a significant additional benefit in BP lowering from renal denervation. This review summarized and critically examined the evidence for renal denervation in HTN management and identif ies areas for future research. 
+The authors concluded that renal denervation is a potentially promising 
+treatment option for drug- resistant uncontrolled HTN; future efforts should 
+focus on refining the denervation technology and identifying individuals 
+who are most likely to benefit from the denervation procedure.      
+ 
+       
+         
+         
+          
+            
+         
+        
+     
+        
+            
+        
+  
+         
+       
+      
+    
+       
+     
+            
+ 
+ 
+         
+         
+      
+           
+    
+      
+         
+        
+        
+         
+        
+       
+        
+      
+          
+      
+              
+           Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 15 of 34 
+Bolignano and Coppolino (2019) stated that hypertension remains a 
+major public health problem and one of the most relevant causes of cardiovascular mortality and morbidity worldwide. Approximately 10 % of 
+hypertensive individuals are considered as "resistant" as they are unable 
+to attain and maintain optimal BP values despite the concurrent use of 3 
+anti-hypertensive agents of different classes at optimal doses. As 
+resistant hypertension conveys a higher risk of adverse outcomes, the search for effective treatments to properly manage this condition has progressively surged as a true health priority. The renal nerve plexus 
+plays a central role in regulating arterial BP and renal sympathetic over -
+activity is a major component in the development and progression of 
+hypertension. On these premises, minimally -invasive catheter -based 
+devices for renal nerve ablation have been developed and tested as an alternative treatment for resistant hypertension; however, clinical study 
+results had been conflicting. These investigators provided a historical perspective on the scientific evidence forming the foundation of renal never ablation from accrued clinical evidence to possible fu ture 
+applications. The authors concluded that more research and clinical experience is needed to fully reveal limits and potential indications of this 
+procedure. 
+Bohm and colleagues (2020) noted that catheter -based renal denervation 
+has significantly reduced blood pressure (BP) in previous studies. 
+Following a positive pilot trial, the SPYRAL HTN -OFF MED (SPYRAL 
+Pivotal) Trial was designed to examine the efficacy of renal denervation in 
+the absence of anti -hypertensive medications. In this international, 
+prospective, single- blinded, sham -controlled trial, carried out at 44 study 
+sites in Australia, Austria, Canada, Germany, Greece, Ireland, Japan, the 
+United Kingdom, and the USA, hypertensive patients with office systoli c 
+BP (SBP) of 150 mm Hg to less than 180 mm Hg were randomly assigned 1:1 to either a renal denervation or sham procedure. The primary efficacy end-point was baseline- adjusted change in 24-hour SBP 
+and the secondary efficacy end- point was baseline- adjusted change in 
+office SBP from baseline to 3 months after the procedure. These researchers used a Bayesian design with an informative prior, so the primary analysis combines evidence from the pilot and Pivotal trials. The 
+primary safety and efficacy analyses were performed in the intention- to­
+treat (ITT) population. From June 25, 2015 to October 15, 2019, a total of 
+331 patients were randomly assigned to either renal denervation (n =      
+ 
+         
+        
+      
+        
+       
+     
+   
+    
+         
+  
+ 
+   
+          
+      
+      
+            
+   
+         
+       
+    
+          
+     
+        
+      
+       
+      
+        
+      
+        
+          
+            
+     
+ 
+          
+        
+        
+       
+       
+       Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 16 of 34 
+166) or a sham procedure (n = 165). The primary and secondary efficacy 
+end-points were met, with posterior probability of superiority more than 
+0.999 for both. The treatment difference between the 2 groups for 24­hour SBP was -3.9 mm Hg (Bayesian 95 % credible interval [CI]: -6.2 to 
+-1.6) and for office SBP the difference was -6.5 mm Hg ( -9.6 to -3.5). No 
+major device- related or procedural -related safety adverse events (AEs) 
+occurred up to 3 months. The authors concluded that the SPYRAL Pivotal Trial showed the superiority of catheter -based rena l denervation 
+compared with a sham procedure to safely lower BP in the absence of 
+anti-hypertensive medications. 
+The authors stated that this study had several drawbacks. Blood 
+pressure assessment in patients not treated with medications was limited 
+to 3 months to avoid prolonging medication withdrawal. Because previous trials have shown an increasing treatment effect between 3 
+months and 6 months, this shorter duration might have resulted in under ­
+estimation of the treatment effect. Not all patients followed protocol 
+requirements to stay off medications, as assessed by drug and urine 
+testing; although results in the per -protocol cohort were consistent with 
+the ITT results. An intra -procedural indicator of successful renal 
+denervation is not available for operator feedback. Patients with a history 
+of heart failure (HF), cerebrovascular accident (CVA) or transient ischemic attack (TIA), or atrial fibrillation (AF) were excluded from the study because these patients require medications such as renin­
+angiotensin- aldosterone system inhibitors for secondary prevention of 
+hypertension, and it would have been unethical to withhold these 
+medications. Furthermore, although not all patients had primary efficacy end-point observations available (often related to meeting protocol -
+specified criteria for resuming medications, and more commonly observed 
+in the sham group), the efficacy analyses were consistent when multiple imputation for missing values was performed. It should also be noted that 
+this trial was sponsored by Medtronic. 
+Stavropoulos and associates (2020) stated that despite the availability of 
+a numerous anti-hypertensive agents, hypertension treatment and control 
+rates remain low in many countries. The role of the SNS has long been 
+recognized, but recent sham control renal denervation studies 
+demonstrated conflicting results. In a systematic review and meta-
+analysis, these researchers examined outcomes of sham -controlled      
+ 
+      
+       
+       
+     
+          
+              
+        
+         
+       
+               
+           
+                 
+        
+      
+          
+          
+       
+       
+         
+     
+          
+     
+ 
+    
+              
+            
+      
+        
+     
+ 
+ 
+ 
+             
+         
+      
+         
+      
+          
+          Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 17 of 34 
+studies utilizing new technologies and procedures; 6 published 
+randomized, sham -controlled studies were included in this meta -analysis. 
+Of those, 3 trials used the first -generation RF renal denervation device 
+and technique and the other 3 used second- generation devices and 
+techniques. A total of 981 patients with hypertension were randomized in 
+all 6 trials to undergo renal denervation (n = 585) or sham procedure (n = 
+396). Overall, renal denervation resulted in a decrease of 24- hours 
+systolic ABP by 3.62 mm Hg (95 % CI: -5.28 to - 1.96; I2 = 0 %), 
+compared to sham procedure (GRADE: low). Renal denervation also 
+reduced day -time systolic ABP by 5.51 mm Hg (95 % CI: -7.79 to -3.23; I2 
+= 0 %), compared to sham procedure but not night -time systolic ABP. 
+Office SBP was reduced by 5.47 mm Hg (95 % CI -8.10 to -2.84; I2 = 0 
+%), compared to sham control. Further analysis demonstrated that 
+second- generation devices were effective in reducing BP, whereas the 
+first-generation devices were not. The authors concluded that results of 
+this meta‐analysis suggested that renal denervation worked in the short -
+term and may contribute to better management and control of 
+uncontrolled hypertension. Nonetheless, the effect was relatively small and most likely diluted by non
+‐responders. Moreover, these researchers 
+stated that further, well ‐designed studies (larger, adequately powered 
+RCTs) are needed to better -define the role of renal denervation in the 
+treatment of hypertension in the general population. 
+The authors stated that the drawbacks of this study included the small 
+number of the included RCTs (n = 6), the relatively small sample size (n = 
+981), the short -term follow‐up period (up to 6 months), and small number 
+of studies. Furthermore, these investigators did not carry out meta ‐
+regression analyses for the investigation of the observed heterogeneity, 
+due to the small number of included trials. 
+Treatment of Heart Failure 
+Booth et al (2015) noted that sympathetic drive, especially to the heart, is 
+elevated in heart failure (HF) and is strongly associated with poor 
+outcome. The mechanisms causing the increased sympathetic drive to the heart remain poorly understood. Catheter -based RDN, which reduces 
+BP and sympathetic drive in hypertensive patients, is a potential 
+treatment in HF. These researchers investigated the short -term effects of 
+catheter -based RDN on BP, heart rate (HR) and cardiac sympathetic      
+ 
+        
+          
+    
+       
+        
+       
+      
+            
+             
+       
+           
+        
+          
+             
+   
+            
+ 
+ 
+        
+        
+              
+         
+          
+        
+        
+          
+        
+    
+        
+         
+      
+        
+         
+      
+      
+           
+           Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 18 of 34 
+nerve activity (CSNA) and on baroreflex function in a conscious, large 
+animal model of HF. Adult Merino ewes were paced into heart failure 
+(ejection fraction<40%) and then instrumented to directly record CSNA. The resting levels and baroreflex control of C SNA and HR were 
+measured before and 24h after bilateral renal (n=6) or sham (n=6) denervation; RDN was performed using the Symplicity Flex Catheter 
+System
+® (Medtronic) using the same algorithm as in patients. Catheter -
+based RDN significantly reduced resting diastolic BP (p < 0.01) and mean 
+arterial BP (p < 0.05), but did not change resting HR or CSNA compared 
+with sham denervation. Renal denervation reduced the BP at which 
+CSNA was at 50 % of maximum (BP50; p < 0.005) compared with sham denervation. The authors concluded that in an ovine model of HF, 
+catheter -based RDN did not reduce resting CSNA in the short -term. 
+There was, however, a lack of a reflex increase in CSNA in response to 
+the fall in arterial BP due to a leftward shift in the baroreflex control of 
+CSNA, which may be due to denervation of renal efferent and/or afferent 
+nerves. 
+Dai and colleagues (2015) examined the feasibility and effects of percutaneous renal sympathetic nerve RF ablation in patients with HF. A 
+total of 20 patients with HF were enrolled, aged from 47 to 75 (63 ± 10) 
+years. They were divided into the standard therapy (n = 10), and renal 
+nerve RF ablation groups (n = 10). There were 15 males and 5 female patients; including 8 ischemic cardiomyopathy, 8 dilated cardiomyopathy, 
+and 8 hypertensive cardiopathy. All of the patients met the criteria of NYHA classes III to IV cardiac function. Patients with diabetes and renal 
+failure were excluded. Percutaneous renal sympathetic nerve RF ablation 
+was performed on the renal artery wall under X -ray guidance. Serum 
+electrolytes, neurohormones, and 24- hour urine volume were recorded 24 
+hours before and after the operation. Echocardiograms were performed to 
+obtain left ventricular ejection fraction (LVEF) at baseline and 6 months. 
+Symptoms of dyspnea and edema, BP, and HR were also monitored. 
+After renal nerve ablation, 24- hour urine volume was increased, while 
+neurohormone levels were decreased compared with those of pre­
+operation and standard ther apy. No obvious change in HR or BP was 
+recorded. Symptoms of HF were improved in patients after the operation. 
+No complications were recorded in the study. The authors concluded that      
+ 
+        
+         
+          
+ 
+ 
+ 
+       
+           
+      
+       
+          
+            
+     
+      
+        
+       
+        
+   
+           
+        
+      
+       
+     
+      
+    
+        
+      
+         
+    
+          
+         
+ 
+ 
+          
+          
+           
+          
+           
+       Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 19 of 34 
+percutaneous renal sympathetic nerve RF ablation may be a feasible, 
+safe, and effective treatment for the patients with severe congestive HF. 
+These preliminary findings need to be validated by well -designed studies. 
+Treatment of Cardiac Arrhythmias and Chronic Renal Failure 
+Thorp and Schlaich (2015) noted that animal and human studies have shown that chronic activation of renal sympathetic nerves is critical in the 
+pathogenesis and perpetuation of treatment -resistant hypertension. 
+Bilate ral renal denervation has emerged as a non- pharmacological 
+treatment for resistant hypertension that involves the selective ablation of 
+efferent and afferent renal nerves to lower BP. However, the most recent 
+and largest RCT failed to confirm the effectiveness of renal denervation 
+over a sham procedure, prompting widespread re -evaluation of the 
+therapy's efficacy. Disrupting renal afferent sympathetic signaling to the 
+hypothalamus with renal denervation lowers central sympathetic tone, 
+which has the potential to confer additional clinical benefits beyond BP control. Specifically, there has been substantial interest in the use of renal denervation as either a primary or adjunct therapy in pathological 
+conditions characterized by central sympathetic over-activity (e.g., renal 
+disease, HF and metabolic -associated disorders). Recent findings from 
+pre-clinical and proof -of-concept studies appeared promising with renal 
+denervation shown to confer cardiovascular and metabolic benefits, 
+largely independent of changes in BP. These investigators explored the 
+pathological rationale for targeting sympathetic renal nerves for BP control. They discussed latest developments in renal nerve ablation modalities designed to improve procedural success along with prospect ive findings on the efficacy of renal denervation to lower BP in 
+treatment -resistant hypertensive patients. The authors presented 
+preliminary evidence in support of renal denervation as a possible therapeutic option in disease states characterized by central sympathetic 
+over-activity. 
+Barrett (2015) examined the role played by renal sympathetic nerves in 
+the regulation of cardiovascular function, focusing on changes that occur 
+during the development of hypertension and HF. While elevated levels of 
+renal sympathetic activity (RSA) are a feature of many cardiovascular 
+diseases, the relationship is not straightforward, especially in the case of 
+hypertension. These researchers noted that before consideration of      
+ 
+        
+             
+         
+         
+    
+       
+         
+         
+   
+       
+       
+          
+     
+          
+        
+      
+             
+         
+    
+        
+          
+ 
+ 
+        
+          
+    
+       
+      
+            
+         
+   
+        
+        
+       
+      
+       
+         
+        
+        Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 20 of 34 
+targeting the renal nerves in the clinical management of cardiovascular 
+diseases it is essential that their role in the development of the disease is 
+established. In recent years, with the development of new clinical techniques to target the renal nerves specifically, researchers have seen 
+a renewed interest in the role of the renal sympathetic nerves in the development of cardiovascular diseases. In understanding the potential of renal nerve ablation for the treatment of cardiovascular disease, first the role played by these nerves in cardiovascular regulation must be determined. Elevated RSA not only has the potential to increase fluid 
+retention but may also act in a feed- forward manner to increase 
+sympathetic activation further, increasing the workload of the heart and 
+the potential for arrhythmias. Direct recordings of RSA in animal models of hypertension and renal noradrenaline spill -over levels in individual 
+patients with hypertension have illustrated that hypertension is not always 
+accompanied by an increase in RSA. Elevated RSA is a feature of severe HF, but whether removal of the renal nerves then compromises 
+the ability to maintain cardiac function when faced with a stressor such as 
+sepsis remains unclear. The authors concluded that understanding when 
+increased renal sympathetic drive is contributing to the progression of 
+cardiovascular diseases such as hypertension and HF would appear to 
+be the key to understanding when renal nerve ablation is likely to be of benefit. 
+Oparil and Schmieder (2015) stated that hypertension is the most common modifiable risk factor for cardiovascular disease and death; and 
+lowering BP with anti -hypertensive drugs reduces target organ damage 
+and prevents cardiovascular disease outcomes. Despite a plethora of 
+available therapeutic options, a substantial portion of the hypertensive 
+population has uncontrolled BP. The unmet need of controlling BP in this 
+population may be addressed, in part, by developing new drugs and devices/procedures to treat hypertension and its co-morbidities. These 
+investigators discussed new drugs and interventional treatments that are 
+undergoing pre- clinical or clinical testing for hypertension treatment. New 
+drug classes (e.g., inhibitors of vasopeptidases, aldosterone synthase and soluble epoxide hydrolase, agonists of natriuretic peptide A and vasoactive intestinal peptide receptor 2, and a novel mineralocorticoid receptor antagonist) are in phase II/III of development, while inhibitors of 
+aminopeptidaseA, dopamine β-hydroxylase, and the intestinal Na(+)/H(+) 
+exchanger 3, agonists of components of the angiotensin-converting      
+ 
+      
+          
+        
+          
+     
+           
+         
+        
+     
+            
+        
+ 
+ 
+        
+        
+      
+      
+          
+        
+ 
+ 
+ 
+          
+          
+         
+            
+    
+       
+   
+       
+         
+        
+     
+     
+        
+   
+     
+        
+            Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 21 of 34 
+enzyme 2/angiotensin(1- 7)/Mas receptor axis and vaccines directed 
+toward angiotensin II and its type 1 receptor are in phase I or pre- clinical 
+development. The 2 main interventional approaches, trans -catheter renal 
+denervation and baroreflex activation therapy, are used in clinical practice 
+for severe treatment -resistant hypertension in some countries. The 
+authors stated that renal denervation is also being evaluated for treatment 
+of various co -morbidities (e.g., CHF, cardiac arrhythmias and chronic 
+renal failure). Novel interventional approaches in early development 
+include carotid body ablation and arterio -venous fistula placement. They 
+noted that none of these novel drug or device treatments has been shown 
+to prevent cardiovascular disease outcomes or death in hypertensive patients. 
+Also, UpToDate reviews on "Overview of the management of chronic kidney disease in adults" (Rosenberg, 2016), "Arrhythmia management 
+for the primary care clinician" (Levy and Olshansky, 2016), and "Treatment of symptomatic arrhythmias associated with the Wolff -
+Parkinson -White syndrome" (Di Biase and Walsh, 2016) do not mention 
+renal denervation/renal nerve ablati on as a therapeutic option. 
+Treatment of Acute Myocardial Infarction 
+Feng and colleagues (2017) evaluated the therapeutic effects of RDN on 
+acute MI in canines and explored its possible mechanisms of action. A total of 18 healthy mongrel dogs were randomly assigned to either the 
+control group, the MI group or the MI + RDN group. To assess cardiac 
+function, LVEF, left ventricular end- diastol ic dimension (LVEDD), left 
+ventricular end-systolic dimension (LVESD) and fraction shortening (FS) 
+were recorded. Additionally, hemodynamic parameters such as left 
+ventricular systolic pressure (LVSP), left ventricular end-diastolic pressure 
+(LVEDP) and HR were measured. Cardiac oxidative stress levels were evaluated based on the expression of p47phox mRNA, malondialdehyde 
+(MDA), anti -superoxide anion free radical (ASAFR) and activity of 
+superoxide dismutase (SOD). To measure the local activity of the 
+sympathetic nervous system (SNS) and renin -angiotensin system (RAS), 
+the levels of tyrosine hydroxylase (TH), angiotensin II (AngII), angiotensin-converting enzyme 2 (ACE2), angiotensin (1- 7) [Ang(1- 7)] 
+and Mas receptor (MasR) in myocardial tissues were recorded. The expression of TH in renal tissue and serum creatinine were used to      
+ 
+ 
+ 
+ 
+ 
+       
+     
+         Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 22 of 34 
+assess  the  effectiveness  of  the RDN  procedure  and renal  function,  
+respectively.  These  researchers  found  that  MI  deteriorated  heart  function  
+and activated cardiac  oxidative  stress  and the local  neuro -humoral  
+system,  while  RDN  partially  reversed  these  changes.  Compared  with  the 
+control  group,  parameters  including LVEDD,  LVESD,  LVEDP and the 
+levels  of  ASAFR,  MDA,  p47phox,ACE2,  Ang(1 -7),  MasR,  AngII  and TH - 
+positive  nerves  were  increased  (all  p <  0.05)  in  myocardial  infracted  dogs;  
+meanwhile,  LVEF,  FS,  LVSP  and  SOD  expression  were  decreased  (all  p  
+<  0.05).  However,  after  RDN  therapy,  these  changes  were  significantly  
+improved (p <  0.05),  except  that  there  were no  significant  differences  
+observed  in  FS or  LVSP between the 2  groups  (p =  0.092 and  0.931,  
+respectively).  More  importantly,  the  expression  of  TH,  AngII  and  Ang(1 -7) 
+was  positively  correlated with  MDA and negatively  correlated with  SOD.  
+Between -group  comparisons  demonstrated no differences  in  serum  
+creatinine (p =  0.706).  The authors  concluded  that  RDN  attenuated  
+cardiac  re-modelling  and  improved  heart  function  by  decreasing  the  level  
+of  cardiac  oxidative stress  and the  local  activity  of  the SNS and RAS in 
+cardiac tissues. Additionally, the safety  of the RDN  procedure w  as  
+established,  as  no  significant  decrease  in  LVSP or  rise in  serum  
+creatinine was  observed  in  this  study.  Moreover,  these  investigators  
+stated  that  to  confirm  the  validity  of  these  results,  studies  both  in  humans  
+and animals  should  be undertaken  on a  larger  scale  and with  a longer  
+observation  time.  
+This  study  had several  drawbacks:  (i) MI  was only validated  by the  
+pathological specimen and echocardiography, and these researchers  
+did not evaluate the infarct size, which reduced the  persuasion to a  
+certain extent, (ii) the number of subjects was not large enough (n = 
+18),  which   may   have  aﬀected   the  statistical analysis,   (iii)  due  to  lack  of  
+a control + RDN group, the eﬀects of the int ervention could not be  
+excluded completely, and  (iv) the observation time was short (4 
+weeks).  
+Treatment of Chronic Kidney -Related Pain 
+Casale and colleagues (2008) presented their medium -term experience 
+with laparoscopic RDN and nephropexy for autosomal dominant 
+polycystic kidney disease (ADPKD) -related pain in the pediatric patient.      
+ 
+          
+         
+         
+            
+          
+            
+      
+        
+          
+        
+ 
+    
+            
+        
+    
+     
+    
+     
+        
+       
+       
+       
+       
+           
+      
+          
+           
+     
+          
+ 
+         
+      
+     
+            
+       
+       
+   Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 23 of 34 
+A total of 12 patients aged 8 to 19 years (mean age of 12.4 years) with 
+ADPKD presented with chronic pain refractory to narcotic analgesics were enrolled in this study. These subjects underwent laparoscopic RDN 
+of 16 kidneys. Mean operative time was 152 minutes and mean hospital 
+stay was 2.17 days. All patients were pain-free at discharge and remain pain-free at a mean follow -up of 25.5 months; 3 adolescent patients each 
+had an episode of flank pain. One was associated with pyelonephritis, another with stones, and the third with trauma and a hematoma. The authors concluded that laparoscopic RDN and nephropexy is a promising 
+option for pediatric patients with uncontrolled ADPKD -related pain. 
+Gambaro and co- workers (2013) stated that loin pain hematuria 
+syndrome (LPHS) is a severe renal pain condition of uncertain origin and 
+often resistant totreatment. Nephrectomy and renal auto-transplantation 
+have occasionally been performed in very severe cases. Its 
+pathogenesis is controversial. In this study, a 40- year old hypertensive 
+woman was diagnosed with LPHS after repeated diagnostic imaging 
+procedures had ruled out any renal, abdominal or spinal conditions to justify pain. Notwithstanding treatment with 3 drugs, she had frequent hypertensive crises during which the loin pain was dramatically 
+exacerbated. Vascular causes of the pain and hypertension were 
+investigated and excluded. Her renal function was normal. The patient was referred to a multi -disciplinary pain clinic, but had no significant 
+improvement in her pain symptoms despite the use of non- steroidal anti-
+inflammatory drugs (NSAIDs), adjuvant anti-depressants and opioid- like 
+agents. The pain and the discomfort were so severe that her quality of life (QOL) was very poor, and her social and professional activities were 
+compromised. Nephrectomy and renal auto- transplantation have 
+occasionally been performed in these cases. Since visceral pain signals 
+flow through afferent sympathetic fibers, these investigators felt that percutaneous catheter -based RF ablation of the renal sympathetic nerve 
+fibers (recently introduced for the treatment of drug- resistant 
+hypertension) could be valuable for pain relief. They treated the patient with RF ablation applied only to the right renal artery. After a 6- month 
+follow -up, the patient was pain-free and normotensive with all drugs 
+withdrawn. She experienced no hypertensive crises in themeant ime. 
+The authors concluded that this observation suggested that      
+ 
+          
+           
+ 
+ 
+        
+           
+       
+        
+         
+         
+              
+      
+         
+   
+     
+       
+     
+       
+           
+     
+           
+       
+         
+          
+     
+ 
+      
+         
+          
+       
+         
+         
+         
+          
+  
+ 
+             
+          
+         Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 24 of 34 
+percutaneous sympathetic RF denervation could prove to be an effective 
+mini-invasive strategy for the treatment of chronic renal pain, and LPHS in 
+particular. 
+de Beus and colleagues (2013) stated that RDN using a catheter 
+delivering RF energy to the renal artery vessel wall has recently emerged 
+as a promising new treatment for difficult -to-treat hypertension. The 
+beneficial effect of this intervention, attributable to sympathetic nerves interruption, has been coherently demonstrated in both an observational 
+study and a controlled trial. Of note, according to the available follow -up 
+studies, the hypotensive effect of RDN has been shown to last for up to 2 
+to 3 years. The European Society of Hypertension has published a position paper with recommendations for the application of this new technique including the eligibility criteria and issues that need to be addressed in further trials. Several other condit ions associated with 
+sympathetic over -activity as diverse as HF, atrial fibrillation (AF), insulin 
+resistance, sleep apnea and polycystic ovary syndrome have been described as being responsive to RDN and/or are being subjected to further study. Renal dener vation has become a hot topic as illustrated by 
+the large number of ongoing and planned trials of the technique. In this issue, Gambaro et al (2013) described the use of catheter -based RDN for 
+yet another indication, namely pain control in LPHS. The author s 
+concluded that application of catheter -based RDN should be subjected to 
+a properly conducted clinical trial in order to provide definitive evidence for its effectiveness, or otherwise, in LPHS. 
+Casteleijn and associates (2014) noted that chronic pain is a common 
+concern in patients with ADPKD. These investigators reported, to their best knowledge, the first catheter -based RDN procedure in a patient with 
+ADPKD resulting in successful management of chronic pain. The patient was a 43- year old woman whose chronic pain could not be controlled by 
+pain medication or splanchnic nerve blockade. Transluminal RF RDN was performed as an experimental therapeutic option with an excellent result, indicating that this procedure should be considered for chronic pain 
+management in ADPKD. 
+Riccio and colleagues (2014) described a case of RDN in a woman with 
+single -kidney stage 4 chronic kidney disease secondary to ADPKD and 
+uncontrolled treatment -resistant hypertension. Due to failure of all other      
+ 
+         
+         
+     
+          
+     
+       
+     
+     
+            
+        
+    
+ 
+         
+        
+      
+      
+           
+        
+          
+        
+       
+       
+         
+        
+         
+     
+        
+         
+           
+           
+        
+        
+        
+         
+    
+ 
+         
+         
+      Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 25 of 34 
+therapeutic strategies, including uni-nephrectomy, RDN by RF ablation of 
+the single renal artery was performed. After the procedure, the patient’s 
+BP declined remarkably, decreasing her need for anti -hypertensive 
+medication. Moreover, the patient did not experience a significant decline 
+in kidney function. Furthermore, the authors noted that several studies supported the safety and efficacy of RDN. However, the existing 
+evidence was limited by small studies and short -term follow -up. They 
+stated that a large trial, recently completed but not yet published (at the time of writing), as well as ongoing clinical trials, should provide important 
+information regarding the safety and efficacy of RDN for resistant hypertension or other indications. 
+Casteleijn and co- workers (2017) stated that ADPKD patients can suffer 
+from chronic pain that can be refractory to conventional treatment, resulting in a wish for nephrectomy. These investigators examined the effect of a multi -disciplinary treatment protoc ol with sequential nerve 
+blocks on pain relief in ADPKD patients with refractory chronic pain. As a first-step a diagnostic, temporary celiac plexus block with local 
+anesthetics was performed. If substantial pain relief was obtained, the assumption was that pain was relayed via the celiac plexus and major 
+splanchnic nerves. When pain recurred, patients were then scheduled for 
+a major splanchnic nerve block with RF ablation. In cases with no pain relief, it was assumed that pain was relayed via the aortico-r enal plexus, 
+and catheter -based RDN was performed. A total of 60 patients were 
+referred, of which 44 were eligible. In 36 patients, the diagnostic celiac 
+plexus block resulted in substantial pain relief with a change in the 
+median visual analog scale (VAS) score pre- post intervention of 50/100. 
+Of these patients, 23 received a major splanchnic nerve block because pain recurred, with a change in median VAS pre- post block of 53/100. In 
+8 patients without pain relief after the diagnostic block, RDN was 
+perform ed in 5, with a borderline significant change in the median VAS 
+pre-post intervention of 20/100. After a median follow -up of 12 months, 
+81.8 % of the patients experienced a sustained improvement in pain 
+intensity, indicating that the treatment protocol was effective in obtaining 
+pain relief in ADPKD patients with refractory chronicpain. 
+de Jager and colleagues (2018) noted that LPHS and ADPKD are the most important non- urological conditions to cause chronic severe kidney -
+related pain. Multi -disciplinary programs and surgical methods have      
+ 
+ 
+       
+          
+          
+        
+       
+         
+       
+         
+       
+          
+           
+         
+    
+    
+    
+        
+               Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 26 of 34 
+shown  inconsistent  results  with  respect  to  pain  reduction.  Percutaneous  
+catheter -based  RDN  could  be  a  less  invasive  therapeutic  option  for  these 
+patients.  These  researchers  examined  the  change  in  perceived  pain  and 
+use  of  analgesic  medication  from  baseline  to 3,  6 and  12 months  after  
+RDN.  Patients  with  LPHS or  ADPKD,  who experienced  kidney -related 
+pain  for  greater  than or  equal  to  3 months  with  a  VAS score of  greater  
+than or  equal  to 50/100 were included in this trial. Percutaneous  RDN  
+was  performed with  a  single- electrode RF  ablation  catheter.  Renal  
+denervation was  performed in  11 patients  (6 with LPHS  and  5 with 
+ADPKD).  Perceived pain  declined in  the whole  group by  23 mm(p =   
+0.12  for  the  total  group).  In  patients  with  LPHS  and  ADPKD,  the  median  
+daily  defined dosage of  analgesic  medication decreased  from  1.6  [inter ­ 
+quartile  range  (IQR)  0.7  to  2.3]  and  1.4  (IQR  0.0  to7.4)  at  baseline  to  0.3 
+(IQR  0.0  to  1.9;  p =  0.138)  and  0.0  (IQR  0.0  to  0.8;  p =  0.285)  at  12 months,  
+respectively.  Mean estimated glomerular  filtration rate (eGFR)  
+decreased  in  the whole  group by  5.4 ml/min/1.73  m2 at  6 months  
+compared with  baseline  (p =  0.163).  The authors  concluded that  these  
+findings  suggested  that  percutaneous  catheter -based  RDN  reduced  pain 
+complaints  and  the  use  of  analgesic  medication  in  patients  with  LPHS  or 
+ADPKD.  Moreover, they  stated that these results can serve as the  
+rationale  for  a  larger,  preferably  randomized  (sham)  controlled  study.  
+Prasad 
+and associates (2018) stated that LPHS is characterized by 
+severe unilateral or bilateral loin pain that suggests a renal origin but 
+occurs in the absence of identifiable or relevant urinary tract disease. Hematuria can either be microscopic or macroscopic, but the renal 
+abnormalities responsible for the hematuria are unexplained. Debilitating 
+pain refractory to conventional pain medications is the main cause of 
+morbidity. In a single -arm, single -center study, 12 patients between the 
+ages of 21 and 62 years (11 women, 1 man) with LPHS underwent endovascular ablation of the renal nerves between July 2015 and 
+November 2016, using the Vessix renal denervation system. The primary 
+objective was to achieve 30 % reduction in self -reported pain with the 
+McGill Pain Questionnaire (MPQ) at 6 months. The secondary objectives 
+were to measure changes in disability (Oswestry Disability Index [ODI]), 
+mood (Geriatric Depression Scale [GDS]), and QOL (EuroQol -5D [EQ ­
+5D] and the MOS 36- Item Short Form Survey [SF -36]) scores from 
+baseline to 6 months post -procedure; 10 of 12 patients at 3 months and 
+11 of 12 patients at 6 months reported a greater than 30 % reduction in      
+ 
+        
+    
+      
+          
+      
+            
+      
+ 
+           
+          
+           
+            
+          
+       
+   
+        
+    
+       
+        
+      
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+  
+  
+  
+  Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 27 of 34 
+pain based on the MPQ at 3 and 6 months. These researchers found 
+consistent improvements in MPQ, ODI, GDS, EQ- 5D, and SF -36 scores 
+from baseline to 6 months post -procedure. The authors concluded that 
+RDN was associated with a considerable improvement in pain, disability, 
+QOL, and mood. These findings suggested that perc utaneous catheter -
+based delivery of RF energy is a safe, rapid therapeutic option that should 
+be considered in all patients with LPHS. 
+The authors stated that results of this study would no doubt have to be 
+followed- up with a RCT involving a sham group. Nevertheless, the initial 
+improvement in pain observed in these patients opened up the possibility 
+of conducting further clinical studies of LPHS with RDN as the treatment 
+modality. Also, long-term clinical studies are needed to fully evaluate the 
+beneficial effects of RDN. The negative results associated with RDN in BP trials, venoplasty in multiple sclerosis, vertebroplasty for wedge compression fractures, use of percutaneous laser myocardial re­
+vascularization, cardio -inhibitory syncope with implantation of a 
+pacemaker, and intra-articular injection of anti -inflammatory medications 
+should temper one’s enthusiasm regarding the apparently positive results 
+to be proved only to have a sham impact. 
+CPT Codes/ HCPCS Codes/ICD -10 Codes
+Information in the [brackets] below has been added for clarification 
+purposes. Codes requiring a 7th character are represented by “+” 
+Code Code Description 
+CPT codes not covered for indications listed in the CPB : 
+Radiofrequency ablation of the renal sympathetic nerve : 
+No specific code 
+Code Code Description 
+0338T  - 
+0339T  Transcatheter  renal  sympathetic  denervation,  
+percutaneous  approach including arterial  puncture,  
+selective catheter  placement(s)  renal  artery(ies),  
+fluoroscopy,  contrast injection(s), intraprocedural  
+roadmapping  and radiological  supervision  and 
+interpretation,  including pressure  gradient  
+measurements,  flush  aortogram  and  diagnostic  renal  
+angiography  when performed       
+ 
+ 
+ 
+ 
+ 
+ 
+          
+       
+       
+  
+             
+      
+ 
+        
+  
+    
+    
+       
+       
+  
+         
+      
+  Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 28 of 34 
+ICD-10 codes not covered for indications listed in the CPB (not all 
+inclusive)  :  
+G47.33  Obstructive  sleep  apnea (adult)  (pediatric)  
+G89.29  Other  chronic  pain  [kidney -related]  
+I10 - I16.2  Hypertensive  disease  
+I21.01 - 
+I21.4  ST  elevation  (STEMI)  and  non-ST  elevation  NSTEMI 
+myocardial  infarction  
+I47.0 - I47.9  Paroxysmal tachycardia  
+I48.0 - 
+I48.92  Atrial fibrillation and flutter  
+I49.01 - 
+I49.9  Other  cardiac  arrhythmias  
+N18.1 - 
+N18.9  Chronic kidney  disease  
+N23  Unspecified  renal  colic  [chronic kidney -related  pain]  
+The above policy is based on the following references: 
+1. Bakris GL, Townsend RR, Liu M, et al; SYMPLICITY HTN -3 
+Investigators. Impact of renal denervation on 24-hour 
+ambulatory blood pressure: Results from SYMPLICITY HTN -3. J 
+Am Coll Cardiol. 2014;64(11):1071 -1078. 
+2. Barrett CJ. Renal sympathetic nerves -what have they got to do 
+with cardiovascular disease? Exp Physiol. 2015;100(4):359 -365. 
+3. Bhatt DL, Kandzari DE, O'Neill WW, et al; SYMPLICITY HTN -3 
+Investigators. A controlled trial of renal denervation for resistant 
+hypertension. N Engl J Med. 2014;370(15):1393 -1401. 
+4. Bohm M, Kario K, Kandzari DE, et al, SPYRAL HTN -OFF MED 
+Pivotal Investigators.  Eﬃcacy  of catheter -based renal 
+denervation in the absenc e of antihypertensive medications 
+(SPYRAL HTN -OFF MED Pivotal): A multicentre, randomised, 
+sham -controlled trial. Lancet. 2020;395:1444 -1451. 
+5. Bolignano D, Coppolino G. Renal nerve ablation for resistant 
+hypertension:  Facts,  ﬁctions  and future  directions. Rev 
+Cardiovasc Med. 2019;20(1):9 -18.      
+    
+      
+         
+ 
+  
+       
+  
+ 
+            
+        
+  
+  
+  
+ 
+        
+      
+   
+         
+  
+           
+       
+        
+           
+         
+ 
+            
+       
+  
+          
+      
+ 
+  
+      
+        
+            
+ 
+    
+       
+        
+  Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 29 of 34 
+6. Booth LC, Schlaich MP, Nishi EE, et al. Short -term  eﬀects  of 
+catheter -based renal denervation on cardiac sympathetic drive 
+and cardiac  baroreﬂex  function  in heart  failure.  Int J Cardiol. 
+2015;190:220 -226. 
+7. Casale P, Meyers K, Kaplan B. Follow -up for laparoscopic renal 
+denervation andnephropexy forautosomal dominant polycystic 
+kidney disease -related pain in pediatrics. J Endourol. 
+2008;22(5):991 -993. 
+8. Casteleijn NF, de Jager RL, Neeleman MP, et al. Chronic kidney 
+ 
+pain in autosomal dominant polycystic kidney disease: A case 
+report of successful treatment by catheter -based renal 
+denervation. Am J Kidney Dis. 2014;63(6):1019 -1021. 
+ 
+9. Casteleijn NF, van Gastel MD, Blankestijn PJ, et al; DIPAK 
+ 
+Consortium. Novel treatment protocol for ameliorating 
+ 
+refractory, chronic pain in patients with autosomal dominant 
+ 
+polycystic kidney disease. Kidney Int. 2017;91(4):972 -981. 
+ 
+10. Chen C, Upadhyay A. Renal denervation for uncontrolled 
+hypertension: Critical review of the evidence. Curr Opin Nephrol 
+Hypertens. 2017;26(2):114 -122. 
+11. Dai Q,  Lu J, Wang  B, Ma G. Eﬀect  of percutaneous  renal 
+sympathetic nerve radiofrequency ablation in patients with 
+severe heart failure. Int J Clin Exp Med. 2015;8(6):9779 -9785. 
+12. de Beus E, Blankestijn PJ, Fox JG, Zoccali C. Catheter -based renal 
+denervation as a novel treatment for loin pain haematuria 
+syndrome. Nephrol Dial Transplant. 2013;28(9):2197 -2199. 
+13. de Jager RL, Casteleijn NF, de Beus E, et al. Catheter -based renal 
+denervation as therapy for chronic severe kidney -related pain. 
+Nephrol Dial Transplant. 2018;33(4):614 -619. 
+14. Denker MG, Cohen DL. Resistant hypertension and renal nerve 
+denervation. Methodist Debakey Cardiovasc J. 2015;11(4):240 ­
+244. 
+15. Di Biase L, Walsh EP. Treatment of symptomatic arrhythmias 
+associated withthe Wolﬀ -Parkinson -White syndrome. UpToDate 
+[online serial]. Waltham, MA: UpToDate; reviewed July 2016. 
+16. Esler M, Guo L. The future of renal denervation. Auton Neurosci. 
+2017;204:131 -138. 
+17. Esler MD, Krum H, Schlaich M, et al. Renal sympathetic 
+denervation fortreatment of drug -resistant hypertension: One -
+year results from the Symplicity HTN -2 randomized, controlled 
+trial. Circulation. 2012;126( 25):2976 -2982.      
+            
+  
+ 
+  
+  
+         
+ 
+ 
+ 
+ 
+        
+  
+    
+     
+      
+           
+         
+         
+    
+          
+        
+       
+   
+  
+       
+ 
+ 
+       
+  
+         
+      
+          
+ 
+      
+  
+          
+  
+   
+       
+      Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 30 of 34 
+18. Fadl Elmula FE, Hoﬀmann  P, Larstorp AC, et al. Adjusted drug 
+treatment is superior to renal sympathetic denervation in 
+patients with true treatment -resistant hypertension. 
+Hypertension. 2014;63(5):991 -999. 
+19. Feng Q, Lu C, Wang L, et al. Eﬀects of renal denervation on  
+cardiac oxidative stress and local activity of the sympathetic 
+nervous system and renin -angiotensin system in acute 
+myocardial infracted dogs. BMC Cardiovasc Disord. 
+2017;17(1):65. 
+20. Gambaro G, Fulignati P, Spinelli A, et al. Percutaneous renal 
+sympathetic nerve ablation for loin pain haematuria syndrome. 
+Nephrol Dial Transplant. 2013;28(9):2393 -2395. 
+21. Geisler BP, Egan BM, Cohen JT, et al. Cost -eﬀectiveness  and 
+clinical eﬀectiveness  of catheter -based renal denervation for 
+resistant hypertension. J AmCollCardiol. 2012;60(14):1271 -1277. 
+22. Hoﬀmann  BA, Steven D, Willems S, Sydow K. Renal sympathetic 
+denervation as an adjunct to catheter ablation for the treatment 
+of ventricular electrical storm in the setting of acute myocardial 
+infarction. J Cardiovasc Electrophysiol. 2013;24(10):1175 -1178. 
+23. Kandzari DE, Bhatt DL, Sobotka PA, et al. Catheter -based renal 
+denervation for resistant hypertension: Rationale and design of 
+the SYMPLICITY HTN -3 Trial. Clin Cardiol. 2012;35(9):528 -535. 
+24. Krum H, Schlaich M, Whitbourn R, et al. Catheter -based renal 
+sympathetic denervation for resistant hypertension: A 
+multicentre safety and proof -of-principle cohort study. Lancet. 
+2009;373(9671):1275 -1281. 
+25. Levy S, Olshansky B. Arrhythmia management for the primary 
+care clinician. UpToDate [online serial]. Waltham, MA: UpToDate; 
+reviewed July 2016. 
+26. Lobodzinski SS. New developments in the treatment of severe 
+drug resistant hypertension. Cardiol J. 2011;18(6):707 -711. 
+27. Mahfoud F, Vonend O, Bruck H, et al; DeutscheGesellschaft für 
+Hypertonie und Prävention. Expert consensus statement on 
+interventional renal sympatheticdenervation forhypertension 
+treatment. Dtsch Med Wochenschr. 2011;136(47):2418. 
+28. McBryde FD, Hart EC, Ramchandra R, Paton JF. Evaluating the 
+carotid bodies and renal nerves as therapeutic targets for 
+hypertension. Auton Neurosci. 2017;204:126 -130. 
+29. Medtronic. Medtronic announces U.S. renal denervation pivotal 
+trial fails to meet  primary eﬃcacy endpoint  while  meeting      
+        
+ 
+          
+  
+      
+       
+   
+   
+ 
+        
+  
+          
+  
+  
+         
+          
+  
+             
+ 
+ 
+        
+       
+  
+           
+  
+  
+         
+   
+ 
+  
+        
+   
+ 
+          
+  
+ 
+          
+  
+   Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 31 of 34 
+primary safety. Press Release. Fridley, MN: Medtronic; January 9, 
+2014. 
+30. Mundy L, Hiller J. Renal sympathetic denervation for the 
+treatment of resistant hypertension. Horizon 
+Scanning Technology Prioritising Summary. Australia and New 
+Zealand Horizon Scanning Network. Canberra, ACT: Adelaide 
+Health Technology; March, 2010. 
+31. National Institute for Health and Clinical Excellence (NICE). 
+Percutaneous transluminal radiofrequency sympathetic 
+denervation of the renal artery for resistant hypertension.NICE 
+Interventional Procedure Guidance 418. London, UK: NICE; 
+January 2012. 
+32. National Institutes of Health (NIH), National Library of Medicine 
+(NLM). Renal sympathetic denervation to suppress 
+tachyarrhythmias in ICD recipients (RESCUE). ClinicalTrial.gov. 
+No. NCT01747837. Bethesda, MD: NLM; last veriﬁed  June 2017. 
+33. Oparil S, Schmieder RE. New approaches in the treatment of 
+hypertension. Circ Res. 2015;116(6):1 074-1095. 
+34. Ott C, Mahfoud F, Schmid A, et al. Renal denervation in moderate 
+treatment -resistant hypertension. J Am Coll Cardiol. 
+2013;62(20):1880 -1886. 
+35. Papademetriou  V, Doumas  M, Tsiouﬁs  K. Renal sympathetic  
+denervation for the treatment of diﬃcult -to-control or resistant 
+hypertension. Int J Hypertens. 2011; 2011. 
+36. Patel RA, White CJ. Renal intervention to treat hypertension. Curr 
+Cardiol Rep. 2012;14(2):142 -149. 
+37. Prasad B, Giebel S, Garcia F, et al. Successful use of renal 
+denervation in patie nts with loin pain hematuria syndrome -The 
+Regina Loin Pain Hematuria Syndrome Study. Kidney Int Rep. 
+2018;3(3):638 -644. 
+38. Remo BF, Preminger M, Bradﬁeld J, et al. Safety and eﬃcacy of  
+renal denervation as a novel treatment of ventricular tachycardia 
+storm in patients with cardiomyopathy. Heart Rhythm. 
+2014;11(4):541 -546. 
+39. Riccio E, Sabbatini M, Esposito G, Pisani A. Catheter -based renal 
+denervation in ADPKD: Just for pain control? Am J Kidney Dis. 
+2014;64(6):999. 
+40. Rosenberg M. Overview of the management of chronic kidney 
+disease in adults. UpToDate [online serial]. Waltham, MA: 
+UpToDate; reviewed July 2016.      
+       
+  
+        
+  
+          
+  
+            
+  
+ 
+  
+            
+  
+   
+          
+        
+        
+ 
+  
+ 
+ 
+ 
+   
+    
+       
+  
+  
+  
+         
+ Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 32 of 34 
+41. Shantha GP,  Pancholy  SB. Eﬀect  of renal sympathetic  
+denervation on apnea -hypopnea index in patients with 
+obst ructive sleep apnea: A systematic review and meta -analysis. 
+Sleep Breath. 2015;19(1):29 -34. 
+42. Simonyi G, Bedros JR, Medvegy M. Device therapy of resistant 
+hypertension. Orv Hetil. 2013;154(6):203 -208. 
+43. Stavropoulos K, Patoulias D, Imprialos K, et al. Eﬃcacy  and safety 
+of renal denervation for the management of arterial 
+hypertension: A systematic review and meta -analysis of 
+randomized, sham -controlled, catheter -based trials. J Clin 
+Hypertens (Greenwich). 2020;22(4):572 -584. 
+44. Tam GM, Yan BP, Shetty SV, Lam YY. Transcatheter renal artery 
+sympathetic denervation for resistant hypertension: An old 
+paradigm revisited. Int J Cardiol. 2013;164(3):277 -281. 
+45. Thorp AA, Schlaich MP. Device -based approaches for renal nerve 
+ablation for hypertension and beyond. Front Physiol. 2015;6:193. 
+46. Tsiouﬁs  K. Ventricular arrhythmia episodes may decrease after 
+renal denervation in resistant hypertensive patients. Cardiac 
+Rhythm News, March 21, 2013. Available at: 
+http://www.cxvascular.com/crn -latest -news/cardiac -rhythm ­
+news ---latest -news/ventricular- arrhythmia -episodes -may ­
+decrease -after -renal -denervation -in-resistant -hypertensive ­
+patien ts. Acessed September 18, 2014 
+47. Ukena C, Bauer A, Mahfoud F, et al. Renal sympathetic 
+denervation fortreatment of electrical storm: First -in-man 
+experience. Clin Res Cardiol. 2012;101(1):63 -67. 
+48. Voskuil M, Verloop WL, Blankestijn PJ, et al. Percutaneous ren al 
+denervation for the treatment of resistant essential 
+hypertension; the ﬁrst Dutch experience. Neth Heart J. 2011;19(7 ­
+8):319 -323.      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+                 
+       
+              
+                  
+  
+ 
+ 
+ 
+ 
+ 
+ Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 33 of 34 
+Copyright Aetna Inc. All rights reserved. Clinical Policy Bulletins are developed by Aetna to assist in administering plan be nefits and 
+constitute neither offers of coverage nor medical advice. This Clinical Policy Bulletin contains only a partial, general description of plan or 
+program benefits and does not constitute a contract. Aetna does not provide health care services and, therefore, cannot guarantee any 
+results or outcomes. Participating providers are independent contractors in private practice and are neither employees nor agents of Aetna 
+or its affiliates. Treating providers are solely responsible for medical advice and treatment of members. This Clinical Policy Bulletin may be 
+updated and therefore is subject to change. 
+Copyright © 2001 -2021 Aetna Inc.      
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Radiofrequency Ablation of the Renal Sympathetic Nerve -Medical Clinical Policy Bulletins | Aetna Page 34 of 34 
+AETNA BETTER HEALTH® OF PENNSYLVANIA 
+Amendment to 
+ 
+Aetna Clinical Policy Bulletin Number: 0847 Radiofrequency 
+ 
+Ablation of the Renal Sympathetic Nerve 
+ 
+There are no amendments for Medicaid. 
+updated 12/17/2020 

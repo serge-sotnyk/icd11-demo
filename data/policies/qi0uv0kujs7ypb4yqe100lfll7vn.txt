@@ -1,0 +1,313 @@
+ 
+MEDICAL POLICY – 2.04. 515 
+Plasma -based Proteomic Screening in the Management of 
+Pulmonary Nodules  
+BCBSA Ref. Policy:  2.04.142  
+Effective Date:  Aug. 1 , 2022  
+Last Revised:  Jan. 1, 2023  
+Replaces:  12.04.142  RELATED MEDICAL POLICIES:  
+None  
+ 
+Select a hyperlink below to be directed to that section.  
+POLICY CRITERIA   |  CODING   |  RELATED INFORMATION  
+EVIDENCE REVIEW   |  REFERENCES  |   HISTORY  
+∞ Clicking this icon returns you to the hyperlinks menu above.  
+ 
+Introduction  
+A pulmonary nodule is a growth i n the lung. Finding out if a nodule is benign (not harmful) or 
+malignant (cancerous) often involves taking a sample of the nodule. Getting this sample requires 
+an invasive procedure (invasive means something is put into the body). Depending on where the 
+nodule is, the sample can be collected by passing a needle through the skin and chest wall  into 
+the lung or using a viewing instrument called a bronchoscope that’s passed down the throat and 
+into the lung’s airways. When there is a strong suspicion of cancer, surgery can also be used to remove the nodule, and  a sample is then examined to determine if cancer is present. Recently, 
+tests have been developed that look at certain levels of proteins in the blood. The goal is to try to determine if invasive testing is needed for pulmonary nodules. These protein test s are 
+investigational (unproven). More study is needed to determine if these tests are effective.  
+ 
+Note:    The Introduction section is for your general knowledge and is not to be taken  as policy coverage criteria. The 
+rest of the policy uses specific words and concepts familiar to medical professionals. It is intended for 
+providers . A provider can be a person, such as a doctor, nurse, psychologist, or dentist. A provider also can 
+be a place where medical care is given, like a hospital, clinic, or lab.  This policy informs them about when a 
+service may be covered.  
+ 
+2.04.515_PBC (01-01-2023)
+ 
+ 
+   
+ 
+ 
+   
+Page | 2 of 9  ∞ Policy Coverage Criteria   
+ 
+Service  Investigational  
+Plasma -based proteomic 
+screening Plasma -based proteomic screening tests, including but not 
+limited to BDX-XL2  (Nodify XL2®), in patients with 
+undiagnosed pulmonary nodules detected by computed 
+tomography  are considered investigational.  
+ 
+Coding   
+ 
+Code  Description  
+CPT 
+0080U  Oncology ( lung), mass spectrometric analysis of aalectin -3-binding protein and 
+scavenger receptor rysteine -rich type 1 protein M130, w ith five c linical risk factors 
+(age, smoking status, nodule diameter, nodule -spiculation status and nodule location), 
+utilizing plasma, algorithm reported as a categorical probability of malignancy (BDX -
+XL2 [Nodify XL2®]) 
+0092U  Oncology (lung), three protein biomarkers, immunoassay using magnetic nanosensor 
+technology, plasma, algorithm reported as risk score for likelihood of malignancy  
+(Reveal Lun g Nodule Characterization )  
+0360U  Oncology (lung), enzyme -linked immunosorbent assay (ELISA) of 7 autoantibodies 
+(p53, NY -ESO -1, CAGE, GBU4 -5, SOX2, MAGE A4, and HuD), plasma, algorithm 
+reported as a categorical result for risk of malignancy  (new code effective 1/1/2023)  
+Note:  CPT codes, descriptions and materials are copyrighted by the American Medical Association (AMA). HCPCS 
+codes, descriptions and materials are copyrighted by Centers for Medicare Services (CMS).  
+ 
+Related Information   
+ 
+N/A 
+ 
+Evidence Review   Page | 3 of 9  ∞  
+Description 
+Plasma -based proteomic screening is a  molecular test available in the diagnostic workup of 
+pulmonary nodules. To rule out malignancy, invasive diagnostic procedures such as computed 
+tomography (CT) -guided biopsies, bronchoscopies, or video -assisted thoracoscopic procedures 
+are often required,  but each carry procedure- related complications ranging from postprocedure 
+pain to pneumothorax. Molecular diagnostic tests have been proposed to aid in risk -stratifying 
+patients to eliminate or necessitate the need for subsequent invasive diagnostic procedures.  
+ 
+Background  
+Pulmonary Nodules  
+Pulmonary nodules are a common clinical problem that may be found incidentally on a chest x -
+ray or computed tomography (CT) scan or during lung cancer screening studies of smokers. The 
+primary question after the detection of a pulmonary nodule is the probability of malignancy, 
+with subsequent management of the nodule based on various factors such as the radiographic 
+characteristics of the nodules (e.g., size, shape, density) and patient factors ( e.g., age, smoking 
+history, previous cancer history, family history, environmental/occupational exposures). The key 
+challenge in the diagnostic workup for pulmonary nodules is appropriately ruling in patients for 
+invasive diagnostic procedures and ruling out patients who should forgo invasive diagnostic 
+procedures. However, due to the low positive predictive value of pulmonary nodules detected 
+radiographically, many unnecessary invasive diagnostic procedures and/or surgeries are 
+performed to confirm or eliminate the diagnosis of lung cancer.  
+ 
+Proteomics  
+Proteomics is the study of the structure and function of proteins. The study of the concentration, 
+structure, and other characteristics of proteins in various bodily tissues, fluids, and other 
+materials has been proposed as a method  to identify and manage various diseases, including 
+cancer. In proteomics, multiple test methods are used to study proteins. Immunoassays use antibodies to detect the concentration and/or structure of proteins. Mass spectrometry is an 
+analytic technique that ionizes proteins into smaller fragments and determines mass and 
+composition to identify and characterize them. Page | 4 of 9  ∞  
+Plasma-Based Proteomic Screening for Pulmonary Nodules Plasma -based proteomic screening has been investigated to risk- stratify pulmonary nodules as 
+likely benign to increase the number of patients who undergo serial CT scans of their nodules 
+(active surveillance), instead of invasive procedures such as CT -guided biopsy or surgery. 
+Additionally, proteomic testing may also determine a likely malignancy in clinically low -risk or 
+intermediate- risk pulmonary nodules, thereby permitting earlier detection in a subset of 
+patients. 
+Xpresys® Lung and BDX -XL2 (Nodify ® XL2) are plasma -based proteomic screening test s that 
+measure the relative abundance of proteins from multiple disease pathways associated with 
+lung cancer using an analytic technique called multiple reaction monitoring mass spectroscopy. 
+The role of the test s is to aid physicians in differentiating likely benign from likely malignant 
+nodules. If the test yields a likely benign result, patients may choose active surveillance via serial CT scans to monitor the pulmonary nodule. If the test yields a likely malignant result, invasive 
+diagnostic procedures would be indicated. The test is therefore only used in the management of pulmonary nodules to rule in or out invasive diagnostic procedures and does not diagnose lung 
+cancer.  
+REVEAL Lung Nodule Characterization is a plasma- protein biomarker test that may ai d clinicians 
+in characterizing indeterminate pulmonary nodules (4- 30 mm) in current smokers 25 years of 
+age and older. The test is based on a multianalyte assay with a proprietary algorithmic analysis 
+using immunoassay, microarray, and magnetic nanoparticle detection techniques to obtain 
+laboratory data for calculation of the risk score for lung cancer. The REVEAL Lung Nodule 
+Characterization is presented on a scale from 0 to 100 with a single cut point at 50. The score is based on the measurement of 3 clin ical factors  (age, sex, and nodule diameter) and 3 proteins 
+(epidermal growth factor receptor [EGFR], prosurfactant protein B [ProSB], and tissue inhibitor of metalloproteinases 1 [TIMP1]  associated with the presence of lung cancer. It may aid a clinician 
+in the decision to perform a biopsy or to consider routine monitoring. It is not intended as a 
+screening or stand- alone diagnostic assay.  
+ 
+Summary of Evidence  
+For individuals with undiagnosed pulmonary nodules detected by computed tomography (CT) who receive plasma -based proteomic screening, the evidence includes prospective cohorts and 
+prospective- retrospective studies. Relevant outcomes are overall survival, disease- specific 
+survival, test accuracy and validity, morbid events, hospitalizations, and resource utilization. Page | 5 of 9  ∞ Clinical validation studies were identified for two  versions of a proteomic classifier.  This classifier 
+has undergone substantial evolution, from a 13- protein assay to a 2-protein assay integrated 
+with clinical factors. Because of this evolution, the most relevant studies are with the most recent 
+version two. One validation study on the version two has been identified. The classifier has been 
+designed to have high specificity for malignant pulmonary nodules, and the validation study 
+showed a  specificity of 97% for patients with low to moderate pretest probability (< 50%) of a 
+malignant pulmonary nodule. The primary limitation of this study is that a high number of 
+patients were excluded from the study due to incomplete clinical data or because they were subsequently determined to be outside of the intended use population. It is unclear if the 
+intended use population was determined a priori. Validation in an independent sample in the 
+intended use population is needed. The evidence is insufficient to determine that the 
+technology results in an improvement in the net health outcome. 
+A clinical validation retrospective study for risk assessment for indeterminate pulmonary nodules 
+using a plasma -protein based biomarker assay was identified  as having a 94% specificity for 
+correctly identifying intermediate risk samples as either low risk or high risk. Limitations of this 
+study include the need to assess the test in other races (the majority tested were white), assess 
+how other conditions might affect the performance of the assay such as obesity and its pro -
+inflammatory state, or steroid use, and assess how compliance with follow -up may affect 
+whether a diagnosis might be missed. A clinical utility study is also needed to assess the impact 
+of the algori thm on clinical decision making along with long -term follow -up with the rate of 
+lung cancer deaths prevented to verify the test is an effective marker of aggressive lung cancer. The evidence is insufficient to determine that the technology results in an improvement in the 
+net health outcome.  
+ 
+Ongoing and Unpublished Clinical Trials  
+Some currently unpublished trials that might influence this review are listed in Table 1 . 
+ 
+Table 1. Summary of Key Trials  
+NCT No.  Trial Name  Planned 
+Enrollment  Completion 
+Date  
+Ongoing  
+NCT04171492a
+ A Multicenter, Randomized Controlled Trial, 
+Prospectively Evaluating the Clinical Utility of 2000  Dec 2024  Page | 6 of 9  ∞ NCT No.  Trial Name  Planned 
+Enrollment  Completion 
+Date  
+the Nodify XL2 Proteomic Classifier in 
+Incidentally Discovered Low to Moderate Risk 
+Lung Nodules  
+NCT03766958a An Observational Registry Study to Evaluate 
+the Performance of the BDX -XL2 Test  1250  Dec 2023  
+NCT: national clinical trial. a Denotes industry -sponsored or cosponsored trial. 
+ 
+Practice Guidelines and Position Statements  
+Guidelines or position statements will be considered for inclusion if they were issued by, or 
+jointly by, a US professional society, an international society with US representation, or National 
+Institute for Health and Care Excellence (NICE). Priority will be given to guidelines that are 
+informed by a systematic review, include strength of evidence ratings, and include a description of management of conflict of interest.  
+ 
+American College of Chest Physicians  
+In 2013, the American College of Chest Physicians published evidence- based clinical practice 
+guidelines on the diagnosis and management of lung cancer, including pulmonary nodules, which is discussed in the patient population parameters in the Plasma -Based Proteomic 
+Screening of Pulmonary Nodules section.
+15 
+ 
+American Thoracic Society  
+In 2017, the American Thoracic Society published a position statement on the evaluation of molecula r biomarkers for the early detection of lung cancer.
+16 The Society states that "a clinically 
+useful molecular biomarker applied to the evaluation of lung nodules may lead to expedited 
+therapy for early lung cancer and/or fewer aggressive interventions in patients with benign lung 
+nodules." To be considered clinically useful, a molecular diagnosis "must lead to earlier 
+diagnosis of malignant nodules without substantially increasing the number of procedures 
+performed on patients with benign nodules" or "fewer procedures for patients with benign 
+nodules without substantially delaying the diagnosis of cancer in patients with malignant nodules." Page | 7 of 9  ∞  
+Medicare National Coverage  
+MolDX will provide limited coverage for the BDX -XL2 test (Biodesix) for the management of a 
+lung nodule between 8 and 30mm in diameter, in patients at least 40 years of age and with a 
+pre-test cancer risk of 50% or less, as assessed by the Mayo Clinic Model for Solitary Pulmonary 
+Nodules. 
+ 
+Regulatory Status  
+Clinical laboratories m ay develop and validate tests in-house and market them as a laboratory 
+service; laboratory- developed tests must meet the general regulatory standards of the Clinical 
+Laboratory Improvement Amendments (CLIA). Xpresys® Lung 2/Nodify XL2 (BDX -XL2; 
+(Integrated Diagnostics [Indi], purchased by Biodesix ), and Reveal Lung Nodule Characterization 
+(MagArray , Inc.)  are available under the auspices of the CLIA . Laboratories that offer laboratory -
+developed tests must  be licensed by the CLIA  for high- complexit y testing. To date, the U.S. Food 
+and Drug Administration (FDA) has chosen not to require any regulatory review of these test.  
+References   
+ 
+1. Gould MK, Donington J, Lynch WR, et al. Evaluation of individuals with pulmonary nodules: when is it lung cancer? Diagnosis 
+and management of lung cancer, 3rd ed: American College of Chest Physicians evidence- based clinical practice guidelines. 
+Chest. May 2013; 143(5 Suppl): e93S -e120S. PMID 23649456  
+2. Li XJ, Hayward C, Fong PY, et al. A blood -based proteomic cl assifier for the molecular characterization of pulmonary nodules. 
+Sci Transl Med. Oct 16 2013; 5(207): 207ra142. PMID 24132637 
+3. Vachani A, Pass HI, Rom WN, et al. Validation of a multiprotein plasma classifier to identify benign lung nodules. J Thorac Oncol . Apr 2015; 10(4): 629- 37. PMID 25590604 
+4. Vachani A, Hammoud Z, Springmeyer S, et al. Clinical Utility of a Plasma Protein Classifier for Indeterminate Lung Nodules. Lung. Dec 2015; 193(6): 1023- 7. PMID 26376647 
+5. Kearney P, Hunsucker SW, Li XJ, et al. An integrated risk predictor for pulmonary nodules. PLoS One. 2017; 12(5): e0177635. PMID 28545097 
+6. Silvestri GA, Tanner NT, Kearney P, et al. Assessment of Plasma Proteomics Biomarker's Ability to Distinguish Benign From Malignant Lung Nodules: Results of the PANOPTIC (Pulmonary Nodule Plasma Proteomic Classifier) Trial. Chest. Sep 2018; 154(3): 491-500. PMID 29496499 Page | 8 of 9  ∞ 7. Tanner NT, Springmeyer SC, Porter A, et al. Assessment of Integrated Classifier's Ability to Distinguish Benign From Malignant 
+Lung Nodules: Extend ed Analyses and 2 -Year Follow- Up Results of the PANOPTIC (Pulmonary Nodule Plasma Proteomic 
+Classifier) Trial. Chest. Mar 2021; 159(3): 1283- 1287. PMID 33171158 
+8. Vachani A, Pass HI, Rom Wn, et al. Validation of a multiprotein plasma classifier to identify b enign lung nodules. Supplement. J 
+Thorac Oncol. April 2015;10(4):629- 637. https://cdn- links.lww.com/permalink/jto/a/jto_10_4_2015_01_07_massion_jto -d-
+14-00912_sdc1.pdf .  Accessed June 8, 2022. 
+9. Rivera MP, Mehta AC, Wahidi MM. Establishing the diagnosis of lung cancer: Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence -based  clinical practice guidelines. Chest. May 2013; 143(5 Suppl): e142S -
+e165S. PMID 23649436  
+10. Whitney DH, Elashoff MR, Porta -Smith K, et al. Derivation of a bronchial genomic classifier for lung cancer in a prospective 
+study of patients undergoing diagnostic br onchoscopy. BMC Med Genomics. May 06 2015; 8: 18. PMID 25944280  
+11. Silvestri GA, Vachani A, Whitney D, et al. A Bronchial Genomic Classifier for the Diagnostic Evaluation of Lung Cancer. N Engl J Med. Jul 16 2015; 373(3): 243- 51. PMID 25981554 
+12. Vachani A, Whitney DH, Parsons EC, et al. Clinical Utility of a Bronchial Genomic Classifier in Patients With Suspected Lung Cancer. Chest. Jul 2016; 150(1): 210- 8. PMID 26896702 
+13. Ferguson JS, Van Wert R, Choi Y, et al. Impact of a bronchial genomic classifier on clinical  decision making in patients 
+undergoing diagnostic evaluation for lung cancer. BMC Pulm Med. May 17 2016; 16(1): 66. PMID 27184093  
+14. Lee HJ, Mazzone P, Feller -Kopman D, et al. Impact of the Percepta Genomic Classifier on Clinical Management Decisions in a 
+Multicenter Prospective Study. Chest. Jan 2021; 159(1): 401- 412. PMID 32758562 
+15. Detterbeck FC, Lewis SZ, Diekemper R, et al. Executive Summary: Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence -based clinical pract ice guidelines. Chest. May 2013; 143(5 Suppl): 7S -37S. PMID 23649434  
+16. Mazzone PJ, Sears CR, Arenberg DA, et al. Evaluating Molecular Biomarkers for the Early Detection of Lung Cancer: When Is a Biomarker Ready for Clinical Use? An Official American Thoracic  Society Policy Statement. Am J Respir Crit Care Med. Oct 01 
+2017; 196(7): e15- e29. PMID 28960111  
+17. REVEAL Lung Nodule Characterization (Mag Array, Inc.). Available at URL: https://magarray.com/reveal/   Accessed June 8, 
+2022. 
+18. Trivedi NN, Arjomandi M, Brown JK, et al. Risk assessment for indeterminate pulmonary nodules using a novel, plasma -protein 
+based biomarker assay. Biomed Res Clin Pract.2018; 3(4):10. 15761/brcp.1000173. PMID: 32913898.  
+ 
+History   
+ 
+Date  Comments  
+01/04 /19 New policy , approved December 13 , 2018 , effective January 4, 2019 . This policy 
+replaces policy 12.04.142. Percepta® Bronchial Genomic Classifier  removed from 
+policy.  
+05/01/19  Minor update, History section updated for clarity.  
+08/01 /19 Annual Review, approved July 25, 2019. Policy updated with literature review through 
+March 2019; references added. Name of proteomic plasma assay changed to BDX -XL2.  Page | 9 of 9  ∞ Date  Comments  
+Removed CPT code 84999. Added CPT codes 0080U (new code effective 1/1/19) and 
+0092U  (new code effective7/1/19).  
+08/01 /20 Annual Review, approved July 2 , 2020. Policy updated with literature review through 
+March 2020; reference added. Policy statements unchanged.  
+10/01 /21 Annual Review, approved September 2, 2021. Policy updated with literature review 
+through March 18, 2021; reference added. Policy statements unchanged.  
+08/01 /22 Annual Review, approved  July 11 , 2022 . Policy updated with literature review through 
+April 1, 2 022; references added. Policy statements unchanged.  
+01/01/23  Coding update.  Added new CPT code 0360U . 
+ 
+Disclaimer : This medical policy is a guide in evaluating the medical necessity of a particular service or treatment. The 
+Company adopts policies after careful review of published peer -reviewed scientific literature, national guidelines and 
+local standards of practic e. Since medical technology is constantly changing, the Company reserves the right to review 
+and update policies as appropriate. Member contracts differ in their benefits. Always consult the member benefit 
+booklet or contact a member service representative  to determine coverage for a specific medical service or supply. 
+CPT codes, descriptions and materials are copyrighted by the American Medical Association (AMA). © 2023  Premera 
+All Rights Reserved.  
+Scope : Medical policies are systematically developed guidelines that serve as a resource for Company staff when 
+determining coverage for specific medical procedures, drugs or devices. Coverage for medical services is subject to 
+the limits and conditions of the member benefit plan. Members and their providers should consult the member 
+benefit booklet or contact a customer service representative to determine whether there are any benefit limitations 
+applicable to this service or supply. This medical policy does not apply to Medicare Adv antage.  Premera Blue Cross is a n independent licensee of the Blue Cross Blue Shield Association  serving businesses and residents of Alaska and Washington State, excluding C lark County.   
+052493  (07-01-2021) Discrimination is Against the Law  
+Premera Blue Cross  (Premera) complies with applicable Federal and Washington state civil rights laws and does not discriminate on the basis of race, 
+color, national o rigin, age, disability, sex, gender identity, or sexual orientation . Premera does not exclude people or treat them differently because of race, 
+color, national origin, age, disability , sex, gender identity, or sexual orientation.  Premera  provides free aids and services to people with disabilities to 
+communica te effectively with us, such as q ualified sign language interpreters  and w ritten information in other formats (large print, audio, accessible 
+electronic formats, other formats) . Premera p rovides fre e language services to people whose primary language is not English, such as  qualified interpreters  
+and i nformation written in other languages . If you need these services, contact the Civil Rights Coordinator.  If you believe that Premera has failed to 
+provide these services or discriminated in another way on the basis of race, color, national origin, age, disability, sex, gender identity, or sexual orientation , 
+you can file a grievance with:  Civil Rights Coordinator ─ Complaints and Appeals , PO Box 91102 , Seattle, WA 98111 , Toll free : 855-332-4535 , Fax: 425-918-5592 , 
+TTY: 711 , Email  AppealsDepartmentInquiries@Premera.com . You can file a grievance in person or by mail, fax, or email.  If you need help filing a 
+grievance, the Civil Rights Coordinator is available to help you.  You can also file a civil rights complaint with the U.S. Department of Health and Human 
+Services, Office for Civil Rights, electronically through the Office for Civil Righ ts Complaint Portal, available at  https://ocrportal.hhs.gov/ocr/portal/lobby.jsf , 
+or by mail or phone at:  U.S. Department of Health and Human Services,  200 Independence Ave SW, Room 509F, HHH B uilding , Washington, D.C. 20201, 
+1-800-368-1019,  800-537-7697 (TDD). Complaint forms are available at  http://www.hhs.gov/ocr/office/file/index.html .  
+Washington  residents : You can also file a civil rights complaint wi th the Washington State Office of the Insurance Commissioner, electronically through 
+the Office of the Insurance Commissioner Complaint Portal available at https://www.insurance.wa.gov/file -complaint -or-check -your-complaint -status , or by 
+phone at 800 -562-6900, 360 -586-0241 (TDD). Complaint forms are available at https: //fortress.wa.gov/oic/onlineservices/cc/pub/complaintinformation.aspx .  
+Alaska  residents : Contact the Alaska Division of Insurance via email at insurance@alaska.gov , or by phone at 907-269-7900 or 1 -800-INSURAK  (in-state, 
+outside Anchorage) . 
+Language Assistance  
+ATENCIÓN : si habla español, tiene a su disposición servicios gratuitos de asistencia lingüística. Llame al 800 -722-1471  (TTY: 711).  
+PAUNAWA : Kung nagsasalita ka ng Tagalog , maaari kang gumamit ng mga serbisyo ng tulong sa wika nang walang bayad. Tumawag sa  800-722-1471  (TTY: 711).  
+注意：如果您使用繁體中文，您可以免費獲得語言援助服務。請致電  800-722-1471  (TTY：711）。 
+CHÚ Ý : Nếu bạn nói Tiếng Việt, có các dịch vụ hỗ trợ ngôn ngữ miễn phí dành cho b ạn.  Gọi số 800-722-1471  (TTY: 711). 
+주의: 한국어를  사용하시는  경우, 언어 지원 서비스를  무료로  이용하실  수 있습니다 . 800-722-1471  (TTY: 711)  번으로  전화해  주십시오 . 
+ВНИМАНИЕ : Если вы говорите на русском языке, то вам доступны бесплатные услуги перевода.  Звоните  800-722-1471  (телетайп: 711). 
+LUS CEEV : Yog tias koj hais lus Hmoob , cov kev pab txog lus, muaj  kev pab dawb  rau koj. Hu rau 800-722-1471  (TTY:  711).  
+MO LOU SILAFIA : Afai e te tautala  Gagana fa'a Sāmoa, o loo iai auaunaga  fesoasoan, e fai fua e leai se totogi, mo oe,  Telefoni mai:  800-722-1471  (TTY: 711).  
+ໂປດຊາບ: ຖ້າວ່າ ທ່ານເວ ້າພາສາ ລາວ, ການບໍລິການຊ່ວຍເຫ  ຼື ອດ້ານພາສາ, ໂດຍບໍ່ເສ ັ ຽຄ່າ, ແມ່ນມ ີພ້ອມໃຫ້ທ່ານ. ໂທຣ 800-722-1471  (TTY: 711) . 
+注意事項 ：日本語を話される場合、無料の言語支援をご利用いただけます。 800-722-1471  （TTY:711）まで、お電話にてご連絡ください。  
+PAKDAAR : Nu saritaem ti Ilocano, ti serbisyo para ti baddang ti lengguahe nga awanan bayadna, ket sidadaan para kenyam.  Awagan ti  800-722-1471  (TTY: 711).  
+УВАГА!  Якщо ви розмовляєте українською мовою, ви можете звернутися до безкоштовної служби мовної підтримки.  Тел ефонуйте за 
+номером 800 -722-1471  (телетайп:  711). 
+ប្រយ័ត្ន៖   បរើសិនជាអ្នកនិយាយ  ភាសាខ្មែរ , បសវាជំនួយខ្ននកភាសា បោយមិនគិត្ឈ្ ន ួល គឺអាចមានសំរារ់រំបរ ើ អ្នក។  ចូរ ទូរស័ព្ទ   800-722-1471 ( TTY: 711)។ 
+ማስታወሻ :  የሚናገሩት  ቋንቋ ኣማርኛ  ከሆነ የትርጉም  እርዳታ ድርጅቶች፣  በነጻ ሊያግዝዎት  ተዘጋጀተዋል፡  ወደ ሚከተለው  ቁጥር ይደውሉ  800-722-1471 (መስማት  ለተሳናቸው : 711). 
+XIYYEEFFANNAA : Afaan  dubbattu  Oroomiffa , tajaajila  gargaarsa  afaanii , kanfaltiidhaan  ala, ni argama . Bilbilaa  800-722-1471 ( TTY: 711).  
+ملحوظة:  إذا كنت تتحدث اذكر اللغة، فإن خدمات المساعدة اللغوية تتوافر لك بالمجان.  اتصل برقم   1471-722-800    :(رقم هاتف الصم والبكم711 .) 
+ਧਿਆਨ  ਧਿਓ: ਜੇ ਤੁਸੀਂ ਪੰਜਾਬੀ  ਬੋਲਿੇ ਹੋ, ਤਾਂ ਭਾਸ਼ਾ ਧ ਿੱਚ ਸਹਾਇਤਾ  ਸੇ ਾ ਤੁਹਾਡੇ ਲਈ ਮੁਫਤ ਉਪਲਬਿ  ਹੈ। 800-722-1471 (TTY:  711) 'ਤੇ ਕਾਲ ਕਰੋ। 
+เรียน : ถ้าคุณพูดภาษาไทยคุณสามารถใช้บริการช่วยเหลือทางภาษาได้ฟรี  โทร 800-722-1471  (TTY: 711).  
+ACHTUNG : Wenn Sie Deutsch sprechen, stehen Ihnen kostenlos sprachliche Hilfsdienstleistungen zur Verfügung. Rufnummer: 800 -722-1471  (TTY: 711).  
+UWAGA : Jeżeli mówisz po polsku, możesz skorzystać z bezpłatnej pomocy językowej. Zadzwoń pod numer 800 -722-1471  (TTY: 711).  
+ATANSYON : Si w pale Kreyòl Ayisyen, gen sèvis èd pou lang ki disponib gratis pou ou.  Rele 800 -722-1471  (TTY: 711).  
+ATTENTION  : Si vous parlez français, des services d'aide linguistique vous sont proposés gratuitement.  Appelez le 800 -722-1471  (ATS :  711).  
+ATENÇÃO : Se fala português, encontram -se disponíveis serviços linguísticos, grátis.  Ligue para 800 -722-1471  (TTY: 711).  
+ATTENZIONE : In caso la lingua parlata sia l'italiano, sono disponibili servizi di assistenza linguistica gratuiti. Chiamare il numero  800-722-1471  (TTY: 711).   
+ توجه: اگر به زبان فارسی گفتگو می کنید، تسهیالت زبانی بصورت رايگان برای شما فراهم می باشد. با   (TTY: 711) 1471-722-800   .تماس بگیريد 

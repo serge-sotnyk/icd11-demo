@@ -1,0 +1,341 @@
+ 
+ 
+tezacaftor/ivacaftor (Symdeko™) 
+ 
+Policy #  00620  
+Original Effective Date: 05/16/2018 
+Current Effective Date: 01/09 /2023  
+ 
+ 
+©2022 Blue Cross and Blue Shield of Louisiana 
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company. 
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 1 of 7 
+ Applies to all products administered or underwritten by Blue Cross and Blue Shield of Louisiana and its subsidiary, 
+HMO Louisiana, Inc. (collectively referred to as the “Company”), unless otherwise provided in the applicable contract. 
+Medical technology is constantly evolving, and we reserve  the right to review and update Medical Policy periodically.  
+ 
+When Services May Be Eligible for Coverage  
+Coverage for eligible medical treatments or procedures, drugs, devices or biological products may 
+be provided only if: 
+• Benefits are available in the member’s contract/certificate, and  
+• Medical necessity criteria and guidelines are met. 
+ 
+Based on review of available data, the Company may consider tezacaftor/ivacaftor (Symdeko™)‡ for 
+the treatment of cystic fibrosis to be eligible for coverage.**  
+ 
+Patient Selection Criteria 
+Coverage eligibility for tezacaftor/ivacaftor (Symdeko) will be considered when the following 
+criteria are met: 
+• Patient has a documented diagnosis of cystic fibrosis; AND  
+• Patient is 6 years of age or older; AND  
+• Patient meets ONE of the following criteria:  
+ The patient is homozygous for the F508del  mutation in the cystic fibrosis 
+transmembrane conductance regulator (CFTR)  gene as detected by an FDA -cleared 
+test; OR  
+ The patient has confirmation of a mutation s in the CFTR  gene that is responsive to 
+tezacaftor/ivacaftor  (Symdeko)  as detected by an FDA cleared test : ND 
+• The drug will not be used in combination with ivacaftor (K alydeco®)‡, lumacaftor/ivacaftor 
+(Orkambi®)‡, or elexacaftor/tezacaftor/ivacaftor (Trikafta™)‡. 
+ 
+When Services Are Considered Investigational  
+Coverage is not available for investigational medical treatments or procedures, drugs, devices or 
+biological products . 
+  
+ 
+tezacaftor/ivacaftor (Symdeko™) 
+ 
+Policy #  00620  
+Original Effective Date:  05/16/2018  
+Current Effective Date:  01/09/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 2 of 7 
+Based on review of available data, the Company considers tezacaftor/ivacaftor (Symdeko) when 
+patient selection criteria are not met to be investigational.*  
+ 
+Policy Guidelines  
+CFTR Gene Mutations that Produce CFTR Protein and are Responsive to Symdeko  
+546insCTA  E92K  G576A  L346P  R117G  S589N  
+711+3A→G E116K  G576A;R668
+C L967S  R117H  S737F  
+2789+5G →A E193K  G622D  L997F  R117L  S912L  
+3272 -26A→G E403D  G970D  L1324P  R117P  S945L  
+3849+10kbC →T E588V  G1069R  L1335P  R170H  S977F  
+A120T  E822K  G1244E  L1480P  R258G  S1159F  
+A234D  E831X  G1249R  M152V  R334L  S1159P  
+A349V  F191V  G1349D  M265R  R334Q  S1251
+N 
+A455E  F311del  H939R  M952I  R347H  S1255P  
+A554E  F311L  H1054D  M952T  R348L  T338I  
+A1006E  F508C  H1375P  P5L R347P  T1036
+N 
+A1067T  F508C;S1251
+N I148T  P67L  R352Q  T1053I  
+D110E  F508del  I175V  P205S  R352W  V201M  
+D110H  F575Y  I336K  Q98R  R553Q  V232D  
+D192G  F1016S  I601F  Q237E  R668C  V562I  
+D443Y  F1052V  I618T  Q237H  R751L  V754M  
+D443Y;G576A;R66
+8C F1074L  I807M  Q359R  R792G  V1153
+E 
+D579G  F1099L  I980K  Q1291R  R933G  V1240
+G 
+D614G  G126D  I1027T  R31L  R1066
+H V1293
+G 
+D836Y  G178E  I1139V  R74Q  R1070
+Q W1282
+R  
+ 
+tezacaftor/ivacaftor (Symdeko™) 
+ 
+Policy #  00620  
+Original Effective Date:  05/16/2018  
+Current Effective Date:  01/09/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 3 of 7 
+D924N  G178R  I1269N  R74W  R1070
+W Y109N  
+D979V  G194R  I1366N  R74W;D1270N  R1162
+L Y161S  
+D1152H  G194V  K1060T  R74W;V201M  R1283
+M Y1014
+C 
+D1270N  G314E  L15P  R74W;V201M;D127
+0N R1283S  Y1032
+C 
+E56K  G551D  L206W  R75Q  S549N   
+E60K  G551S  L320V  R117C  S549R   
+ 
+Background/Overview  
+Cystic fibrosis is a serious genetic disorder affecting the lungs and other organs that ultimately leads 
+to an early death. It is caused by mutations in a gene that encodes for a protein called CFTR that 
+regulates ion (such as chloride) and water transport in the body. The defect in chloride and water 
+transport results in the formation of thick mucus that builds up in the lungs, digestive tract and other 
+parts of the body leading to severe respiratory and digestive problems, as well as other complications 
+such as infections and diabetes.  
+ 
+Symdeko is a combination of the CFTR potentiator, ivacaftor, and tezacaftor which increases the 
+amount of mature CFTR protein delivered to the cell surface. The combined effect of these two 
+drugs is to increase the quantity and function of CFTR at the cell surface which results in increased 
+chloride transport. Symdeko is indicated for treatment of cystic fibrosis in patients 6  years of age 
+and older who are either homozygous for the F508del  mutation in the CFTR  gene (the most common 
+CFTR  genotype and associated with severe disease) or who have at least one mutation in the CFTR  
+gene that is responsive to tezacaftor/ivacaftor (Symdeko) based on clinical and/or in vitro  assay data. 
+If a patient’s mutation status is not k nown, an FDA-cleared cystic fibrosis mutation test should be 
+used to determine whether a CFTR  mutation is present. Symdeko is supplied as co-packaged 
+tezacaftor 100mg/ivacaftor 150 mg fixed-dose combination tablets with ivacaftor 150 mg tablets and 
+tezacaftor 50 mg/ivacaftor 75 mg tablets with ivacaftor 75 mg tablets. Patients should take one 
+combination tablet in the morning and one ivacaftor tablet in the evening. Both doses should be 
+taken with a fat-containing meal to ensure adequate absorption. Examples of foods that contain fat 
+are those prepared with butter or oils or those containing eggs, cheeses, nuts, whole milk, or meats.  
+ 
+tezacaftor/ivacaftor (Symdeko™) 
+ 
+Policy #  00620  
+Original Effective Date:  05/16/2018  
+Current Effective Date:  01/09/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 4 of 7 
+Symdeko is not indicated for use in combination with other targeted cystic fibrosis therapies 
+including Kalydeco, Orkambi, and Trikafta. It should be noted that all of these products contain 
+ivacaftor as one of the active ingredients and Trikafta and Symdeko both contain tezacaftor as 
+another active ingredient.   
+ 
+FDA or Other Governmental Regulatory Approval  
+U.S. Food and Drug Administration (FDA) 
+Symdeko was approved by the FDA in February 2018 for the treatment of patients with cystic 
+fibrosis aged 12 years and older who are homozygous for the F508del  mutation or who have at least 
+one mutation in the CFTR  gene that is responsive to tezacaftor/ivacaftor based on in vitro data and/or 
+clinical evidence. In June 2019, the label was updated to include patients 6 years of age and older . 
+In December 2020, the label was further expanded to include 127  additional mutations based on in 
+vitro  data.   
+ 
+Rationale/Source  
+This medical policy was developed through consideration of peer-reviewed medical literature 
+generally recognized by the relevant medical community, U.S. Food and Drug Administration 
+approval status, nationally accepted standards of medical practice and accepted standards of medical 
+practice in this community, technology evaluation centers, reference to federal regulations, other 
+plan medical policies, and accredited national guidelines. 
+ 
+The efficacy of Symdeko was evaluated in two trials in different patient populations. The EVOLVE 
+trial evaluated 510 patients 12 years and older who were homozygous for the F508del  mutation in 
+the CFTR  gene. These subjects were randomized to placebo or Symdeko for 24 weeks. Treatment 
+with Symdeko resulted in modest improvement in FEV 1 (absolute change, 4 percentage points versus 
+placebo), and modest improvement in disease-related quality of life score (5.1 points versus 
+placebo). The rate of pulmonary exacerbations was 35% lower in the treatment group compared with 
+placebo (HR 0.64, 95% CI, 0.46-0.88). BMI increased slightly during the 24 week study, but was 
+not significantly different between the study groups. 
+ 
+The EXPAND trial evaluated 248 patients 12 years and older who were heterozygous for the 
+F508del mutation and had a residual function mutation and mild or moderate cystic fibrosis-related 
+lung disease. The patients were randomized in a crossover study to Symdeko alone, ivacaftor  
+ 
+tezacaftor/ivacaftor (Symdeko™) 
+ 
+Policy #  00620  
+Original Effective Date:  05/16/2018  
+Current Effective Date:  01/09/2023 
+ 
+(Kalydeco) monotherapy, or placebo. Treatment with Symdeko resulted in modest improvement in 
+FEV 1 (absolute change, 6.8 percentage points versus placebo), as did ivacaftor monotherapy 
+(absolute change, 4.7 percentage points versus placebo). The benefit of Symdeko compared to 
+Kalydeco was slight, but statistically significant (absolute change, 2.1 percentage points). Symdeko 
+also resulted in clinically significant improvements in a disease-related quality of life score (11.1 
+points versus placebo).  
+ 
+The efficacy of Symdeko in patients aged 6 to less than 12 years was extrapolated form patients age 
+12 years and older with support from population pharmacokinetic analyses showing similar 
+tezacaftor and ivacaftor exposure levels in patients age 6 to less than 12 years and in patients age 12 
+years and older. Safety of Symdeko in this population was derived from a 240 week, open-label, 
+clinical trial in 70 patients age 6 to less than 12 years administered either tezacaftor 50 mg/ivacaftor 
+75 mg and ivacaftor 75 mg or tezacaftor 100 mg/ivacaftor 150 mg and ivacaftor 150 mg, 12 hours 
+apart. Th safety profile for patients in this trial was similar to that observed in Trials 1 and 3. 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 5 of 7 
+ 
+References  
+1. Symdeko [package insert]. Vertex Pharmaceuticals. Boston, MA.  August 2021.   
+2. Symdeko prior authorization document. Express Scripts.  
+3. UpToDate. Cystic fibrosis: Overview of the treatment of lung disease.  
+ 
+Policy History  
+Original Effective Date: 05/16/2018 
+Current Effective Date: 01/09 /2023  
+05/03/2018 Medical Policy Committee review 
+05/16/2018 Medical Policy Implementation Committee approval. New policy. 
+05/02 /2019  Medical Policy Committee review 
+05/15 /2019  Medical Policy Implementation Committee approval. No change to coverage.  
+12/05/2019 Medical Policy Committee review 
+12/11/2019 Medical Policy Implementation Committee approval. Updated criteria and background 
+information to reflect FDA approval for patients aged 6-11 years. Added Trikafta as a 
+drug that should not be combined with Symdeko. 
+12/03/2020 Medical Policy Committee review  
+ 
+tezacaftor/ivacaftor (Symdeko™) 
+ 
+Policy #  00620  
+Original Effective Date:  05/16/2018  
+Current Effective Date:  01/09/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 6 of 7 
+12/09/2020 Medical Policy Implementation Committee approval. Coverage eligibility 
+unchanged. 
+12/02/2021 Medical Policy Committee review 
+12/08/2021 Medical Policy Implementation Committee approval. Updated criteria and 
+background information to include newly approved mutations. 
+12/01 /2022  Medical Policy Committee review 
+12/14 /2022  Medical Policy Implementation Committee approval.   Coverage eligibility 
+unchanged. 
+Next Scheduled Review Date: 12/2023  
+ 
+*Investigational – A medical treatment, procedure, drug, device, or biological product is 
+Investigational if the effectiveness has not been clearly tested and it has not been incorporated into 
+standard medical practice. Any determination we make that a medical treatment, procedure, drug, 
+device, or biological product is Investigational will be based on a consideration of the following: 
+A. Whether the medical treatment, procedure, drug, device, or biological product can be 
+lawfully marketed without approval of the U.S. Food and Drug Administration (FDA) and 
+whether such approval has been granted at the time the medical treatment, procedure, drug, 
+device, or biological product is sought to be furnished; or 
+B. Whether the medical treatment, procedure, drug, device, or biological product requires 
+further studies or clinical trials to determine its maximum tolerated dose, toxicity, safety, 
+effectiveness, or effectiveness as compared with the standard means of treatment or 
+diagnosis, must improve health outcomes, according to the consensus of opinion among 
+experts as shown by reliable evidence, including: 
+1. Consultation with technology evaluation center(s); 
+2. Credible scientific evidence published in peer-reviewed medical literature generally 
+recognized by the relevant medical community; or 
+3. Reference to federal regulations. 
+ 
+**Medically Necessary (or “Medical Necessity”) - Health care services, treatment, procedures, 
+equipment, drugs, devices, items or supplies that a Provider, exercising prudent clinical judgment, 
+would provide to a patient for the purpose of preventing, evaluating, diagnosing or treating an illness, 
+injury, disease or its symptoms, and that are: 
+A. In accordance with nationally accepted standards of medical practice;  
+ 
+tezacaftor/ivacaftor (Symdeko™) 
+ 
+Policy #  00620  
+Original Effective Date:  05/16/2018  
+Current Effective Date:  01/09/2023 
+ 
+  
+©202 2 Blue Cross and Blue Shield of Louisiana  
+ 
+Blue Cross and Blue Shield of Louisiana is an independent licensee of the Blue Cross and Blue Shield Association and incorporated 
+as Louisiana Health Service & Indemnity Company.  
+ 
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, or otherwise, without permission from Blue Cross and Blue Shield of Louisiana . 
+ 
+Page 7 of 7 
+B. Clinically appropriate, in terms of type, frequency, extent, level of care, site and duration, 
+and considered effective for the patient's illness, injury or disease; and 
+C. Not primarily for the personal comfort or convenience of the patient, physician or other 
+health care provider, and not more costly than an alternative service or sequence of services 
+at least as likely to produce equivalent therapeutic or diagnostic results as to the diagnosis or 
+treatment of that patient's illness, injury or disease. 
+For these purposes, “nationally accepted standards of medical practice” means standards that are 
+based on credible scientific evidence published in peer-reviewed medical literature generally 
+recognized by the relevant medical community, Physician Specialty Society recommendations and 
+the views of Physicians practicing in relevant clinical areas and any other relevant factors. 
+ 
+‡ Indicated trademarks are the registered trademarks of their respective owners. 
+ 
+NOTICE:  If the Patient’s health insurance contract contains language that differs from the 
+BCBSLA Medical Policy definition noted above, the definition in the health insurance contract will 
+be relied upon for specific coverage determinations. 
+ 
+NOTICE:  Medical Policies are scientific based opinions, provided solely for coverage and 
+informational purposes. Medical Policies should not be construed to suggest that the Company 
+recommends, advocates, requires, encourages, or discourages any particular treatment, procedure, 
+or service, or any particular course of treatment, procedure, or service. 

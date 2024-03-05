@@ -1,0 +1,373 @@
+ 
+BENEFIT COVERAGE GUIDELINE  – 4.02.503  
+Infertility and Assisted Reproduction Services  
+Effective Date:  Feb. 1 , 2022  
+Last Revised : July 1 , 2023  
+Replaces:  4.02.04  RELATED GUIDELINES / POLICIES:  
+None  
+ 
+Select a hyperlink below to be directed to that section.  
+COVER AGE GUIDELINE   |  CODING   |  RELATED INFORMATION   |  REFERENCES  |   HISTORY  
+∞ Clicking this icon returns you to the hyperlinks menu above.  
+ 
+Introduction  
+Infertility is a problem or problems with the reproductive system that affects the ability to 
+conceive. Different types of reproductive problems affect men and women, but the end result is 
+the inability to conceive or complete a pregnancy. There are many reasons for infertility and 
+many different types of treatment s. Even though an infertility treatment exists, it  does not mean 
+it is covered; the member’s contract determines this . (Services to diagnose infertility are  covered 
+as a medical benefit.)  This benefit coverage guideline lists types of services that may be allowed  
+if a member’s contract covers infertility treatments. 
+ 
+Note:   The Introduction section is for your general knowledge and is not to be taken  as policy coverage criteria. The 
+rest of the policy uses specific words and concepts familiar to medical professionals. It is intended for 
+providers . A provider can be a person, such as a doctor, nurse, p sycholog ist, or dentist. A provider also can 
+be a place where medical care is given, like a hospital, clinic, or lab.  This policy informs them about when a 
+service may be covered.  
+ 
+Coverage Guideline   
+ 
+Services  Coverage Guideline  
+Diagnostic services to 
+evaluate potential 
+infertility  Services to evaluate potential infertility are covered under the 
+standard medical benefit. The services in the Diagnostic 
+Services to Evaluate Potential Infertility  table may be 
+4.02.503_PBC (07-01-2023) 
+ 
+ 
+   
+ 
+ 
+   
+Page | 2 of 11 ∞  Services  Coverage Guideline  
+considered medically necessary when performed solely to 
+establish the underlying etiology  (cause)  of infertility.  
+Infertility treatments  Once an infertility  diagnosis  has been established, infertility 
+treatments may be allowed, dependent on the member’s 
+contract. Infertility treatments may also be allowed, 
+dependent on the member’s contract, for members 
+undergoing or scheduled to undergo medical or surgical 
+treatment w ith a significant likelihood of causing infertility. 
+Listing of a service in the Assisted Fertilization Services  tables 
+does not imply it is covered. Coverage is determined by the 
+member’s contract. Refer to the member contract language for 
+benefit determination.  
+Sterilization reversal 
+services Sterilization reversal services are generally excluded in the 
+member’s infertility benefit and may only be allowed if indicated in the member’s contract. Listing of a service in the 
+Sterilization Reversal Services  table does not imply it is 
+covered. Coverage is determined by the member’s contract. Refer to the member contract language for benefit 
+determination. 
+ 
+Coding   
+ 
+Code  Description  
+Diagnostic Services to Evaluate Potential Infertility  
+CPT 
+54500  Biopsy of testis, needle (separate procedure)   
+54505  Biopsy of testis, incisional (separate procedure)  
+54800  Biopsy of epididymis, needle  
+55200  Vasotomy, cannulization with or without incision of vas, unilateral or bilateral (separate 
+procedure)  
+55300  Vasotomy for vasograms, seminal vesiculograms, or epididymograms, unilateral or 
+bilateral  Page | 3 of 11 ∞  Code  Description  
+Diagnostic Services to Evaluate Potential Infertility  
+55550  Laparoscopy, s urgical, with ligation of spermatic veins for varicocele  
+58340  Catheterization and introduction of saline or contrast material for saline infusion 
+sonohysterography (SIS) or hysterosalpingography  
+58345  Transcervical introduction of fallopian tube catheter for diagnosis and/or re -
+establishing patency (any method), with or without hysterosalpingography  
+58350  Chromotubation of oviduct, including materials  
+58540  Hysteroplasty, repair of uterine anomaly (Strassman type)  
+58560  Hysteroscopy, surgical; with division or resection of intrauterine septum (any method)  
+58700  Salpingectomy, complete or partial, unilateral or bilateral (separate procedure)  
+58740  Lysis of adhesions (salpingolysis, ovariolysis)  
+58752  Tubouterine implantation  
+58770  Salpingostomy (salpingoneostomy)  
+58920  Wedge resection or bisection of ovary, unilateral or bilateral  
+74740  Hysterosalpingography, radiological supervision and interpretation  
+76831  Saline infusion sonohysterography (SIS), including color flow Doppler, w hen performed  
+83001  Gonadotropin; follicle stimulating hormone (FSH)  
+83002  Gonadotropin; luteinizing hormone (LH)  
+89300  Semen analysis; presence and/or motility of sperm including Huhner test (post coital)  
+89310  Semen analysis;  motility and count (not including Huhner test)  
+89320  Semen analysis; volume, count, motility, and differential  
+89321  Semen analysis; sperm presence and motility of sperm, if performed  
+89322  Semen analysis; volume, count, motility, and differential using strict morphologic 
+criteria ( e.g., Kruger)  
+89325  Sperm antibodies  
+89329  Sperm evaluation; hamster penetration test  
+89330  Sperm evaluation; cervical mucus penetration test, with or without spinnbarkeit test  
+89331  Sperm evaluation, for retrograde ejaculation, urine (sperm concentration, motility, and 
+morphology, as indicated) Page | 4 of 11 ∞  Code  Description  
+Diagnostic Services to Evaluate Potential Infertility  
+HCPCS  
+G0027  Semen analysis; presence and/or motility of sperm excluding Huhner  
+Q0115  Postcoital direct, qualitative examinations of vaginal or cervical mucous  
+S3655  Antisperm antibodies test (immunobead)  
+ 
+Assisted Fertilization Services  
+If there is a difference between the information listed in the tables below and the member’s 
+contract, the member’s contract prevails.  
+Code  Description  
+Ovulation Induction  
+HCPCS  
+J0725  Injection, chorionic gonadotropin, per 1,000 USP units  
+J3355  Injection, urofollitropin, 75 IU  
+S0122  Injection, menotropins, 75 IU  
+S0126  Injection, follitropin alfa, 75 IU  
+S0128  Injection, follitropin beta, 75 IU  
+S0132  Injection, ganirelix acetate, 250 mcg  
+S4022  Assisted oocyte fertilization, case rate  
+S4042  Management of ovulation induction (interpretation of diagnostic tests and studies, 
+non face-to-face medical management of the patient), per cycle  
+Intrauterine Insemination  
+CPT 
+58321  Artificial insemination; intra -cervical  
+58322  Artificial insemination; intra -uterine  
+58323  Sperm washing for artificial insemination  
+89260  Sperm isolation; simple prep ( e.g., sperm wash and swim -up) for insemination or 
+diagnosis with semen analysis  Page | 5 of 11 ∞  Code  Description  
+89261  Sperm isolation; complex prep ( e.g., Percoll  gradient, albumin gradient) for 
+insemination or diagnosis with semen analysis  
+89268  Insemination of oocytes  
+HCPCS  
+S4035  Stimulated intrauterine insemination (IUI), case rate  
+Advanced Reproductive/Fertilization Services  
+CPT 
+58970  Follicle puncture for oocyte retrieval, any method  
+58974  Embryo transfer, intrauterine  
+76948  Ultrasonic guidance for aspiration of ova, imaging supervision and interpretation  
+89250  Culture of oocyte(s)/embryo(s), less than 4 days  
+89251  Culture of oocyte(s)/embryo(s), less than 4 days; with co -culture of oocyte(s)/embryos  
+89253  Assisted embryo hatching, microtechniques (any method)  
+89254  Oocyte identification from follicular fluid  
+89255  Preparation of embryo for transfer (any method)  
+89257  Sperm identification from aspiration (other than seminal fluid)  
+89258  Cryopreservation; embryo(s)  
+89259  Cryopreservation; sperm  
+89264  Sperm identification from testis tissue, fresh or cryopreserved  
+89272  Extended culture of oocyte(s)/embryo(s), 4 -7 days  
+89335  Cryopreservation, reproductive tissue, testicular  
+89337  Cryopreservation, mature oocyte(s)  
+89342  Storage (per year); embryo(s)  
+89343  Storage (per year); sperm/semen  
+89344  Storage (per year); reproductive tissue, testicular/ovarian  
+89346  Storage (per year); oocyte(s)  
+89352  Thawing of cryopreserved; embryo(s)  Page | 6 of 11 ∞  Code  Description  
+89353  Thawing of cryopreserved; sperm/semen, each aliquot  
+89354  Thawing of cryopreserved; reproductive tissue, testicular/ovarian  
+89356  Thawing of cryopreserved; oocytes, each aliquot  
+HCPCS  
+S4011  In vitro fertilization; including but not limited to identification and incubation of 
+mature oocytes, fertilization with sperm, incubation of embryo(s), and subsequent 
+visualization for determination of development 
+S4015  Complete in vitro fertilization cycle, not otherwise specified, case rate  
+S4016  Frozen in vitro fertilization cycle, case rate  
+S4017  Incomplete cycle, treatment cancelled prior to stimulation, case rate  
+S4018  Frozen embryo transfer procedure cancelled before transfer, case rate  
+S4020  In vitro fertilization procedure cancelled before aspiration, case rate  
+S4021  In vitro fertilization procedure cancelled after aspiration, case rate  
+S4023  Donor egg cycle, incomplete, case rate  
+S4025  Donor services for in vitro fertilization (sperm or embryo), case rate  
+S4026  Procurement of donor sperm from sperm bank  
+S4027  Storage of previously frozen embryos  
+S4028  Microsurgical epididymal sperm aspiration (MESA)  
+S4030  Sperm procurement and cryopreservation services; initial visit  
+S4031  Sperm procurement and cryopreservation services; subsequent visit  
+S4040  Monitoring and storage of cryopreserved embryos, per 30 days  
+CPT 
+58976  Gamete, zygote, or embryo intrafallopian transfer, any method  
+HCPCS  
+S4014  Complete cycle, zygote intrafallopian transfer (ZIFT), case rate  
+Gamete Intra -Fallopian Transfer (GIFT)  
+S4013  Complete cycle, gamete intrafallopian transfer (GIFT), case rate  
+Cryopreserved Embryo Transfers  Page | 7 of 11 ∞  Code  Description  
+HCPCS  
+S4037  Cryopreserved embryo transfer, case rate  
+S4018  Frozen embryo transfer procedure cancelled before transfer  
+Intracytoplasmic Sperm Injection (ICSI); or Ovum Microsurgery  
+CPT 
+55870  Electroejaculation  
+89280  Assisted oocyte fertilization, microtechnique; less than or equal to 10 oocytes  
+89281  Assisted oocyte fertilization, microtechnique; greater than 10 oocytes  
+ 
+Sterilization Reversal Services  
+If there is a difference between the information listed in the tables below and the member’s 
+contract, the member’s contract prevails.  
+Code  Description  
+Sterilization Reversal Services  
+CPT 
+55400  Vasovasostomy, vasovasorrhaphy  
+58750  Tubotubal anastomosis  
+58760  Fimbrioplasty  
+58672  Laparoscopy, surgical; with fimbrioplasty  
+58673  Laparoscopy, surgical; with salpingostomy ( salpingoneostomy)  
+Note:  CPT codes, descriptions and materials are copyrighted by the American Medical Association (AMA). HCPCS 
+codes, descriptions and materials are copyrighted by Centers for Medicare Services (CMS).  
+ 
+Related Information   
+ Page | 8 of 11 ∞  Definition of Terms  
+Impaired fecundity:  A woman is physically able to have a child but is unable to conceive a 
+pregnancy or carry a pregnancy to live birth.1 
+Infertility:  “Not being able to get pregnant (conceive) after one year of unprotected sex.”2 
+Infertility is “ … the result of a disease (an interruption, cessation, or disorder of body functions, 
+systems, or organs) of the male or female reproductive tract which prevents the conception of a 
+child or the ability to carry a pregnancy to delivery.”3 
+The rates of impaired fecundity and infertility in the United States in 2015- 2017 of women aged 
+15–49 , reported by the National Center for Health Statistics: 1 
+• Infertility rate among married women: 8.8% 
+• Impaired fecundity among all women: 13.1% 
+ 
+Description 
+A variety of techniques are available to establish a viable pregnancy for couples who have been 
+diagnosed with infertility and for whom assisted insemination has been unsuccessful.  
+ 
+Background  
+Infertility  
+Infertility can be due either to female factors ( i.e., pelvic adhesions, ovarian dysfunction, 
+endometriosis, or prior tubal ligation), male factors (i.e., abnormalities in sperm production, 
+function, or transport , or prior vasectomy), a combination of both male and female factors, or 
+other unknown causes.  
+ 
+Treatment  
+Various reproductive techniques are available to establish a viable pregnancy; different 
+techniques are used depending on the reason for infertility. Assisted reproductive technologies 
+(ARTs), as defined by the Centers for Disease Control and Prevention (CDC) and other 
+organizations, refer to fertility treatments in which both the eggs and sperm are handled. Not Page | 9 of 11 ∞  included in ART is assisted insemination (artificial insemination) using sperm from either a 
+woman’s partner or a sperm donor. In most instances, ART will involve in vitro fertilization (IVF), 
+a procedure in which oocytes harvested from the female are inseminated in vitro with sperm 
+harvested from the male. Following the fertilization procedure, the zygote is cultured and 
+ultimately transferred back into the female’s uterus or fallopian tubes. In some instances, the 
+oocyte and sperm are collected, but no in vitro fertilization takes place, and the gametes are 
+reintroduced into the fallopian tubes. Examples of ARTs include, but are not limited to, gamete 
+intrafallopian transfer (GIFT), transuterine fallopian transfer (TUFT), natural oocyte retrieval with intravaginal fertilization (NORIF), pronuclear sta ge tubal transfer (PROST), tubal embryo transfer 
+(TET), zygote intrafallopian transfer (ZIFT), gamete and embryo cryopreservation, oocyte and 
+embryo donation, and gestational surrogacy.  
+The various components of ART and implantation into the uterus can be broadly subdivided into 
+oocyte harvesting procedures, which are performed on the female partner; sperm collection 
+procedures, which are performed on the male partner; and the in vitro component, ( i.e., the 
+laboratory procedures) , which are performed on the collected oocyte and sperm. The final step 
+is the implantation procedure.  
+ 
+Regulatory Status  
+There are no medical devices or diagnostic tests related to assisted reproductive technologies 
+that require U.S. Food and Drug Administration approval or clearance. 
+ 
+References   
+ 
+1. Centers for Disease Control and Prevention. National Centers for Health Statistics, Reproductive Health, Infertility. 
+https://www.cdc.gov/nchs/fastats/infertility.htm   Accessed January 3, 2022. 
+2. Centers for Disease Control and Prevention. Reproductive Health. Available at: http://www.cdc.gov/reproductivehealth/Infertility/index.htm   Accessed January  3, 2022. 
+3. Centers for Disease Control. What is Assisted Reproductive Technology? Available at: https://www.cdc.gov/art/whatis.html#:~:text=According%20to%20this%20definition%2C%20ART,donating%20them%20to%20another%20woman.  Accessed January 3, 2022.  
+4. American Society for Reproductive Medicine. Infertility. Available at  http://www.asrm.org/topics/topics- index/infertility/   
+Accessed January  3, 2022. 
+ Page | 10 of 11 ∞  History   
+ 
+Date  Comments  
+11/10/14  New policy, add to Reproduction section. Services to evaluate potential infertility are 
+covered under the standard medical benefit; infertility treatments are not covered 
+under a standard benefit plan.  
+01/07/15  Coding update. CPT code 89322 added to the list of those codes covered through 
+services of evaluate potential infertility.  
+03/13/15  Coding update. HCPCS code S4040 added to policy under “Services to Evaluate 
+Potential Infertility”.  
+03/30/15  Correction: HCPCS code S4040 moved to “Infertility Treatments or Assisted 
+Reproductive Services” coding section; it was incorrectly placed in the “Services to 
+Evaluate Potential Infertility” section.  
+05/01/15  Coding update. CPT codes 0058T, 0357T and 89398 added to the coding section 
+within the to “Infertility Treatments or Assisted Reproductive Services” table.  
+05/08/15  Coding update. CPT codes 5 8672, 58673, 58540, 58560, 58700, 58740, 58920, 76831, 
+74740, 89330 and 89331; and, HCPCS code S3655 added to the coding section within 
+the “Services to Evaluate Potential Infertility” section.  
+07/14/15  Annual Review. Language in Coverage Guideline provid es additional clarity that testing 
+to evaluate potential infertility is covered under a standard medical benefit, whereas coverage of treatments is dependent on the member’s contract. Coding tables reorganized to clarify types of assisted fertilization services which may be covered 
+under a member’s contract.  
+01/12/16  Annual Review. Policy updated to indicate that sterilization reversals will be allowed 
+dependent on member benefit; codes added to support this indication. 
+02/01 /17 Annual review , approved January 10, 2017 . Moved to new format. No changes in 
+Coverage Guidelines.  Updated infertility statistics and reference 1.  
+02/07/17  Coding update. CPT codes 76856 -76857  removed from policy.  
+09/01 /17 Interim review , approved August 22, 2017 . No changes to coverage guidelines.  
+06/01 /18 Annual Review, approved May 3 , 2018. Added clarifying statement regarding fertility 
+treatments for members undergoing or scheduled to undergo medical or surgical 
+treatment with a significant likelihood of causing infertility . Updated infertility statistics 
+and reference 1 . 
+10/01 /18 Coding update,  removed CPT code 89290 and 89291. Added CPT codes 54800, 89337 , 
+and 0357T . 
+04/01 /19 Annual Review, approved March 19 , 2019. Guideline statement unchanged.  Page | 11 of 11 ∞  Date  Comments  
+11/21/19 Coding update, HCPCS code S3655  removed from Intrauterine Insemination  section  
+(remains in the Diagnostic Services to Evaluate Potential Infertility section) . HCPCS 
+code Q0115 moved from Ovulation Induction section to Diagnostic Services to 
+Evaluate Potential Infertility section. CPT codes 89325 and 89329 moved from 
+Advanced Reproductive/Fertilization Services section to Diagnostic Services to Evaluate 
+Potential Infertility section. 
+04/01 /20 Annual Review, approved March 3 , 2020.  Benefit cov erage guideline reviewed. 
+Guideline statements unchanged. Removed CPT codes 58679, 69990 , and 89398. 
+03/01 /21 Annual Review, approved February 18 , 2021.  Benefit coverage guideline reviewed. 
+Guideline statements unchanged . 
+02/01 /22 Annual Review, approved  January 24 , 2022.  Benefit coverage guideline reviewed. 
+Reference added. Guideline statements unchanged.  Title changed from Infertility and 
+Reproductive Services to Infertility and Assisted Reproduction Services . 
+07/01 /23 Coding update. Deleted expired CPT codes 0357T and 0058T  (expired in 2020) . 
+Changed header above S4013 to indicate that it is a HCPCS code (not a CPT code as previously labeled). 
+ 
+Disclaimer : This medical policy is a guide in evaluating the medical necessity of a particu lar service or treatment. The 
+Company adopts policies after careful review of published peer -reviewed scientific literature, national guidelines and 
+local standards of practice. Since medical technology is constantly changing, the Company reserves the righ t to review 
+and update policies as appropriate. Member contracts differ in their benefits. Always consult the member benefit 
+booklet or contact a member service representative to determine coverage for a specific medical service or supply. 
+CPT codes, descriptions and materials are copyrighted by the American Medical Association (AMA). © 2023  Premera 
+All Rights Reserved.  
+Scope : Medical policies are systematically developed guidelines that serve as a resource for Company staff when 
+determining coverage for specific medical procedures, drugs or devices. Coverage for medical services is subject to 
+the limits and conditions of the member benefit plan. Members and their providers should consult the member benefit booklet or contact a customer service representative to determine whether there are any benefit limitations 
+applicable to this service or supply. This medical policy does not apply to Medicare Advantage.  
+ Premera Blue Cross is a n independent licensee of the Blue Cross Blue Shield Association  serving businesses and residents of Alaska and Washington State, excluding C lark County.   
+052493  (07-01-2021) Discrimination is Against the Law  
+Premera Blue Cross  (Premera) complies with applicable Federal and Washington state civil rights laws and does not discriminate on the basis of race, 
+color, national o rigin, age, disability, sex, gender identity, or sexual orientation . Premera does not exclude people or treat them differently because of race, 
+color, national origin, age, disability , sex, gender identity, or sexual orientation.  Premera  provides free aids and services to people with disabilities to 
+communica te effectively with us, such as q ualified sign language interpreters  and w ritten information in other formats (large print, audio, accessible 
+electronic formats, other formats) . Premera p rovides fre e language services to people whose primary language is not English, such as  qualified interpreters  
+and i nformation written in other languages . If you need these services, contact the Civil Rights Coordinator.  If you believe that Premera has failed to 
+provide these services or discriminated in another way on the basis of race, color, national origin, age, disability, sex, gender identity, or sexual orientation , 
+you can file a grievance with:  Civil Rights Coordinator ─ Complaints and Appeals , PO Box 91102 , Seattle, WA 98111 , Toll free : 855-332-4535 , Fax: 425-918-5592 , 
+TTY: 711 , Email  AppealsDepartmentInquiries@Premera.com . You can file a grievance in person or by mail, fax, or email.  If you need help filing a 
+grievance, the Civil Rights Coordinator is available to help you.  You can also file a civil rights complaint with the U.S. Department of Health and Human 
+Services, Office for Civil Rights, electronically through the Office for Civil Righ ts Complaint Portal, available at  https://ocrportal.hhs.gov/ocr/portal/lobby.jsf , 
+or by mail or phone at:  U.S. Department of Health and Human Services,  200 Independence Ave SW, Room 509F, HHH B uilding , Washington, D.C. 20201, 
+1-800-368-1019,  800-537-7697 (TDD). Complaint forms are available at  http://www.hhs.gov/ocr/office/file/index.html .  
+Washington  residents : You can also file a civil rights complaint wi th the Washington State Office of the Insurance Commissioner, electronically through 
+the Office of the Insurance Commissioner Complaint Portal available at https://www.insurance.wa.gov/file -complaint -or-check -your-complaint -status , or by 
+phone at 800 -562-6900, 360 -586-0241 (TDD). Complaint forms are available at https: //fortress.wa.gov/oic/onlineservices/cc/pub/complaintinformation.aspx .  
+Alaska  residents : Contact the Alaska Division of Insurance via email at insurance@alaska.gov , or by phone at 907-269-7900 or 1 -800-INSURAK  (in-state, 
+outside Anchorage) . 
+Language Assistance  
+ATENCIÓN : si habla español, tiene a su disposición servicios gratuitos de asistencia lingüística. Llame al 800 -722-1471  (TTY: 711).  
+PAUNAWA : Kung nagsasalita ka ng Tagalog , maaari kang gumamit ng mga serbisyo ng tulong sa wika nang walang bayad. Tumawag sa  800-722-1471  (TTY: 711).  
+注意：如果您使用繁體中文，您可以免費獲得語言援助服務。請致電  800-722-1471  (TTY：711）。 
+CHÚ Ý : Nếu bạn nói Tiếng Việt, có các dịch vụ hỗ trợ ngôn ngữ miễn phí dành cho b ạn.  Gọi số 800-722-1471  (TTY: 711). 
+주의: 한국어를  사용하시는  경우, 언어 지원 서비스를  무료로  이용하실  수 있습니다 . 800-722-1471  (TTY: 711)  번으로  전화해  주십시오 . 
+ВНИМАНИЕ : Если вы говорите на русском языке, то вам доступны бесплатные услуги перевода.  Звоните  800-722-1471  (телетайп: 711). 
+LUS CEEV : Yog tias koj hais lus Hmoob , cov kev pab txog lus, muaj  kev pab dawb  rau koj. Hu rau 800-722-1471  (TTY:  711).  
+MO LOU SILAFIA : Afai e te tautala  Gagana fa'a Sāmoa, o loo iai auaunaga  fesoasoan, e fai fua e leai se totogi, mo oe,  Telefoni mai:  800-722-1471  (TTY: 711).  
+ໂປດຊາບ: ຖ້າວ່າ ທ່ານເວ ້າພາສາ ລາວ, ການບໍລິການຊ່ວຍເຫ  ຼື ອດ້ານພາສາ, ໂດຍບໍ່ເສ ັ ຽຄ່າ, ແມ່ນມ ີພ້ອມໃຫ້ທ່ານ. ໂທຣ 800-722-1471  (TTY: 711) . 
+注意事項 ：日本語を話される場合、無料の言語支援をご利用いただけます。 800-722-1471  （TTY:711）まで、お電話にてご連絡ください。  
+PAKDAAR : Nu saritaem ti Ilocano, ti serbisyo para ti baddang ti lengguahe nga awanan bayadna, ket sidadaan para kenyam.  Awagan ti  800-722-1471  (TTY: 711).  
+УВАГА!  Якщо ви розмовляєте українською мовою, ви можете звернутися до безкоштовної служби мовної підтримки.  Тел ефонуйте за 
+номером 800 -722-1471  (телетайп:  711). 
+ប្រយ័ត្ន៖   បរើសិនជាអ្នកនិយាយ  ភាសាខ្មែរ , បសវាជំនួយខ្ននកភាសា បោយមិនគិត្ឈ្ ន ួល គឺអាចមានសំរារ់រំបរ ើ អ្នក។  ចូរ ទូរស័ព្ទ   800-722-1471 ( TTY: 711)។ 
+ማስታወሻ :  የሚናገሩት  ቋንቋ ኣማርኛ  ከሆነ የትርጉም  እርዳታ ድርጅቶች፣  በነጻ ሊያግዝዎት  ተዘጋጀተዋል፡  ወደ ሚከተለው  ቁጥር ይደውሉ  800-722-1471 (መስማት  ለተሳናቸው : 711). 
+XIYYEEFFANNAA : Afaan  dubbattu  Oroomiffa , tajaajila  gargaarsa  afaanii , kanfaltiidhaan  ala, ni argama . Bilbilaa  800-722-1471 ( TTY: 711).  
+ملحوظة:  إذا كنت تتحدث اذكر اللغة، فإن خدمات المساعدة اللغوية تتوافر لك بالمجان.  اتصل برقم   1471-722-800    :(رقم هاتف الصم والبكم711 .) 
+ਧਿਆਨ  ਧਿਓ: ਜੇ ਤੁਸੀਂ ਪੰਜਾਬੀ  ਬੋਲਿੇ ਹੋ, ਤਾਂ ਭਾਸ਼ਾ ਧ ਿੱਚ ਸਹਾਇਤਾ  ਸੇ ਾ ਤੁਹਾਡੇ ਲਈ ਮੁਫਤ ਉਪਲਬਿ  ਹੈ। 800-722-1471 (TTY:  711) 'ਤੇ ਕਾਲ ਕਰੋ। 
+เรียน : ถ้าคุณพูดภาษาไทยคุณสามารถใช้บริการช่วยเหลือทางภาษาได้ฟรี  โทร 800-722-1471  (TTY: 711).  
+ACHTUNG : Wenn Sie Deutsch sprechen, stehen Ihnen kostenlos sprachliche Hilfsdienstleistungen zur Verfügung. Rufnummer: 800 -722-1471  (TTY: 711).  
+UWAGA : Jeżeli mówisz po polsku, możesz skorzystać z bezpłatnej pomocy językowej. Zadzwoń pod numer 800 -722-1471  (TTY: 711).  
+ATANSYON : Si w pale Kreyòl Ayisyen, gen sèvis èd pou lang ki disponib gratis pou ou.  Rele 800 -722-1471  (TTY: 711).  
+ATTENTION  : Si vous parlez français, des services d'aide linguistique vous sont proposés gratuitement.  Appelez le 800 -722-1471  (ATS :  711).  
+ATENÇÃO : Se fala português, encontram -se disponíveis serviços linguísticos, grátis.  Ligue para 800 -722-1471  (TTY: 711).  
+ATTENZIONE : In caso la lingua parlata sia l'italiano, sono disponibili servizi di assistenza linguistica gratuiti. Chiamare il numero  800-722-1471  (TTY: 711).   
+ توجه: اگر به زبان فارسی گفتگو می کنید، تسهیالت زبانی بصورت رايگان برای شما فراهم می باشد. با   (TTY: 711) 1471-722-800   .تماس بگیريد 

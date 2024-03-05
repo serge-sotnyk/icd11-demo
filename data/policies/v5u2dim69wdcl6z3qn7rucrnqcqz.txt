@@ -1,0 +1,519 @@
+ 
+MEDICAL POLICY – 1.01.506 
+Adjustable Cranial Orthoses for Positional Plagiocephaly 
+and Craniosynostoses  
+BCBSA Ref Policy: 1.01.11  
+Effective Date:  June 1 , 2023  
+Last Revised:  May 9 , 2023  
+Replaces:  1.01.11  RELATED MEDICAL POLICIES:  
+None 
+ 
+ 
+Select a hyperlink below to be directed to that section.  
+POLICY CRITERIA   |  DOCUMENTATION REQUIREMENTS  |  CODING  
+RELATED INFORMATION   |  EVIDENCE REVIEW   |  REFERENCES  |  HISTORY  
+∞ Clicking this icon returns you to the hyperlinks menu above.  
+ 
+Introduction  
+A newborn baby’s skull is made up of several bones that are not yet solidly connected to each 
+other. This allows the infant’s skull to grow and get bigger as the baby’s brain grows. 
+Sometimes, the baby’s skull may have become flattened or misshaped during the birthing 
+process or for other reasons. This abnormal skull shape is called plagiocephaly. Adjustable 
+helmets (a cranial orthotic) may be used to reshape flattened areas of a baby’s skull. However, 
+there is no medical evidence that a child’s development is affected by a head that is not exactly 
+the same shape on both sides. Using a helmet in this situation is cosmetic.  
+The skull bones may also fuse together too soon. This is dangerous, as it will not allow the brain 
+to grow inside this solid skull. This can cause brain damage, developmental delay, and problems 
+with thinking. Fusion of the skull bones is called synostosis. Surgery is needed to open up the 
+space between the skull bones to allow the brain to grow normally. Helmets may be used after skull surgery to help protect the brain and reshape the bones.  
+This policy describes when an adjustable helmet may be medically necessary.  
+ 
+Note:    The Introduction section is for your general knowledge and is not to be taken  as policy coverage criteria. The 
+rest o f the policy uses specific words and concepts familiar to medical professionals. It is intended for 
+providers . A provider can be a person, such as a doctor, nurse, psychologist, or dentist. A provider also can 
+be a place where medical care is given, like a  hospital, clinic, or lab.  This policy informs them about when a 
+service may be covered.  
+1.01.506_PBC (05-09-2023) 
+ 
+ 
+   
+ 
+ 
+   
+Page | 2 of 16  ∞  
+  
+Policy Coverage Criteria   
+ 
+Treatment  Medical Necess ity 
+Adjustable cranial orthosis  Use of an adjustable cranial orthosis (cranial banding or soft 
+shell helmet) may be considered medically necessary when the 
+following criteria are met:  
+• Age is between 3 and 18 months of age 
+AND  
+• The device is custom made and  fitted for the individual  
+AND  
+• Either of the following is present:  
+o The child has had surgery for crainiosynostosis, and the 
+orthosis is needed for post -operative care 
+      OR  
+o The child has severe positional plagiocephaly* that has not 
+responded to a two-month trial of repositioning and/or 
+physical therapy 
+ *Severe plagiocephaly is defined by the following:  
+• 10 mm or more of asymmetry in one of the following measures: cranial vault, skull base, or orbitotragial depth (see 
+Table  1 below)  
+OR 
+• Cephalic index at least two standard deviations above or below 
+the mean for the appropriate gender and age (see Table 2  
+below)  
+ 
+Use of an adjustable cranial orthosis is considered not 
+medically necessary for all other indications not outlined 
+above.  
+ Page | 3 of 16  ∞  
+ Treatment  Medical Necess ity 
+Note:  A protective helmet (HCPCS code A800 0-A8004) is not a cranial 
+orthosis/cranial remolding device. It is considered a safety device worn to 
+prevent injury to the head. It is not addressed in this policy.  
+ 
+Evaluation of Plagiocephaly 
+The diagnosis of the type of craniosynostosis is confirmed through physical examination and 
+imaging studies. 
+Anthropometric data, or the measurements used to evaluate abnormal head shape by 
+measuring the distance in mm from one pre -designated point on the face or skull to another 
+must document moderate to severe plagiocephaly. 
+The evaluation of cranial asymmetry may be based on one or more of four anthropometri c 
+measures: cranial vault, skull base, orbitotragial depth measurements or the cephalic index. 
+ 
+Table 1. Anth ropometric Measurements 
+Anthropometric Measure  Measurement  
+Cranial Vault  [left frontozygomatic point (fz) to right euryon (eu)] minus [right frontozygomatic 
+point (fz) to left euryon (eu)]  
+Skull Base  [subnasal point (sn) to left tragus (t)] minus [subnasal point (sn) to right tragus (t)]  
+Orbitotragial Depth  [left exocanthion point (ex) to left tragus (t)] minus [right exocanthion point (ex) to 
+right tragus (t)  
+ 
+Evaluation of cranial asymmetry may be based on the cephalic index, a ratio between the width 
+and length of the head. Typically, head width is calculated by subtracting the distance from 
+euryon (eu) on one side of the head to euryon on the other side of head and multiplying by 100. 
+Head length is generally calculated by measuring the distance from glabella point (g) to 
+opisthocranion point (op). The cephalic index is then calculated as:  
+• Head width (eu – eu) x 100  
+• Head length (g – op)  Page | 4 of 16  ∞  
+ The cephalic index is considered abnormal if it is two standard deviations above or below the 
+mean measurements (Farkas and Munro, 1987).  
+ 
+Table 2 . Cephalic Index 
+Cephalic Index (AAOP, 2004)  
+Gender  Age  - 2 SD  - 1SD  Mean  + 1SD  + 2SD  
+Male  16 days – 6 
+months  63.7  68.7  73.7  78.7  83.7  
+ 6 – 12 Months  64.8  71.4  78.0  84.6  91.2  
+ 13 – 18 Months  Apply the 12 -month measurements for children 13 -18 
+months of age  
+Female  16 days – 6 
+months  63.9  68.6  73.3  78.0  82.7  
+ 6 – 12 Months  69.5  74.0  78.5  83.0  87.5  
+ 13 – 18 Months  Apply the 12 month measurements for children 13 -18 
+months of age  
+SD: standard deviation.  Developed by the American Academy of Orthotists and Prosthetists 2004  
+ 
+Documentation Requirements  
+The individual ’s medical records submitted for review should document that medical 
+necessity criteria are met. The records should include the following:  
+• Child age is between 3 and 18 months old  
+AND   
+• One of the following must be present: 
+o Child had surgery for craniosynostosis (the bones in the child’s skull join together too 
+early), and the cranial orthosis is needed for post -operative care 
+OR 
+o The child has persistent plagiocephaly (the child’s head is flat in the back or on one side) or 
+brachycephaly (shortened front to back dimension of the skull)  without synostosis (fusion 
+of the two bones) : 
+ Cephalic index at least two standard deviations above or below the mean (for the 
+appropriate gender and age)  Page | 5 of 16  ∞  
+ Documentation Requirements  
+ The persistent plagiocephaly  or brac hycephaly without synostosis  has not responded 
+to a 2 -month trial of repositioning and/or physical therapy  
+ 
+Coding   
+ 
+Code  Description  
+HCPCS  
+S1040  Cranial remolding orthosis, pediatric, rigid, with soft interface material, custom 
+fabricated, includes fitting and adjustment(s) 
+Note:  CPT codes, descriptions and materials are copyrighted by the American Medical Association (AMA). HCPCS 
+codes, descriptions and materials are copyrighted by Centers for Medicare Services (CMS).  
+ 
+Related Information   
+ 
+Procedures are considered medically necessary if there is a significant physical functional 
+impairment, and the procedure can be reasonably expected to improve the physical functional 
+impairment ( i.e., improve health outcomes). In this policy, procedures are considered 
+reconstructive when intended to address a significant variation from normal related to accidental injury, disease, trauma, treatment of a disease, or congenital defect. T here are no 
+conc lusive data that nonsynostotic plagiocephaly is associated with a functional impairment; 
+therefore, its treatment would be considered cosmetic. 
+Assessment of plagiocephaly in research studies may be based on anthropomorphic measures 
+of the head, using anatomic and bony landmarks. Although there is no accepted minimum 
+objective level of asymmetry for a plagiocephaly diagnosis, there are definitions that have been adopted by convention. Table 3  presents normative values and the mean pretreatment 
+asymmetries reported in large case series. These may be useful in determining if a significant variation from normal is present.  
+ Page | 6 of 16  ∞  
+ Table 3 . Pretreatment Asymmetries Reported in Large Case Series  
+Study  Cranial Base, mm  Cranial Vault, mm  Orbitotragial 
+Distance, mm  
+Moss (1997)1 NR 9.2 7.1a 
+Littlefield et al. (1998)2 6.17 8.50 4.36 
+Teichgraeber et al. (2002)3 7.08 8.53 3.12 
+NR: not reported.  
+a In this report, the asymmetry was measured from the tragus to the frontozygomatic point instead of the 
+exocanthion. 
+ 
+Consideration of Age  
+The ages referenced in this policy for which cranial orthoses are considered medically necessary 
+are between 3 and 1 8 months. This is based on the FDA -approved age range for these helmets 
+and the American Academy of Pediatrics (AAP) states, "The use of helmets and other related devices seems to be beneficial primarily when there has been a lack of response to mechanical 
+adjustments and exercises, and the best response to helmets occurs in the age range of 4 to 12 months of age."  
+ 
+Definition of Terms  
+Anthrop omorphic Assessment of Plagiocephaly  
+Brach ycephaly: Shortened front to back dimension of the skull that results from premature 
+fusion of the coronal suture  
+Coronal suture: Skull joint that goes across the top of the skull and separates the front and back halves of the skull  
+Cranial base:  Asymmetry of the cranial base is measured from the subnasal  point (midline 
+under the nose) to the tragus (the cartilaginous projection in front of the external auditory canal ) 
+Cephalic index:  The cephalic index, which describes a ratio of the maximum width to the head 
+length expressed as a percentage, is used to assess abnormal head shapes without asymmetry. Page | 7 of 16  ∞  
+ The maximum width is measured between the most lateral points of the head located in the 
+parietal region ( i.e., euryon). The head length is measured from the most prominent point in the 
+median sagittal plane between the supraorbital ridges ( i.e., glabella) to the most prominent 
+posterior point of the occiput ( i.e., the opisthocranion), expressed as a percentage. The cephalic 
+index can then be compared to normative measures for age and gender. 
+Cranial  vault  asymm etry: Is assessed by measuring from the frontozygomaticus point 
+(identified by palpation of the suture line above the upper outer corner of the orbit) to the 
+euryon, defined as the most lateral point on the head located in the parietal region.  
+Craniosynostosis:  Fusion of at least two of the skull bones before the brain has fully formed . 
+Metopic suture:  Skull joint that separates the left and right halves of the forehead . 
+Orbitotragial depth:  Asymmetry of the orbitotragial depth is measured from the exocanthion 
+(outer corner of the eye fissure where the eyelids meet) to the tragus (the cartilaginous projection in front of the external auditory canal ) 
+Plagiocephaly : Flattening of the skull on the back or one side of the head . 
+Sagittal suture: Skull joint that separates the left and right halves of the skull . 
+Synosto sis: Fusion of two bones 
+ 
+Evidence Review   
+ 
+Description 
+Cranial orthoses involve an adjustable helmet or band that progressively molds the shape of the 
+infant cranium by applying corrective forces to prominences while leaving room for growth in 
+the adjacent flattened areas. A cranial orthotic device may be used  to treat postsurgical 
+synostosis or positional plagiocephaly in pediatric individuals.  
+ Page | 8 of 16  ∞  
+ Background  
+Craniosynostoses  
+An asymmetrically shaped head may be synostotic or nonsynostotic. Synostosis, defined as 
+premature closure of the sutures of the cranium, may result in functional deficits secondary to 
+increased  intracranial pressure in an abnormally or asymmetrically shaped cranium. The type 
+and degree of craniofacial deformity depend on the type of synostosis. The most common is scaphocephaly, a narrowed and elongated head resulting from synostosis of the sagittal suture. Trigonocephaly, in contrast, is premature fusion of the metopic suture and  results in a triangular 
+shape of the forehead. Unilateral synostosis of the coronal suture results in an asymmetric 
+distortion of the forehead called plagiocephaly, and fusion of both coronal sutures results in 
+brachycephaly. Combinations of these deformities may also occur.  
+ 
+Treatment  
+Synostotic deformities associated with functional deficits are addressed  by surgical remodeling 
+of the cranial vault. The remodeling (reshaping) is accomplished by opening and expanding the 
+abnormally fused bone.  
+In a review of the treatment of craniosynostosis, Persing (2008) indicated that premature fusion 
+of one or more cranial vault sutures occurs in approximately 1 in 2500 births.
+1 Of these 
+craniosynostoses, asymmetric deformities involving the cranial vault and base ( e.g., unilateral 
+coronal synostosis) will have a higher rate of postoperative deformity, which would requi re 
+additional surgical treatment. Persing (2008) suggested that use of cranial orthoses postoperatively may serve two functions: (1) they protect the brain in areas of large bony 
+defects, and (2) they may remodel the asymmetries in skull shape, particularly when the bone segments are more mobile. 
+ 
+Plagiocephaly  
+Plagiocephaly without synostosis, also called positional or deformational plagiocephaly, can be 
+secondary to various environmental factors including, but not limited to, premature birth, 
+restrictive intrauterine environment, birth trauma, torticollis, cervical anomalies, and sleeping 
+position. Positional plagiocephaly typically consists of right or left occipital flattening with advancement of the ipsilateral ear and ipsilateral frontal bone protrusion, resulting in visible Page | 9 of 16  ∞  
+ facial asymmetry. Occipital flattening may be self -perpetuating in that once it occurs, it may be 
+increasingly difficult for the infant to turn and sleep on the other side. Bottle feeding, a low 
+proportion of “tummy time” while awake, multiple gestations, and slow achievement of motor 
+milestones may contribute to positional plagiocephaly. The incidence of plagiocephaly has 
+increased rapidly in recent years; this is believed to be a result of the “Back to Sleep” campaign 
+recommended by the American Academy of Pediatrics, in which a supine sleeping position is 
+recommended to reduce the risk of sudden infant death syndrome. It has been suggested that 
+increasing awareness of identified risk factors and early implementation of good practices will reduce the development of deformational plagiocephaly. 
+ 
+Summary of Evidence  
+For individuals who have open or endoscopic surgery for craniosynostosis who receive a 
+postoperative cranial orthosis, the evidence includes case series. The relevant outcomes are 
+change in disease status, morbid events, functional outcomes, quality of life, and treatment -
+related morbidity. Overall, the evidence on the efficacy of cranial orthoses following endoscopic-
+assisted or open cranial vault remodeling surgery for craniosynostosis is limited. However, 
+functional impairments are related to craniosynostosis, and there is a risk of harm from 
+additional surgery when severe deformity has not been corrected. Because cranial orthoses can 
+facilitate remodeling, use of a cranial orthosis is likely to improve outcomes after cranial vault 
+remodeling for synostosis. The evidence is sufficient to determine that the technology results in 
+an improvement in the net health outcome.  
+For individuals who have positional plagiocephaly who receive a cranial orthosis, the evidence includes a comparative study and case series. The relevant outcomes are a change in disease 
+status, morbid events, functional outcomes, quality of life, and trea tment -related morbidity. 
+Overall, evidence on an association between positional plagiocephaly and health outcomes is 
+limited. The largest controlled study found no difference in function between infants with 
+plagiocephaly and age- matched concurrent control s. Taking into consideration the limited 
+number of publications over the past decade and the low likelihood of development of high-
+level evidence from controlled studies, the scientific literature is limited in  support of an effect of 
+deformational plagioc ephaly on functional health outcomes. The evidence is insufficient to 
+determine that the technology results in an improvement in the net health outcome. 
+ Page | 10 of 16  ∞  
+ Additional Information  
+2008 Input  
+Multiple medical organization guidelines have supported use of orthoses for positional 
+plagiocephaly with criteria. The conditions for which the medical organizations noted that use of 
+helmets and related devices seem to be primarily beneficial may, therefore, be considered medically necessary. 
+ 
+Ongoing and Unpublished Clinical Trials  
+A currently ongoing trial that might influence this policy is listed in Table 4. 
+ 
+Table 4 . Summary of Key Trials 
+NCT No.  Trial Name  Planned 
+Enrollment  Completion 
+Date  
+Ongoing  
+NCT02370901a Cranial  Orthotic  Device Versus Repositioning Techniques 
+for the Management of Plagiocephaly: the CRANIO 
+Randomized Trial  226 Nov 2022 (last 
+updated Nov 2021)
+ 
+a Denotes industry -sponsored or cosponsored trial  
+NCT: national clinical trial.  
+ 
+Clinical Input Received f rom Physician Specialty Societies and Academic 
+Medical Centers  
+The purpose of the following information is to provide reference material. Inclusion does not 
+imply endorsement or alignment with the policy conclusions. 
+While the various physician specialty societies and academic medical centers may collaborate 
+with and make recommendations during this process, through the provision of appropriate 
+reviewers, input received does not represent an endorsement or position statement by the 
+physician specialty societies or academic medical centers, unless otherwise noted.  Page | 11 of 16  ∞  
+ In response to requests, input was received from three  physician specialty societies ( four 
+reviews) and two academic medical centers while this policy was under review in 2008. Input was 
+mixed about whether the use of helmets or adjustable banding for treatment of plagiocephaly 
+or brachycephaly without synostosis should be considered medically necessary or not medically 
+necessary. Clinical input agreed that cranial orthoses may be indicated following cranial vault 
+surgery.  
+ 
+Practice Guidelines and Position Statements  
+Guidelines or position statements will be considered for inclusion if they were issued by, or jointly by, a U .S. professional society, an international society with U.S. representation, or 
+National Institute for Health and Care Excellence (NICE). Priority will be given to guidelines that are informed by a systematic review, include strength of evidence ratings, and include a 
+description of management of conflict of interest.  
+ 
+Congress of Neurological Surgeons and Section on Pediatric Neurosurgery   
+In 2016, the Congress of Neurological Surgeons and the Section on Pediatric Neurosurgery 
+commissioned a systematic review to inform a joint evidence- based guideline on the role of 
+cranial molding orthosis therapy for individuals with positional plagiocephaly.24,25 The guideline 
+was issued by a multidisciplinary task force that included clinical and methodological experts; all 
+task force members were required to disclose potential conflicts of interest. The guideline was 
+endorsed by  the Joint Guidelines Committee of the American Association of Neurological 
+Surgeons and the Congress of Neurological Surgeons and American Academy of Pediatrics 
+(AAP). 
+The guideline  provided level II recommendations (uncertain clinical certainty) on the use of 
+helmet therapy “for infants with persistent moderate to severe plagiocephaly after a course of conservative treatment (repositioning and/or physical therapy)” and “for infants with moderate 
+to severe plagiocephaly presenting at an advanced age.” The recommendations were based on a 
+randomized controlled trial, five  prospective comparative studies, and nine retrospective 
+comparative studies (all rated as class II evidence).  
+ Page | 12 of 16  ∞  
+ Natio nal Institute of Neurological Disorders and Stroke  
+In 2019, the National Institute of Neurological Disorders and Stroke has stated that “T reatment 
+for craniosynostosis generally consists of surgery to improve the symmetry and appearance of 
+the head and to relieve pressure on the brain and the cranial nerves [although] for some 
+children with less severe problems, cranial molds can reshape the skull to accommodate brain growth and improve the appearance of the head.”
+26  
+ 
+Medicare National Coverage  
+There is no national coverage determination.  
+ 
+Regulatory Status  
+Multiple cranial orthoses (helmets) have been cleared for marketing by the U.S. Food and Drug 
+Administration (FDA) through the 510(k) process and are intended to apply passive pressure to 
+prominent regions of an infant’s cranium to improve cranial symmetry and/or shape in infants from three to 18 months of age. Multiple marketed  devices are labeled for use in children with 
+moderate to severe nonsynostotic positional plagiocephaly, including infants with plagiocephalic - and brachycepha lic-shaped heads.  
+FDA product code: MVA. 
+ 
+References   
+ 
+1. Persing JA. MOC -PS(SM) CME article: management considerations in the treatment of craniosynostosis. Plast Reconstr Surg. Apr 
+2008; 121(4 Suppl): 1-11. PMID 18379381  
+2. Kaufman BA, Muszynski CA, Matthews A, et al. The circle of sagittal synostosis surgery. Semin Pedi atr Neurol. Dec 2004; 11(4): 
+243-8. PMID 15828707  
+3. Stevens PM, Hollier LH, Stal S. Post -operative use of remoulding orthoses following cranial vault remodelling: a case series. 
+Prosthet Orthot Int. Dec 2007; 31(4): 327- 41. PMID 18050005  
+4. Jimenez DF, Barone CM, Cartwright CC, et al. Early management of craniosynostosis using endoscopic -assisted strip 
+craniectomies and cranial orthotic molding therapy. Pediatrics. Jul 2002; 110(1 Pt 1): 97 -104. PMID 12093953  Page | 13 of 16  ∞  
+ 5. Jimenez DF, Barone CM. Early treatment of anterior calvarial craniosynostosis using endoscopic -assisted minimally invasive 
+techniques. Childs Nerv Syst. Dec 2007; 23(12): 1411- 9. PMID 17899128 
+6. Jimenez DF, Barone CM. Endoscopic technique for sagittal synostosis. Childs Nerv Syst. Sep 2012; 28(9): 1333- 9. PMID  22872245  
+7. Jimenez DF, Barone CM. Multiple -suture nonsyndromic craniosynostosis: early and effective management using endoscopic 
+techniques. J Neurosurg Pediatr. Mar 2010; 5(3): 223 -31. PMID 20192637  
+8. Gociman B, Marengo J, Ying J, et al. Minimally invasive strip craniectomy for sagittal synostosis. J Craniofac Surg. May 2012; 
+23(3): 825-8. PMID 22565892 
+9. Honeycutt JH. Endoscopic -assisted craniosynostosis surgery. Semin Plast Surg. Aug 2014; 28(3): 144 -9. PMID 25210508 
+10. Shah MN, Kane AA, Petersen JD, et al. Endoscopically assisted versus open repair of sagittal craniosynostosis: the St. Louis Children's Hospital experience. J Neurosurg Pediatr. Aug 2011; 8(2): 165 -70. PMID 21806358  
+11. Chan JW, Stewart CL, Stalder MW, et al. Endoscope- assisted versus open repair of c raniosynostosis: a comparison of 
+perioperative cost and risk. J Craniofac Surg. Jan 2013; 24(1): 170 -4. PMID 23348279 
+12. van Wijk RM, van Vlimmeren LA, Groothuis -Oudshoorn CG, et al. Helmet therapy in infants with positional skull deformation: 
+randomised cont rolled trial. BMJ. May 01 2014; 348: g2741. PMID 24784879  
+13. McGarry A, Dixon MT, Greig RJ, et al. Head shape measurement standards and cranial orthoses in the treatment of infants with deformational plagiocephaly. Dev Med Child Neurol. Aug 2008; 50(8): 568 -76. PMID 18754893  
+14. Mulliken JB, Vander Woude DL, Hansen M, et al. Analysis of posterior plagiocephaly: deformational versus synostotic. Plast Reconstr Surg. Feb 1999; 103(2): 371- 80. PMID 9950521  
+15. Loveday BP, de Chalain TB. Active counterpositioning or orthot ic device to treat positional plagiocephaly?. J Craniofac Surg. Jul 
+2001; 12(4): 308- 13. PMID 11482615 
+16. Xia JJ, Kennedy KA, Teichgraeber JF, et al. Nonsurgical treatment of deformational plagiocephaly: a systematic review. Arch Pediatr Adolesc Med. Aug 2008 ; 162(8): 719-27. PMID 18678803 
+17. Graham JM, Gomez M, Halberg A, et al. Management of deformational plagiocephaly: repositioning versus orthotic therapy. J Pediatr. Feb 2005; 146(2): 258- 62. PMID 15689920 
+18. Kluba S, Kraut W, Calgeer B, et al. Treatment of positional plagiocephaly --helmet or no helmet?. J Craniomaxillofac Surg. Jul 
+2014; 42(5): 683- 8. PMID 24238984 
+19. Couture DE, Crantford JC, Somasundaram A, et al. Efficacy of passive helmet therapy for deformational plagiocephaly: repo rt of 
+1050 cases. Neurosurg Focus. Oct 2013; 35(4): E4. PMID 24079783 
+20. Fowler EA, Becker DB, Pilgram TK, et al. Neurologic findings in infants with deformational plagiocephaly. J Child Neurol. Jul  
+2008; 23(7): 742- 7. PMID 18344457 
+21. Panchal J, Amirsheybani H,  Gurwitch R, et al. Neurodevelopment in children with single -suture craniosynostosis and 
+plagiocephaly without synostosis. Plast Reconstr Surg. Nov 2001; 108(6): 1492 -8; discussion 1499-500. PMID 11711916 
+22. Miller RI, Clarren SK. Long -term developmental outcomes in patients with deformational plagiocephaly. Pediatrics. Feb 2000; 
+105(2): E26. PMID 10654986 
+23. Shamji MF, Fric -Shamji EC, Merchant P, et al. Cosmetic and cognitive outcomes of positional plagiocephaly treatment. Clin 
+Invest Med. Oct 06 2012; 35(5): E266. PMID 23043707 
+24. Tamber MS, Nikas D, Beier A, et al. The Role of Cranial Molding Orthosis (Helmet) Therapy. 2016; https://www.cns.org/guidelines/browse- guidelines -detail/5 -role-of-cranial -molding -orthosis -helmet-therapy . Accessed 
+April 3 , 2023.  Page | 14 of 16  ∞  
+ 25. Tamber MS, Nikas D, Beier A, et al. Guidelines: Congress of Neurological Surgeons Systematic Review and Evidence -Based 
+Guideline on the Role of Cranial Molding Orthosis (Helmet) Therapy for Patients With Positional Plagiocephaly. Neurosurgery. 
+Nov 2016; 79(5): E632- E633. PMID 27759675  
+26. National Institute of Neurological Disorders and Stroke (NINDS). Craniosynostosis Information Page. 2019; https://www.ninds.nih.gov/Disorders/All-Disorders/Craniosynostosis- Information -Page . Accessed April  3, 2023.  
+ 
+History   
+ 
+Date  Comments  
+05/19/98  Add to Durable Medical Equipment Section - New policy --replaces BCBSA 1.01.11  
+01/04/99  Replace Policy - Policy reviewed; no changes made.  
+06/27/00  Replace Policy - Updated with reference to 1999 TEC Assessment; policy statement 
+unchanged.  
+12/21/00  Replace Policy - Policy revised and criteria added.  
+07/01/02  Replace Policy - Policy reviewed with no criteria changes.  
+10/16/03  Replace Policy - Policy reviewed; additional rationale language and references; policy 
+statement changed from investigational to not medically necessary as adjunctive 
+postsurgical therapy for synostotic p lagiocephaly. Notification required prior to 
+publishing (2/15/04).  
+09/01/04  Replace Policy - Policy renumbered from PR.1.01.106; no date changes.  
+09/14/04  Replace Policy - Policy reviewed with literature search. Guidelines, Rationale and 
+References updated.  
+08/09/05  Replace Policy - Policy reviewed with literature search; Rationale updated; no change 
+to policy statement.  
+02/06/06  Codes updated - No other changes.  
+05/26/06  Update Scope and Disclaimer - No other changes.  
+08/08/06  Replace  Policy - Policy updated with literature search; no change to policy statement.  
+02/23/07  Codes Updated - No other changes.  
+05/08/07  Replace Policy - Policy updated with literature review; no change in policy statement. 
+Reviewed by practicing pediatrician.  
+06/10/08  Replace Policy - Policy updated with literature search. References added. Policy 
+statement revised to allow helmets or bands only for endoscopic strip craniectomy as 
+medically necessary. .  Page | 15 of 16  ∞  
+ Date  Comments  
+11/11/08  Update Rationale section - No oth er changes.  
+06/09/09  Replace policy - Policy updated with additional AAP Guideline reference. No change to 
+policy statement.  
+05/11/10  Replace Policy - Policy updated with literature search. Reference added. No change to 
+policy statement.  
+06/13/11  Archive Policy. - Policy updated with literature review; no change in policy statement. 
+Reviewed by practicing pediatrician. This policy has been archived.  
+12/08/15  New Policy. Adopting to support medical necessary  indications; excluded in contra ct 
+language . Policy effective date is May 1, 2016 following provider notification.  
+04/20/16  Annual review. Policy updated with literature review. Coverage criteria expanded; 
+assessment information moved from policy guidelines to policy section.  
+11/08/16  Minor update. Language added to the Rationale section to indicate that the applicable 
+age range of this policy is based on FDA -approval for these helmets and is supported 
+by the American Academy of Pediatrics (AAP).  
+02/01 /17 Annual Review , approv ed January 10, 2017 . Policy updated with literature review 
+through September 26, 2016; no references added.  Policy statements unchanged.  
+03/24/17  Policy moved into new format; no change to policy statements.  
+10/01 /17 Annual Review  approved September 21, 2017.  Policy updated with literature review 
+through June 22, 2017; references 25-26 added. Policy statements unchanged.   
+*Varies slightly from BCBSA.  
+05/01 /18 Annual Review, approved April 18 , 2018.  Policy updated with literature review through 
+January 2018; no references added. Minor edits for clarity. Otherwise, p olicy 
+statements unchanged  
+09/01 /18 Minor update. Re -added Consideration of Age information ; it was inadvertently 
+removed in a previous update.  
+10/01 /19 Annual Review, approved September 5, 2019. Policy updated with literature review 
+through January 2019; no references added. Policy statement edited from the child has 
+severe positional plagiocephaly to persistent plagiocephaly or brachycephaly without 
+synostosis  for greater clarity . Other statements edited for clarity and conciseness; 
+intent was unchanged.  
+04/01/20  Delete policy, approved March 10, 2020. This policy will be deleted effective July 2, 
+2020,  and replaced with InterQ ual criteria for dates of service on or after July 2, 2020.  
+07/02/20  Delete policy.  Page | 16 of 16  ∞  
+ Date  Comments  
+11/01/20  Policy reinstated effective February 5, 2021 ; approved October 13, 2020.  Policy 
+updated with literature review through May, 2020; no references added. Policy 
+statements unchanged.  
+06/01 /21 Annual Review, approved May 20 , 2021.  Policy updated with literature search through 
+January 24, 2021; references added.  Medical necessity policy statements edited for 
+greater ease of understanding ; policy intent essentially unchanged.  
+06/01 /22 Annual Review, approved May 9 , 2022.  Policy updated with literature search through 
+January 12, 2022; no references added. Policy statements unchanged.  
+06/01 /23 Policy renumbered , approved May 9 , 2023 , from 1.01.11 to 1.01.506  Adjustable Cranial 
+Orthoses for Positional Plagiocephaly and Craniosynostoses . Policy updated with 
+literature search December 19, 2022; no references added. Policy statements unchanged. Changed the wording from "patient" to "individual" throughout the policy 
+for standardization.  
+ 
+Disclaimer : This medical policy is a guide in evaluating the medical necessity of a particular service or treatment. The 
+Company adopts policies after careful review of published peer -reviewed scientific literature, national guidelines and 
+local standards of practice. S ince medical technology is constantly changing, the Company reserves the right to review 
+and update policies as appropriate. Member contracts differ in their benefits. Always consult the member benefit booklet or contact a member service representative to determine coverage for a specific medical service or supply. 
+CPT codes, descriptions and materials are copyrighted by the American Medical Association (AMA). © 2023 Premera 
+All Rights Reserved.  
+Scope : Medical policies are systematically developed guidelines that serve as a resource for Company staff when 
+determining coverage for specific medical procedures, drugs or devices. Coverage for medical services is subject to 
+the limits and conditions of the member benefit plan. Members and their  providers should consult the member 
+benefit booklet or contact a customer service representative to determine whether there are any benefit limitations applicable to this service or supply. This medical policy does not apply to Medicare Advantage.  Premera Blue Cross is a n independent licensee of the Blue Cross Blue Shield Association  serving businesses and residents of Alaska and Washington State, excluding C lark County.   
+052493  (07-01-2021) Discrimination is Against the Law  
+Premera Blue Cross  (Premera) complies with applicable Federal and Washington state civil rights laws and does not discriminate on the basis of race, 
+color, national o rigin, age, disability, sex, gender identity, or sexual orientation . Premera does not exclude people or treat them differently because of race, 
+color, national origin, age, disability , sex, gender identity, or sexual orientation.  Premera  provides free aids and services to people with disabilities to 
+communica te effectively with us, such as q ualified sign language interpreters  and w ritten information in other formats (large print, audio, accessible 
+electronic formats, other formats) . Premera p rovides fre e language services to people whose primary language is not English, such as  qualified interpreters  
+and i nformation written in other languages . If you need these services, contact the Civil Rights Coordinator.  If you believe that Premera has failed to 
+provide these services or discriminated in another way on the basis of race, color, national origin, age, disability, sex, gender identity, or sexual orientation , 
+you can file a grievance with:  Civil Rights Coordinator ─ Complaints and Appeals , PO Box 91102 , Seattle, WA 98111 , Toll free : 855-332-4535 , Fax: 425-918-5592 , 
+TTY: 711 , Email  AppealsDepartmentInquiries@Premera.com . You can file a grievance in person or by mail, fax, or email.  If you need help filing a 
+grievance, the Civil Rights Coordinator is available to help you.  You can also file a civil rights complaint with the U.S. Department of Health and Human 
+Services, Office for Civil Rights, electronically through the Office for Civil Righ ts Complaint Portal, available at  https://ocrportal.hhs.gov/ocr/portal/lobby.jsf , 
+or by mail or phone at:  U.S. Department of Health and Human Services,  200 Independence Ave SW, Room 509F, HHH B uilding , Washington, D.C. 20201, 
+1-800-368-1019,  800-537-7697 (TDD). Complaint forms are available at  http://www.hhs.gov/ocr/office/file/index.html .  
+Washington  residents : You can also file a civil rights complaint wi th the Washington State Office of the Insurance Commissioner, electronically through 
+the Office of the Insurance Commissioner Complaint Portal available at https://www.insurance.wa.gov/file -complaint -or-check -your-complaint -status , or by 
+phone at 800 -562-6900, 360 -586-0241 (TDD). Complaint forms are available at https: //fortress.wa.gov/oic/onlineservices/cc/pub/complaintinformation.aspx .  
+Alaska  residents : Contact the Alaska Division of Insurance via email at insurance@alaska.gov , or by phone at 907-269-7900 or 1 -800-INSURAK  (in-state, 
+outside Anchorage) . 
+Language Assistance  
+ATENCIÓN : si habla español, tiene a su disposición servicios gratuitos de asistencia lingüística. Llame al 800 -722-1471  (TTY: 711).  
+PAUNAWA : Kung nagsasalita ka ng Tagalog , maaari kang gumamit ng mga serbisyo ng tulong sa wika nang walang bayad. Tumawag sa  800-722-1471  (TTY: 711).  
+注意：如果您使用繁體中文，您可以免費獲得語言援助服務。請致電  800-722-1471  (TTY：711）。 
+CHÚ Ý : Nếu bạn nói Tiếng Việt, có các dịch vụ hỗ trợ ngôn ngữ miễn phí dành cho b ạn.  Gọi số 800-722-1471  (TTY: 711). 
+주의: 한국어를  사용하시는  경우, 언어 지원 서비스를  무료로  이용하실  수 있습니다 . 800-722-1471  (TTY: 711)  번으로  전화해  주십시오 . 
+ВНИМАНИЕ : Если вы говорите на русском языке, то вам доступны бесплатные услуги перевода.  Звоните  800-722-1471  (телетайп: 711). 
+LUS CEEV : Yog tias koj hais lus Hmoob , cov kev pab txog lus, muaj  kev pab dawb  rau koj. Hu rau 800-722-1471  (TTY:  711).  
+MO LOU SILAFIA : Afai e te tautala  Gagana fa'a Sāmoa, o loo iai auaunaga  fesoasoan, e fai fua e leai se totogi, mo oe,  Telefoni mai:  800-722-1471  (TTY: 711).  
+ໂປດຊາບ: ຖ້າວ່າ ທ່ານເວ ້າພາສາ ລາວ, ການບໍລິການຊ່ວຍເຫ  ຼື ອດ້ານພາສາ, ໂດຍບໍ່ເສ ັ ຽຄ່າ, ແມ່ນມ ີພ້ອມໃຫ້ທ່ານ. ໂທຣ 800-722-1471  (TTY: 711) . 
+注意事項 ：日本語を話される場合、無料の言語支援をご利用いただけます。 800-722-1471  （TTY:711）まで、お電話にてご連絡ください。  
+PAKDAAR : Nu saritaem ti Ilocano, ti serbisyo para ti baddang ti lengguahe nga awanan bayadna, ket sidadaan para kenyam.  Awagan ti  800-722-1471  (TTY: 711).  
+УВАГА!  Якщо ви розмовляєте українською мовою, ви можете звернутися до безкоштовної служби мовної підтримки.  Тел ефонуйте за 
+номером 800 -722-1471  (телетайп:  711). 
+ប្រយ័ត្ន៖   បរើសិនជាអ្នកនិយាយ  ភាសាខ្មែរ , បសវាជំនួយខ្ននកភាសា បោយមិនគិត្ឈ្ ន ួល គឺអាចមានសំរារ់រំបរ ើ អ្នក។  ចូរ ទូរស័ព្ទ   800-722-1471 ( TTY: 711)។ 
+ማስታወሻ :  የሚናገሩት  ቋንቋ ኣማርኛ  ከሆነ የትርጉም  እርዳታ ድርጅቶች፣  በነጻ ሊያግዝዎት  ተዘጋጀተዋል፡  ወደ ሚከተለው  ቁጥር ይደውሉ  800-722-1471 (መስማት  ለተሳናቸው : 711). 
+XIYYEEFFANNAA : Afaan  dubbattu  Oroomiffa , tajaajila  gargaarsa  afaanii , kanfaltiidhaan  ala, ni argama . Bilbilaa  800-722-1471 ( TTY: 711).  
+ملحوظة:  إذا كنت تتحدث اذكر اللغة، فإن خدمات المساعدة اللغوية تتوافر لك بالمجان.  اتصل برقم   1471-722-800    :(رقم هاتف الصم والبكم711 .) 
+ਧਿਆਨ  ਧਿਓ: ਜੇ ਤੁਸੀਂ ਪੰਜਾਬੀ  ਬੋਲਿੇ ਹੋ, ਤਾਂ ਭਾਸ਼ਾ ਧ ਿੱਚ ਸਹਾਇਤਾ  ਸੇ ਾ ਤੁਹਾਡੇ ਲਈ ਮੁਫਤ ਉਪਲਬਿ  ਹੈ। 800-722-1471 (TTY:  711) 'ਤੇ ਕਾਲ ਕਰੋ। 
+เรียน : ถ้าคุณพูดภาษาไทยคุณสามารถใช้บริการช่วยเหลือทางภาษาได้ฟรี  โทร 800-722-1471  (TTY: 711).  
+ACHTUNG : Wenn Sie Deutsch sprechen, stehen Ihnen kostenlos sprachliche Hilfsdienstleistungen zur Verfügung. Rufnummer: 800 -722-1471  (TTY: 711).  
+UWAGA : Jeżeli mówisz po polsku, możesz skorzystać z bezpłatnej pomocy językowej. Zadzwoń pod numer 800 -722-1471  (TTY: 711).  
+ATANSYON : Si w pale Kreyòl Ayisyen, gen sèvis èd pou lang ki disponib gratis pou ou.  Rele 800 -722-1471  (TTY: 711).  
+ATTENTION  : Si vous parlez français, des services d'aide linguistique vous sont proposés gratuitement.  Appelez le 800 -722-1471  (ATS :  711).  
+ATENÇÃO : Se fala português, encontram -se disponíveis serviços linguísticos, grátis.  Ligue para 800 -722-1471  (TTY: 711).  
+ATTENZIONE : In caso la lingua parlata sia l'italiano, sono disponibili servizi di assistenza linguistica gratuiti. Chiamare il numero  800-722-1471  (TTY: 711).   
+ توجه: اگر به زبان فارسی گفتگو می کنید، تسهیالت زبانی بصورت رايگان برای شما فراهم می باشد. با   (TTY: 711) 1471-722-800   .تماس بگیريد 

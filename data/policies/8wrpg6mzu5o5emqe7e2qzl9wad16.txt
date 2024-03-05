@@ -1,0 +1,1268 @@
+ 
+MEDICAL POLICY – 5.01.591  
+Immun e Checkpoint Inhibitors  
+Effective Date:  July 1 , 2023  
+Last Revised:  June 26 , 2023 
+Replaces:  N/A RELATED POLICIES /GUIDELINES :  
+5.01.543  General Medical Necessity Criteria for Companion Diagnostics Related 
+to Drug Approva l 
+5.01.589    BRAF and MEK Inhibitors  
+11.01.52 3  Site of Service: Infusion Drugs and Biologic Agents  
+ 
+Select a hyperlink below to be directed to that section.  
+POLICY CRITERIA   |  DOCUMENTATION REQUIREMENTS   |  CODING  
+RELATED INFORMATION   |  EVIDENCE REVIEW   |  REFERENCES   |  HISTORY  
+∞ Clicking this icon returns you to the hyperlinks menu above.  
+ 
+Introduction  
+Chemotherapy, often called chemo, is cancer treatment that uses drugs. Radiation and surgery 
+treat one area of cancer. But chemo usually travels through the bloodstream to treat the whole body. Treating the whole body is called a systemic treatment. Immunotherapy is a new type of 
+cancer treatment that helps the body’s immune cells fight the cancer more effectively. C ancer 
+cells sometimes “hide” from the body’s cells that are designed to search for cells that don’t 
+belong, like cancer cells or bacteria. Immune checkpoint inhibitors are drugs that  block the way 
+that cancer cells do this and so help the immune cells find  them so they can be stopped. It is 
+one of the ways we can make the environment less friendly to the cancer and slow its growth.  
+Current immun otherapy drugs are complex molecules that must be given through a vein 
+(intravenous) . In the future, some may be g iven by a shot (injection) the individual  could inject 
+without help . This policy gives information about immunotherapy  drugs and the criteria for 
+when they may be medically necessary.  
+ 
+Note:    The Introduction section is for your general knowledg e and is not to be taken  as policy coverage criteria . The 
+rest of the policy uses specific words and concepts familiar to medical professionals. It is intend ed for 
+providers . A provider can be a person, such as a doctor, nurse, psycholog ist, or dentist. A provider also can 
+be a place where medical care is given, l ike a hospital, clinic, or lab.  This policy informs them about when a 
+service may be covered.  
+ 
+5.01.591_PBC (06-26-2023)
+ 
+ 
+   
+ 
+ 
+   
+Page | 2 of 37  ∞ Policy Coverage Criteria   
+ 
+We will review specific intravenous (IV) and injectable drugs for medical necessity for all ages.  
+For those age 13 and older, we also will review the site of service for medical necessity. Site of 
+service is defined as the location where the drug is administered, such as a hospital -based 
+outpatient setting, an infusion center, a physician’s office, or at home. Click here  to be directed 
+to the site of service review criteria.  
+ 
+Drugs subject to site of service review addressed in this policy are:  
+• Keytruda® (pembrolizum ab) 
+• Opdivo® (nivolumab)  
+ 
+Note:  Keytruda® and Opdivo® are subject to review for site of service administration except 
+when it is used concurrently with other IV medications for cancer treatment.  
+Site of Service 
+Administration  Medical Necessity  
+Medically necessary sites 
+of service  
+• Physician’s office  
+• Infusion center  
+• Home infusion  IV infusion therapy of various medical or biologic agents will 
+be covered in the most appropriate, safe and cost -effective 
+site: 
+• These are the preferred medically necessary  sites of service for 
+specified drugs.  
+Hospital -based outpatient 
+setting  
+• Outpatient hospital IV 
+infusion department  
+• Hospital -based outpatient 
+clinical level of care  IV infusion therapy of various medical or biolo gic agents will 
+be covered in the most appropriate, safe and cost -effective 
+site.  
+ 
+This site is considered medically necessary for the first 90 days for the following:  
+• The initial course of infusion of a pharmacologic or biologic 
+agent  
+OR 
+• Re-initiation of an agent after 6 months or longer following 
+discontinuation of therapy*  Page | 3 of 37  ∞ Site of Service 
+Administration  Medical Necessity  
+ 
+*Note:  This does not include when standard dosing between infusions is 6 
+months or longer  
+ 
+This site is considered medically necessary when there is no 
+outpatient infusion center within 50 miles of the individual’s home and there is no contracted home infusion agency that will travel to their home, or a hospital is the only place that 
+offers infusions of this drug.  
+ 
+This site is considered medically necessary only when the individual  has a clinical condition which puts him or her at 
+increased risk of complications for infusions, including any ONE of the following:  
+• Known cardiac condition (e.g., symptomatic cardiac arrhythmia) or pulmonary condition (e.g., significant respiratory disease, 
+serious obstructive airway disease, %FVC ≤ 40%) that may 
+increase the risk of an adverse reaction  
+• Unstable renal function which decreases the ability to r espond 
+to fluids  
+• Difficult or unstable vascular access  
+• Acute mental status changes or cognitive conditions that impact the safety of infusion therapy  
+• A known history of severe adverse drug reactions and/or anaphylaxis to prior treatment with a related or s imilar drug  
+Hospital -based outpatient 
+setting  
+• Outpatient hospital IV 
+infusion department  
+• Hospital -based outpatient 
+clinical level of care  These sites are considered not medically necessary for infusion 
+and injectable therapy services of various medical and biologic 
+agents when the site -of-service criteria in this policy are not 
+met. 
+ 
+ 
+ Page | 4 of 37  ∞ Drug  Medical Necessity  
+PD-L1 inhibitor   
+• Imfinzi ® (durvalumab) IV 
+ 
+ Imfinzi® (durvalumab) may be considered medically necessary 
+for the treatment of  adult s with: 
+• Unresectable, stage III non -small cell lung cancer (NSCLC) 
+whose disease has not progressed following concurrent platinum -based chemotherapy and radiation therapy  
+• First-line treatment of extensive -stage small cell lung cancer 
+(ES-SCLC) when used in combination with etoposide and either 
+carboplatin or cisplatin  
+• Locally advanced or metastatic biliary tract cancer (BTC) in 
+combination with gemcitabine and cisplatin  
+• Unresectable hepatocellular carcinoma (uHCC ) when used in 
+combination with Imjudo® (tremelimumab -actl) 
+CTLA -4 Inhibitor   
+• Imjudo ® (tremelimumab -
+actl) IV 
+ Imjudo® (tremelimumab -actl) may be considered medically 
+necessary  when used in combination with Imfinzi® 
+(durvalumab)  for the treatment of adult patients with 
+unresectable hepatocellular carcinoma (uHCC).  
+PD-1 inhibitor   
+• Jemperli ® (dostarlimab-
+gxly) IV  
+ 
+ Jemperli® (dostarlimab -gxly) may be considered medically 
+necessary for the treatment of adults with m ismatch repair 
+deficient (dMMR) * recurrent or advanced : 
+• Endometrial cancer (EC) that has progressed on or following 
+prior treatment with a platinum (e.g., cisplatin, carboplatin, 
+oxaliplatin)  containing regimen  
+• Solid tumors  that have progressed on or following prior 
+treatment and who have  no satisfactory alternative treatment 
+options  
+ 
+*Note:  FDA-approved testing confirming  the presence of a specific genetic 
+feature known as mismatch repair deficient (dMMR)  is required before 
+coverage determination for Jemperli®  can be established . 
+PD-1 inhibitor   
+• Keytruda® 
+(pembrolizumab)  IV 
+ 
+ Keytruda® (pembrolizumab) is subject to review for site of 
+service administration except when it is used concurrently with other IV medications for cancer treatment.  
+ Keytruda® (pembrolizumab) may be considered medically 
+necessary for treatment of any of the following:  
+• Unresectable or metastatic melanoma  Page | 5 of 37  ∞ Drug  Medical Necessity  
+• Adjuvant treatment of adult and pediatric (12 years and older) 
+individuals with St age IIB, IIC, or III melanoma following 
+complete resection  
+• Adjuvant treatment of individuals with melanoma with 
+involvement of lymph node(s) following complete resection  
+• Metastatic NSCLC:  
+o First-line as a single agent in individual s with PD -L1 protein 
+overexpression [Tumor Proportion Score (TPS) ≥1%] , with 
+no EGFR or ALK/ROS1 genomic tumor mutations  
+o First-line treatment of metastatic non -squamous NSCLC  
+when used in combination with Alimta® (pemetrexed) and platinum chemotherapy  (e.g., cisplatin, carboplatin, 
+oxaliplatin) in individuals with no EGFR or ALK /ROS1  
+genomic tumor aberrations  or while awaiting the results of 
+such confirmed genomic testing  
+o First-line treatment of metastatic squamous NSCLC in 
+combination with carboplatin and either paclitaxel or 
+Abraxane® (paclitaxel protein -bound)  
+o In individual s with PD -L1 expression with disease 
+progression on or after platinum -containing chemotherapy 
+treatment  
+o In individual s with EGFR or ALK/ROS1 genomic mutations 
+who have disease progressi on on U.S. Food and Drug 
+Administration ( FDA) -approved therapy for these 
+mutations (i.e. , anti-EGFR or anti -ALK/ROS1 agents) 
+• Metastatic or stage III NSCLC where individuals are not 
+candidates for surgical resection or definitive chemoradiation when:  
+o Used  as a single agent for the first -line treatment of 
+individuals expressing PD -L1 [Tumor Proportion Score (TPS) 
+≥ 1%]  
+o No EGFR or ALK/ROS1 genomic tumor mutations  
+• Stage IB (T2a >
+  4 cm), II, or IIIA non -small cell lung cancer 
+(NSCLC)  
+o used as a single agent, as adjuvant treatment following 
+resection and platinum -based chemotherapy in adult 
+individuals  Page | 6 of 37  ∞ Drug  Medical Necessity  
+• Metastatic or unresectable, recurrent  head and neck squamous 
+cell carcinoma  (HNSCC ) when used in combination with 
+platinum and FU for first -line treatment  
+• Recurrent or metastatic HNSCC with disease progression on or 
+after platinum -containing chemotherapy  
+• Metastatic or with unresectable, recurrent HNSCC whose tumors express PD -L1 [Combined Positive Score (CPS) ≥ 1] as a 
+single agent for the first line treatm ent 
+• Adult individual s with relapsed or refractory classical Hodgkin 
+lymphoma (cHL)  
+• Pediatric individuals with r efractory classical Hodgkin 
+lymphoma (cHL), or  cHL who have relapsed after 2 or more 
+prior lines of therapy  
+• Adult and pediatric individuals with Refractory Primary 
+Mediastinal Large B -Cell Lymphoma (PMBCL), or who have 
+relapsed after 2 or more prior lines of therapy  
+• For locally advanced or metastatic urothelial carcinoma:  
+o In individual s who are not eligible for cisplatin- containing 
+chemotherapy  and whose tumors express PD -L1 
+[Combined Positive Score (CPS) ≥ 10]  
+o In individual s who are not eligible for any platinum -
+containing chemotherapy regardless of PD -L1 status  
+o In individual s who have disease progression during or 
+following  platinum -containing th erapy or within 12 months 
+of neoadjuvant or adjuvant treatment with platinum -
+containing chemotherapy  
+o When used in combination with Padcev® (enfortumab 
+vedotin -ejfv) in adult individuals who are not eligible for 
+cisplatin -containing chemotherapy  
+• Treatment of individual s with Bacillus Calmette -Guerin (BCG) -
+unresponsive, high -risk, non -muscle invasive bladder cancer 
+(NMIBC) with carcinoma in situ (CIS) with or without papillary 
+tumors who are ineligible for or have elected not to undergo 
+cystectomy.  
+• Unresectable or metastatic, microsatellite instability -high (MSI -
+H) or mismatch repair deficient  (dMMR) : Page | 7 of 37  ∞ Drug  Medical Necessity  
+o Solid tumors that have progressed following prior 
+treatment and who have no satisfactory alternative 
+treatment options  
+o Colorectal  cancer that has progressed following treatment 
+with a fluoropyrimidine, oxaliplatin, and irinotecan  
+• First-line treatment of MSI -H or mismatch repair deficient 
+(dMMR) unresectable or metastatic colorectal cancer  
+• First-line treatment of individuals with loc ally advanced 
+unresectable or metastatic HER2 -positive gastric or 
+gastroesophageal junction (GEJ) adenocarcinoma when used in 
+combination with trastuzumab, fluoropyrimidine - and platinum 
+(e.g., cisplatin, carboplatin, oxaliplatin)  containing 
+chemotherapy  
+• Locally advanced or metastatic esophageal  or GEJ (tumors with 
+epicenter 1 to 5 centimeters above the GEJ)  carcinoma that is 
+not amenable to surgical resection or definitive chemoradiation either:   
+o In combination with platinum (e.g., cisplatin, carboplatin, oxaliplatin)  and fluoropyrimidine  (e.g., 5-fluorouracil, 
+capecitabine)  containing chemotherapy  
+o As a single agent after one or more prior lines of systemic 
+therapy with tumors of squamous cell histology that 
+express PD -L1 (CPS ≥ 10)  
+• Recurrent or metastatic  cervical cancer with disease 
+progression on or after chemotherapy whose tumors express PD-L1 (CPS ≥1)  
+• In combination with chemotherapy, with or without bevacizumab, for the treatment of individuals with persistent, 
+recurrent, or metastatic cervical cancer  whose tumors express 
+PD-L1 (CPS ≥1)  
+• Hepatocellular carcinoma (HCC) previously treated with 
+Nexavar® (sorafenib)  
+• Adult and pediatric individuals with recurrent locally advanced 
+or metastatic Merkel cell carcinoma (MCC)  
+• First-line treatment of individuals w ith advanced renal cell 
+carcinoma (RCC) in combination with Inlyta® (axitinib)  Page | 8 of 37  ∞ Drug  Medical Necessity  
+• First-line treatment of individual s with advanced RCC in 
+combination with Lenvima ® (lenvatinib ) 
+• Adjuvant treatment of individual s with RCC at intermediate -
+high or high risk of r ecurrence following nephrectomy, or 
+following nephrectomy and resection of metastatic lesions  
+• In combination with lenvatinib, for the treatment of individual s 
+with advanced endometrial carcinoma who have disease 
+progression following prior systemic therapy  and are not 
+candidates for curative surgery or radiation  
+• As a single agent, for the treatment of individuals with 
+advanced endometrial carcinoma that is microsatellite instability -high (MSI -H) or mismatch repair deficient (dMMR) 
+who have disease progressi on following prior systemic therapy 
+and are not candidates for curative surgery or radiation  
+• Adult and pediatric individuals with unresectable or metastatic  
+tumor mutational burden -high (TMB -H) [≥10  
+mutations/megabase (mut/Mb)] solid tumors  that have 
+progr essed following prior  treatment and who have no 
+satisfactory alternative treatment options  
+• Recurrent or metastatic cutaneous squamous cell carcinoma 
+(cSCC)  or locally advanced cSCC  that is not curable by surgery 
+or radiation  
+• In combination with chemotherapy for the treatment of individuals with locally recurrent unresectable or metastatic 
+triple -negative breast cancer (TNBC) whose tumors express PD -
+L1 (CPS ≥10)  
+High -risk early -stage triple -negative breast cancer (TNBC) in 
+comb ination with chemotherapy as neoadjuvant treatment, and 
+then continued as a single agent as adjuvant treatment after 
+surgery.  
+ 
+Note:  FDA-approved testing confirming presence of PD -L1, EGFR, or ALK/ROS1 
+proteins  or TMB -H is required before coverage determination for 
+Keytruda can be established.  
+PD-1 inhibitor  
+• Libtayo® (cemiplimab) IV  
+ Libtayo® (cemiplimab)  may be considered medically necessary 
+for the treatment of individuals with:  Page | 9 of 37  ∞ Drug  Medical Necessity  
+ • Metastatic cutaneous squamous cell carcinoma (CSCC) or 
+locally advanced CSCC who are not candidates for curativ e 
+surgery or curative radiation  
+• Locally advanc ed or metastatic basal cell carcinoma previously 
+treated with a hedgehog pathway inhibitor (e.g., Erivedge® 
+[vismodegib], Odomzo® [sonidegib]) or for whom a hedgehog 
+pathway inhibitor is not appropriate  
+• Locally advanced, where individuals are not candidates for 
+surgical resection or definitive chemoradiation , or metastatic 
+non-small cell lung cancer (NSCLC) whose tumors have high 
+PD-L1 expression [Tumor Proportion Score (TPS) ≥ 50%] with 
+no EGFR, ALK or ROS1 aberrations when Libtayo is used  as a 
+single agent  for first-line treatment  
+• Locally advanced, where individuals are not candidates for 
+surgical resection or definitive chemoradiation, or metastatic NSCLC with no EGFR, ALK or ROS1 aberrations when Libtayo is used in combination with platinum (e.g ., cisplatin, carboplatin, 
+oxaliplatin)  based chemotherapy for first -line treatment 
+PD-1 inhibitor   
+• Opdivo ® (nivolumab)  IV 
+ 
+ Opdivo® (nivolumab) is subject to review for site of service 
+administration except when it is used concurrently with other 
+IV medi cations for cancer treatment.  
+ 
+Opdivo® (nivolumab) may be considered medically necessary 
+for treatment of any of the following:  
+• BRAF V600 wild type unresectable or metastatic melanoma as a single agent; BRAF V600 mutation -positive unresectable or 
+metastatic melanoma, as a single agent  
+• Unresectable or metastatic melanoma, in combination with Yervoy® (ipilimumab)  
+• Intermediate or poor -risk, previously untreated advanced renal 
+cell carcinoma, in combination with Yervoy ® (ipilimumab)  
+• Melanoma with lymph  node involvement or metastatic disease 
+who have undergone complete resection, in the adjuvant 
+setting  
+• Resectable (tumors ≥4 cm or node positive) non- small cell lung 
+cancer (NSCLC) in the neoadjuvant setting, in combination with 
+platinum -doublet chemothera py (e.g., cisplatin and Page | 10  of 37  ∞ Drug  Medical Necessity  
+gemcitabine, cisplatin and pemetrexed, carboplatin and 
+paclitaxel)  
+• Metastatic non -small cell lung cancer (NSCLC) expressing PD -
+L1 (≥1%) as determined by an FDA -approved test, with no 
+EGFR or ALK/ROS1 genomic tumor aberrations, as fi rst-line 
+treatment in combination with Yervoy® (ipilimumab)  
+• Metastatic  or recurrent  non-small cell lung cancer (NSCLC), 
+with no EGFR or ALK/ROS1 genomic tumor aberrations, as first -
+line treatment in combination with Yervoy ® (ipilimumab)  and 2 
+cycles of pla tinum -doublet (e.g., carboplatin and pemetrexed, 
+cisplatin and pemetrexed, carboplatin and paclitaxel) 
+chemotherapy  
+• Metastatic non -small cell lung cancer (NSCLC) and progression 
+on or after platinum -based chemotherapy. I ndividuals with 
+EGFR or ALK/ROS1 gen omic tumor aberrations should have 
+disease progression on FDA -approved therapy for these 
+aberrations prior to receiving Opdivo® (nivolumab)  
+• Unresectable malignant pleural mesothelioma  as first -line 
+treatment in combination with Yervoy® (ipilimumab)  
+• Advance d renal cell carcinoma who have receive d prior anti -
+angiogenic therapy  
+• First-line treatment of individuals with advanced renal cell 
+carcinoma (RCC) in combination with Cabometyx® (cabozantinib)  
+• Classical Hodgkin lymphoma (cHL ) that has relapsed or 
+progressed after:  
+o Autologous hematopoietic stem cell transplantation  (HSCT) 
+and brentuximab vedotin  
+OR  
+o Three or more lines of systemic therapy that includes 
+autologous HSCT  
+• Recurrent or metastatic squamous cell carcinoma of the hea d 
+and neck with disease progression on or after a platinum -
+based therapy  
+• Adjuvant treatment of individual s with urothelial carcinoma 
+(UC) who are at high risk of recurrence after undergoing radical 
+resection of UC  Page | 11  of 37  ∞ Drug  Medical Necessity  
+• Locally advanced or metastatic urothelial carcinoma in 
+individuals with:  
+o Disease progression during or following platinum -
+containing chemotherapy  
+o Disease progression within 12 months of neoadjuvant or 
+adjuvant  treatment with platinum -containing 
+chemotherapy  
+• Microsatellite instability -high (MSI -H) or mismatch repair 
+deficient (dMMR) metastatic colorectal cancer that has progressed following treatment with a fluoropyrimidine, 
+oxaliplatin, and irinotecan, as a single agent or in combination with Yervoy ® (ipilimumab)  
+• Hepatocellular carcinoma who have been previously treated 
+with sorafenib  in combination with Yervoy® ( ipilimumab ) 
+• Adjuvant treatment of completely resected esophageal or 
+gastroesophageal junction cancer with residual pathologic disease in adult individual s who have received neoadjuvan t 
+chemoradiotherapy (CRT)  
+• First-line treatment of adult individuals with unresectable 
+advanced or metastatic esophageal squamous cell carcinoma (ESCC) when used in combination with fluoropyrimidine  (e.g., 
+5-fluorouracil, capecitabine)  and platinum  (e.g., cisplatin, 
+carboplatin, oxaliplatin)  containing chemotherapy  
+• First-line treatment of adult individuals with unresectable 
+advanced or metastatic esophageal squamous cell carcinoma (ESCC) when used in combination in combination with Yervoy® 
+(ipilimumab)  
+• Unresectable advanced, recurrent or metastatic esophageal 
+squamous cell carcinoma  (ESCC)  after prior fluoropyrimidine - 
+and platinum -based chemotherapy  
+• Advanced or metastatic gastric cancer, gastroesophageal junction cancer, and esophageal adenocarcinoma  when us ed in 
+combination with fluoropyrimidine  (e.g., 5- fluorouracil, 
+capecitabine)  and platinum  (e.g., cisplatin, carboplatin, 
+oxaliplatin)  containing chemotherapy  Page | 12  of 37  ∞ Drug  Medical Necessity  
+Opdivo ® (nivolumab)  IV in 
+combination with Yervoy ® 
+(ipilimumab)  IV Opdivo® (nivolumab) in combination with Yervoy® 
+(ipilimumab) may be considered medically necessary  for: 
+• Treatment of unre sectable or metastatic melanoma  
+• First-line treatment of m etastatic non -small cell lung cancer 
+(NSCLC) expressing PD -L1 (≥1%) as determined by an FDA -
+approved test, with no EGFR or ALK/ROS1 genomic tumor 
+aberrations  
+• Metastatic or recurrent non -small cell lung cancer (NSCLC), 
+with no EGFR or ALK/ROS1 genomic tumor aberrations, as first -
+line treatment in combination with 2 cycles of platinum -
+doublet (e.g., carboplatin and pemetrexed, cisplatin and pemetrexed, carboplatin and paclitaxel) chemotherapy  
+• Unresectable malignant pleural mesothelioma as first- line 
+treatment  
+• Treatment of individual s with intermediate or poor -risk, 
+previously untreated  advanced renal cell carcinoma  
+• Microsatellite instability -high (MSI -H) or mismatch repair 
+deficient (dMMR) metastatic colorectal cancer that has progressed following treatment with a fluoropyrimidi ne, 
+oxaliplatin, and irinotecan  
+• Hepatocellular carcinoma who have been previously treated 
+with sorafenib  
+• First-line treatment of adult individuals with unresectable 
+advanced or metastatic esophageal squamous cell carcinoma (ESCC)  
+ 
+Note:  Opdivo®  when used  in combination with Yervoy® is  NOT subject to 
+review for site of service administration . 
+PD-1 inhibitor  and LAG -3 
+inhibitor  
+• Opdualag ® (nivolumab 
+and relatlimab -rmbw ) Opdualag ® (nivolumab and relatlimab -rmbw)  may be 
+considered medically necessary for:  
+• Adult and pediatric individuals 12 years of age and older with 
+unresectable or metastatic melanoma.  
+CTLA -4 Inhibitor   
+• Yervoy® (ipilimumab)  IV 
+  Yervoy® (ipilimumab) may be considered medically necessary 
+for: 
+• Treatment of unresectable or metastatic melanoma in 
+individual s 12 years and older   Page | 13  of 37  ∞ Drug  Medical Necessity  
+• Adjuvant treatment of individual s with cutaneous melanoma 
+with pathologic involvement of regional lymph nodes of more 
+than 1 mm who have undergone complete r esection, including 
+total lymphadenectomy  
+• Treatment of individual s with intermediate or poor -risk, 
+previously untreated advanced renal cell carcinoma when used 
+in combi nation with Opdivo® (nivolumab)  
+• Treatment of adult and pediatric individual s 12 years of  age 
+and older with microsatellite instability -high (MSI -H) or 
+mismatch repair deficient (dMMR) metastatic colorectal cancer that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan,  in combination 
+with nivolumab  
+• As a si ngle agent treatment for brain metastases if active 
+against primary tumor (melanoma) in individuals with recurrent disease  
+• Hepatocellular carcinoma who have been previously treated 
+with sorafenib, in combination with Opdivo ® (nivolumab)  
+• Metastatic non -small cell lung cancer (NSCLC) expressing PD -
+L1 (≥1%) as determined by an FDA -approved test, with no 
+EGFR or ALK/ROS1 genomic tumor aberrations, as first -line 
+treatment in combination with Opdivo ® (nivolumab)  
+• Metastatic or recurrent non -small cell lung cancer (NSCLC), 
+with no EGFR or ALK/ROS1 genomic tumor aberrations, as first -
+line treatment in combination with Opdivo ® (nivolumab) and 2 
+cycles of platinum -doublet (e.g., carboplatin and pemetrexed, 
+cisplatin and pemetrexed, carboplatin and paclitaxel) 
+chemotherapy  
+• Unresectable malignant pleural mesothelioma as first- line 
+treatment in combination with Opdivo ® (nivolumab)  
+• First-line treatment of adult individuals with unresectable 
+advanced or metastatic esophageal squamous cell carcinoma 
+(ESCC) when used in combin ation with Opdivo® (nivolumab)  
+PD-L1 inhibitor   
+• Tecentriq® 
+(atezolizumab)  IV 
+ Tecentriq® (atezolizumab) may be considered medically 
+necessary for:  
+ Page | 14  of 37  ∞ Drug  Medical Necessity  
+ • For the first -line treatment of adult individual s with metastatic 
+NSCLC whose tumors have high PD -L1 expression (PD -L1 
+stained ≥ 50% of tumor cells [TC ≥ 50%] or PD -L1 stained 
+tumor -infiltrating immune cells [IC] covering ≥ 10% of the 
+tumor area [IC ≥ 10%]), with no EGFR or ALK genomic tumor 
+aberrations  
+• For the first -line treatment of adult individuals wi th metastatic 
+non-squamous non -small cell lung cancer (NSCLC) with no 
+EGFR or ALK genomic tumor aberrations when used in combination with bevacizumab, paclitaxel, and carboplatin   
+• For the first -line treatment of adult individuals with metastatic 
+non-squam ous non -small cell lung cancer (NSCLC) with no 
+EGFR or ALK genomic tumor aberrations in combination with paclitaxel protein -bound and carboplatin  
+• As adjuvant treatment following resection and platinum -based 
+chemotherapy for adult individuals with Stage II and IIIA NSCLC 
+whose tumors have PD -L1 expression on ≥ 1% of tumor cells  
+• The treatment of  adult  individual s with metastatic NSCLC  who 
+have disease pro gression during or following pl atinum -
+containing chemotherapy  
+o Individual  with EGFR or ALK /ROS1  genomic tumor 
+aberrations should have disease progression on FDA -
+approved therapy for these aberrations (i.e., anti -EGFR or 
+anti-ALK/ROS1 agents ) prior to receiv ing Tecentriq®  
+• For the first -line treatment of adult individuals with extensive -
+stage small cell lung cancer when used in combination with carboplatin and etoposide  
+• The treatment of individual s with unresectable or metastatic 
+hepatocellular carcinoma  (HCC)  who have not received prior 
+systemic therapy when used in combination with bevacizumab  
+• The treatment of individual s with BRAF V600 mutation -positive 
+unresectable or metastatic melanoma when used in 
+combination with Cotellic® ( cobimetinib ) and Zelboraf® 
+(vemurafenib ) 
+• The  treatment of unresectable or metastatic alveolar soft part 
+sarcoma (ASPS)  in  individuals aged 2 and older when used as a 
+single agent   Page | 15  of 37  ∞ Drug  Medical Necessity  
+PD-L1 inhibitor   
+• Bavencio ® (avelumab) IV  
+ 
+ Bavencio® (avelumab) may be considered medically necessary 
+for the treatment of:  
+• Adults and pediatric individuals 12 years and older with 
+metastatic Merkel Cell Carcinoma (MCC)  
+• Maintenance treatment of individual s with locally advanced or  
+metastatic  urothelial carcinoma ( UC) that has not progressed 
+with first-line platinum -containing chemotherapy  
+• Individuals with locally advanced or metastatic urothelial 
+carcinoma  (UC) who: 
+o Have disease progression during or following platinum -
+containing chemotherapy  
+o Have disease progression within 12 months of neoadjuvan t 
+or adjuvant treatment with platinum -containing 
+chemotherapy  
+• First-line treatment, in combination with Inlyta® (axitinib) of 
+individual s with advanced renal cell carcinoma (RCC)  
+PD-L1 inhibitor   
+• ZynyzTM (retifanlimab -
+dlwr) IV  
+ ZynyzTM (retifanlimab -dlwr) may be considered medically 
+necessary for:  
+• The treatment of adult individuals with metastatic or recurrent locally advanced Merkel cell carcinoma (MCC) who may have received sur gery or radiation, but have not received a prior 
+systemic therapy  
+ 
+ 
+Investigational  
+All other uses of Bavencio®, Imfinzi ®, Jemperli® , Keytruda®, Libtayo® , Opdivo®,  Yervoy® , 
+Tecentriq®  and ZynyzTM not listed in this policy are considered investigational.   
+ 
+Length of Approval  
+Approval  Criteria  
+Initial authorization  Injectable drugs listed in policy may be approved up to  6 
+months.  
+Re-authorization criteria  Future re -authorization of injectable drugs  may be approved 
+up to 12 months  as long as the drug -specific coverage criteria Page | 16  of 37  ∞ Length of Approval  
+Approval  Criteria  
+are met, and chart notes demonstrate that the individual  
+continues to show a positive clinical response to therapy.  
+ 
+Documentation Requirements  
+The individual ’s medical records submitted for review for all conditions should document 
+that medical necessity criteria are met. The record should include the following:  
+• Office visit notes that contain the diagnosis, relevant history, physical evaluation and 
+medication history  
+ 
+Coding   
+ 
+Code  Description  
+HCPCS  
+C9147  Injection, Tremelimumab -actl, (Imjudo ® and ZynyzTM), 1 mg. (new code effective 
+4/1/2023)  (code termed 6/30/ 2023)  
+J3590  Unclassified biologics  
+J9022  Injection, atezolizumab  (Tecentriq®),  10 mg  
+J9023  Injection, avelumab (Bavencio®), 10 mg  
+J9119  Injection, cemiplimab -rwlc (Libtayo® ), 1 mg   
+J9173  Injection, durvalumab  (Imfinzi® ), 10 mg  
+J9228  Injection, ipilimumab  (Yervoy® ), 1 mg  
+J9271  Injection, pembrolizumab  (Keytruda® ), 1 mg  
+J9272  Injection, dostarlimab -gxly (Jemperli® ), 10 mg  
+J9298  Injection, nivolumab and relatlimab -rmbw  (Opdualag ®), 3 mg/1 mg (new code 
+effective 10/1/ 2022) 
+J9299  Injection, nivolumab  (Opdivo® ), 1 mg  
+J9347  Injection, tremelimumab -actl  (Imjudo ®), 1 mg  (new code effective 7/1/ 2023) 
+Note :  CPT codes, descriptions and materials are copyrighted by the American Medical Association (AMA). HCPCS 
+codes, descriptions and materials are copyrighted by Centers for Medicare Services (CMS).  Page | 17  of 37  ∞  
+Related Information   
+ 
+Programmed Cell Death Protein 1  (PD-1) 
+Programmed cell death protein 1, also known as PD -1 and CD279 (cluster of differentiation 279), 
+is a protein on the surface of cells that has a role in regulating the immune system's response to 
+the cells of the human body by down- regulating the immune sys tem and promoting self -
+tolerance by suppressing T -cell inflammatory activity. This prevents autoimmune diseases, but it 
+can also prevent the immune system from killing cance r cells. PD -1 is an immune checkpoint 
+and guards against autoimmunity through two m echanisms. First, it promotes apoptosis 
+(programmed cell death) of antigen -specific T -cells in lymph nodes. Second, it reduces 
+apoptosis in regulatory T -cells (anti -inflammato ry, suppressive T -cells) . 
+ 
+Programmed Death-Ligand 1 (PD -L1)  
+Programmed death -ligand 1 (PD -L1) also known as cluster of differentiation 274 (CD274) or B7 
+homolog 1 (B7 -H1) is a protein that in humans i s encoded by the CD274 gene. PD -L1 is a 40kDa 
+type 1 transmembrane protein that has been speculated to play a major role in suppressing  the 
+immune system during particular events such as pregnancy, tissue allografts, autoimmune disease and other disease states such as hepatitis. Normally the immune system reacts to 
+foreign antigens that are associated with exogenous or endogenous danger signals, which triggers a proliferation of antigen- specific CD8+ T -cells and/or CD4+ helper cells. The binding of 
+PD-L1 to PD -1 or B7.1 transmits an inhibitory signal that reduces the proliferation of antigen -
+specific T -cells in lymph nodes, while simultane ously reducing apoptosis in regulatory T -cells 
+(anti-inflammatory, suppressive T -cells) further mediated by a lower regulation of the gene Bcl-
+2. 
+ 
+PD-1 and PD -L1 Inhibitors   
+PD-1 inhibitors, a new class of drugs that block PD -1, activate the immune system to attack 
+tumors and are used to treat certain types of cancer.  Similarly, PD -L1 inhibitors block PD -L1, 
+preventing it from binding to PD -1. These drugs product effects similar to PD -1 inhibitors, 
+improving the ability of CD4+ and CD8+ cells to target and eliminate cancer cells.  Page | 18  of 37  ∞  
+Benefit Application  
+The drugs in this policy are managed through the Medical Benefit.  
+ 
+Evidence Review   
+ 
+Description  
+Imjudo® (tremelimumab -actl) 
+Imjudo® (tremelimumab -actl) is a cytotoxic T -lymphocyte -associated antigen 4 (CTLA -4) 
+blocking human IgG2 monoclonal antibody. CTLA -4 is a negative regulator of T -cell activity. 
+Tremelimumab -actl is a monoclonal antibody that binds to CTLA -4 and blocks the interaction 
+with its ligands C D80 and CD86, releasing CTLA -4-mediated inhibition of T -cell activation. In 
+synergistic mouse tumor models, blocking CTLA -4 activity resulted in decreased tumor growth 
+and increased proliferation of T cells in tumors.  
+ 
+Jemperli® ( dostarlimab -gxly)  
+Jemperli® (dostarlimab -gxly) is a programmed death receptor -1 (PD -1)–blocking IgG 4 
+humanized monoclonal antibody  that binds to the PD -1 receptor and blocks its interaction with 
+PD-L1 and PD -L2, releasing PD -1 pathway -mediated inhibition o f the immune response, 
+including the anti -tumor immune response.  
+ 
+Keytruda ® (pembrolizumab)  
+Keytruda® (pembrolizumab)  is a programmed death receptor -1 (PD -1)-blocking antibody which 
+is expressed on antigen -stimulated T -cells and induces downstream signalin g that inhibits T -cell 
+proliferation, cytokine release, and cytotoxicity. Melanoma and many other tumors express PD -1 
+ligand (PD -L1) on the cell surface, resulting in suppression of cytotoxic T -cell activity, allowing 
+the tumor to proliferate unchecked.  Page | 19  of 37  ∞  
+Opdivo® (nivolumab)  
+Opdivo® (nivolumab)  is a human monoclonal antibody to programmed death receptor -1 (PD -
+1), which is expressed on antigen -stimulated T -cells and induces downstream signaling that 
+inhibits T -cell proliferation, cytokine release, and cytotox icity. Melanoma and many other tumors 
+express PD -1 ligand (PD -L1) on the cell surface, resulting in suppression of cytotoxic T- cell 
+activity.  
+ 
+Opdualag ™ (nivolumab  and relatlimab -rmbw ) 
+Opdualag ™ is a combination of nivolumab, a PD -1 blocking antibody, and relatlimab, a 
+lymphocyte activation gene -3 (LAG -3) blocking antibody. LAG- 3 blockade enhances the anti -
+tumor activity of PD -1 blockage. The combination of nivolumab and relatlimab causes a bigger 
+increase in T -cell activation than the activity of either antibody alone.  
+ 
+Tecentriq® (atezolizumab)   
+Tecentriq® (atezolizumab)  is a monoclonal antibody that binds to PD -L1 and blocks its 
+interactions with both PD -1 and B7.1 receptors. This releases the PD -L1/PD-1 mediated 
+inhibition of the immune response, including activation of the anti -tumor immune response 
+without inducing antibody  dependent cellular cytotoxicity. In syngeneic mouse tumor models, 
+blocking PD -L1 activity resulted in decreased tumor growth. PD-L1 may be expressed on tumor 
+cells and/or tumor -infiltrating immune cells and can contribute to the inhibition of the anti-
+tumor immune response in the tumor microenvironment.  Binding of PD -L1 to the PD -1 and B7.1 
+receptors found on T- cells and antigen presenting cells suppresses cytotoxic T- cell activity, T -cell 
+proliferation and cytokine production.  
+ 
+Yervoy® (ipilimumab)  
+Yervoy® (ipilimumab)  is a human cytotoxic T -lymphocyte antigen 4 (CTLA -4)-blocking antibody. 
+CTLA -4 is a negative regulator of T -cell activity. Ipilimumab binds to CTLA -4 and blocks the 
+interaction of CTLA -4 with its ligands, CD80/CD86. Blockade of CTLA -4 has been shown to 
+augment T -cell activation and proliferation, including the activation and proliferation of tumor Page | 20  of 37  ∞ infiltrating T -effector cells. Inhibition of CTLA -4 signaling can also reduce T -regulatory cell 
+function, which may contribute to a general increase in T -cell responsiveness, including the anti -
+tumor immune response.  
+ 
+ZynyzTM (retifanlimab -dlwr)  
+ZynyzTM (retifanlimab -dlwr) is a programmed death receptor (PD -1) blocking antibody. PDL1 and 
+PDL2 are ligands of the PD -1 receptor found on the T cell.  By binding on the PD -1 receptors, 
+PDL1 and PDL2 inhibits the T -cell proliferation and cytokine production. Retifanlimab -dlwr binds  
+to the PD -1 receptor and blocks the binding pf PDL1 and PDL2, which blocks the T -cell activities , 
+including the anti -tumor immune response.   
+ 
+Safety and Efficacy  
+Jemperli® (dostarlimab -gxly)  
+The efficacy of dostarlimab  was evaluated in the GARNET study (NCT02715284), a multicenter, 
+multicohort, open -label study conducted in individuals with advanced solid tumors. The efficacy 
+population consisted of a cohort of 71 individual s with mismatch repair deficient (dMMR) 
+recurrent or advanced endometrial cancer  who had progressed on or after treatment with a 
+platinum -containing regimen. Individual s with prior treatment with PD -1/PD -L1–blocking 
+antibodies or other immune checkpoint inhibitor therapy and individual s with autoimmune 
+disease that required systemic therapy with immunosuppressant agents within 2 years were 
+excluded from the study.  
+Individual s received dostarlimab 500 mg intravenously every 3 weeks for 4 doses followed by 
+1,000 mg intravenously every 6 weeks. Treatment continued until disease progression or unacceptable toxicity. The major efficacy outcome measures were Overall Respons e Rate (ORR) 
+and Duration of Response (DOR) as assessed by blinded independent central review (BICR) 
+according to the Response Evaluation Criteria in Solid Tumors (RECIST) v 1.1.  The confirmed ORR 
+with dostarlimab  was 42.3% (95% CI: 30.6% -54.6%) and the DO R median in months was not 
+reached  yet at the time of FDA approval.
+ 
+The most common adverse reactions  with dostarlimab  are fatigue  (48%) , nausea  (30%) , diarrhea 
+(26%) , anemia  (24%) , and constipation  (20%) . There are warnings and precautions regarding Page | 21  of 37  ∞ immun e-mediated adverse reactions , infusion -related reactions , embryo -fetal toxicity , and 
+complications of allogeneic HSCT . 
+ 
+Libtayo ® (cemiplimab ) 
+There are currently limited published data available on the efficacy of cemiplimab  in the 
+treatment  of malignancies. In one fair quality Phase 1, non- randomized, open -label, expansion 
+cohort study, 26 individuals with advanced cutaneous squamous cell carcinoma received 
+cemiplimab showed response to treatment in 50% of individuals and a dura ble response in 65% 
+of individuals who had a response.  
+In a fair quality Phase 2, non -randomized, open -label, pivotal cohort study, 59 individuals with 
+metastatic cutaneous squamous cell carcinoma received cemiplimab monotherapy and 
+treatment response was seen in 47% of individuals. Among the 28 individuals who had a response, a durable disease cont rol rate of 61% was observed.  
+Other potentially supportive studies of cemiplimab in individual s with advanced cutaneous 
+squamous cell carcinoma, lung cancer, ova rian cancer, cervical cancer, and glioblastoma are 
+ongoing.   
+The most common adverse events seen with cemiplimab in  the Phase 1 study were fatigue 
+(27% ), constipation, decreased appetite, diarrhea, hypercalcemia, hypophosphatemia, nausea, 
+and urinary tract  infection (15%) . The most common grade 3 to 5 adverse events were 
+hypercalcemia , skin infection , and failure to thrive . Discontinuation due to adverse events 
+occurred in two individual s in the study.  
+In the phase 2 study, the most common adverse events were diarrhea (27%), fatigue (24%), 
+nausea (17%), constipation (15%), and rash (15%).  Grade 3 to 5 adverse events  occurred in more 
+than one individual  were p neumonitis , cellulitis , hypercalcemia , pleural effusion , and adverse 
+events resulting in death . Four individual s discontinued due to adverse events during this study.
+ 
+ 
+Opdivo® (nivolumab)  
+The advanced melanoma indication for nivolumab received accelerated biologics license 
+application approval based on tumor response rate and durability of response in one open -
+label, Phase III trial of nivolumab in adults with unresectable or metastatic mel anoma following 
+progression on Yervoy® (ipilimumab)  and, if BRAF V600 mutation‒positive, a BRAF inhibitor Page | 22  of 37  ∞ (dabrafenib or vemurafenib). An improvement in survival or disease -related symptoms has not 
+yet been established. Phase III trials are to be submitted  by the end  of 2016. CheckMate -372 was 
+a randomized (2:1), open -label trial in which 370 individuals with unresectable or metastatic 
+melanoma received nivolumab 3 mg/kg every 2 weeks (n=268) or investigator’s choice of 
+chemotherapy (n=102), either dacarbazine or carboplatin plus paclitaxel. Primary end points were objective response rate ( ORR), by independent radiology review committee, and overall 
+survival (OS). Secondary end points included progression -free survival (PFS); PD -L1 expression; 
+and health- related  quality of life (HRQOL).  
+Efficacy was assessed in a single- arm, noncomparative, preplanned interim analysis in the first 
+120 individual s who received nivolumab in Trial 1 and in whom the minimum duration of follow -
+up was 6 months. Data are unpublished and  taken from the label. ORR in the efficacy subset was 
+32% (95% confidence interval [CI], 23 to 41), consisting of 4 complete responses and 34 partial responses in nivolumab -treated individual s. Of the 38 individual s with responses, 33 individual s 
+(87%) had  ongoing responses with durations ranging from 2.6+ to 10+ months, which included 
+13 individuals with ongoing responses of 6 months or longer. There were objective responses in 
+individuals with and without BRAF V600 mutation‒positive melanoma.  
+Warnings an d precautions are generally related to the development of moderate- to-severe 
+immune -mediated reactions in a small number of individuals . This results in administration of 
+corticosteroids and either withholding the drug (in the majority of cases) or discont inuation of 
+the drug. Such reactions included immune -mediated pneumonitis (2.2%), colitis (2.2%), hepatitis 
+(1.1%), nephritis or renal dysfunction (0.7%), hyperthyroidism (3%) or hypothyroidism (8%), or 
+other immune -mediated events (<1%). Nivolumab was dis continued for adverse reactions in 9% 
+of individuals, while 26% of individual s receiving nivolumab had a drug delay for an adverse 
+reaction. Serious adverse reactions occurred in 41% of individual s receiving nivolumab. The most 
+frequent grade 3 and 4 adverse reactions reported in 2% to less than 5% of individuals receiving 
+nivolumab were abdominal pain, hyponatremia, increased aspartate aminotransferase, and increased lipase. The most common adverse reaction was rash (> 20%).  
+ 
+Tecentriq® ( atezolizumab ) 
+Tecentriq® (atezolizumab)  was approved under accelerated approval based on tumor response 
+rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.  
+Tecentriq® (atezolizumab)  was investigated in Study 1, a multicenter, open -label, two -cohort 
+trial that included individual s with locally advanced or metastatic urothelial carcinoma. In Cohort Page | 23  of 37  ∞ 2 of Study 1, 310 individuals with locally advanced or metastatic urothelial carcinoma who had 
+disease progression during or following a platinum -containing chemotherapy regimen or who 
+had disease progression within 12 months of treatment with a platinum -containing neoadjuvant 
+or adjuvant chemotherapy regimen were treated  with Tecentriq® . This study excluded 
+individuals who had: a history of autoimmune disease, active or corticosteroid -dependent brain 
+metastases,  administration of a live, attenuated vaccine within 28 days prior to enrollment, or 
+administration of systemic immunostimulatory agents or systemic immunosuppressive medications. Individual s received an intravenous infusion of 1200 mg of Tecentriq®  every 3 
+weeks until unacceptable toxicity or either radiographic or clinical progression. Tumor response assessments w ere conducted every 9 weeks for the first 54 weeks and every 12 weeks thereafter.  
+Major efficacy outcome measures included confirmed ORR as assessed by independent review facility (IRF) using Response Evaluation Criteria in Solid Tumors (RECIST v1.1) and duration of response (DoR). In this cohort, the median age was 66 years, 78% were male, 91% individuals 
+were Caucasian. Twenty -six percent had non -bladder urothelial carcinoma and 78% of 
+individuals had visceral metastases. Sixty -two percent of individuals had an Eastern Cooperative 
+Oncology Group ( ECOG ) score of 1 and 35% of individuals had a baseline creatinine clearance of 
+< 60 mL/min. Nineteen percent of individuals had disease progression following prior platinum -
+containing neoadjuvant or adjuvant che motherapy. Forty -one percent of individual s had 
+received ≥ 2 prior systemic regimens in the metastatic setting. Seventy -three percent of 
+individuals received prior cisplatin, 26% had prior carboplatin, and 1% were treated with other 
+platinum -based regimens . Tumor specimens were evaluated prospectively using the Ventana 
+PD-L1 (SP142) Assay at a central laboratory, and the results were used to define subgroups for 
+pre-specified analyses.  
+Of the 310 individual s, 32% were classified as having PD -L1 expression of ≥ 5% (defined as PD -
+L1 stained tumor -infiltrating immune cells [ICs] covering ≥ 5% of the tumor area). The remaining 
+68% of individuals were classified as having PD -L1 expression of <5% (PD -L1 stained tumor  
+infiltrating ICs covering < 5% of the tumor ar ea). The median follow -up time for this cohort was 
+14.4 months. In 59 individual s with disease progression following neoadjuvant or adjuvant 
+therapy, the ORR was 22.0% (95% CI: 12.3%, 34.7%).  
+The efficacy of Tecentriq® (atezolizumab)  was investigated in tw o multi -center, international, 
+randomized, open -label trials in individual s with metastatic NSCLC who progressed during or 
+following a platinum -containing regimen. Study 2 was a trial in 1225 individual s with the primary 
+analysis population consisting of the first 850 randomized individual s and Study 3 was a trial in 
+287 individual s. In both studies, eligible individual s were stratified by PD -L1 expression status in 
+tumor -infiltrating immune cells (IC), by the number of prior chemotherapy regimens, and by 
+histology. Individual s were randomized (1:1) to receive either TECENTRIQ administered Page | 24  of 37  ∞ intravenously at 1200 mg every 3 weeks until unacceptable toxicity or either radiographic or 
+clinical progression , or docetaxel administered intravenously at 75 mg/m2 every 3 weeks until 
+unacceptable toxicity or disease progression.  
+These studies excluded individuals who had: a history of autoimmune disease, had active or 
+corticosteroid -dependent brain metastases, administration of a live, attenuated vaccine within 
+28 days  prior to enrollment, administration of systemic immunostimulatory agents within 4 
+weeks or systemic immunosuppressive medications within 2 weeks prior to enrollment. Tumor 
+assessments were conducted every 6 weeks for the first 36 weeks, and every 9 weeks thereafter. 
+In Study 2, tumor specimens were evaluated prospectively for PD -L1 expression on tumor cells 
+(TC) and IC using the VENTANA PD -L1 (SP142) Assay and the results were used to define the 
+PD-L1 expression subgroups for the analyses described below.  
+In Study 2, among individual s in the primary analysis population, the median age was 64 years 
+(range: 33 to 85), and 61% of individuals were male. The majority of individual s were white 
+(70%). Approximately three- fourths of individuals had non- squamous disease (74%), 10% had 
+known EGFR mutation, 0.2% had known ALK rearrangements, and most individual s were current 
+or previous smokers (82%). Baseline ECOG performance status was 0 (37%) or 1 (63%). Seventy 
+five percent of individual s received only one prior platinum -based therapeutic regimen.  
+In Study 3 , the median age was 62 years (range: 36 to 84), and 59% of individual s were male. The 
+majority of individual s were white (79%). Approximately two -thirds of individual s had non -
+squamous disease (66%), 7% had known EGFR mutation, 1% had ALK rearrangements, and most 
+individuals were current or previous smokers (80%). Baseline ECOG performance status was 0 (33%) or 1 (67%). Approximately two -thirds of individual s received only one prior platinum -
+based therapeutic regimen.  
+The major efficacy outcome measure of Study 2 was OS in the primary analysis population (first 850 randomized individuals).  
+The major efficacy outcome measure of Study 3 was OS. Other efficacy outcome measures for Study 3 included investigator -assessed objective response rates and duration of response per 
+RECIST v1.1. Tumor specimens were evaluated prospectively using the VENTA NA PD -L1 (SP142) 
+Assay at a central laboratory and the results were used to define the PD -L1 expression 
+subgroups for prespecified analyses. Of the 850 individuals, 16% were classified as having high PD-L1 expression, which is defined as having PD -L1 expression on ≥ 50% of TC or ≥ 10% of IC. 
+In an exploratory efficacy subgroup analysis of OS based on PD -L1 expression, the hazard ratio 
+was 0.41 (95% CI: 0.27, 0.64) in the high PD- L1 expression subgroup and 0.82 (95% CI: 0.68, 0.98) 
+in individuals who did not  have high PD -L1 expression. Results of an updated survival analysis in 
+Study 3 with a median follow -up of 22 months are provided for all randomized individuals.  Page | 25  of 37  ∞  
+Tecentriq® (atezolizumab)  was approved for the treatment of adult and pediatric individuals 2 
+years of age and older with unresectable or metastatic alveolar soft part sarcoma (ASPS). The 
+efficacy of atezolizumab was evaluated in an open- label, single -arm study where 49 adult and 
+pediatric individuals with unresectable or metastatic ASPS. The adult individuals received 
+atezolizumab 1200 mg intravenously and pediatric individuals received 15mg/kg (max 1200 mg) 
+intravenously every 21 days until disease progression or unacceptable toxicity. The primary efficacy endpoints were overall response rate (ORR) and duration of response (DOR). The study’s overall response rate was 24% (12 individuals). Out of 12 individuals, 67% individuals had DOR 
+of 6 months or more and 42% had a DOR of 12 mo nths or more. Most common adverse 
+reactions in the trial were musculoskeletal pain, fatigue, rash, cough, nausea, headache and 
+hypertension,  
+ 
+Keytruda® (pembrolizumab)  
+Keytruda® (pembrolizumab)  is approved for multiple indications based on the following clinical 
+evidence.  
+ 
+Unresectable or Metastatic Melanoma  
+Study KEYNOTE -006 was a randomized, open -label, active -controlled trial evaluating 834 
+individuals with unresectable or metastatic melanoma and no prior ipilimumab treatment who 
+received either pembrol izumab or ipilumumab. Evaluating pembrolizumab 10 m/kg every 3 
+weeks or every 2 weeks, pembrolizumab demonstrated significant improvement in the primary endpoints, OS (33%, p=0.004 and 30%, p<0.001) and PFS (57%, p<0.001 and 56%, p<0.001), 
+relative to ipil imumab (OS 40% and PFS 68%). Study KEYNOTE -002 was a randomized, blinded, 
+active -controlled trial evaluating 540 individuals with unresectable or metastatic melanoma with 
+prior ipilumumab treatment. The study showed statistically significant improvement in  PFS for 
+individuals randomized to both dosing regimens of pembrolizumab compared to chemotherapy (72% and 70% vs 87%, p<0.001 for all).  
+ 
+Metastatic NSCLC  
+Study KEYNOTE -024 was a randomized, open -label, active -controlled trial in 305 individuals with 
+metas tatic NSCLC and had not received prior systemic treatment  for metastatic NSCLC who Page | 26  of 37  ∞ received either pembrolizumab or chemotherapy. The study showed statistically significant 
+improvement in PFS for individuals randomized to pembrolizumab compared with 
+chemot herapy (47% vs 77%, p<0.001). Study KEYNOTE -021 was a randomized, open -label, 
+multi -cohort study evaluating 123 individuals with metastatic NSCLC who received either 
+pembrolizumab in combination with pemetrexed and carboplatin or just pemetrexed and 
+carbop latin. The study showed that there were significant improvements in ORR in the 
+pembrolizumab combination arm (55%) versus the control arm (29%), p=0.0032. Study KEYNOTE -010 evaluated 1033 individual s with metastatic NSCLC that had progressed following 
+platinum -containing chemotherapy who received either pembrolizumab or docetaxel. The study 
+demonstrated significant improvements in OS in pembrolizumab compared to docetaxel 
+(p<0.001 for all). 
+ 
+Recurrent or Metastatic Head and N eck Cancer  
+Study KEYNOTE -012 was  a non -randomized, open -label study that evaluated 174 individuals 
+with recurrent or metastatic HNSCC who had disease progression on or after platinum -
+containing chemotherapy who received pembrolizumab. The ORR was 16% (95% CI 11 to 22), 
+with a complete resp onse rate of 5%. Duration of response had not been reached.  
+ 
+Classical Hodgkin Lymphoma  
+Study KEYNOTE -087 was a non -randomized, open -label study that evaluated 210 individuals 
+with relapsed or refractory cHL who received pembrolizumab. The ORR was 69% (95%  CI 62 to 
+75%) and the duration of response was a median of 11.1 months.  
+ Advanced or Metastatic Urothelial Carcinoma  
+Study KEYNOTE -052 was an open -label, single -arm trial that evaluated 370 individual s with 
+locally advanced or metastatic urothelial carcinoma  who were not eligible for cisplatin -
+containing chemotherapy. The ORR was 29% (95% CI 24 to 34) and the duration of  response 
+was not reached. Study KEYNOTE -045 was a randomized, active -controlled trial that evaluated 
+542 individual s with disease progression on or after platinum -containing chemotherapy who 
+received pembrolizumab or chemotherapy. The study demonstrated s ignificant improvements in 
+OS and ORR for pembrolizumab compared to chemotherapy (57% vs 66%, p=0.004 and 21% vs 
+11%, p=0.002), but there was no statistically significant difference with respect to PFS.  Page | 27  of 37  ∞  
+Microsatellite Instability -High Cancer  
+The efficacy  of pembrolizumab was evaluated in individual s with MSI -H or mismatch repair 
+deficient (dMMR), solid tumors enrolled in one of five uncontrolled, open -label, single -arm trials. 
+A total of 149 individual s were evaluated across the five trials. The ORR was 3 9.6% (95% CI 31.7 
+to 47.9) across all trials, and the duration of response was not reached.  
+ 
+Locally Advanced or Metastatic Urothelial Carcinoma  
+The efficacy of pembrolizumab in combination with enfortumab vedotin was evaluated in 
+individuals with locally advanced or metastatic urothelial carcinoma in multi- cohort study, EV -
+103/Keynote -869. Dose escalation cohort and cohort A, single- arm cohorts, i ncluded individuals 
+who received pembrolizumab in combination with enfortumab vedotin, while cohort K included individuals who were randomized to receive either pembrolizumab in combination with 
+enfortumab vedotin or enfortumab alone. In these studies, pat ients did not receive prior 
+systemic therapy and were not eligible for cisplatin -containing chemotherapy. A total 121 
+individuals received the combination therapy where the individuals’ objective response rate 
+(ORR) and duration of response (doR) were eval uated. The individuals’ overall response rate was 
+68% including 12% of individuals with complete response. The median doR for the dose escalation cohort plus cohort A was 22 months, and the medial doR was not reached for cohort K.  
+ 
+Stage 1B, II, or IIIA n on-small cell lung cancer  
+The efficacy of pembrolizumab was evaluated in a multicenter, randomized, triple -blind, 
+placebo -controlled KEYNOTE -091 trial where 1177 individuals with stage IB, II or IIIA non -small 
+cell lung cancer randomized 1:1 to receive pem brolizumab 200 mg or placebo intravenously 
+every 3 weeks for up to 1 year. Out of 1177 individuals, 1010 received adjuvant platinum -based 
+chemotherapy following complete resection. The primary outcome was disease- free survival. 
+Overall, the study did achie ve statistical significance in the disease -free survival. In 167 
+individuals who did not receive adjuvant chemotherapy, the disease -free survival hazard ratio 
+was 1.25. In the individuals who received adjuvant chemotherapy, the median disease -free 
+survival  was 58.7 months in the treatment group and 34.9 months in the placebo group with 
+hazard ratio of 0.73  
+ Page | 28  of 37  ∞ Yervoy® (ipilimumab)  
+Phase III trials suggested a survival benefit in individuals with stage III or IV metastatic 
+melanoma compared to gp -100 (10.1 mont hs vs. 6.4 months). However, the investigators’ report 
+of 2 to 3.5 months of increased median overall survival is uncertain due to limitations in the trial design. A majority of immune -related adverse events (irAEs) were reduced upon treatment 
+below their respective baselines. With immediate medical attention and treatment, irAEs are manageable and resolvable.  
+Clinical trials investigated the safety and efficacy of Yervoy® (ipilimumab)  in a randomized, 
+double -blind, placebo -controlled trial in individuals w ith resected Stage IIIA (> 1 mm nodal 
+involvement), IIIB, and IIIC (with no in -transit metastases) histologically confirmed cutaneous 
+melanoma. Individual s were randomized to receive ipilimumab 10 mg/kg or placebo every 3 
+weeks for 4 doses. Enrollment requ ired complete resection of melanoma with full 
+lymphadenectomy within 12 weeks prior to randomization. Forty -nine percent  of the ipilimumab 
+arm experienced recurrence- free survival (RFS), whereas it was 62% in the placebo arm. Fourteen  
+deaths occurred with the intervention and 5 in placebo. The adverse event  (AE) rate was more 
+severe at this higher dose compared to 3 mg/kg. Common AEs included rash, pruritus, GI 
+disorders, fatigue, pyrexia, and headache. More severe irAEs included enterocolitis, hepatitis, 
+dermatitis, neuropathy, and endocrinopathy. Endocrine AEs eventually require hormone 
+supplementation.  
+ 
+Bavencio® (avelumab)  
+Bavencio® (avelumab)  is the first FDA approved pharmacotherapy for Merkel cell carcinoma. 
+avelumab offers a significant increase in O RR and median DOR in individual s with histologically 
+confirmed stage IV Merkel cell carcino ma refractory to chemotherapy. Efficacy was 
+demonstrated irrespective of PD -L1 status, eliminating the need for expensive genetic testing 
+prior to therapy administration.  
+The evidence supporting avelumab ’s efficacy was demonstrated in  the JAVELIN Merkel 200 trial. 
+The multi -center, open -label, non -randomized trial included 88 individuals with s tage IV Merkel 
+cell carcinoma. The efficacy results yielded an  ORR of 33.0% (95% CI, 23.3- 34.8) with a complete 
+response rate of 11.4% (95% CI, 6.6- 19.8) and a partial response rate  of 21.6% (95% CI, 13.5 -
+31.7). At the time of the data cutoff the median duration of response had not been reached and 
+response duration had ranged from 2.8 months to 23.3+ months.  
+ Page | 29  of 37  ∞ ZynyzTM (retifanlimab -dlwr)  
+ZynyzTM (retifanlimab -dlwr), a programmed death receptor - 1 (PD -1) inhibitor, is approved for 
+the treatment of adult individuals with metastatic or recurrent locally advanced Merkel c ell 
+carcinoma (MCC). The efficacy and safety of ZynyzTM was evaluated in the PODIUM -201 study, 
+which was a single -arm, open -label, multiregional phase II study involving 65 individuals with 
+locally advanced MCC who had not received prior systemic therapy. Individuals were 
+administered ZynyzTM 500 mg intravenously every 4 weeks until disease progression, 
+unacceptable toxicity, or up to 24 months. The study’s primary efficacy endpoint was objective 
+response rate and duration of response. The objective response rate for the study was 52%, with 
+18% complete responses and 34% partial responses. Of the 34 individuals with the response, 
+76% individuals had duration of response for at least 6 months, while 62% individual had duration of response of at least 12 month s. The indication was granted accelerated approval 
+based on the tumor objective response rate and duration of response observed in the trial. 
+Continued approval for this indication may be subject to confirmation and description of clinical 
+benefit in confi rmatory trials.   
+The most common adverse effects in the clinical trial were fatigue, musculoskeletal pain, 
+pruritus, diarrhea, rash, pyrexia and nausea. Severe adverse events, such as fatigue, arrythmia 
+and pneumonitis, were reported in approximately 22% of the individuals. In the trial, about 11% of the individuals permanently discontinued zynyz
+TM due to adverse reactions, such as asthenia, 
+atrial fibrillation, and concomitant disease progression of chronic lymphocytic  leukemia, etc.  
+ 
+2019  Update  
+Reviewed prescribing information for all drugs in policy. Added a new indication identified for 
+Keytruda ® (pembrolizumab) for esophageal cancer. Bavencio ® (avelumab), a PD -L1 inhibitor, 
+was moved from policy 5.01.540 Miscellaneous  Oncology Drugs  into policy 5.01.591 
+Immune Checkpoint Inhibitors . Added a new indication for Bavencio ® for renal cell 
+carcinoma.  No additional evidence was identified that would require changes to other drugs 
+listed in this policy.  
+ 
+2020 Update  
+Reviewed prescribing information for all drugs in policy. Added a new indica tion identified for 
+Tecentriq® (atezolizumab)  for the treatment of individuals with BRAF V600 mutation -positive Page | 30  of 37  ∞ unresectable or metastatic melanoma when used in combination with Cotellic® (cobimetinib) 
+and Zelboraf® (vemurafenib) .  
+ 
+2021  Update  
+Reviewed prescribing information for all drugs in policy. Added a new indication to Keytruda® 
+(pembrolizumab)  for locally advanced or metastatic esophageal or gastroesophageal junction 
+(GEJ) (tumors with epicenter 1 to 5 centimeters above the GEJ) carcinom a that is not amenable 
+to surgical resection or definitive chemoradiation when used in combination with platinum - and 
+fluoropyrimidine - containing chemotherapy . Removed from Keytruda® (pembrolizumab)  
+coverage for small cell lung cancer  as indication was wi thdrawn due to lack of efficacy in follow -
+up trials.  Added two new indications to Libtayo® (cemiplimab). The first indication is locally 
+advanced or metastatic basal cell carcinoma previously treated with a hedgehog pathway inhibitor ( e.g., Erivedge® [vism odegib], Odomzo® [sonidegib]) or for whom a hedgehog 
+pathway inhibitor is not appropriate . The second indication is for l ocally advanced, where 
+individuals are not candidates for surgical resection or definitive chemoradiation, or metastatic non-small cell  lung cancer (NSCLC) whose tumors have high PD -L1 expression [Tumor 
+Proportion Score (TPS) ≥ 50%] with no EGFR, ALK or ROS1 aberrations when Libtayo is used as first-line treatment . Added new indication to Opdivo® (nivolumab)  for first-line treatment of 
+individual s with advanced renal cell carcinoma in combination with Cabometyx® (cabozantinib) . 
+Removed from Imfinzi® (durvalumab)  coverage for urothelial carcinoma as indication was 
+withdrawn due to lack of efficacy in follow -up trials . Removed from Tecentriq ® (atezolizumab)  
+coverage for prior platinum containing chemotherapy for metastatic urothelial carcinoma as 
+indication was withdrawn due to lack of efficacy in follow -up trials.  
+ 
+2022 Update  
+Reviewed prescribing information for all drugs in policy. Removed from Keytruda ® 
+(pembrolizumab) coverage as 3rd line monotherapy treatment for individuals with PD -L1-
+positive gastric or gastroesophageal junction (GEJ) cancer as indication was withdrawn du e to 
+lack of efficacy in follow -up trials.  Added site of service review for Keytruda ® (pembrolizumab) 
+and for Opdivo ® (nivolumab) . Keytruda® and Opdivo® are subject to review for site of service 
+administration except when it is used concurrently with other  IV medications for cancer 
+treatment.  
+ Page | 31  of 37  ∞ 2023 Update  
+Reviewed prescribing information for all drugs in policy. Updated coverage criteria for 
+Tecentriq® (atezolizumab)  to include the indication for the treatment of adult and pediatric 
+individuals 2 years of a ge and older with unresectable or metastatic alveolar soft part sarcoma 
+(ASPS) . Updated coverage criteria for Keytruda ® (pembrolizumab)  to include the indication for 
+the treatment of for adjuvant treatment following resection and platinum -based chemotherapy 
+for adult individuals  with stage IB , II, or IIIA NSCLC , as a single agent. Updated coverage criteria 
+for Keytruda ® (pembrolizumab)  to include the indication for the treatment of adult individuals  
+with locally advanced or metastatic urothelial carcinoma who are not eligible for cisplatin-containing chemotherapy , when used in combination with enfortumab vedotin . Added coverage 
+criteria for Zynyz
+TM (retifanlimab -dlwr) for the treatment of adult individuals  with metastatic or 
+recurrent locally advanced Merkel  cell carcinoma.  Added language of “adult individuals” for 
+Keytruda’s indication of locally advanced or metastatic urothelial carcinoma when used in combination with Padce v to match FDA label. Grouped the Keytruda indications (NSCLS and 
+urothelial carcinom a) together.  
+ 
+References   
+ 
+1. Weber JS, Minor DR, D'Angelo S, et al. A Phase III randomized, open -label study of nivolumab (anti -PD-1; BMS -936558, ONO -
+4538) versus investigator’s choice chemotherapy (ICC) in patients with advanced melanoma after prior anti -CTLA4 therapy 
+(Abstract LBA3_ PR). Paper presented at: ESMO 2014 Congress; 26- 30 September, 2014; Madrid, Spain.  
+2. U.S. National Institutes of Health. Study Record: A Study to Compare BMS -936558 to the Physician's Choice of Either 
+Dacarbazine or Carboplatin and Paclitaxel in Advanced Me lanoma Patients That Have Progressed Following Anti- CTLA -4 
+Therapy (CheckMate 037). Available at: https://clinicaltrials.gov/ct2/show/NCT01721746  Accessed May 1, 2023. . 
+3. Davies MA, Liu P, McIntyre S, et al. Prognostic factors for survival in melanoma patients with brain metastases. Cancer. Apr 15 
+2011;117(8):1687- 1696.  
+4. Fife KM, Colman MH, Stevens GN, et al. Determinants of outcome in melanoma patients with cere bral metastases. J Clin Oncol. 
+Apr 1 2004;22(7):1293- 1300.  
+5. Eigentler TK, Figl A, Krex D, et al. Number of metastases, serum lactate dehydrogenase level, and type of treatment are prognostic factors in patients with brain metastases of malignant melanoma. C ancer. Apr 15 2011;117(8):1697- 1703.  
+6. McArthur GA, Ribas A. Targeting oncogenic drivers and the immune system in melanoma. J Clin Oncol. Feb 1 2013;31(4):499 -
+506. 
+7. Cantwell -Dorris ER, O'Leary JJ, Sheils OM. BRAFV600E: Implications for carcinogenesis and molecular therapy. Molecular Cancer 
+Therapeutics. 2011;10(3):385- 394.  
+8. Huang PH, Marais R. Cancer: Melanoma troops massed. Nature. May 21 2009;459(7245):336- 337.  
+9.  Jakob JA, Bassett RL, Jr., Ng CS, et al. NRAS mutation status is an independent prognostic fact or in metastatic melanoma. 
+Cancer. Aug 15 2012;118(16):4014- 4023.  Page | 32  of 37  ∞ 10. Long GV, Menzies AM, Nagrial AM, et al. Prognostic and clinicopathologic associations of oncogenic BRAF in metastatic 
+melanoma. Journal of Clinical Oncology. 2011;29(10):1239- 1246.  
+11. Lemech C, Infante J, Arkenau HT. Combination molecularly targeted drug therapy in metastatic melanoma: progress to date. 
+Drugs. Jun 2013;73(8):767- 777.  
+12. Shenenberger DW. Cutaneous malignant melanoma: a primary care perspective. Am Fam Physician. Jan 15 2012;85(2) :161- 168.  
+13. Robert C, Long GV, Brady B, et al. Nivolumab in Previously Untreated Melanoma without BRAF Mutation. N Engl J Med. Nov 16 2014.  
+14. National Comprehensive Cancer Network. NCCN Drugs & Biologics Compendium: Available at: https://www.nccn.org/compendia -templates/compendia/drugs -and-biologics -compendia  Accessed  May 1, 2023.  
+15. Zhu Z, Liu W, Gotlieb V. The rapidly evolving the rapies for advanced melanoma -Towards immunotherapy, molecular targeted 
+therapy, and beyond. Crit Rev Oncol Hematol. 2015 Dec 10. pii: S1040- 8428(15)30091- 3. doi: 10.1016/j.critrevonc.2015.12.002. 
+[Epub ahead of print] Review.  
+16. La-Beck NM, Jean GW, Huynh C,  et al. Immune Checkpoint Inhibitors: New Insights and Current Place in Cancer Therapy. 
+Pharmacotherapy. 2015 Oct;35(10):963- 76. PMID: 26497482.  
+17. Masters GA, Temin S, Azzoli CG, et al. Systemic Therapy for Stage IV Non–Small -Cell Lung Cancer: American Society of Clinical 
+Oncology Clinical Practice Guideline Update. Published online ahead of print August 31, 2015, doi 10.1200 /JCO.2015.62.1342. 
+Available at: https://ascopubs.org/doi/full/10.1200/JCO.2015.62.1342?url_ver=Z39.88-
+2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed   Accessed  May 1. 2023.  
+18. Migden MR, Rischin D, Schmults CD, Guminski A, Hauschild A, Lewis KD, et al. PD -1 Blockade with Cemiplimab  in Advanced 
+Cutaneous Squamous -Cell Carcinoma. New England Journal of Medicine. 2018;379(4):341–51.  
+19. Papadopoulos KP, Owonikoko TK, Johnson ML, Brana I, Gil -Martin M, Perez RP, et al. REGN2810: A fully human anti -PD-1 
+monoclonal antibody, for patients with  unresectable locally advanced or metastatic cutaneous squamous cell carcinoma 
+(CSCC) —Initial safety and efficacy from expansion cohorts (ECs) of phase I study. Poster session presented at: 13th Winter 
+Clinical Dermatology Conference, January 12 –17, 2018, Lahaina, HI, USA  
+20. Regeneron Pharmaceuticals. Study of REGN2810 (Anti -PD-1) in Patients With Advanced Malignancies. 2015 Mar 9 [last updated 
+2017 Nov 14; cited 2018 Sep 11]. In: ClinicalTrials.gov [Internet]. Bethesda (MD): U.S. National Library of Medicine . 2000.  
+21. ClinicalTrials.gov Identifier: NCT02383212.  A First -in-Human Study of Repeat Dosing With REGN2810, a Monoclonal, Fully 
+Human Antibody to Programmed Death - 1 (PD -1), as Single Therapy and in Combination With Other Anti -Cancer Therapies in 
+Patients With Advanced Malignancies . Available from: http://clinicaltrials.gov/show/NCT02383212  Accessed  May 1. 2023.  
+22. ClinicalTrials.gov Identifier: NCT02760498.  A Phase 2 Study of REGN2810, a Fully Human Monoclonal Antibody to Programmed 
+Death -1 (PD -1), in Patients With Advanced Cutaneous Squamous Cell Carcinoma . Available from: 
+https://clinicaltrials.gov/show/NCT0 2760498  Accessed  May 1. 2023.  
+23. Imfinzi® (durvalumab) [package insert]. AstraZeneca Pharmaceuticals LP , Wilmington , DE. Revised  November 2022/  
+24. Tecentriq® (atezolizumab) [package insert]. Genentech Inc. , South San Franci sco, CA. Revised  December  2022. 
+25. Bavencio® (avelumab) [package insert]. EMD Serono, Inc. , Rockland , MA. Revised  July 2022.  
+26. Libtayo® (cemiplimab) [package insert] .  Regeneron Pharmaceuticals, Inc. Tarrytown, NY . Revised  April 2023.  
+27. Opdivo® (nivolumab) [package insert]. Bristol -Myers Squibb Company, Princeton, NJ . Revised   February 2023.  
+28. Yervoy® (ipilimumab) [package insert]. Bristol -Myers Squibb Company, Princeton, NJ . Revised  February 2023.  
+29. Keytruda® (pembrolizumab) [package insert]. Merck & Company, Inc. , Whitehouse Station, NJ . Revised   April 2023.  
+30. Jemperli® (dostarlimab -gxly) [package insert]. GlaxoSmithKline , Research Triangle Park , NC. Revised February 2023.  
+31. Opdualag ®(nivolumab and relatlimab -rmbw ) [package insert]. Bristol -Myers Squibb  Company, Princeton, NJ. Revised March 
+2022.  Page | 33  of 37  ∞ 32. Imjudo® (tremelimumab -actl) [package insert]. AstraZeneca Pharmaceuticals LP, Wilmington, DE. Revised October  2022.  
+33. ZYNYZ ™ (retifanlimab -dlwr) ) [package insert].  Incyte Corporation,  Wilmington, DE. Revised March 2023.  
+ 
+History   
+ 
+Date  Comments  
+11/01/18  New policy, approved October 9, 2018. A dd to Prescription Drug section. 
+Immunotherapy drugs (atezolizumab, ipilimumab, nivolumab and pembrolizumab) 
+were moved from policy 5.10.540. Medical necessity and reauthorization criteria are provided for these four agents in this policy. Added criteria and information for 
+Cemiplimab.  
+03/01 /19 Interim  Review, approved February 12 , 2019.  Updated criteria for Tecentriq® 
+(atezolizumab).  Added HCPCS code J9173. 
+05/01 /19 Interim Review, approved April 9 , 2019. Updated criteria for Tecentriq® (atezolizumab) . 
+08/01 /19 Interim Review, approved July 9 , 2019.  Updated criteria for Keytruda® 
+(pembrolizumab).   
+10/01 /19 Annual Review, approved September 5 , 2019.  Updated criteria for Bavencio® 
+(avelumab)  and Keytruda® (pembrolizumab).  Added HCPCS code s J9023  and J9119 . 
+Removed  J3490.  
+02/01 /20 Annual Review , approved January 23 , 2020.  Added new indications for Keytruda 
+(endometrial carcinoma in combination with lenvatinib ) and Tecentriq (NSCLC with 
+paclitaxel protein -bound and carboplatin) .  
+03/01 /20 Interim Review, approved February 20 , 2020.  Added a new indication to Keytruda 
+(pembrolizumab) for the treatment of patients with BCG.  
+06/01 /20 Interim Review, approved May 21 , 2020.  Updated indication for Opdivo for 
+hepatocellular carcinoma for use as monotherapy or  in combination with Yervoy. 
+Added new indication to Yervoy for treatment of hepatocellular carcinoma when used 
+in combination with Opdivo.  
+07/01 /20 Interim Review, approved June 9 , 2020.  Added new indicati on to Imfinzi (durvalumab) 
+for the treatment of ES -SCLC.  Updated Keytruda (pembrolizumab) indications for 
+NSCLC and added a new indication  for HNSCC when used in combination with 
+platinum and FU for the first -line treatment . Added new indication to Tecentr iq 
+(atezolizumab) for NSCLC whose tumors have high PD -L1 expression  and for the 
+treatment of HCC. Added new indication to Opdivo and Yervoy for treatment of  NSCLC  
+expressing PD -L1. 
+08/01 /20 Interim Review, approved July 14 , 2020.  Added new indication to O pdivo for the 
+treatment of ESCC. Added  three  new indication s to Keytruda  for the treatment of TMB -Page | 34  of 37  ∞ Date  Comments  
+H cancer , cSCC  and f irst-line treatment of MSI -H or dMMR CRC.  Added new indication 
+to Bavencio for the maintenance treatment of UC.  
+10/01 /20 Interim Review, approved September 17 , 2020.  Added a new indication to Tecentriq for 
+the treatment of patients with melanoma when used in combination with cobimetinib 
+and vemu rafenib.  
+12/01 /20 Interim Review, approved November 10 , 2020.  Added new indication to Opdivo and 
+Yervoy for treatment of u nresectable malignant pleural mesothelioma . 
+02/01/21  Interim Review, approved January 12, 2021. Updated Keytruda coverage criteria for 
+adults and pediatric patients with R/R cHL. Added new indication to Keytruda for the treatment of TNBC. Removed from Opdivo coverage for metastatic SCLC as indication was wit hdrawn due to lack of efficacy in follow -up trials. Added new indication to 
+Opdivo and Yervoy  when combined and with 2 cycles of platinum -doublet 
+chemotherapy for treatment of  metastatic or recurrent  NSCLC . 
+05/01 /21 Annual Review, approved April 13 , 2021.  Added a new indication to Keytruda in 
+combination with platinum - and fluoropyrimidine -based chemotherapy for patients 
+with locally advanced or metastatic esophageal or GEJ carcinoma. Removed from Keytruda coverage for SCLC as indication was withdrawn due to lack of efficacy in 
+follow -up trials.  Added new indications to Libtayo for locally advanced or metastatic 
+basal cell carcinoma  and for locally advanced or metastatic NSCLC.  Added new 
+indication to Opdivo for f irst-line treatment of advanced RCC in combination with 
+cabozantinib . Removed from Imfinzi coverage for urothelial carcinoma as indication 
+was withdrawn due to lack of efficacy in follow -up trials . Removed from Tecentriq 
+coverage for prior platinum  containing chemotherapy for  metastatic urothel ial 
+carcinoma as indication was withdrawn due to lack of efficacy in follow -up trials.   
+06/01 /21 Interim Review, approved May 11 , 2021.  Added criteria for Jemperli (dostarlimab -gxly)  
+for the treatment of m ismatch repair deficient (dMMR) recurrent or advan ced 
+endometrial cancer . Added a new indication to Keytruda (pembrolizumab)  for 
+treatment of patients with HER2-positive gastric or gastroesophageal junction (GEJ) adenocarcinoma . Added a new indication to Opdivo (nivolumab)  for the treatment of 
+advanced or  metastatic gastric cancer, gastroesophageal junction cancer, and 
+esophageal adenocarcinoma. Added HCPCS code J3590.  
+08/01/21  Interim Review, approved July 22, 2021. Updated Keytruda (pembrolizumab)  criteria 
+when used in combination with pemetrexed and pl atinum chemotherapy for 
+metastatic NSCLC to require patients have no EGFR or ALK genomic tumor aberrations.  
+09/01/21  Interim Review, approved August 10, 2021. Updated Keytruda (pembrolizumab)  
+indication for cutaneous squamous cell carcinoma (cSCC) to include  locally advanced 
+cSCC . Added a new indication to Keytruda (pembrolizumab)  for the treatment of h igh-
+risk early -stage TNBC . Updated criteria for Opdivo (nivolumab)  for the treatment of 
+HCC removing use as a single agent in patients previously treate d with sorafenib  
+(Opdivo must be used in combination with Yervoy).  Page | 35  of 37  ∞ Date  Comments  
+10/01/21  Interim Review, approved September 14, 2021. Added a new indication to Keytruda 
+(pembrolizumab) for the treatment of RCC in combination with lenvatinib . Added a 
+new indication to Jemperli (dostarlimab -gxly)  for the treatment of solid tumors. Added 
+a new indication to Opdivo (nivolumab)  for the a djuvant treatment of UC  in patients  
+who are at high risk of recurrence after undergoing radical resection of UC . Removed 
+from Tecentriq (at ezolizumab) coverage for TNBC whose tumors express PD -L1 as 
+indication was withdrawn due to lack of efficacy in follow -up trials.  Added HCPCS 
+C9082.  
+12/01 /21 Interim Review, approved November 9 , 2021.  Added a new indication to Keytruda 
+(pembrolizumab) for the treatment of persistent, recurrent, or metastatic cervical 
+cancer in combination with chemotherapy, with or without bevacizumab.  Added a new 
+indication to Tecentriq (atezolizumab) as an adjuvant tr eatment for adult patients with 
+Stage II and IIIA NSCLC following resection and platinum -based chemotherapy . 
+01/01 /22 Interim Review, approved December 14 , 2021.  Added a new indication to  Keytruda 
+(pembrolizumab ) for the a djuvant treatment of adult and pediatric (12 years and older) 
+patients with Stage IIB, IIC, or III melanoma following complete resection . Added a new 
+indication to Keytruda for the a djuvant treatment of patients with RCC at intermediate -
+high or high risk of recurrence following nephrect omy or  following nephrectomy and 
+resection of metastatic lesions . Added HCPCS code J9272  and removed HCPCS code 
+J3590.  
+04/01 /22 Annual Review, approved March 8 , 2022.  Removed from Keytruda (pembrolizumab) 
+coverage as 3rd line monotherapy treatment for patients with PD -L1-positive gastric or 
+gastroesophageal junction (GEJ) cancer as indication was withdrawn due to lack of 
+efficacy in follow -up trials.  Added site of servi ce review for Keytruda (pembrolizumab)  
+and for Opdivo (nivolumab) for dates of service on or after July 7, 202 2. 
+06/01/22  Interim Review, approved  May 10, 2022 . Added a new indication to  Keytruda 
+(pembrolizumab)  for the treatment of patients with advanced endometrial  carcinoma 
+that is MSI -H or dMMR  when used as a single agent. Added a new indication to  
+Opdivo (nivolumab) for n eoadjuvant treatment of resectable NSCLC.  
+08/01 /22 Interim Review, approved  July 12 , 2022 . Added coverage to Opdivo (nivolu mab) for the  
+adjuvant treatment of completely resected esophageal or gastroesophageal junction 
+cancer in  adult  patients who have received neoadjuvant CRT . Added coverage to 
+Opdivo (nivolumab) for the  first-line treatment of adult patients with unresectable 
+advanced or metastatic ESCC when used in combination with fluoropyrimidine - and 
+platinum -containing chemotherapy  OR when used in combination in combination with 
+Yervoy (ipilimumab) . Added coverage to Yervoy (ipilimumab)  for the first -line 
+treatment of adult patients with unresectable advanced or metastatic ESCC when used 
+in combination with Opdivo (nivolumab) . 
+11/01 /22 Interim Review, approved  October 11 , 2022 . Added coverage to Imfinzi for use in 
+combination with gemcitabine and cisplatin for the treatment of adult individuals with locally advanced or metastatic biliary tract cancer. Added Opdualag for the treatment of adult and pediatric individuals 12 years o f age or older with unresectable or 
+metastatic melanoma.  Updated Keytruda criteria  when used i n combination with 
+lenvatinib for the treatment of advanced endometrial carcinoma  by removing the Page | 36  of 37  ∞ Date  Comments  
+requirement the cancer is  not microsatellite instability -high (M SI-H) or mismatch repair 
+deficient (dMMR) . Updated Keytruda when used as a single agent for esophageal or 
+GEJ carcinoma to require the tumor to be of squamous cell histology.  Added HCPCS 
+code J9298.  Changed the wording from "patient" to "individual" throughout the policy 
+for standardization.  
+01/01/23 Interim Review, approved December 13 , 2022.  Added coverage for Imjudo 
+(tremelimumab -actl) , in combination with Imfinzi (durvalumab) , for the treatment of 
+unresectable hepatocellular carcinoma (uHCC).  Added a new indication to Imfinzi 
+(durvalumab) , whe n used in combination with Imjudo (tremelimumab -actl) , for the 
+treatment of uHCC.  Updated Keytruda indication for  NSCLC when used in combination 
+with pemetrexed and platinum chemotherapy  for first -line treatment  to require the 
+NSCLC is non -squamous and  to allow for coverage initiation while awaiting the results 
+of confirmed genomic testing .  Added a new indication to Libtayo (cemiplimab)  for use 
+in combination with platinum -based chemotherapy for first -line advanced NSCLC . 
+Removed coverage from Tecentriq (atezolizumab)  for the treatment of adult patients 
+with locally advanced or metastatic urothelial carcinoma  as indication was withdrawn 
+due to lack  of efficacy in follow -up trials.  Removed termed HCPC code C9082 and new 
+code effective date from HCPC code J9272. Added HCPC code J3590 to report 
+Imjudo® . 
+04/01/23  Coding update. Added new HCPCS code C9147.  
+06/01 /23 Annual Review, approved May 9 , 2023. Reviewed prescribing information for all drugs 
+in policy. Updated coverage criteria for Tecentriq® (atezolizumab)  to include the 
+indication for the treatment of adult and pediatric individuals 2 years of age and older with unresectable or metastatic alveolar soft part sarcoma (ASPS) . Updated coverage 
+criteria for Keytruda ® (pembrolizumab)  to include the indication for the treatment of 
+for adjuvant treatment following resection and platinum -based chemotherapy for adult 
+individuals  with stage IB , II, or IIIA NSCLC , as a single agent. Updated coverage criteria 
+for Keytruda ® (pembrolizumab)  to include the indication for the treatment of adult 
+individuals  with locally advanced or metastatic urothelial carcinoma who are not 
+eligible for cisplatin -containing chemotherapy, when used in combination with 
+enfortumab vedotin. Added coverage criteria for Zynyz
+TM (retifanlimab -dlwr) for the 
+treatment of adult individuals  with metastatic or recurrent locally advanced Merkel cell 
+carcinoma.  
+07/01/23 Interim Review, approved June 26 , 2023.  Made minor update to Zynyz criteria . Updated 
+Zynyz criteria to include individuals “who  may have received surgery or radiation ” for 
+the indication Merkel  cell carcinoma (MCC) . Made minor update and added T2a > 4cm 
+to Keytruda’s criteria for stage IB, II, or IIIA NSCL C to match FDA label. Added language 
+of “adult individuals”  for Keytruda's indication of locally advanced or metastatic 
+urothelial carcinoma when used in combination with Padcev to match FDA label.  
+Grouped the Keytruda indications (NSCLC and urothelial carcinoma) togethe r. Added 
+termed date for  deleted  code C9147 and added new HCPCS code J9347.  
+ Page | 37  of 37  ∞ Disclaimer : This medical policy is a guide in evaluating the medical necessity of a particular service or treatment. The 
+Company adopts policies after careful review of published peer -reviewed scientific literature, national guidelines and 
+local standards of practic e. Since medical technology is constantly changing, the Company reserves the right to review 
+and update policies as appropriate. Member contracts differ in their benefits. Always consult the member benefit 
+booklet or contact a member service representative to determine coverage for a specific medical service or supply. 
+CPT codes, descriptions and materials are copyrighted by the American Medical Association (AMA). © 2023 Premera 
+All Rights Reserved.  
+Scope : Medical policies are systematically developed guidel ines that serve as a resource for Company staff when 
+determining coverage for specific medical procedures, drugs or devices. Coverage for medical services is subject to the limits and conditions of the member benefit plan. Members and their providers shoul d consult the member 
+benefit booklet or contact a customer service representative to determine whether there are any benefit limitations applicable to this service or supply. This medical policy does not apply to Medicare Advantage.  
+ Premera Blue Cross is a n independent licensee of the Blue Cross Blue Shield Association  serving businesses and residents of Alaska and Washington State, excluding C lark County.   
+052493  (07-01-2021) Discrimination is Against the Law  
+Premera Blue Cross  (Premera) complies with applicable Federal and Washington state civil rights laws and does not discriminate on the basis of race, 
+color, national o rigin, age, disability, sex, gender identity, or sexual orientation . Premera does not exclude people or treat them differently because of race, 
+color, national origin, age, disability , sex, gender identity, or sexual orientation.  Premera  provides free aids and services to people with disabilities to 
+communica te effectively with us, such as q ualified sign language interpreters  and w ritten information in other formats (large print, audio, accessible 
+electronic formats, other formats) . Premera p rovides fre e language services to people whose primary language is not English, such as  qualified interpreters  
+and i nformation written in other languages . If you need these services, contact the Civil Rights Coordinator.  If you believe that Premera has failed to 
+provide these services or discriminated in another way on the basis of race, color, national origin, age, disability, sex, gender identity, or sexual orientation , 
+you can file a grievance with:  Civil Rights Coordinator ─ Complaints and Appeals , PO Box 91102 , Seattle, WA 98111 , Toll free : 855-332-4535 , Fax: 425-918-5592 , 
+TTY: 711 , Email  AppealsDepartmentInquiries@Premera.com . You can file a grievance in person or by mail, fax, or email.  If you need help filing a 
+grievance, the Civil Rights Coordinator is available to help you.  You can also file a civil rights complaint with the U.S. Department of Health and Human 
+Services, Office for Civil Rights, electronically through the Office for Civil Righ ts Complaint Portal, available at  https://ocrportal.hhs.gov/ocr/portal/lobby.jsf , 
+or by mail or phone at:  U.S. Department of Health and Human Services,  200 Independence Ave SW, Room 509F, HHH B uilding , Washington, D.C. 20201, 
+1-800-368-1019,  800-537-7697 (TDD). Complaint forms are available at  http://www.hhs.gov/ocr/office/file/index.html .  
+Washington  residents : You can also file a civil rights complaint wi th the Washington State Office of the Insurance Commissioner, electronically through 
+the Office of the Insurance Commissioner Complaint Portal available at https://www.insurance.wa.gov/file -complaint -or-check -your-complaint -status , or by 
+phone at 800 -562-6900, 360 -586-0241 (TDD). Complaint forms are available at https: //fortress.wa.gov/oic/onlineservices/cc/pub/complaintinformation.aspx .  
+Alaska  residents : Contact the Alaska Division of Insurance via email at insurance@alaska.gov , or by phone at 907-269-7900 or 1 -800-INSURAK  (in-state, 
+outside Anchorage) . 
+Language Assistance  
+ATENCIÓN : si habla español, tiene a su disposición servicios gratuitos de asistencia lingüística. Llame al 800 -722-1471  (TTY: 711).  
+PAUNAWA : Kung nagsasalita ka ng Tagalog , maaari kang gumamit ng mga serbisyo ng tulong sa wika nang walang bayad. Tumawag sa  800-722-1471  (TTY: 711).  
+注意：如果您使用繁體中文，您可以免費獲得語言援助服務。請致電  800-722-1471  (TTY：711）。 
+CHÚ Ý : Nếu bạn nói Tiếng Việt, có các dịch vụ hỗ trợ ngôn ngữ miễn phí dành cho b ạn.  Gọi số 800-722-1471  (TTY: 711). 
+주의: 한국어를  사용하시는  경우, 언어 지원 서비스를  무료로  이용하실  수 있습니다 . 800-722-1471  (TTY: 711)  번으로  전화해  주십시오 . 
+ВНИМАНИЕ : Если вы говорите на русском языке, то вам доступны бесплатные услуги перевода.  Звоните  800-722-1471  (телетайп: 711). 
+LUS CEEV : Yog tias koj hais lus Hmoob , cov kev pab txog lus, muaj  kev pab dawb  rau koj. Hu rau 800-722-1471  (TTY:  711).  
+MO LOU SILAFIA : Afai e te tautala  Gagana fa'a Sāmoa, o loo iai auaunaga  fesoasoan, e fai fua e leai se totogi, mo oe,  Telefoni mai:  800-722-1471  (TTY: 711).  
+ໂປດຊາບ: ຖ້າວ່າ ທ່ານເວ ້າພາສາ ລາວ, ການບໍລິການຊ່ວຍເຫ  ຼື ອດ້ານພາສາ, ໂດຍບໍ່ເສ ັ ຽຄ່າ, ແມ່ນມ ີພ້ອມໃຫ້ທ່ານ. ໂທຣ 800-722-1471  (TTY: 711) . 
+注意事項 ：日本語を話される場合、無料の言語支援をご利用いただけます。 800-722-1471  （TTY:711）まで、お電話にてご連絡ください。  
+PAKDAAR : Nu saritaem ti Ilocano, ti serbisyo para ti baddang ti lengguahe nga awanan bayadna, ket sidadaan para kenyam.  Awagan ti  800-722-1471  (TTY: 711).  
+УВАГА!  Якщо ви розмовляєте українською мовою, ви можете звернутися до безкоштовної служби мовної підтримки.  Тел ефонуйте за 
+номером 800 -722-1471  (телетайп:  711). 
+ប្រយ័ត្ន៖   បរើសិនជាអ្នកនិយាយ  ភាសាខ្មែរ , បសវាជំនួយខ្ននកភាសា បោយមិនគិត្ឈ្ ន ួល គឺអាចមានសំរារ់រំបរ ើ អ្នក។  ចូរ ទូរស័ព្ទ   800-722-1471 ( TTY: 711)។ 
+ማስታወሻ :  የሚናገሩት  ቋንቋ ኣማርኛ  ከሆነ የትርጉም  እርዳታ ድርጅቶች፣  በነጻ ሊያግዝዎት  ተዘጋጀተዋል፡  ወደ ሚከተለው  ቁጥር ይደውሉ  800-722-1471 (መስማት  ለተሳናቸው : 711). 
+XIYYEEFFANNAA : Afaan  dubbattu  Oroomiffa , tajaajila  gargaarsa  afaanii , kanfaltiidhaan  ala, ni argama . Bilbilaa  800-722-1471 ( TTY: 711).  
+ملحوظة:  إذا كنت تتحدث اذكر اللغة، فإن خدمات المساعدة اللغوية تتوافر لك بالمجان.  اتصل برقم   1471-722-800    :(رقم هاتف الصم والبكم711 .) 
+ਧਿਆਨ  ਧਿਓ: ਜੇ ਤੁਸੀਂ ਪੰਜਾਬੀ  ਬੋਲਿੇ ਹੋ, ਤਾਂ ਭਾਸ਼ਾ ਧ ਿੱਚ ਸਹਾਇਤਾ  ਸੇ ਾ ਤੁਹਾਡੇ ਲਈ ਮੁਫਤ ਉਪਲਬਿ  ਹੈ। 800-722-1471 (TTY:  711) 'ਤੇ ਕਾਲ ਕਰੋ। 
+เรียน : ถ้าคุณพูดภาษาไทยคุณสามารถใช้บริการช่วยเหลือทางภาษาได้ฟรี  โทร 800-722-1471  (TTY: 711).  
+ACHTUNG : Wenn Sie Deutsch sprechen, stehen Ihnen kostenlos sprachliche Hilfsdienstleistungen zur Verfügung. Rufnummer: 800 -722-1471  (TTY: 711).  
+UWAGA : Jeżeli mówisz po polsku, możesz skorzystać z bezpłatnej pomocy językowej. Zadzwoń pod numer 800 -722-1471  (TTY: 711).  
+ATANSYON : Si w pale Kreyòl Ayisyen, gen sèvis èd pou lang ki disponib gratis pou ou.  Rele 800 -722-1471  (TTY: 711).  
+ATTENTION  : Si vous parlez français, des services d'aide linguistique vous sont proposés gratuitement.  Appelez le 800 -722-1471  (ATS :  711).  
+ATENÇÃO : Se fala português, encontram -se disponíveis serviços linguísticos, grátis.  Ligue para 800 -722-1471  (TTY: 711).  
+ATTENZIONE : In caso la lingua parlata sia l'italiano, sono disponibili servizi di assistenza linguistica gratuiti. Chiamare il numero  800-722-1471  (TTY: 711).   
+ توجه: اگر به زبان فارسی گفتگو می کنید، تسهیالت زبانی بصورت رايگان برای شما فراهم می باشد. با   (TTY: 711) 1471-722-800   .تماس بگیريد 

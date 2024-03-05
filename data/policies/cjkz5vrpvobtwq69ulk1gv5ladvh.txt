@@ -1,0 +1,417 @@
+B
+lueCross 
+BlueShield of Tennessee Medical Policy Manual
+Azacitidine
+ 
+(Vidaza
+®
+)
+ (Intravenous/Subcutaneous)
+NDC 
+CODE(S)
+00143-9606-XX 
+AZACITIDINE 100MG Suspension Reconstituted (HIKMA)
+00781-3253-XX 
+AZACITIDINE 100MG Suspension Reconstituted (SANDOZ)
+16714-0927-XX 
+AZACITIDINE 100MG Suspension Reconstituted (NORTHSTAR RX LLC)
+16729-0306-XX 
+AZACITIDINE 100MG Suspension Reconstituted (ACCORD
+HEALTHCARE)
+43598-0305-XX 
+AZACITIDINE 100MG Suspension Reconstituted (DR.REDDY'S
+LABORATORIES, 
+INC.)
+43598-0465-XX 
+AZACITIDINE 100MG Suspension Reconstituted (DR.REDDY'S
+LABORATORIES, 
+INC.)
+43598-0678-XX 
+AZACITIDINE 100MG Suspension Reconstituted (DR.REDDY'S
+LABORATORIES, 
+INC.)
+51991-0797-XX 
+AZACITIDINE 100MG Suspension Reconstituted (BRECKENRIDGE)
+59572-0102-XX 
+VIDAZA 100MG Suspension Reconstituted (CELGENE CORP)
+63323-0771-XX 
+AZACITIDINE 100MG Suspension Reconstituted (FRESENIUS KABI USA)
+64679-0096-XX 
+AZACITIDINE 100MG Suspension Reconstituted (WOCKHARDT USA)
+67457-0254-XX 
+AZACITIDINE 100MG Suspension Reconstituted (MYLAN
+INSTITUTIONAL)
+68001-0313-XX 
+AZACITIDINE 100MG Suspension Reconstituted (BLUE POINT
+LABORATORIES)
+69097-0805-XX 
+AZACITIDINE 100MG Suspension Reconstituted (CIPLA USA)
+72485-0201-XX 
+AZACITIDINE 100MG Suspension Reconstituted (ARMAS
+PHARMACEUTICALS)
+68001-0504-XX 
+AZACITIDINE 100MG Suspension Reconstituted (BLUE POINT
+LABORATORIES)
+71288-0115-XX 
+AZACITIDINE 100MG Suspension Reconstituted (MEITHEAL
+PHARMACEUTICALS)
+71288-0153-XX 
+AZACITIDINE 100MG Suspension Reconstituted (MEITHEAL
+PHARMACEUTICALS)
+ 
+IMPORTANT 
+REMINDER
+ 
+We develop Medical Policies 
+to provide guidance to Members and Providers.  This Medical 
+Policy relates only to the
+services or supplies described in it.  The 
+existence of a Medical Policy is not an authorization, certification, 
+explanation of
+benefits or a contract for the service (or supply) that 
+is referenced in the Medical Policy.  For a determination of 
+the benefits
+that a Member is entitled to receive under his or her health 
+plan, the Member's health plan must be reviewed.  If there is 
+a
+conflict between the medical policy and a health plan or government 
+program (e.g., TennCare), the express terms of the
+health plan or government 
+program will govern.
+ 
+DESCRIPTION
+ 
+Azacitidine is a nucleoside 
+metabolic inhibitor which is a pyrimidine nucleoside analog of cytidine.  Its 
+antineoplastic effects
+are thought to be from the hypomethylation of DNA.  Azacitidine 
+exerts direct cytotoxicity on hematopoietic cells in the bone
+marrow where 
+it causes the death of rapidly dividing cells, including cancer cells 
+which are no longer responsive to normal
+growth control mechanisms.  Cells 
+which are non-proliferative are relatively unaffected by azacitidine.
+ 
+POLICY
+ 
+·
+        
+ Azacitidine 
+for the treatment of the following is considered 
+medically necessary
+ 
+if the medical appropriateness criteria
+are met: 
+(See Medical Appropriateness 
+below.)
+Myelodysplastic 
+Syndrome
+Myelodysplastic 
+Syndrome (MDS)/Myeloproliferative Neoplasm (MPN) Overlap Neoplasms
+Acute Myeloid Leukemia
+Myelofibrosis
+Blastic Plasmacytoid 
+Dendritic Cell Neoplasm
+J
+uvenile 
+Myelomonocytic Leukemia (JMML)
+ 
+·
+        
+ Azacitidine 
+for the treatment of other conditions/diseases is considered 
+investigational.
+ 
+MEDICAL 
+APPROPRIATENESS
+ 
+INITIAL APPROVAL CRITERIA
+ 
+·
+        
+ Patient 
+is at least 18 years of age, unless otherwise specified; 
+AND
+ Universal Criteria
+ 
+·
+        
+ Patient 
+does not have advanced malignant hepatic tumors; 
+AND
+·
+        
+ Patient 
+does not have a hypersensitivity to mannitol; 
+AND
+ 
+Myelodysplastic Syndrome 
+(MDS)
+ 
+Acute Myeloid Leukemia
+ 
+(AML)
+ 
+Myelofibrosis (MF)
+ 
+Myelodysplastic syndrome 
+(MDS)/myeloproliferative neoplasm (MPN) Overlap Neoplasms
+ 
+Blastic Plasmacytoid 
+Dendritic Cell Neoplasm (BPDCN)
+ 
+·
+        
+ Used 
+in combination with venetoclax
+ 
+Juvenile Myelomonocytic 
+Leukemia (JMML)
+ 
+·
+        
+ Patient 
+is 1 month to < 18 years of age;
+AND
+·
+        
+ Used 
+as single agent therapy for newly diagnosed disease
+ 
+RENEWAL CRITERIA
+ 
+·
+        
+ Patient 
+continues to meet universal and other indication-specific relevant criteria 
+such as concomitant therapy
+requirements (not including prerequisite therapy), 
+performance status, etc. identified in the Initial Approval Criteria; 
+AND
+·
+        
+ Absence 
+of unacceptable toxicity from the drug. Examples of unacceptable toxicity 
+include: severe cytopenias (anemia,
+neutropenia, and thrombocytopenia); 
+severe hepatic and renal toxicities, tumor lysis syndrome, etc.; 
+AND
+·
+        
+ Disease 
+response with treatment as defined by stabilization of disease or decrease 
+in size of tumor or tumor spread
+ 
+Juvenile Myelomonocytic 
+Leukemia (JMML)
+·
+        
+ Coverage 
+may not be renewed.
+ 
+INDICATION
+DOSE
+Myelodysplastic 
+Syndromes (MDS)
+Administer 75 
+mg/m
+2  
+subcutaneously or intravenously daily for 
+7. Repeat
+cycle every 4 weeks.
+·
+  
+The 
+dose may be increased to 100 mg/m
+2
+ if no beneficial 
+effect is seen
+after 2 treatment cycles.
+·
+  
+ A 
+minimum of 4 to 6 cycles are recommended. Treatment may be
+continued 
+as long as the patient continues to benefit.
+Acute 
+Myelogenous Leukemia
+(AML)/Myelofibrosis(MF)/ MDS/MPN Overlap
+Neoplasms/Blastic Plasmacytoid Dendritic Cell
+Neoplasm (BPDCN)
+Administer 75 
+mg/m
+2  
+subcutaneously or intravenously daily for 
+5 to 7.
+Repeat cycle every 4 weeks.
+Juvenile 
+Myelomonocytic Leukemia (JMML)
+≥ 1 month 
+of age to < 1 year of age OR weighing < 10 kg:
+Administer 2.5 
+mg/kg by intravenous (IV) infusion daily for 7 days
+Repeat cycle every 
+4 weeks.
+≥ 1 year of 
+age AND weighing ≥ 10 kg:
+Administer 75 mg/m
+2
+ 
+by intravenous (IV) infusion daily for 7 days
+Repeat cycle every 
+4 weeks.
+·
+  
+ Patients 
+should be treated for a minimum of 3 cycles and a maximum of 6
+cycles.
+ 
+LENGTH OF AUTHORIZATION
+ 
+Coverage will be provided 
+for six (6) months and may be renewed, unless otherwise specified.
+·
+        
+ Coverage 
+for Juvenile Myelomonocytic Leukemia (JMML) may not be renewed.
+ 
+DOSING LIMITS
+ 
+Max Units (per dose 
+and over time) [HCPCS Unit]:
+ 
+·
+        
+ All 
+indications: 2,100 billable units every 28 days
+APPLICABLE TENNESSEE STATE 
+MANDATE REQUIREMENTS
+BlueCross BlueShield of Tennessee’s 
+Medical Policy complies with Tennessee Code Annotated Section 56-7-2352regarding coverage of off-label indications of Food and Drug Administration 
+(FDA) approved drugs when the off-label use is
+recognized in one of the 
+statutorily recognized standard reference compendia or in the published 
+peer-reviewed medical
+literature.
+ADDITIONAL INFORMATION
+  
+For appropriate chemotherapy regimens, 
+dosage information, contraindications, precautions, warnings, and monitoring
+information, please refer to one of the standard reference compendia (e.g., 
+the NCCN Clinical Practice Guidelines in
+Oncology (NCCN Guidelines®) published 
+by the National Comprehensive Cancer Network®, Drugdex Evaluations of
+Micromedex Solutions at Truven Health, or The American Hospital Formulary 
+Service Drug Information).
+SOURCES   
+1.
+    
+ Vidaza 
+[package insert]. Summit, NJ; Celgene Corporation; September 2022. Accessed 
+April 2023.
+2.
+    
+ Referenced 
+with permission from the NCCN Drugs & Biologics Compendium (NCCN Compendium®) 
+for azacitidine.
+National Comprehensive Cancer Network, 2023. The NCCN 
+Compendium® is a derivative work of the NCCN
+Guidelines®. NATIONAL COMPREHENSIVE 
+CANCER NETWORK®, NCCN®, and NCCN GUIDELINES® are
+trademarks owned by the 
+National Comprehensive Cancer Network, Inc. To view the most recent and 
+complete version
+of the Compendium, go online to NCCN.org. Accessed April 
+2023.
+3.
+    
+ Referenced 
+with permission from the NCCN Drugs & Biologics Compendium (NCCN Compendium®) 
+for
+Myelodysplastic Syndromes 1.2023. National Comprehensive Cancer Network, 
+2023. The NCCN Compendium® is a
+derivative work of the NCCN Guidelines®. 
+NATIONAL COMPREHENSIVE CANCER NETWORK®, NCCN®, and NCCN
+GUIDELINES® are 
+trademarks owned by the National Comprehensive Cancer Network, Inc. To 
+view the most recent
+and complete version of the Compendium, go online 
+to NCCN.org. Accessed April 2023.
+4.
+    
+ Referenced 
+with permission from the NCCN Drugs & Biologics Compendium (NCCN Compendium®) 
+for Acute Myeloid
+Leukemia 3.2023. National Comprehensive Cancer Network, 
+2023. The NCCN Compendium® is a derivative work of the
+NCCN Guidelines®. 
+NATIONAL COMPREHENSIVE CANCER NETWORK®, NCCN®, and NCCN GUIDELINES® are
+trademarks owned by the National Comprehensive Cancer Network, Inc. To 
+view the most recent and complete version
+of the Compendium, go online 
+to NCCN.org. Accessed April 2023.
+5.
+    
+ Swerdlow 
+SH, Campo E, Harris NL, et al., editors. WHO Classification of Tumours 
+of Haematopoietic and Lymphoid
+Tissues. Lyon, France: IARC; 2008.
+6.
+    
+ Niemeyer 
+CM, Flotho C, Lipka DB, et al. Response to upfront azacitidine in juvenile 
+myelomonocytic leukemia in the
+AZA-JMML-001 trial. Blood Adv. 2021 Jul 
+27;5(14):2901-2908. doi: 10.1182/bloodadvances.2020004144.
+7.
+    
+ 
+Lexi-Comp Online. (202
+2
+, March). AHFS DI. 
+Azacitidine
+. 
+Retrieved
+ April 2023 
+from 
+Lexi-Comp Online with AHFS.
+8.
+    
+ 
+MICROMEDEX Healthcare Series. Drugdex 
+Drug Evaluation. (2022, June) 
+Azacitidine
+. Retrieved
+ April 
+2023 
+from
+MICROMEDEX Healthcare 
+Series.
+O
+RIGINAL 
+EFFECTIVE DATE: 
+10/8/2005
+MOST RECENT REVIEW DATE: 
+6/13/2023
+ID_MRx
+Policies 
+included in the Medical Policy Manual are not intended to certify coverage 
+availability. They are medical determinations about a particular technology, 
+service, drug, etc.
+While a policy or technology may be medically necessary, 
+it could be excluded in a member's benefit plan. Please check with the 
+appropriate claims department to determine if the
+service in question 
+is a covered service under a particular benefit plan. Use of the Medical 
+Policy Manual is not intended to replace independent medical judgment 
+for treatment of
+individuals. The content on this Web site is not intended 
+to be a substitute for professional medical advice in any way. Always 
+seek the advice of your physician or other qualified
+health care provider 
+if you have questions regarding a medical condition or treatment.
+This 
+document has been classified as public information.
+ 
+ 
+ 

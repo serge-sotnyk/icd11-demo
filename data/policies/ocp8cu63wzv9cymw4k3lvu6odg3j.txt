@@ -1,0 +1,695 @@
+   
+UPMC Health Plan  
+POLICY AND PROCEDURE MANUAL  
+ 
+POLICY NUMBER:  MP.PA.066 
+REVISION DATE: 06/22 
+EFFECTIVE  DATE: 10/22  
+PAGE NUMBER : 1 of 15 
+ 
+Proprietary and Confidential Information of UPMC Health Plan  TOP  
+© 2022 UPMC All Rights Reserved   
+SUBJECT:  Airway Secretion Clearance  Devices  
+INDEX TITLE:   Medical Management  
+ORIGINAL DATE:  February  2007  
+ 
+This policy applies to the 1 following lines of business:  (Check those that apply.)  
+COMMERCIAL  CMS -MA DHS -MA ANCILLARY    
+HMO (   ) PA (X) Health Choices/PH ( X) Dental (   )   
+PPO (   ) Ohio (   ) Health Choices/BH (   ) Vision (   )   
+Fully Insured (   ) All (  ) All (  ) COBRA (   )   
+Self Funded (   )   All (  )   
+Marketplace HMO (   ) HMO ( X) CHIP     
+Marketplace PPO (   ) PPO ( X) CHIP ( X) WORKPARTNERS    
+Marketplace EPO (   ) DSNP ( X)  Commercial WC (   )   
+Indiv. Off Exchange (   ) Part D (   ) COMMUNITY 
+HEALTHCHOICES  WCTPA (   )   
+All ( X) All (  ) 
+ Disability Svcs. (   )  
+CHC/MLTSS ( X)  
+CDHP  Government   Lifesolutions/Health Promo (   )   
+HSA (   ) FEHB (  ) COMMUNITY CARE  Lifesolutions/EAP (   )   
+HRA (   )  Community Care/BH (   ) HCMS Group (   )   
+HIA (   )   eBenefits Solutions (   )   
+FSA (   )   On Site Centers (   )   
+All (  )   All (  )   
+      
+Reference State Addendums for:  
+Delaware (   )  Maryland (  )  New Jersey (  )  Ohio (  )  Virginia (   )  West Virginia (   )  Wisconsin (   )   
+ 
+A. Medical Description/Background  D. Information Required for Review  
+B. Specific Indications    E. Variations   
+C. Limitations     F. Codes  
+DISCLAIMER: This policy is designed to address evidence -based medical guidelines that are 
+appropriate for the majority of individuals with a particular disease, illness, or condition.  These 
+guidelines do not take into consider ation each individual’s unique clinical circumstances.  For 
+questions concerning the technical language, specific clinical indications, or appropriateness of 
+any given treatment, members should consult their physician.  
+ _____________________  
+1The applicati on of a policy to a particular line of business should not be read to imply that any particular benefit or 
+service is covered for that line of business. The check next to a line of business indicates that the policy has 
+applicability to that line of busine ss, and the policy will further explain or define any coverage, exceptions, exclusions, 
+limitations, variations, or special circumstances.  
+  
+POLICY NUMBER:  MP.PA.066 
+REVISION DATE: 06/22 
+EFFECTIVE  DATE:  10/22  
+  PAGE NUMBER : 2 of 15 
+ 
+ 
+Proprietary and Confidential Information of UPMC Health Plan  TOP  
+© 2022 UPMC All Rights Reserved  NOTE:  References to a specific device is not an endorsement for use. UPMC Health 
+Plan will provide coverage only for devices with current FDA approval for the applicable 
+indication. It is the responsibility of the provider/practitioner to monitor for any device s 
+that are the subject of recalls, market withdrawals, or safety alerts.  
+ 
+ 
+I. POLICY  
+ 
+It is the policy of UPMC Insurance Services Division  to provide payment for  Airway 
+Secretion Clearance Devices  as a Durable Medical Equipment benefit under the capped 
+rental  plan (refer to MP. PA.010 Durable Medical Equipment  - General  policy) when 
+medically necessary and covered under the member’s specific benefit plan.    
+ 
+All denials are based on medical necessity and appropriateness as determined by a 
+UPMC Insurance Service s Division  Medical Director.  
+ 
+ 
+II. DEFINITIONS  
+ 
+Bronchiectasis  - a pulmonary condition caused by chronic injury to the lungs which 
+results in the bronchial tubes of the lungs being permanently damaged, widened, and 
+thickened.  These damaged air passages allow bacteria and mucus to build up and pool in 
+the lungs, creating an optimal environment for inflammatio n, chronic infections , and 
+blockage s of the airway .  Bronchiectasis is characterized clinically b y respiratory 
+symptoms such as  shortness of breath, hemoptysis ( coughing up blood ) and difficulty 
+clearing mucous from  the airways. Treatmen t is focused on airway  clearance  and may 
+include  modalities such as bronchodilators , expectorants, hydration , and chest 
+percussion /postural drainage therapy.  
+ 
+Ciliated cells  - cells found in the respiratory tract that are covered in tiny hair -like 
+projections known as cilia.  These cilia help debris and waste move along the surface of 
+the cells.   
+ 
+Cystic Fibrosis  (CF) - a genetic, potentially life -threatening disorder , that affects 
+primarily the pulmonary and digestive systems .  A defective gene causes the cells that 
+normally produce mucous, sweat , and digestive juices that are thin and slippery in 
+consistency  to produce secretions that are thick and sticky.  Rather than acting as a 
+lubricant, these thick and sticky secreted fluids block or clog tubes, ducts , and 
+passageways, especially in the lungs and pancreas  and leads to lung damage , increased  
+infections and  the prevent ion of digestive proteins  reaching the intestines, affecting the 
+body’s ability to absorb nutrients from food.  
+  
+POLICY NUMBER:  MP.PA.066 
+REVISION DATE: 06/22 
+EFFECTIVE  DATE:  10/22  
+  PAGE NUMBER : 3 of 15 
+ 
+ 
+Proprietary and Confidential Information of UPMC Health Plan  TOP  
+© 2022 UPMC All Rights Reserved  Epithelium  - a thin, continuous, membranous layer of protective cells  that line the outer 
+surfaces of organs and blood vessels throughout the body, as well as the inner surfaces of 
+cavities in many internal organs.    
+ 
+High Frequency Chest Wall Oscillation (HFCWO ) - a non -pharmacologic airway 
+clearance technique in which  external chest wall oscillations are applied to the torso 
+using a fitted vest .  These vests, attached to a  pneumatic compressor, produce vibrations 
+at variable frequencies and intensities in order to help loosen and thin mucus, and 
+separate it from airway walls so it can be expectorated .  FDA -approved devices include  
+(but are not limited to)  ThAIRapy Vest, The Vest™, SmartVest  Airway Clearance 
+System , AffloVest ® and InCourage  System ™.  
+ 
+Mechanical In sufflation -Exsufflation - a non -pharmacologic airway clearance  therapy 
+in which the device gradually inflates the lungs (insufflation), followed by an immediate 
+and abrupt change to negative pressure, which produces a rapid exhalation (exsufflation), 
+which simulates a cough and thus moves secretions outward .  
+ 
+Orophar ynx - the area located in the mouth  behind the oral cavity, below the soft palate 
+and above the epiglottis    
+ 
+Oscillat ory Devices  - devices that are designed to move mucous and to clear airways by 
+using airflow in a patterned movement back and forth at a c onsistent speed.   The 
+oscillation may be intra or extra thoracic.  
+ 
+Postural Drainage Therapy  - also frequently referred to as chest physi otherapy (CPT), 
+uses gravity and percussion (clapping on the chest and/or back) to loosen the thick, sticky 
+mucus in the lungs so it can be removed by coughing.  
+ 
+ 
+III. PURPOSE  
+ 
+The purpose of this policy is to define  the medical necessity criteria for airway secretion 
+clearance devices . 
+ 
+ 
+IV. SCOPE  
+ 
+This policy applies to various UPMC Insurance Services Division  departments as 
+indicated by the Benefit and Reimbursement Committee.  These include but are not 
+limited to Medical Management, Benefit Configuration , and Claims departments.  
+ 
+ 
+ 
+  
+POLICY NUMBER:  MP.PA.066 
+REVISION DATE: 06/22 
+EFFECTIVE  DATE:  10/22  
+  PAGE NUMBER : 4 of 15 
+ 
+ 
+Proprietary and Confidential Information of UPMC Health Plan  TOP  
+© 2022 UPMC All Rights Reserved  V. PROCEDURE  
+ 
+A. Medical Description /Background  
+ 
+The secretion  of mucous  is the first -line defense against irritants that are inhaled i nto the 
+lungs.  These inhaled irritants, such as soot, dust, microbes, and gases , can all damage the 
+airway epithelium.  Effective clearance of inhaled particles requires continuous mucus 
+trans port from the lower airways to the oropharynx.  Mucus transport is achieved by the 
+action of the ciliated cells that cover the inner surface of the airways (mucociliary 
+transport) and by expiratory airflow.                    
+ 
+In patients with airway disease, mucociliary transport may be impaired and ai rflow 
+transport (cough) may become the most important mucus transport mechanism.  
+However, individuals with the impaired ability to cough due to respiratory muscle 
+weakness or pulmonary restriction have difficulty clearing particle laden secretions from 
+the lungs .  
+A number of conditions, including asthma, chronic obstructive pulmonary disease 
+(COPD), cystic fibrosis (CF), mucociliary disorders, neuromuscular disease s (i.e., 
+amyo trophic lateral sclerosis (ALS) , muscular dystrophy, multiple sclerosis (MS) an d 
+myasthenia gravis), spinal cord injuries  and metabolic disorders can result in inadequate 
+airway clearance, either because of increased volume of secretions or increased viscosity 
+of secretions.   These secretions accumulate in the bronchial tree, occludi ng small 
+passages and interfering with adequate gas exchange in the lungs.   They also serve as a n 
+environment  for pathogens, leading to a higher risk for chronic infection and 
+deterioration of lung function.                                               
+ 
+When coughing alone cannot adequately clear secretions, other therapies are used. 
+Standard treatment for retained airway secretions may include chest physiotherapy, 
+airway clearance devices, medications, mechanical percussors, and positive expiratory 
+press ure (PEP) masks.   
+ 
+Conventional chest physiotherapy (CPT) has been demonstrated to improve respiratory 
+function and has traditionally been accomplished through the use of percussion and 
+postural drainage.   Postural drainage and percussion techniques are u sually taught to care 
+providers so that the therapy may be continued at home when needed.  Due to the daily 
+required need for this labor -intensive  intervention , even a trained caregiver may struggle 
+with compliance with the recommended treatment plan.  To improve compliance and 
+allow patients to independently manage their disease, HFCWC/high -frequency chest wall 
+oscillation (HFCWO) devices have been developed to improve mucociliary clearance and 
+lung function.  
+ 
+High -frequency chest wall oscillation device s (HFCWO) deliver chest physiotherapy by 
+means of pulsed pressure, helping individuals  mobilize airway secretions.   HFCWO  
+works by producing vibrations at variable frequencies and intensities that assist in  
+POLICY NUMBER:  MP.PA.066 
+REVISION DATE: 06/22 
+EFFECTIVE  DATE:  10/22  
+  PAGE NUMBER : 5 of 15 
+ 
+ 
+Proprietary and Confidential Information of UPMC Health Plan  TOP  
+© 2022 UPMC All Rights Reserved  loosening and thinning the mucus adherent to the br onchial walls.  HFCWO  consist s of 
+two components: a vest worn by the individual,  and a pneumatic air -pulse generator that 
+rapidly inflates and deflates the vest , causing the chest wall to oscillate .  Some vests, 
+including the Monarch and SmartVest, also fe ature Bluetooth connectivity that allows for 
+monitoring of treatment adherence.  For individuals who fail to respond to standard 
+treatments to adequately mobilize retained secretions, HFCWO may be appropriate.  
+ 
+Mechanical percussors are electrical devices used to provide clapping or percussion to the 
+external chest wall.   These devices deliver consistent, programmable deep pulses , with 
+the vibration resulting in the mobilization and clearance of airway secretions .  The 
+machine is moved over the patient’s chest while the patients assume  a variety  of drainage 
+positions.  Examples of FDA -approved percussors include the Fluid Flo Model 2500 
+Percussor, Electro Flo5000, and the Frequencer V2.  
+ 
+Positive expiratory pressu re (PEP) devices promote mucus clearance by preventing 
+airway closure and increasing collateral ventilation.  PEP pushes air into the lungs, holds 
+the airways open, and prevents them from closing.  The patient inspires normally but 
+expires harder against r esistance.  Examples of FDA -approved PEP devices include 
+TheraP ep, and Pari Pep.  
+ 
+Oscillatory PEP devices combine high -frequency airflow oscillations with PEP to create 
+oscillations  of endobronchial pressure and expiratory airflow that vibrate the airway w alls 
+and loosen mucous.  These handheld devices may be gravity -dependent or independent .  
+Examples of FDA -approved oscillatory PEP devices include the gravity -dependent 
+device Flutter , and gravity -independent devices Acapella , Aerobika, and Quake .   
+ 
+Mecha nical insufflator -exsufflators, also known as cough assist therapy, are portable 
+electric devices that alternatively apply positive and rapid negative pressure to a patient’s 
+airway.  These devices create a rapid shift in pressure which simulates cough and  
+increases secretion clearance.  Examples of FDA -approved mechanical insufflator -
+exsufflators include CoughAssist  and VitalCough.  
+ 
+Intrapulmonary percussive ventilation (IPV) is a modification on intermittent positive -
+pressure breathing with high -frequency bursts of air/oxygen into the lungs while 
+simultaneously delivering therapeutic aerosols .  The combination of vibration, aerosol, 
+and pressure loosens secretions, stimulates cough, and leads to sputum production.  
+Although typically used during hospitalization, there has been some proposal for home 
+use.  Examples of home -use devices include the HC Impulsator.  At this time, there is a 
+paucity of peer -reviewed evidence to suggest that home use of such devices is medically 
+necessary.  
+ 
+ 
+ 
+  
+POLICY NUMBER:  MP.PA.066 
+REVISION DATE: 06/22 
+EFFECTIVE  DATE:  10/22  
+  PAGE NUMBER : 6 of 15 
+ 
+ 
+Proprietary and Confidential Information of UPMC Health Plan  TOP  
+© 2022 UPMC All Rights Reserved  B. Indications  
+ 
+High  Frequency Chest Wall Oscillation Devices (HFCWO, E0483), Initial Review : 
+An FDA -approved  HFCWO  device  is considered medically necessary when the 
+following  criteria are met : 
+1. The patient has one of the following conditions:  
+• Cystic fibrosis  (CF)  
+• Bronchiectasis confirmed by a high-resolution  computed tomography (CT)  scan 
+and characterized by:  
+o Daily productive co ugh for at least six continuous months; or  
+o Frequent (i.e., more than two per year) exacerbations requiring antibiotic 
+therapy ; 
+• Ciliary dyskinesia syndrome ; 
+• Cavitating lung disease ; 
+• Neuromuscular disease, including:  
+o Post-polio ; 
+o Acid maltase deficiency ; 
+o Anterior horn cell diseases  (ALS, spinal muscular atrophy) ; 
+o Multiple sclerosis ; 
+o Quadriplegia ; 
+o Hereditary muscular dystrophy ; 
+o Myotonic disorders ; 
+o Other myopathies  affecting respiratory clearance ; 
+o Paralysis of the diaphragm; and  
+2. The patient has a n adequate physiological cough reflex;  
+and 
+3. The patient has documentation of failed trials of standard treatments to adequately 
+mobilize retained secretions (e.g., mucolytic agents  for C F, chest physiotherapy, 
+postural drainage, mechanical modalities such as exsufflation devices ). 
+ 
+Continuation of  HCFWO:  
+Documentation of a  successful three -month  rental trial must  be provided  to confirm 
+individual tolerance and efficacy in us e of the device prior to an extension  for use . 
+ 
+Replacement supplie s 
+Replacement supplies are covered when the  criteria for the base device are  met. 
+ 
+Oscillatory Positive Expiratory Pressure devices  (E0484, S8185)  and Mechanical 
+Percussors  (E0480)  – must be FDA approved, are considered medically necessary when 
+the following criteria are met:  
+1. The patient has a hypersecretory lung disease (e.g., cystic fibrosis, chronic bronchitis, 
+bronchiectasis, ciliary dyskinesia syndrome, muscular dystrophy, neuromuscular 
+degenerative disorders);  
+and  
+POLICY NUMBER:  MP.PA.066 
+REVISION DATE: 06/22 
+EFFECTIVE  DATE:  10/22  
+  PAGE NUMBER : 7 of 15 
+ 
+ 
+Proprietary and Confidential Information of UPMC Health Plan  TOP  
+© 2022 UPMC All Rights Reserved  2. The patient has difficult y clearing the secretions;  
+and  
+3. The patient  has an adequate physiological cough reflex .  
+ 
+Mechanical Insufflation -Exsufflation devices  (E0482)  - must be FDA approved, are 
+considered medically necessary when the following criteria are met:  
+1. The patient has a neuromuscular disease that causes significant impairment of chest 
+wall and/or  diaphragmatic movement , or poor coordination of cough reflex ;  
+and 
+2. Standard treatments (e.g., chest percussion and postural drainage) have failed to 
+adequately mobilize retained secretions.  
+ 
+C. Limitations  
+ 
+1. Absolute c ontraindications  include the following:  
+• Unstabilized head or neck injury ; 
+• Active hemorrhage with hemodynamic instability ; 
+• Acute respiratory distress/failure . 
+2. Relative contraindications  include the following:  
+• Subcutaneous emphysema (gas within the tissue beneath the skin) ; 
+• Recent epidural spinal infusion or spinal anesthesia ; 
+• Recent placement of an indwelling venous catheter in the chest wall ; 
+• Intravenous access to an indwelling venous catheter ( patient s with e stablished 
+port sites can receive HFCWO  if the sites are covered with padding) ; 
+• Recent skin grafts or flaps on the thorax ; 
+• Burns, open wounds, or skin infections of the thorax ; 
+• Recently placed transvenous or subcutaneous pacemaker  or any device implanted 
+in the chest or chest wall ; 
+• Suspected pulmonary tuberculosis ; 
+• Recent abdominal surgery ; 
+• Recent gastrostomy tube placement ; 
+• Lung contusion ; 
+• Rib fractures ; 
+• Acute bronchospasm ; 
+• Chest wall pain ; 
+• Osteomyelitis of the ribs ; 
+• Osteoporosis ; 
+• Coagulopathy ; 
+• Osteogenesis imperfecta or other brittle bone disease(s) . 
+3. Exclusions  – HFCWO devices are considered  not medically necessary for the 
+following:  
+• Chronic bronchitis or chronic obstructive pulmonary disease (COPD) in the 
+absence of a confirmed  diagnosis of bro nchiectasis ;  
+POLICY NUMBER:  MP.PA.066 
+REVISION DATE: 06/22 
+EFFECTIVE  DATE:  10/22  
+  PAGE NUMBER : 8 of 15 
+ 
+ 
+Proprietary and Confidential Information of UPMC Health Plan  TOP  
+© 2022 UPMC All Rights Reserved  • Use of devices that are not approved by the Food and Drug Administration (FDA) 
+or have been recalled by the FDA . 
+4. Intrapulmonary percussive ventilation device s (E0481) are experimental and 
+investigational (refer to Variations section)  due to a lack of consensus in their clinical 
+utility in the peer -reviewed published literature . 
+ 
+D. Information Required for Review  
+ 
+In order to determine  medical necessity for coverage of airway secretion clearance 
+devices , adequate information must be furnished by the treating physician.  Necessary 
+documentation includes , but is not limited to, all of the following items when applicable 
+to the indication for use:   
+1. A physici an’s prescription or letter of medical necessity ;  
+and 
+2. Documentation supporting the need for the specific airway clearance device/HFCWO 
+device  that includes:  
+• Patient’s  diagnosis . 
+• Information related to the disease process  supporting  the medical necessity of the 
+device , includ ing CT scan results for those with a diagnosis of bronchiectasis . 
+• Documentation that the patient  has failed trials of alternative methods of 
+expectoration (i.e.  handheld flutter device, self -controlled breathing techniques, 
+conventional chest physical therapy consisting of postural drainage and 
+percussion)  or is unable to use them (most of those devices require cooperation 
+that cannot be provided by neurologically impaired children).  
+• Complete history to rule out a ny contraindications . 
+For HFCWO:  Documentation of a s uccessful three -month  rental trial must  be provided  to 
+confirm individual tolerance and efficacy in use of the device prior to an extension  for 
+use. 
+ 
+E. Variations  
+ 
+UPMC for Life  (Medicare):  
+UPMC Health Plan complies with all Medicare National Coverage Determinations 
+(NCDs) and applicable Local Coverage Determinations (LCDs) and Local Coverage 
+Articles (LCAs) for all items, services and/or procedures that are covered benefits under 
+Medicare.  If th e description of coverage criteria in this policy conflicts with any NCD or 
+relevant LCD or LCA, the NCD, relevant LCD, or LCA controls regardless of the version 
+of the NCD, LCD, or LCA listed in the Reference section of this policy.  
+ 
+UPMC for You  and UPMC Community HealthChoices (Medical Assistance):   
+Documentation of failed trials of alternative methods of expectoration will not be 
+required for a three -month trial rental of the oscillation device for C ystic Fibrosis  and 
+Kartagener  Syndrome/Ciliary  dyskinesia given the appropriate age and size of the patient 
+are met  based on FDA -approved indications .  
+POLICY NUMBER:  MP.PA.066 
+REVISION DATE: 06/22 
+EFFECTIVE  DATE:  10/22  
+  PAGE NUMBER : 9 of 15 
+ 
+ 
+Proprietary and Confidential Information of UPMC Health Plan  TOP  
+© 2022 UPMC All Rights Reserved   
+Per 55 PA Code 1150.51 (g), services and DME for MA members must be made “ in an 
+efficient and economical manner. ” This means that any DME devices prov ided must use 
+the least cost alternative of any device or provide documentation demonstrating why a 
+more costly alternative is being requested.  
+ 
+Certain airway secretion clearance device  codes may not be on the Medical Assistance 
+fee schedule.  These proc edures may only be requested as a Program Exception under the 
+Program Exception process . 
+ 
+F. Codes  
+ 
+The following codes for treatments and procedures applicable to this policy are included 
+below for informational purposes.   Inclusion or exclusion of a procedure, diagnosis or 
+device code(s) does not constitute or imply  coverage or reimbursement.   Please refer to 
+the specific  contract benefits in effect at the time of service to determine coverage or non -
+coverage of these services as it applies to an indi vidual.  
+ 
+HCPCS  
+Codes   Description  
+A7025  High frequency chest wall oscillation system vest, replacement for use 
+with patient -owned equipment, each  
+A7026  High frequency chest wall oscillation system hose, replacement for use 
+with patient -owned equipment, e ach 
+E0480  Percussor, electric or pneumatic, home model  
+E0481  Intrapulmonary percussive ventilation system and related accessories  
+E0482  Cough stimulating device, alternative positive and negative airway 
+pressure  
+E0483  High frequency chest wall oscillation system, includes all accessories and 
+supplies, each  
+E0484  Oscillatory positive expiratory pressure device, nonelectric, any type, each  
+S8185  Flutter device  
+ 
+Modif iers 
+RR Rental ( use the RR modifier when DME is to be rented ) 
+NU New equipment  
+ 
+G. Review Process  
+ 
+1. The Medical Management staff assigned to review obtains the clinical information 
+according to the policy, to determine if there is adequate clinical information.  If the 
+case does not meet the established criteria, it is referred to a UPMC Insurance 
+Services Division  Medical Director.   
+POLICY NUMBER:  MP.PA.066 
+REVISION DATE: 06/22 
+EFFECTIVE  DATE:  10/22  
+  PAGE NUMBER : 10 of 15 
+ 
+ 
+Proprietary and Confidential Information of UPMC Health Plan  TOP  
+© 2022 UPMC All Rights Reserved  2. If referred, the Medical Director determines if the requested servi ce is medically 
+necessary and appropriate according to the policy . 
+3. The Medical Management staff completes the review process and communicates the 
+review decision according to the policy  for the member’s benefit plan . 
+  
+H. Records Retention  
+ 
+Records Retention for documents, regardless of medium, is provided within the UPMC 
+Health System Policy for Records Retention, Management and Retirement, and as 
+indicated in the UPMC Insurance Services Division Policy and Procedure for Records 
+Retention.  
+  
+Unless otherwise mandated by Federal or State law, or unless required to be maintained 
+for litigation purposes, any communications recorded pursuant to this Policy are 
+maintained for a minimum of ten (10) years from the date of recording . 
+ 
+I. References  
+ 
+Please note the following:  
+o The links and the dates of publication and/or latest revisions for all references below 
+are current as of the Revision Date of this policy.  
+o Not all the links are free -access.  Some of the references may require site registration,  
+subscription and/or purchase to download the information cited.  
+ 
+Medical Literature/Clinical Information:  
+1. Barker AF. Bronchiectasis in adults: Maintaining lung health. UpToDate®. Topic 
+129310 Version 7.0.  last updated: Mar 10, 2022. 
+https://www.uptodate.com/contents/bronchiectasis -in-adults -maintaini ng-lung-
+health?search=airway%20clearnce%20devoces&source=search_result&selectedTitle
+=4~150&usage_type=default&display_rank=4  
+2. Simon RH. Cystic fibrosis: Overview of the treatment of lung disease. UpToDate® 
+Topic 6372 Version 97.0. last updated: Jan 05, 2022 . 
+https://www.uptodate.com/contents/cystic -fibrosis -overview -of-the-treatment -of-
+lung-
+disease?sectionName=Inhaled%20airway%20clearance%20agents&search=airway%
+20clearnce%20devoces&topicRef=1456&anchor=H1748386731&source=see_link#H
+1748386731  
+3. Livnat G, Yaari N, Stein N,et al.  4 -week daily airway clearance using oscillating 
+positive -end expiratory pressure versus autogenic drainage in bronchiectasis patients: 
+a randomised controlled trial. ERJ Open Res. 2021 Nov 8;7(4):00426 -2021. doi: 
+10.1183/23120541.0 0426 -2021. eCollection 2021 Oct.  
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8573225/  
+4. Gwag HB, Joh HS, Kim JS, et al. Safety of mechanical lung vibrator and high -
+frequency chest wall os cillation in patients with cardiac implantable electronic  
+POLICY NUMBER:  MP.PA.066 
+REVISION DATE: 06/22 
+EFFECTIVE  DATE:  10/22  
+  PAGE NUMBER : 11 of 15 
+ 
+ 
+Proprietary and Confidential Information of UPMC Health Plan  TOP  
+© 2022 UPMC All Rights Reserved  device. Clin Cardiol. 2021 Apr;44(4):531 -536. doi: 10.1002/clc.23571. Epub 2021 
+Feb 16.  https://www.ncbi.nlm.nih.gov/pmc/article s/PMC8027569/  
+5. Belli S, Prince I, Savio G,et al. Airway Clearance Techniques: The Right Choice for 
+the Right Patient. Front Med (Lausanne). 2021 Feb 4;8:544826. doi: 
+10.3389/fmed.2021.544826.  
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902008/  
+6. Daynes E, Jones AW, Greening NJ, Singh SJ. The Use of Airway Clearance Devices 
+in the Management of Chronic Obstructive Pulmonary Disease. A Systematic Review 
+and Meta -analysis of Randomized Contro lled Trials. Ann Am Thorac Soc . 2021 Feb; 
+18(2) 308 –320. DOI: 10.1513/AnnalsATS.202005 -482OC . 
+https://www.atsjournals.org/doi/10.1513/AnnalsATS.202005 -482OC  
+7. Barto TL, Maselli D J, Daignault S, et al. Real -life experience with high -frequency 
+chest wall oscillation vest therapy in adults with non -cystic fibrosis bronchiectasis. 
+Ther Adv Respir Dis. 2020 Jan -Dec;14:1753466620932508. doi: 
+10.1177/1753466620932508.  
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7297124/  
+8. Hue YL, Lum LCS, Ahmad SH,et al. . Safety, tolerability and efficacy of LEGA -Kid 
+mechanical percussion device versus conventional chest physiotherapy i n children: a 
+randomised, single -blind controlled study.  Singapore Med J. 2020 Jun 2. doi: 
+10.11622/smedj.2020084. Online ahead of print.  
+https://pubmed.ncbi.nlm.nih.gov/32480437/  
+9. Morrison L, Milro y S. Oscillating devices for airway clearance in people with cystic 
+fibrosis. Cochrane Database Syst Rev. 2020 Apr 30;4(4):CD006842. doi: 
+10.1002/14651858.CD006842.pub5. 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7197699/  
+10. Lechtzin N, Wolfe LF, Frick KD. The Impact of High -Frequency Chest  Wall 
+Oscillation on Healthcare Use in Patients with Neuromuscular Diseases.  Ann Am 
+Thorac  Soc. 2016 Jun;13(6):904 -909. doi: 10.1513/AnnalsATS.201509 -597OC. 
+http://www. atsjournals.org/doi/abs/10.1513/AnnalsATS.201509 -
+597OC?url_ver=Z39.88 -
+2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed&#readcube -
+epdf 
+11. Hill-Rom Services. Mechanical Insufflation -Exsufflation (MI -E) vs High -Frequency 
+Chest Wall Oscillation (HFCWO ) Rationale, Technology and Clinical Use. 2014 June 
+19. https://www.hillrom.com/co ntent/dam/hillrom -
+aem/us/en/marketing/knowledge/product -documentation/white -papers/187604 -EN-
+r1_MIE -HFCWO -Paper_Reference -Claim.pdf  
+12. Nicolini A, Cardini F, Landucci N, et al. Effectiveness of treatment with high -
+frequency chest wall oscillation in patients with bronchiectasis . BMC Pulm Med 2013  
+Apr; 13:21. http://www.biomedcentral.com/1471 -2466/13/21   
+13. Keating JM, Collins N, Bush A, Chatwin M. High -frequency chest -wall oscillation in 
+a noni nvasive -ventilation -dependent patient with type 1 spinal muscular atrophy. 
+Respir Care. 2011 Nov;56(11):1840 -3. doi: 10.4187/respcare.01155. Epub 2011 May 
+20. https://rc.rcjournal.com/content/56/ 11/1840v   
+POLICY NUMBER:  MP.PA.066 
+REVISION DATE: 06/22 
+EFFECTIVE  DATE:  10/22  
+  PAGE NUMBER : 12 of 15 
+ 
+ 
+Proprietary and Confidential Information of UPMC Health Plan  TOP  
+© 2022 UPMC All Rights Reserved  14. Dosman CR, Jones RL: High -frequency c hest compressio n: a summary of the 
+literature . Can  Respir J . 2005 Jan -Feb; 12(1); 37 -41. 
+http://w ww.pulsus.com/journals/abstract.jsp?sCurrPg=journal&jnlKy=4&atlKy=3188
+&isuKy=353&isArt=t   
+15. Varekojis  SM, Douce FH, Flucke  RL, et al: A comparison of the therapeutic 
+effectiveness of and preference for p ostural drainage and percussion, intrapulmonary 
+percussive v entilation, and h igh-frequency chest wall compression in hospitalized 
+cystic fibrosis patients.  Respir Care. 2003,  48(1): 24 -28. 
+http://rc.rcjournal.com/content/48/1/24.full.pdf+html  
+16. Hess DR: The evidence for secretion clearance techniques. Respir Care.  2001 Nov; 
+46(11):1276 -1293.  https://pubmed.ncbi.nlm.nih.gov/11679147/  
+17. Oermann CM, Sockrider MM, Giles D , et al: Comparison of high -frequency chest 
+wall o scillation and oscillating positive expiratory pressure in the home management 
+of cystic fib rosis: A  pilot study.  Pediatr Pulmonol  2001 Nov; 32(5):372 - 377. 
+http://onlinelibrary.wiley.com/doi/10.1002/ppul.1146/pdf  
+18.  Langenderfer  B: Alternatives to percussion and postural drainage . A review of 
+mucus clearance therapies: percussion and postural drainage, autogenic drainage, 
+positive expiratory pressure, flutter valve, intrapulmonary percussive ventilation, and 
+high-frequency chest compression with the ThAIRapy Vest.   J Cardiopulm Rehabil. 
+1998 Jul -Aug; 18(4): 283 -289.  
+https://journals.lww.com/jcrjournal/F ulltext/1998/07000/Alternatives_to_Percussion_
+and_Postural_Drainage_.5.aspx    
+19. Scherer T A, Barandun  J, Martinez E, et al: Effect of high-frequency oral airway and 
+chest wall oscillation and conventional chest physical therapy on expectoration in 
+patients with stable cystic fibrosis . Chest . 1998  Apr; 113(4): 1019 -1027.  
+http://journal.publications.chestnet.org/data/Journals/CHEST/21 763/1019.pdf  
+20. Perry RJ, Man GC W, Jones RL .  Effects of positive end-expiratory pressure on 
+oscillated flow rate during high frequency chest compression . Chest .  1998  Apr;  
+113(4):1028 -1033 . 
+http://journal.publications.chestnet.org/data/Journals/CHEST/21763/1028.pdf  
+21. Kluft J  Beker L, Castagnino M , et al: A comparison of bronchial d rainage treatments 
+in cys tic fibrosis.  Pediatr Pulmonol .  1996 Oct ; 22(4):271 -274. 
+http://onlinelibrary.wiley.com/doi/10.1002/(SICI)1099 -
+0496(199610)22:4%3C271 ::AID -PPUL7%3E3.0.CO;2 -P/pdf   
+22. Braggion C, Cappelletti LM, Cornacchia M et al: Short -term effects of three c hest 
+physiotherapy regimens in p atients hospitalized for pulmonary exacerbations of cystic 
+fibrosis: a cross -over randomized study.  Pediatr Pulmonol.  1995  Jan; 19(1):16 -22. 
+http://www.ncbi.nlm.nih.gov/pubmed/7675553  
+23. Bach J : Update and perspective on noninvasive respiratory muscle aids. Part 2: The 
+expiratory aids. Chest.  1994 May ; 105 (5): 1538 -1544.  
+http://journal.publications.chestnet.org/ data/Journals/CHEST/21694/1538.pdf  
+24. Bach J, Smith  W H, Michaels J, et al.  Airway s ecretion clearances by m echanical 
+exsufflation for p ost-poliomyelitis ventilator -assisted individuals.  Arch Phys Med 
+Rehabil . 1993 Feb; 74 (2) : 170-177.  http://www.ncbi.nlm.nih.gov/pubmed/8431102   
+POLICY NUMBER:  MP.PA.066 
+REVISION DATE: 06/22 
+EFFECTIVE  DATE:  10/22  
+  PAGE NUMBER : 13 of 15 
+ 
+ 
+Proprietary and Confidential Information of UPMC Health Plan  TOP  
+© 2022 UPMC All Rights Reserved   
+Regulatory/Government Source:  
+1. Centers for Medicare and Medicaid Services (CMS). Local Coverage Determination 
+(LCD). No L33785 - High Frequency Chest W all Oscillation Devices.  (Contractor: 
+Noridian Healthcare solutions, LLC).  Revision Effect ive Date: 01/01/2020 (R9 ). 
+https://www.cms.gov/medicare -coverage -database/details/lcd -
+details.aspx?LCDId=33785&ver=34&Date=&DocID=L33785&bc=hAAAAAgAAA
+AA&  
+2. Centers for Medicare and Medicaid Services (CMS). Local Coverage  Article  – 
+A52494 -. High Frequency Chest Wall Oscillation De vices - Policy Articl e. 
+(Contractor: Noridian Healthcare Solutions, LLC). Revision  Effect ive Date: 
+10/01/2021 (R15) . https://www.cms.gov/medicare -coveage -
+database/view/article.aspx?articleid=52494&ver=44&bc=CAAAAAAAAAAA  
+3.  Centers for Medicare and Medicaid Services:  Lo cal Coverage Article  – A55426 - 
+Standard Documentation Requirements for All Claims Submitted to DME MACs . 
+Contractor: Noridian Healthcare Solutions LLC). Revision Effective Date: 
+04/06/2020 (R1 6).  https://www.cms.gov/medicare -coverage -
+database/view/article.aspx?articleid=55426&ver=88&LCDId=33798&DocTy pe=Futu
+re&bc=AgIAAAAAEAAAAAAA&=  
+4. Centers for Medicare and Medicaid Services (CMS). Local Coverage Determination 
+(LCD).  No L33795 – Mechanical In -exsufflation Devices. (Contractor: Noridian 
+Healthcare Solutions, LLC).  Revision Effective Date: 01/01/2020 (R 8). 
+https://www.cms.gov/medicare -coverage -database/details/lcd -
+details.aspx?LCDId=33795&ver=29&Date=&DocID=L33795 &bc=hAAAAAgAAA
+AA&  
+5.  Centers for Medicare and Medicaid Services (CMS). Local Coverage Article – 
+A52510 - Mechanical In -exsufflation Devices.  (Contractor: Noridian Healthcare 
+Solutions, LLC). Revision Effective Date: 10/01/202 1 (R13).  
+https://www.cms.gov/medicare -coverage -
+database/view/article.aspx?articleid=52510&ver=44&bc=CAAAAAAAAAAA  
+6. U.S. Food and Drug Administration (FDA). 510(k) Summary approval for The 
+InCourage T System.K051383.  (Applicant Corp: Respiratory Technologies Inc). Last 
+updated: JUN 17, 2005. https ://www.accessdata.fda.gov/cdrh_docs/pdf5/K051383.pdf  
+7. U.S. Food and Drug Administration (FDA). 510(k) Summary approval for. 
+International Biophysics Corporation AffloVest.  K122480/5001.  (Applicant Corp: 
+International Biophysics Corporation). Last updated:  MAR 27, 2013.  
+https://www.accessdata.fda.gov/cdrh_docs/pdf12/K122480.pdf  
+8. U.S. Food and Drug Administration (FDA). 510(k) Summary approval for 
+SmartVest® Airway Clearance System. K1 32794.(Applicant Corp: Electromed, Inc) 
+Last updated: DEC 19, 
+2013. https://www.accessdata.fda.gov/cdrh_docs/pdf13/K132794.pdf  
+9. U.S. Food and Drug Administration (FDA). 510(k) Summary approval for 
+Monarch™ Airway Clearance System. K163378. (Applicant Corp: Hill -rom Services  
+POLICY NUMBER:  MP.PA.066 
+REVISION DATE: 06/22 
+EFFECTIVE  DATE:  10/22  
+  PAGE NUMBER : 14 of 15 
+ 
+ 
+Proprietary and Confidential Information of UPMC Health Plan  TOP  
+© 2022 UPMC All Rights Reserved  Pte Ltd) Last updated: March 17, 
+2017. https://www.accessdata.fda.gov/cdrh_docs/pdf16/K163378.pdf  
+   
+POLICY NUMBER:  MP.PA.066 
+REVISION DATE: 06/22 
+EFFECTIVE  DATE:  10/22  
+  PAGE NUMBER : 15 of 15 
+ 
+ 
+Proprietary and Confidential Information of UPMC Health Plan  TOP  
+© 2022 UPMC All Rights Reserved  Disclaimer: UPMC Health Plan medical payment and prior authorization policies do not 
+constitute medical advice and are not intended to govern or otherwise influence the 
+practice of medicine. The policies constitute only the reimbursement and coverage 
+guidelines of UPM C Health Plan and its affiliated managed care entities. Coverage for 
+services varies for individual members in accordance with the terms and conditions of 
+applicable Certificates of Coverage, Summary Plan Descriptions, or contracts with 
+governing regulator y agencies.  
+ 
+UPMC Health Plan reserves the right to review and update the medical payment and prior 
+authorization guidelines in its sole discretion. Notice of such changes, if necessary, shall 
+be provided in accordance with the terms and conditions of pro vider agreements and any 
+applicable laws or regulations.  
+ 
+These policies are the proprietary information of UPMC Health Plan. Any sale, copying, 
+or dissemination of said policies is prohibited.  
+ 
+ 
+ 

@@ -1,0 +1,388 @@
+MED128  | 1  
+     
+Medical Policy Manual  Medicine , Policy No. 128 
+Automated Point -of-Care Nerve Conduction Studies  
+Effective : March 1, 202 3 
+Next  Review:  December  2023 
+Last Review: January 2023 
+ 
+IMPORTANT REMINDER  
+Medical Policies are developed to provide guidance for members and providers regarding coverage in 
+accordance with contract terms. Benefit determinations are based in all cases on the applicable contract 
+language. To the extent there may be any conflict between the Medical Policy and contract language, the contract language takes precedence.  
+PLEASE NOTE: Contracts exclude from coverage, among other things, services or procedures that are 
+considered investigational or cosmetic. Providers may bill members for servic es or procedures that are 
+considered investigational or cosmetic. Providers are encouraged to inform members before rendering such services that the members are likely to be financially responsible for the cost of these services.  
+ 
+DESCRIPTION  
+Portable devices have been developed to provide point -of-care nerve conduction studies, 
+including the delivery of stimulus, response analysis, and reporting of study results. These devices are designed for use in various settings, including primary care, without the need for specialized training or equipment.  
+MEDICAL POLICY CRITERIA  
+Automated nerve conduction tests are considered investigational  for all indications, 
+including but not limited to the diagnosis of carpel tunnel syndrome, peripheral neuropat hy, 
+and lumbosacral radiculopathy . 
+ 
+NOTE: A summary of the supporting rationale for the policy criteria is at the end of the policy.  
+CROSS REFERENCES  
+1. Quantitative Sensory Testing, Medicine, Policy No. 91 
+BACKGROUND  
+Nerve conduction studies (NCS) and needle electromyography (EMG), when properly 
+MED128  | 2 performed by a trained practitioner, are considered the gold standard of electrodiagnostic 
+testing, and may be used to diagnose neuropathies (e.g., carpel tunnel syndrome [CTS], 
+peripheral neuropathies). However, the need for specialized equipment and personnel, along with additional time and cost, may limit the availability of electrodiagnostic testing for all patient populations.  
+Automated point -of-care nerve conduction studies, also known as automated nerve conduction 
+studies, are performed using portable devices with computational algorithms that are able to drive stimulus delivery, measure and analyze the response, and provide a report of study 
+results. They have been proposed for use by nontechnical clinic personnel as an alternative 
+diagnostic test for CTS and other neuropathies.  
+REGULATORY STATUS  
+Several automated nerve conduction study devices have received clearance by the U.S. Food and Drug Administration (FDA). The majority of devices have 510(k) approval, a type of clearance which does not require data regarding clinical efficacy.  Examples of devices 
+currently on the market  include:  
+• NeuroMetrix received specific FDA clearance to market the NC -stat® device “to 
+measure neuromuscular signals  that are useful in diagnosing and evaluating systemic 
+and entrapment neuropathies.” In addition, the approved application stated that “The NC-stat is intended to be used as an adjunct to and not a replacement for conventional 
+electrodiagnostic measurements.” The 2004 510(k) added a sural biosensor for use in diagnosing neuropathies affecting the sural nerve (K041320).  
+• NeuroMetrix subsequently received FDA clearance to market newer models with 
+biosensors and engineering changes that enable the NC -stat® to b e used for motor and 
+sensory nerves of the wrist (median and ulnar) and foot (peroneal, tibial, and sural). The 
+intended use as listed on the 510(k) approval from 2006 (K060584) is “to stimulate and measure neuromuscular signals that are useful in diagnosing and evaluating systemic and entrapment neuropathies.” The original NC -stat is no longer being produced. The 
+current NeuroMetrix device, NC -stat® DPN- Check ™ assesses the sural nerve.  
+• The NeuroMetrix ADVANCE™ system received marketing clearance in 2008 
+(K070109). It is intended to perform nerve conduction studies using disposable surface 
+electrodes (similar to NC -stat) with an additional module for invasive needle EMG. The 
+ADVANCE ™ system includes a real -time display of nerve conduction waveforms with a 
+stylus for assignment of waveforms. NeuroMextrix lists NC -stat as a predicate device for 
+the ADVANCE™ system. 
+• The XLTek Neuropath (Excel - Tech) received clearance for marketing through the 
+FDA’s 510(k) process in 2006; the indications are the same as those for NC -stat. 
+• The Neural -Scan ™ NCS (Neuro Diagnostics) is a Class I diagnostic device (FDA 
+clearance not usually required) that is being marketed “as part the [sic] neurological examination or for screening to detect peripheral neuropathies.”  
+• The Axon -II™ (PainDx) is an automated system that is being marketed for the detection 
+of various sensory neurological impairments caused by various pathological conditions or toxic substance exposures, including signs of sympathetic dysfunction and detection MED128  | 3 of down- regulated A -delta function to locate injured nerve(s) The AXON -II software 
+works with the Neural -Scan ™ system (Neuro Diagnostics) and lists 7 automated studies 
+(Cervical, Thoracic, Lumbar, Upper Extremities, Lower Extremities, Neuroma, 
+Trigeminal) as well as a custom study. The Neural -Scan ™ is a voltage- actuated 
+sensory nerve conduction test device, which measures the voltage amplitude necessary to cause a discernible nerve impulse. Results are adjusted and compared to population means; the most severe hypoesthesia is considered the primary lesion.  
+• The Brevio® from Neurotron Medical received marketing clearance from the FDA in 2001. The Brevio® is intended “for use for the measurement of nerve response latency and amplitude in the diagnosis and monitoring of peripheral neuropathies.”  
+• The Mediracer ® NCS (Mediracer Ltd.) is not currently available for marketing in the 
+United States as it does not have FDA approval at this time.  
+EVIDENCE SUMMARY  
+Validation of any diagnostic technique focuses on three parameters:  
+1. Demonstration of technical feasibility  
+ The focus of this parameter is on test reproducibility and establishment of test protocol. Technical feasibility  of a device is typically assessed with two  types of studies, those that 
+compare test measurements with a gold standard and those that compare results taken with the same device on different occasions (test -retest). The c urrent  standard for nerve 
+conduction testing is the electrophysiologic nerve conduction study (NCS) combined with needle electromyography (EMG).  
+2. Demonstration of diagnostic performance  Diagnostic performance is evaluated by the ability of a test to accurately diagnose a clinical condition in comparison with the gold standard.  For accurate interpretation of study results, sensitivit ies, specificities, and positive and negative predictive values compared to a gold 
+standard must be known.   The sensitivity of a test is the ability to detect a disease when the 
+condition is present (true positive), while specificity indicates the ability to detect whether disease exists in patients who are suspected of disease but who do not have the condition (true negative). Evaluation of diagnostic performance, therefore, requires independent assessment by the two methods in a population of patients who are suspected of disease 
+but who do not all have the disease. Studies that do not meet these criteria (broad patient population and comparison of point -of-care use with the standard laboratory NCS -EMG) 
+may be considered relevant to the technical feasibili ty of the device,  but are inadequate for 
+evaluation of its diagnostic performance.  
+ Within this context, the comparators for automated point -of-care nerve conduction studies 
+for the following common neurological conditions are as follows:  
+• While there is no absolute gold standard for diagnosis of carpel tunnel syndrome  
+(CTS) , electrodiagnosti c studies are commonly used to quantify the amount of nerve 
+damage, and a positive response to conservative management (steroid injection, 
+splints, and  modification of activity) can confirm the clinical diagnosis.
+[1] MED128  | 4 • Diagnosis of peripheral neuropathy is often made clinically through the physical 
+examination, combined with simple sensory tools such as the 10- g Semmes -
+Weinstein monofilament or the 128- Hz vibration tuning fork, although there is no 
+standard protocol for the diagnosis of this condition.[2] Electrodiagnostic studies may 
+also be used to confirm the presence or absence of diabetic neuropathy.  
+• Diagnosis of lumbosacral radiculopathy is normally made through patient history and physical examination and can be quantified and confirmed with MRI or nerve conduction studies (NCS) and needle electromyography (EMG).
+[3] 
+3. Evaluation of clinical outcomes  
+ Also known as clinical utility , this parameter evaluates how the results of the test can be 
+used to benefit patient management and its impact on health outcomes. The clinical utility of both positive and negative tests must be assessed as it relates to any added benefits 
+which cannot be achieved by the standard of care. 
+DIABETIC PERIPHERAL NEUROPATHY  
+Randomized Controlled Trials  
+No randomized controlled studies were identified in the current published literature.  
+Nonrandomized Studies 
+A non-randomized observational study by Chatzikosma .that included 114 patients with type 2 
+diabetes and 46 healthy controls was published in 2016.
+[4] The performance of the NC -stat 
+DPN- Check was assessed in comparison to a clinical diagnosis of diabetic peripheral 
+neuropathy (DPN) using the standardized N europathy Disability Score. The authors reported 
+that the NC -stat DPN- Check had a sensitivity of 90.48% and a specificity of 86.11% compared 
+with a clinical diagnosis in diabetic patients, and that the automated NCS was abnormal in two 
+healthy controls. The assessors in this study were not blinded and this study did not include 
+gold-sta ndard nerve conduction studies against which the study data could be compared.  
+A similar study was published in 2015 by Sharma , which  assessed the technical accuracy of 
+NC-stat DNP- Check in 162 patients with diabetes and 80 healthy controls.[5] Based on the 10-
+point Neuropathy Disability Score, diabetic peripheral neuropathy was categorized as none, mild,  moderate, or severe. Measurements with the point -of-care device were conducted by 
+blind assessors. Receiver operating characteristics curves showed high overall accuracy in participants with either no neuropathy or severe neuropathy. However, for patients  with mild 
+neuropathy who would benefit most from early diagnosis, accuracy was substantially lower.  
+Pambianco  (2011)  compared the accuracy of two automated point -of-care nerve conduction 
+study devices, the NC -stat and the Neurometer R -CPT (Neurotron, Inc .), along with sensory 
+threshold devices, the Michigan Neuropathy Screening Index (MNSI) and the 10- g Semmes -
+Weinstein monofilament test in a cohort of 195 patients with type 1 diabetes.
+[6] The accuracy of 
+each diagnostic test was compared with a standard clinical exam protocol for the diagnosis of two outcomes: diabetic peripheral neuropathy and amputation, ulcer or neuropathic pain. Estimates of sensitivity and specificity of the NC -stat device were 79% and 48%, respectively, 
+for detection of diabetic peripheral neuropathy, and 77% and 38% for the detection of amputation, ulcer, or neuropathic pain. The MNSI had the highest combination of sensitivity MED128  | 5 (87% and 80%) and specificity (49% and 36%) for each outcome. The authors concluded that 
+the reduced specificity of the point -of-care nerve conduction study devices limits their use as a 
+diagnostic tool for individuals with type 1 diabetes, and that the MSNI presents the best 
+combination of sensitivity and specificity out of the diagnostic tools considered.  
+Perkins (2006) assessed the validity of NC -stat to diagnose diabetic peripheral neuropathy 
+through sural nerve testing in patients from diabetes and diabetic neuropathy outpatient 
+practices.[7] Seventy -two consecutive patients (64 with type 2 diabetes) who completed a 
+clinical evaluation, a conventional nerve conduction study, and a point -of-care NC -stat 
+assessment were enrolled. The point -of-care assessment was independently conducted by 
+non-technologist research staff following a single one hour lesson in the NC -stat protocol. The 
+amplitude potential of the sural nerve was tested as an early indicator of diabetic neuropathy. Using a threshold of six µV, the authors report that the sensitivity and specificity of NC -stat for 
+diagnosis of diabetic sensorimotor polyneuropathy, as defined by clinical and conventional electrophysi ological evaluation, was 92% and 82%, respectively. The Spearman correlation 
+coefficient (compared with the reference standard) was 0.95. As noted by the authors, further study is needed in a broad spectrum of patients, including those who present with aty pical 
+neuropathy in a clinical setting. The authors also note that further investigation is needed into specific approaches that include the point -of-care nerve conduction study as a component of 
+the clinical care of those with polyneuropathy.  
+A study of motor nerve function by Vinik (2004) compared NC -stat with standard nerve 
+conduction tests of the wrist of 17 subjects with diabetes mellitus who had clinical evidence of peripheral neuropathy in either the upper or lower extremity.
+[8] Correlations between the tests 
+results were high (ranging from 0.70 for ulnar distal motor latency [ DML ] to 0.96 for median 
+nerve DML).  
+Section Summary 
+Estimates of diagnostic accuracy of automated point -of-care nerve conduction study devices  
+vary. The largest study of diagnostic accuracy recommended the use of the Michigan 
+Neuropathy Screening Index  over point -of-care nerve conduction studies, citing superior 
+estimates of sensitivity, specificity, time, and cost. Additional studies are needed to establish a 
+consensus regarding the diagnostic performance and clinical utility of this test.  
+CARPEL TUNNEL SYNDROME  
+Randomized Controlled Trials  
+No randomized controlled studies were identified in the current published literature.  
+Nonrandomized Studies In 2011, Bourke reported a non- randomized comparison of clinic -based NC -stat versus referral 
+to standard electrodiagnostic testing that evaluated efficiency of work -up and costs. The study 
+included 142 patients being considered for decompression surgery for CTS at a hand clinic.
+[9] 
+Seventy -one patients who accepted nerve conduction studies in a nurse- led clinic were 
+compared with 71 historical controls who had been sent for nerve conduction studies at the 
+regional neurophysiological unit. Patients with known or suspected complex neurological conditions were excluded from the study. Outcome measures were time from presentation to carpal tunnel decompression, the cost of each pathway, and the practicalities of using the device in the clinic. In the NC- stat group, 43 patients (61%) had a diagnosis of CTS confirmed MED128  | 6 by NC- stat and underwent decompression surgery and 28 patients (39%) had normal or 
+inconclusive tests. Of the 28, 12 were referred for electrodiagnostic testing and two  of the 12 
+were recommended for decompression surgery (3% false negative). In the referred group, 44 
+patients (62%) had confirmation of CTS and underwent decompression surgery. Use of NC -
+stat in the clinic reduced the time from presentation to surgery from 198 days to 102 days. Cost saving for NC -stat was reduced by the need to refer nearly 20% of patients for standard 
+electrophysiological testing, but still favored the clinic -based approach. Health outcomes for 
+the two approaches were not assessed.  
+The NeuroMetrix data registry was analyzed by Megerian (2007)  for all NC- stat studies 
+performed over a period of 10 days that were coded for CTS and performed by a primary care provider.
+[10] The initial data set consisted of studies of 1,190 patients performed by 613 
+different physician practices; studies that met CTS testing guidelines (82% met strict guidelines and 93% met less restrictive guidelines) were further analyzed. Thus, in nearly one of five patients (18.4%), the st udies did not meet strict CTS testing guidelines. From the limited set, 
+31% were identified as normal, 53% exhibited CTS, 5% demonstrated an ulnar neuropathy, and 11% showed a nonspecific neuropathy. No comparison was made with standard nerve conduction testing nor was an assessment made of the impact of this testing on relevant clinical outcomes.  
+In a point -of-care study by Katz (2006) evaluating industrial workers for possible CTS using 
+distal motor latency  (DML), many individuals who were identified with prolonged DML by NC -
+stat fell within the normal range (using 95% cutoff point) as defined by this study population.
+[11] 
+This study also commented on the importance of sensory nerve findings in the diagnosis of CTS, suggesting a need to better define “normal” values.  
+Rotman (2004)  used the NC -stat to  identify predictors of outcome in 48 CTS patients who 
+underwent endoscopic carpal tunnel release.
+[12] DML measurements were obtained within one 
+hour of surgery and up to six months after surgery. NC -stat DML was shown to have a 
+sensitivity of 89% “at the predetermined specificity of 95%.” High correlation of DMLs with reference EMG/NCS values was also reported. Maximal postoperative DML improvement was highly dependent on presurgical DML. The study did not address the clinical utility of these findings.  
+Elkowitz (2005) compared results from NC -stat and standard nerve conduction studies in a 
+previously diagnosed patient population.
+[13] This study compared distal motor latency of the 
+median nerve in 72 patients (of 400 treated) with established CTS before and after surgical intervention, finding a correlation coefficient of 0.88 for the median nerve DML. However, a scatter plot indicates a poor correlation for longer latencies.  
+In an early report of the NC -stat technology using distal motor latency (DML) to diagnose 
+Carpel Tunnel Syndrome ( CTS), Leffler (2000)  reported that in 248 symptomatic hands 
+(apparently a combination of an initial and validation group), compared with conventional diagnosis, testing using this device had a sensitivity of 86% and specificity of 90%.
+[14] 
+Section Summary 
+The published literature on the use of automated point -of-care nerve conduction devices for 
+the diagnosis of CTS is focused on the technical feasibility and diagnostic performance of the 
+device. Questions remain regarding the optimal range of the device and the target population. MED128  | 7 Further studies are required to demonstrate technical feasibility, diagnostic accuracy, and 
+clinical utility of this device.  
+LUMBOSACRAL RADICULOPATHY  
+Randomized Controlled Trials  
+No randomized controlled studies were identified in the current published literature.  
+Nonrandomized Studies 
+A 2011 report by Schmidt assessed the accuracy of NC -stat diagnosis of lumbosacral 
+radiculopathy in 50 patients and 25 controls with no prior history of lumbosacral 
+radiculopathy.[15] The patient cohort included patients referred to a tertiary referral EMG 
+laboratory for testing of predominantly unilateral  leg symptoms (pain, numbness, or 
+weakness). Control subjects were recruited from clinic employees and from patients referred to the EMG laboratory for upper limb symptoms. All patients underwent focused history and physical examination and both standard and automated electrodiagnostic testing. Automated testing was performed by experienced technicians who were unaware of the electrodiagnostic test results. In the patient cohort, the sensitivity of NC -stat was found to be 0% for L4 
+radiculopathy, 69% for L5 radiculopathy, and 64% for S1 radiculopathy compared with 
+standard electrodiagnostic testing. By standard electrodiagnostic evaluation, 22 of the 50 symptomatic patients had findings consistent with L4, L5 or S1 radiculopathy and 28 patients were found to be normal or to have a diagnosis other than lumbosacral radiculopathy; NC -stat 
+identified only  four of these 28 cases (specificity of 14%). Standard electrodiagnostic testing 
+also identified other important diagnoses in nine  patients (18%) that were not identified by the 
+automated test, while NC -stat reported six  other diagnoses in patients found to be normal by 
+standard electrodiagnostic testing. All standard electrodiagnostic tests in the control group were normal, but the automated test found that 18 of  these subjects were abnormal (specificity 
+of 32%). The study found that the raw nerve conduction data were comparable for the two  
+techniques; however, computer -generated interpretations by the automated device showed 
+low specificity (numerous false positives) in both symptomatic patients and normal control subjects. An accompanying editorial by England and Franklin states that the use of automated nerve conduction devices is controversial, and that the use of NC -stat for lumbosacral 
+radiculopathy would likely lead to a high misdiagnosis rate and potentially inappropriate treatment, i ncluding surgery.
+[16] England and Franklin also conclude that an overly sensitive but 
+not very specific test for carpal tunnel syndrome, or other mono- or polyneuropathies, cannot 
+replace expert use and interpretation of conventional electrodiagnostic testing.  
+Fisher  (2008)  explored the relationship between NC -stat and routine NCS/needle 
+electromyography (EMG) in 34 consecutive patients with a clinical history and/or examination consistent with lumbosacral radiculopathy.
+[17] Inclusion in the study was based on chart review 
+of symptoms from clinical history and/or examination (including low back pain or buttock pain, numbness, and/or paresthesias of one or both lower extremities) and having undergone testing with both NC -stat and routine electrodiagnostic studies. Of the 34 patients included in the 
+study, 28 had magnetic resonance imaging (MRI) of the lumbosacral spine within six months of electrodiagnosis, two had a post -myelogram computed tomography (CT) scan, and three had 
+lumbosacral spine radiographs. A neuroradiologist who was blinded to the clinical evaluation and electrodiagnostic results determined from MRI or CT that lumbosacral root injury was likely 
+at the L4- 5 and/or L5- S1 levels in 18 patients (60%). The study found some correlation 
+between the electrodiagnostic testing and NC -stat. However, six of ten patients who had MED128  | 8 unremarkable routine electrodiagnostic results had abnormal F- wave and compound muscle 
+action potential (CMAP) amplitude abnormalities with NC -stat testing. The clinical implications 
+of this finding are uncertain.  
+Section Summary 
+Early reports of diagnostic accuracy of the NC -stat automated nerve conduction device 
+suggest that it may have a broader sensitivity and lower specificity when compared with 
+conventional electrodiagnostic testing. Additional studies of diagnostic accuracy are needed,  
+along with randomized controlled trials to ensure that new patients identified with this test benefit from treatment decisions based upon test results.  
+GENERAL NEUROPATHY  
+Randomized Controlled Trials  
+No randomized controlled studies were identified in the current published literature.  
+Nonrandomized Studies 
+In 2016, Matsuoka published on the use of the DPNCheck  to evaluate chemotherapy -induced 
+peripheral neurotoxicity (CIPN) in 50 patients in Japan.
+[18] Measurement of the sensory nerve 
+action potential and conduction velocity of the sural nerve were using the automated device 
+was compared with a clinical symptom evaluation using the National Cancer Institute Common Terminology Criteria for Adverse Events. The age- adjusted action potential and the age- and 
+height -adjusted conduction velocity were associated with clinical neurotoxicity grade (p < 0.001 
+and p = 0.027, respectively).  
+A 2010 publication by NeuroMetrix reported test -retest reproducibility with the ADVANCE ™ 
+system in 30 subjects with symptoms suggestive of neuropathies; 29 subjects completed the study.
+[19] Coefficients of variation ranged from 4.2% to 9.8% for tests measured three to seven 
+days apart. Between session intraclass correlation coefficients (ICCs) ranged from 0.98 for F-wave latency to 0.77 for sural sensory conduction velocity.  
+In 2010, a case series report was published on the use of the NC -stat technology for the 
+diagnosis of any neuropathy within a primary care clinic in Utah.
+[20] Diagnostic results of the 
+NC-stat device were compared with pre- test diagnosis (methodology of diagnosis not 
+specified). In 59 of 100 tests, results from the NC -stat agreed with pre- test diagnosis (Kappa 
+statistic not reported). Seven of  100 tests were not reported because of incomplete data or 
+issues relating to the technology. There was no patient selection criteria, limiting conclusions about which type of patients may benefit from this diagnostic test. In addition, it was not specifie d how the pre- test diagnosis was  made, with the reference standard diagnostic test 
+(NCS with EMG) or otherwise.  
+A 2008 report by Armstrong assessed the diagnostic performance of NC -stat against the gold 
+standard NCS in patients who had been referred for electrodiagnostic testing at one of several academic medical centers.
+[21] Of 47 patients who were invited to participate in the study, 14 
+patients declined to participate or were excluded due to missing records, resulting in data 
+analysis on 33 patients. The goal of  the study was to compare the measurements of the two 
+methods of nerve conduction testing as they would be used in standard practice, thus, patients were not excluded on the basis of the particular diagnosis for which they were referred. The diagnosis being tested was carpal tunnel syndrome in 25 patients (76%), with the remaining MED128  | 9 eight  patients having eight  other potential diagnoses, including ulnar neuropathy, upper 
+extremity paresthesias, and C6 radiculopathy. NC -stat results could not be obtained for tw o 
+patients for median motor studies and three patients for median sensory studies (15%). Based 
+on the manufacturer’s suggested cutoff for abnormal nerve conduction, sensitivity was 100% 
+for both the motor and sensory median- ulnar difference; specificity was 62% –69 % for the 
+motor median- ulnar difference and 41% to 47% for the sensory median- ulnar difference. 
+Pearson correlation coefficients ranged from 0.40 for the ulnar nerve to 0.91 for the median dorsal motor nerve. The authors concluded that the recommended cutoff values for NC -stat 
+may need to be adjusted, although the specific study results were limited by the small sample size. In addition, the authors noted that the study did not evaluate how well physicians can assign clinical relevance to the results, and that while the device may be suited for research studies or screening of symptomatic patients, “in many clinical situations referral to a specialist for a more comprehensive evaluation would be prudent.”  
+In 2007 a NeuroMetrix -sponsored trial publis hed by Jabre compared NC -stat and standard 
+EMG results for peroneal and posterior tibial nerve conduction in 60 patients referred to an EMG laboratory.
+[22] The report indicated that all  patients referred to the laboratory were offered 
+the opportunity to participate, but did not provide the total number of referrals. F- wave latency 
+(FLAT) was found to have the highest correlation (0.91, 0.90 Spearman correlation coefficient for peroneal and posterior tibial nerves, respectively), with moderate correlations for amplitude (0.86, 0.73) and distal motor latency (0.70, 0.45). Although NC -stat results were significantly 
+correlated with standard EMG tests in the study population as a whole, in a subgroup analysis of the most abnormal half of responses, the correlation coefficient for amplitude of the peroneal response was 0.62, and the correlation coefficient for distal motor latency was reduced to 0.32 for the posterior tibial nerve and 0.10 for the peroneal nerve. Thus, in this pathological subgroup analysis, criterion validity was lost for the peroneal distal motor latency and decreased from “excellent” to “acceptable” for the other parameters. The authors noted that 
+“this study did not address interpretations performed by physicians using NC -stat data, nor the 
+validity of the reference ranges used or the way these were collected.”  
+In 2006 Kong published results from a study evaluating technological performance compared 
+results  for sensory nerve testing from NC -stat and the reference standard in median and ulnar 
+nerves in 60 patients referred to an EMG laboratory for neck and shoulder pain who also volunteered to undergo testing with NC -stat.
+[23] The reported correlations (Pearson correlation) 
+between the NC -stat and the reference standard were high (0.91 for median nerve distal 
+sensory latency [DSL], 0.70 for ulnar DSL, and 0.88 for the median ulnar difference of the distal sensory latency). However, this final correlation was calculated only with the responses obtained for 81 of 120 possible nerve pairs. The authors of this study report systematic differences between the two techniques and indicated that use of the NC -stat would require 
+applicable reference ranges.  
+Section Summary 
+In the majority of studies on the use of automated point -of-care nerve conduction device s for 
+the diagnosis of unspecified neuropathies, patient selection criteria were not defined, meaning 
+conclusions from these studies may not apply to a broad population of patients with suspected neuropathy. Results  from the single study of diagnostic performance should be interpreted with 
+caution as subject attrition may have inflated estimates of accuracy ( if more  complicated cases 
+were dropped from the analysis). Additional studies on patients suspected with specific types MED128  | 10 of neuropathy are needed to establish  technical feasibility, diagnostic accuracy, and clinical 
+utility . 
+SCREENING IN ASYMPTOMATIC P ATIENTS 
+Randomized Controlled Trials  
+No randomized controlled studies were identified in the current published literature.  
+Nonrandomized Studies 
+In 2009, NeuroMetrix published a study of reference ranges for key nerve conduction 
+parameters in healthy subjects.[24] Data analyzed in the paper were pooled from five  studies, 
+including from 92 to 848 healthy subjects with data on the median, ulnar, peroneal, tibial, and sural nerves. Subject age and height were found to affect the parameters. In addition to providing reference ranges for clinicians to use (providing that NCS techniques are consistent with those described in the paper), the authors stated that clinicians could use the same method to develop their own reference ranges. At this time, the proposed reference ranges have not been validated in a clinical patient population.  
+In 2006, NeuroMetrix reported intra- operator reliability in 15 healthy subjects who underwent 
+measurements seven days apart, evaluating technical feasibility of the test .
+[25] The report 
+state d that “each upper and lower extremity nerve was tested twice by the same technician,” 
+and that nine subjects participated in both upper and lower extremity studies.  Conclusions 
+cannot be reached from the reported results from this study due to significant methodological limitations including the following listed by the authors: the small sample size; the short test -
+retest interval of one week; the amplitude parameters were not compensated for temperature variation which could negatively impact the repeatability of those parameters especially for sensory responses. Comparable results as those obtained at EMG laboratories were reported. The authors recommended further studies with a larger number of subjects and longer test -
+retest intervals to confirm the high reproducibility of NCS parameters measured in this study.  
+Section Summary 
+Conclusions about the technical feasibility, diagnostic performance, and clinical outcomes of 
+automated nerve conduction tests as used on healthy subjects may not be valid and reliable for subjects with neuropathy.  
+PRACTI CE GUIDELINE SUMMARY 
+AMERICAN ACADEMY OF ORTHOPEDIC SURGEONS[26] 
+A 2016 AAOS guideline on the management of carpal tunnel syndrome states that “ Limited 
+evidence supports that a hand- held NCS ( nerve conduction study ) device might be used for 
+the diagnosis of CTS. ” 
+AMERICAN ASSOCIATION OF NEUROMUSCULAR & ELECTRODIAGNOSTIC MEDICINE
+[27, 28] 
+The AANEM position statement , updated and validated in 2014, on the performance and 
+interpretation of electrodiagnostic studies does not specifically address automated nerve conduction studies . Howe ver, the statement notes that “performance of NCSs without needle MED128  | 11 EMG has the potential of compromising patient care.”  Further, the AANEM position statement 
+provides the general conclusions that “Needle EMG studies are a necessary part of the 
+evaluation in the diagnosis of myopathy, radiculopathy, plexopathy, disorders of the motor neuron, peripheral neuropathies and most disorders of the individual peripheral motor nerves. When the NCS is used on its own without integrating needle EMG findings or when an individual relies solely on a review of NCS data, the results can often be misleading, and important diagnoses will likely be missed. Patients may thus be subjected to incorrect, unnecessary, and potentially harmful treatment interventions.”  
+SUMMARY  
+There is not enough research to show that the use of automated point -of-care nerve 
+conduction tests improve diagnosis and health outcomes for people with neuropathy. No clinical guidelines based on research specifically recommend the use of these devices.  
+Therefore, automated point -of-care nerve conduction tests are considered investigational.  
+REFERENCES  
+ 1. MacDermid JC, Doherty T. Clinical and electrodiagnostic testing of carpal tunnel syndrome: a narrative review. J Orthop Sports Phys Ther.  2004;34(10):565- 88. PMID: 
+15552704  
+2. Boulton AJ, Vinik AI, Arezzo JC, et al. Diabetic neuropathies: a statement by the American Diabetes Association. Diabetes Care.  2005;28(4):956- 62. PMID: 15793206  
+3. Tarulli AW, Raynor EM. Lumbosacral radiculopathy. Neurol Clin.  2007;25(2):387- 405. 
+PMID: 17445735  
+4. Chatzikosma G, Pafili K, Demetriou M, et al. Evaluation of sural nerve automated nerve conduction study in the diagnosis of peripheral neuropathy in patients with type 2 diabetes mellitus. Archives of medical science : AMS.  2016;12(2):390- 3. PMID: 
+27186185  
+5. Sharma S, Vas PR, Rayman G. Assessment of diabetic neuropathy using a point -of-
+care nerve conduction device shows significant associations with the LDIFLARE method and clinical neuropathy scoring. J Diabetes Sci Technol.  2015;9:123 -31. PMID: 
+25231114  
+6. Pambianco G, Costacou T, Strotmeyer E, et al. The assessment of clinical distal symmetric polyneuropathy in type 1 diabetes: a comparison of methodologies from the Pittsburgh Epidemiology of Diabetes Complications Cohort. Diabetes Res Clin Pract.  
+2011;92(2):280- 7. PMID: 21411172 
+7. Perkins BA, Grewal J, Ng  E, et al. Validation of a novel point -of-care nerve conduction 
+device for the detection of diabetic sensorimotor polyneuropathy. Diabetes Care.  
+2006;29(9):2023- 7. PMID: 16936147  
+8. Vinik AI, Emley MS, Megerian JT, et al. Median and ulnar nerve conduction measurements in patients with symptoms of diabetic peripheral neuropathy using the NC-stat system. Diabetes Technol Ther.  2004;6(6):816- 24. PMID: 15684634  
+9. Bourke HE, Read J, Kampa R, et al. Clinic -based nerve conduction studies reduce time 
+to surgery and are cost effective: a comparison with formal electrophysiological testing. Annals of the Royal College of Surgeons of England.  2011;93(3):236- 40. PMID: 
+21477439  MED128  | 12 10. Megerian JT, Kong X, Gozani SN. Utility of nerve conduction studies for carpal tunnel 
+syndrome by family medicine, primary care, and internal medicine physicians. J Am 
+Board Fam Med.  2007;20(1):60- 4. PMID: 17204736  
+11. Katz RT. NC- stat as a screening tool for carpal tunnel syndrome in industrial workers. J 
+Occup Environ Med.  2006;48(4):414- 8. PMID: 16607197  
+12. Rotman MB, Enkvetchakul BV, Megerian JT, et al. Time course and predictors of median nerve conduction after carpal tunnel release. J Hand Surg Am.  2004;29(3):367-
+72. PMID: 15140473  
+13. Elkowitz SJ, Dubin NH, Richards BE, et al. Clinical utility of portable versus traditional electrodiagnostic testing for diagnosing, evaluating, and treating carpal tunnel syndrome. Am J Orthop (Belle Mead NJ).  2005;34(8):362- 4. PMID: 16187725  
+14. Leffler CT, Gozani SN, Cros D. Median neuropathy at the wrist: diagnostic utility of clinical findings and an automated electrodiagnostic device. J Occup Environ Med.  
+2000;42(4):398- 409. PMID: 10774509  
+15. Schmidt K, Chinea NM, Sorenson EJ, et al. Accuracy of diagnoses delivered by an automated hand- held nerve conduction device in comparison to standard 
+electrophysiological testing in patients with unilateral leg symptoms. Muscle Nerve.  
+2011;43(1):9- 13. PMID: 21108323  
+16. England JD, Franklin GM. Automated hand- held nerve conduction devices: raw data, 
+raw interpretations. Muscle Nerve.  2011;43(1):6- 8. PMID: 21171092 
+17. Fisher MA, Bajwa R, Somashekar KN. Routine electrodiagnosis and a multiparameter technique in lumbosacral radiculopathies. Acta Neurol Scand.  2008;118(2):99- 105. 
+PMID: 18355396  
+18. Matsuoka A, Mitsuma A, Maeda O, et al. Quantitative assessment of chemotherapy -
+induced peripheral neurotoxicity using a point -of-care nerve conduction device. Cancer 
+science.  2016;107(10):1453- 57. PMID: 27412083  
+19. Kong X, Schoenfeld DA, Lesser EA, et al. Implementation and evaluation of a statistical framework for nerve conduction study reference range calculation. Comput Methods Programs Biomed.  2010;97(1):1- 10. PMID: 19497634  
+20. Shepherd MM. Clinical outcomes of electrodiagnostic testing conducted in primary care. J Am Board Fam Med.  2010;23(5):584- 90. PMID: 20823352  
+21. Armstrong TN, Dale AM, Al -Lozi MT, et al. Median and ulnar nerve conduction studies 
+at the wrist: criterion validity of the NC -stat automated device. J Occup Environ Med.  
+2008;50(7):758- 64. PMID: 18617831  
+22. Jabre JF, Salzsieder BT, Gnemi KE. Criterion validity of the NC- stat automated nerve 
+conduction measurement instrument. Physiol Meas.  2007;28(1):95- 104. PMID: 
+17151423  
+23. Kong X, Gozani SN, Hayes MT, et al. NC -stat sensory nerve conduction studies in the 
+median and ulnar nerves of symptomatic patients . Clin Neurophysiol.  2006;117(2):405-
+13. PMID: 16403673  
+24. Kong X, Lesser EA, Gozani SN. Repeatability of nerve conduction measurements derived entirely by computer methods. Biomed Eng Online.  2009;8:33. PMID: 19895683  
+25. Kong X, Lesser EA, Megerian JT, et al. Repeatability of nerve conduction measurements using automation. J Clin Monit Comput.  2006;20(6):405- 10. PMID: 
+16972142  
+26. National Guideline C. American Academy of Orthopaedic Surgeons clinical practice guideline on management of carpal tunnel syndrome.  [cited 12/28/2022]. 'Available from:' https://www.aaos.org/globalassets/quality -and-practice- resources/carpal -
+tunnel/cts_cpg_4- 25-19.pdf . MED128  | 13 27. Proper performance and interpretation of electrodiagnostic studies. Muscle Nerve.  
+2006;33(3):436- 9. PMID: 16395691 
+28. American Association of Neuromuscular & Electrodiagnostic Medicine (AANEM) 
+Position Statement: Proper Performance and Interpretaion of Electrodiagnostic Studies. 2014. PMID:  
+ 
+CODES  
+ 
+Codes  Number  Description  
+CPT 95905  Motor and/or sensory nerve conduction, using preconfigured electrode array(s), 
+amplitude and latency/velocity study, each limb, includes F-wave study when 
+performed, with interpretation and report  
+ 95999  Unlisted neurological or neuromuscular diagnostic procedure  
+HCPCS  G0255  Current perception threshold/sensory nerve conduction test (SNCT), per limb, 
+any nerve  
+ 
+Date of Origin: April 2007  

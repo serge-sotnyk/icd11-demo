@@ -1,0 +1,143 @@
+ 
+ Medical Necessity Guidelines:  
+Alpha 1-Proteinase Inhibitors 
+ 
+ Alpha 1-Proteinase Inhibitors  
+1    
+Effective: January 1,  2023  
+Prior Authorization Required  
+If REQUIRED , submit supporting clinical documentation pertinent to service request.  Yes ☒ No ☐ 
+ 
+Applies  to: 
+Commercial  Products  
+☒ Harvard Pilgrim Health Care Commercial products ; Fax 617-673-0988  
+☒ Tufts Health Plan Commercial products ; Fax 617-673-0988  
+  CareLinkSM – Refer to CareLink P rocedures, Services and Items Requiring Prior Authorization  
+ 
+Public Plans Products  
+☒ Tufts Health Direct – A Massachusetts Qualified Health Plan (QHP) (a commercial product) ; Fax 617-673-0988  
+☐ Tufts Health Together – MassHealth MCO Plan and Accountable Care Partnership Plans ; Fax 617-673-0988  
+☒ Tufts Health RITogether – A Rhode Island Medicaid Plan; Fax 617-673-0988  
+☐ Tufts Health Unify * – OneCare Plan (a dual -eligible product) ; Fax 617-673-0956  
+*The MNG applies to Tufts Health Unify members unless a less restrictive LCD or NCD exists.  
+ 
+Senior Products  
+☐ Harvard Pilgrim Health Care Stride Medicare Advantage;  Fax 617-673-0956  
+☐ Tufts Health Plan Senior Care Options (SCO), (a dual-eligible product) ; Fax 617-673-0956  
+☐ Tufts Medicare Preferred HMO, (a Medicare Advantage product) ; Fax 617-673-0956  
+☐ Tufts Medicare Preferred PPO , (a Medicare Advantage product) ; Fax 617-673-0956  
+ 
+Note:  While you may not be the provider responsible for obtaining prior authorization, as a condition of payment you will 
+need to ensure  that prior authorization has been obtained.  
+ 
+Overview  
+Deficiency of alpha1- proteinase inhibitor (A1- PI), also known as alpha1 -antitrypsin deficiency, is characterized by reduced 
+levels of A1- PI in the blood and lungs. A1- PI deficiency is an autosomal, co- dominant, hereditary disorder. Patients with 
+severe A1- PI deficiency have increased levels of neutrophil and neutrophil elastase levels in lung epithelial lining fluid which 
+results in unopposed destruction of the connective tissue framework of the lung parenchyma. A1- PI (human) therapy 
+augments the level of the deficient protein and theoretically corrects the imbalance bet ween neutrophil elastase and 
+protease inhibitors, which may protect the lower respiratory tract.   
+  
+Food and Drug Administration (FDA) Approved Indications:  
+• ARALAST NP® (alpha1 -proteinase inhibitor [human])   
+ARALAST NP is an Alpha1 -Proteinase Inhibitor (Hu man) (Alpha1 -PI) indicated for chronic augmentation therapy in 
+adults with clinically evident emphysema due to severe congenital deficiency of Alpha1 -PI (alpha1 -antitrypsin 
+deficiency). ARALAST NP increases antigenic and functional (anti -neutrophil elastas e capacity, ANEC) serum levels 
+and antigenic lung epithelial lining fluid levels of Alpha1- PI.   
+ARALAST NP is not indicated as therapy for lung disease in patients in whom severe Alpha1- PI deficiency has not 
+been established.   
+• GLASSI A® (alpha1 -proteinase inhibitor [human])   
+GLASSIA is an Alpha1 -Proteinase Inhibitor (Human) (Alpha1 -PI) indicated for chronic augmentation and maintenance 
+therapy in adults with clinically evident emphysema due to severe hereditary deficiency of Alpha1- PI (a lpha1-
+antitrypsin deficiency). GLASSIA increases antigenic and functional (anti -neutrophil elastase capacity, ANEC) serum 
+levels and antigenic lung epithelial lining fluid levels of Alpha1- PI.    
+  
+ Alpha 1-Proteinase Inhibitors  
+  
+2     GLASSIA is not indicated as therapy for lung disease in patients in whom severe Alpha1- PI deficiency has not been  
+established.   
+• PROLASTIN -C® (alpha1 -proteinase inhibitor [human])   
+PROLASTIN -C is an Alpha1- Proteinase Inhibitor (Human) (Alpha1 -PI) indicated for chronic augmentation and 
+maintenance therapy in adults with clinically evident emphysema due to severe hereditary deficiency of Alpha1- PI 
+(alpha1 -antitrypsin deficiency). PROLASTIN -C increases antigenic and functional (anti -neutrophil elastase capacity, 
+ANEC) serum levels and antigenic lung epithelial l ining fluid levels of Alpha1 -PI. 
+PROLASTIN -C is not indicated as therapy for lung disease in patients in whom severe Alpha1- PI deficiency has not 
+been established.   
+• ZEMAIRA® (alpha1 -proteinase inhibitor [human])   
+ZEMAIRA is an alpha1- proteinase inhibitor ( A1-PI) indicated for chronic augmentation and maintenance therapy in 
+adults with A1- PI deficiency and clinical evidence of emphysema.   
+ZEMAIRA is not indicated as therapy for lung disease patients in whom severe A1- PI deficiency has not been 
+established.   
+ 
+Clinical Guideline Coverage Criteria  
+ 
+The Plan may cover  alpha1 -proteinase inhibitor augmentation therapy for Members when All of the following clinical criteria 
+are met:   
+1. The Member is 18 years of age or older   
+AND   
+2. The Member has a documented diagnosis of congenital alpha1- antitrypsin deficiency confirmed by one of the 
+following:   
+a. Pi*ZZ, Pi*Z(null) or Pi*(null)(null) protein phenotypes (homozygous)   
+OR  
+b. Other rare AAT deficiency disease -causing alleles associated with serum alpha1- antitrypsin ( AAT) level 
+<11 µmol/L [35% of normal]   
+AND   
+3. Pretreatment circulating serum concentration of alpha1- antitrypsin (AAT) level <11 µmol/L (which corresponds to 
+<80 mg/dl if measured by radial immunodiffusion or <57 mg/dl if measured by nephelometry)   
+AND   
+4. The Member has obstructive lung disease as defined by    
+a. A forced expiratory volume in one second (FEV1) of 30– 65% of predicted value prior to initiation of therapy   
+OR  
+b. The Members FEV1 has declined by > 100mL per year   
+ 
+Limitations  
+• Samples, free goods, or similar offerings of the requested medication do not qualify for an established clinical 
+response and will not be considered for prior authorization  
+• The plan does not cover augmentation therapy for other conditions whic h are not listed above in FDA -Approved 
+Indications    
+ 
+Codes  
+The following code(s) require prior authorization:  
+ 
+Table 1: HCPCS Codes  
+HCPCS Codes  Description  
+J0256  Injection, alpha 1 -proteinase inhibitor, human, 10 mg, not otherwise specified     
+J0257  Injection, alpha 1 proteinase inhibitor (human), (Glassia), 10 mg   
+ 
+References:  
+1. Aralast NP [package insert]. Westlake Village, CA: Baxalta US Inc.; December 2018.   
+2. Glassia [package insert]. Westlake Village, CA: Baxalta US Inc.; June 2017.     
+  
+ Alpha 1-Proteinase Inhibitors  
+  
+3     3. Prolastin -C [package insert]. Research Triangle Park, NC: Grifols Therapeutics Inc.; May 2020.   
+4. Zemaira [package insert]. Kankakee, IL: CSL Behring LLC; April 2019.   
+5. American Thoracic Society/European Respiratory Society statement: standards for the diagno sis and 
+management of individuals with alpha- 1 antitrypsin deficiency. Am J Respir Crit Care Med. 2003;168:818- 900.  
+6. Sandhaus RA, Turino G, Brantly ML, et al. The diagnosis and management of alpha -1 antitrypsin deficiency in the 
+adult. Chronic Obstr Pulm D is. 2016;3(3):668 -82.  
+7. Stoller JK. Treatment of alpha- 1 antitrypsin deficiency. UpToDate. November 4, 2021. Accessed online April 4, 
+2022.   
+ 
+Approval And Revision History 
+September 13, 2022: Reviewed by Pharmacy and Therapeutics Committee (P&T) . 
+September 21, 2022, year: Reviewed by the Medical Policy Approval Committee (MPAC) . 
+ 
+Background, Product and Disclaimer Information 
+Medical Necessity Guidelines are developed to determine coverage for benefits and are published to provide a better 
+understanding of the basis upon which coverage decisions are made. We make coverage decisions using these guidelines, 
+along with the Member’ s benefit document, and in coordination with the Member’s physician(s) on a case- by-case basis 
+considering the individual Member's health care needs.  
+Medical Necessity Guidelines are developed for selected therapeutic or diagnostic services found to be safe and proven 
+effective in a limited, defined population of patients or clinical circumstances. They include concise clinical coverage crit eria 
+based on current literature review, consultation with practicing physicians in our service area who are medical experts in 
+the particular field, FDA and other government agency policies, and standards adopted by national accreditation organizations. We revise and update Medical Necessity Guidelines annually, or more frequently if new evidence becomes 
+available that suggests needed revisions.  
+For self -insured plans, coverage may vary depending on the terms of the benefit document. If a discrepancy exists between 
+a Medical Necessity Guideline and a self -insured Member’s benefit document, the provisions of the benefit document will 
+govern. For Tufts Health Together (Medicaid), coverage may be available beyond these guidelines for pediatric members 
+under age 21 under the Early and Periodic Screening, Diagnostic and Treatment (EPSDT) benefits of the plan in accordance 
+with 130 CMR 450.140 and 130 CMR 447.000, and with prior authorization.  
+Treating providers are solely responsible for the medical advice and treatment of Members. The use of this guideline is not 
+a guarantee of payment or a final prediction of how specific cl aim(s) will be adjudicated. Claims payment is subject to 
+eligibility and benefits on the date of service, coordination of benefits, referral/authorization, utilization management guidelines when applicable, and adherence to plan policies, plan procedures, and claims editing logic.  

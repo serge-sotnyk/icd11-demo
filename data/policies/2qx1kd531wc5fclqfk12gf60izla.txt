@@ -1,0 +1,816 @@
+01-95000 -01 
+Original Effective Date : 05/15/01  
+Reviewed : 06/23/22  
+Revised : 05/22/23  
+Subject: Allergy Testing and Immunot herapy 
+THIS MEDIC AL COVERAGE GUIDELINE IS NOT AN AUTHORIZATION, CERTIFICATION, EXPLANATION OF BENEFITS, OR A 
+GUARANTEE OF PAYMENT, NOR DOES IT SUBSTITUT E FOR OR CONSTI TUTE MEDICAL ADVICE. A LL MEDICAL DECISIONS ARE 
+SOLELY THE RESPONSIBILITY OF THE PATIENT A ND PHYSICIAN. BEN EFITS ARE DETERMINED BY THE GROUP CONTRACT, 
+MEMBER BENEFIT BOO KLET, AND/OR INDIVIDUAL SUBSCRIBER CERTIFICATE IN EFFECT AT THE TIME SERV ICES WERE 
+RENDE RED. THIS MEDICAL COVE RAGE GUIDELINE APPLIES TO ALL LINES OF BUSINESS UNLESS OTHERWISE NO TED IN THE 
+PROGRA M EXCEPTIONS SECTION.  
+Position 
+Statement  Billing/Coding  Reimbursement  Program 
+Exceptions  Definiti ons Related 
+Guidelines  
+Other  References  Updates     
+DESCRIP TION:  
+Allergy  is a form of exaggerated sensitivity  or hyper sensitivity, to  a substance that is e ither inhaled, 
+swallowed, injected, or comes in contact with the sk in or eye.  A reac tion may be caused from exposure 
+to polle ns, dust, molds, mite s, animal fur or dander, feathers, stinging insect venoms, foods , or drug s. 
+The term all ergy is used to descri be situations where hypersensitivity results from heightened or alt ered 
+reactivity o f the immune system in response to extern al substances.  Treatm ent typically consists of 
+avoidance of the offending agent, medi cation or  immunotherapy . 
+Injections of airborne or insect venom allergens  are prepared for each perso n individually.  
+Aller gy testing can be broadly subdivided into two methodologies:  
+In vivo testing  – includes skin allergy testing (i.e., skin prick testing, skin s cratch testing, i ntradermal 
+testing, skin patch testing, a nd skin endpoint titr ation), bronchial provocation tests, and food challenges  
+In vitro testing  – includes various techniques to test the blood for presence of spec ific IgE antibodi es to a 
+particular antigen (i.e., RAST an d ELISA tests) and leukocyte histamine release test (LHRT), also referred 
+to as basop hil hista mine release te st. 
+Allergy immunother apy is the process of administering progressively increasing doses of an allergen as  
+treatment for a person who has demonstra ted sensitivi ty throu gh allergy testing. The purpose of 
+immunotherapy is to relieve t he allerg ic symptoms by decreasing the reactio n to the specific antigen . 
+This clinical interven tion has been used over the past 80 years . Immunotherapy begin s with injections of 
+the allergen extract (allergen vaccine) in low doses , with gradual increasing doses once or twice weekly 
+as immunity to the antigen develops.  Upon reaching a maintenance dos e, injections are decreased to 
+every two to six weeks, and may  continue for several years.  POSITION STATEMENT:  
+Allergy Testing  
+The foll owing allergy t ests meet the definiti on of medical necessity  when performed by or under the 
+direct super vision of a physi cian for the purpose of establishing a  diagnosis of allergy di sease:  
+ Direct nasal mucous membrane test  
+ Ingestion challenge tes t (Exclud ing ingestion c hallenge food testing; refer to next section below ) 
+ Inhalation bronchial  challenge  testing with histamine, me thacholine or similar co mpounds  
+ Intracutaneous ( intrad ermal ) tests, sequentia l and incremental with  drugs, biologicals or 
+venoms, immediate type reaction  
+ Intracutaneo us (intradermal) tests, sequential and incremental with  drugs, with allergenic 
+extracts for airborne allergens, immediate type reaction  
+ Intracu taneous ( intradermal) te sts with allergenic ex tracts (allergen vaccine), immediate type 
+reaction  (i.e., serial en dpoint titration/ SET)  
+ Intracutaneous (intradermal) test s with allergenic extrac ts (allergen vaccine), delayed type 
+reaction, including reading  
+ Ophthalmi c mucous membra ne test  
+ Patch  (application) tests with any membrane  
+ Percutaneous ( scratch, puncture, prick ) tests with allergenic extracts (allergen vaccine), 
+immediate type reac tion 
+ Percutaneous (scrat ch, puncture, prick) t ests sequential and incremental, with drugs, biologicals 
+or venoms,  immediate type r eaction  
+ Photopatch tests  
+ Provocative tes ting (e.g., Rinkel tes t)  
+ In vitro testing for allergen specific IgE, which includes:  
+o ELISA (enzym e linked immunosorbent assay)  
+o FAST (Fluorescent allergosorbent tes t) 
+o IP (Im muno -peroxidas e test)  
+o MAST (Multiple thread allergosorbent test)  
+o RAST (Radio allergosorbent test)  
+o PRIST (Pape r radioimmunosorb ent test)  
+o CAP assay  
+Aspir in desensitiza tion meets the definit ion of medical necessity  for aspirin sensitive individuals who:  
+ Require a dministration o f aspirin or aspirin -like drugs, OR 
+ Are unable to avoid aspirin or aspirin -like drugs, AND  ONE of the foll owing:  
+o Asthma that is poor ly controlled  
+o Sinus disease with rec urrent nasal polyps  
+o Require aspirin therapy for primary or secon dary prev ention of cardi ovascular events  
+o A chr onic inflammatory condition (e.g., arthritis) requiring aspirin or NSAID therapy  
+o Antiphospholipid antibodies d uring pregnanc y 
+The following types of allergy testing are considered experimental or investigationa l as cont rolled 
+studies have failed to demonst rate the value of these tests for the diagnosis of allergies in cli nical 
+practice.  This is not an all -inclusiv e list.  
+ Administration of aller gy immunotherapy outside of a medical facility (e,g,, home administration)  
+ Antige n leukocyte cellular a ntibody (ALC AT) (automated food allergy testing ) 
+ Applied kinesio logy or N ambudr ipad’s al lergy el imination test  (NAET) (i.e., muscle strength 
+testing or measur ement after allergen ingestion)  
+ Candidiasis test  
+ Chemical anal ysis of body t issue (eg, hair)  
+ Chlor inated pesti cides (serum)  
+ Complement antigen testing  (total or c omponents ) 
+ Cyto kine and cytokine  receptor assa y 
+ Cytotoxic testing for food, environmental or c linical ecological allergy testing  (Bryans Test, ACT)  
+ Electrod ermal testing or electrodermal acupu ncture  
+ Food immune complex assay (FICA)  
+ Ingestion challenge food  testing for di agnosing rheumato id arthritis, depression, or respiratory 
+disorders not associa ted with anaphylaxis or similar systemic reactions  
+ Intracutane ous and subcut aneous provocative and  neutralizat ion testing for food allergies  
+ Immune complex assay  
+ Iridolog y 
+ Leuk ocyte his tamine r elease test (L HRT)/basophil histamine release test  
+ Lymphocyte s (B or  T subsets)  
+ Lymphocyte function assay  
+ Mediator release t est (MRT)  
+ Prau snitz -Kustner or P -K testing (pass ive cutaneous transfer test)  
+ Pulse test (pulse respo nse test,  reagi nic pulse  test)  
+ Rebuck skin win dow test   Sage Complement Antigen Test  
+ Testing fo r multiple chemical sensitivity syndrome (a.k.a., idiopathic e nvironmental i ntolerance 
+(IEI), clin ical ecologi cal illness, clinical ecology, environmental illness , chemica l AIDS , 
+environ mental/c hemical hypers ensitivity disease, total allergy syndrome, cere bral allergy, 20th 
+century disease)  
+ Urine autoinjection (autog enous urine im munization)  
+Routine al lergy re -testing does not meet the definition of medical necessi ty. 
+Envir onment al therap y, also known as idiop athic environmental intolerance therapy  or clini cal ecology 
+treatment, does not meet the definition of medical necessi ty as there is insufficient peer -reviewe d 
+medical literature to support these therapies as b eing any more e ffective than the  standard care  for 
+treatment.  
+This method of therapy may incl ude the following:  
+ Aerobic exercise therapy  
+ Alteration of the individu al’s household environment  
+ Environmental  care units  
+ Neutralizing therapy of chemical and foo d extract s 
+ Nutr itional t herapy  
+Allergen Immuno therapy  
+Allergen imm unotherapy by intradermal or  subcutaneous injection meets the definition of medical 
+necessity  when admi nistered for the treatm ent of indiv iduals  demonstrating hypersensitivity to specific 
+antigens th at can not be ma naged by  medications o r avoidance.  
+Allerge n immunotherapy services may  include one or more of the following:  
+ Individual  evaluation related to the  supply or administrati on of the allergenic extract (al lergen 
+vaccine)  
+ Supplie s (needl es, syringes, diluents)  
+ Monitoring  the physical status of the individual  during administration of the extract (allergen 
+vaccine.)  
+Immunot herapy using s ublingual  drops ( also known as sublingual antigen extract drop immunother apy, 
+sublingual  liquid i mmunothe rapy , aqueous extract products ) is considered experimental or 
+investigational . Data in published medical literature are inadequate to per mit scientific conclusi ons on 
+long -term and net health outcomes.   
+NOTE:  For coverage in formation  on su blingual immunoth erapy (SLIT) u sing a specific drug (e.g., Oralair®, 
+Grastek®, Ragwitek®, Odactra®), please refer to the member contract pharmacy benefit s. BILLING/CODING INFORM ATION:  
+CPT C oding  for allergy testing : 
+0165U  Peanut allergen -specific qua ntitat ive asses sment of  multiple epit opes using enzyme -linked 
+immunosorbent assay (EL ISA), blood, individual epitope results and probability of peanut 
+allergy  
+0178U  Peanut allergen s pecific quan titative assessment of multiple epitopes using enzym e linked 
+immuno sorbent a ssay (EL ISA), blood, r eport of minimum elic iting exposure for a clinic al 
+reaction  
+86001  Allergen specific IgG quantitative or semiquantitative, e ach allergen  (investig ational)  
+86003 Allergen specific IgE; quantitative or semiquant itative, crude allergen extract,  each  
+86005  Allergen specific IgE ; quantitative, multi -aller gen screen ( e,g., disk, sponge, card )  
+86008  Allergen specific IgE; quantit ative or semiquantitat ive, recombi nant or purified component, 
+each  
+95004  Percutaneous  tests (s cratch , punctur e, prick ) with allerge nic extracts, immedia te type 
+reaction, including  test interpretation and report, specify number of tests  
+95017  Allergy test ing, any combination o f percutaneo us (scratch, puncture, prick) and 
+intracutaneous (in tradermal ), seq uential a nd incre mental, with v enoms, immediate type  
+reaction, including test i nterpretation and report, specify number of tests  
+95018  Allergy testing, an y combination of percu taneous (scr atch, puncture, prick) and 
+intracutaneous (intraderm al), sequ ential  and incr emental,  with drugs or  biologicals, 
+immedia te type reaction, including  test interpretation and report, specify number of tests  
+95024  Intracutaneo us (intradermal) tests  with allerg enic extracts, immediate type reaction, 
+including te st interp retati on and re port by a physician, s pecify number of test s 
+95027
+* Intracutaneous (i ntradermal) tests, sequential and incremental, with allergenic extracts for 
+airborne allergens, im mediate type  reaction, including test interpretation and report,  
+specify number  of tests  
+95028  Intracutaneous  (intradermal) tests with allergenic extracts, d elayed type reaction, including 
+reading, specify number of tests  
+95044  Patc h or application test( s) (specify number of tests)  
+95052  Photo patch test(s) (specif y number of tes ts) 
+9505 6 Photo tests  
+95060  Ophthalmic mucous memb rane tests  
+95065  Direct na sal mucous membrane test  
+95070  Inhalation bronchial challenge testing (not including necessary pu lmonary func tion tests), 
+with histamine, methacholine, or simila r compoun ds 
+95076
+* Inge stion ch allenge test ( sequential and increm ental ingestion of test ite ms, e.g., food, drug 
+or other substance); initial 120 minutes of testing  
+95079
+* Ingestion challen ge test (seq uential and incremental ingestion of test items, e.g ., food, drug 
+or other s ubstance ); each additi onal 60 minutes of te sting (List separately in a ddition to 
+code for primary procedure)  CPT Coding for Allergy Immunotherap y: 
+95115  Professional services for  allergen immunotherapy not including provision of a llergenic  
+extra cts; sing le inject ion 
+95117  Professional services f or allergen immunotherapy no t including provision of allergenic 
+extracts; 2 or more injections  
+95120  Professional services f or allergen immunotherapy in the office or institution of the 
+prescribing  physi cian or o ther qual ified health care professional, in cluding provision of 
+allerge nic extract; single injection  
+95125  Professional services for allergen imm unotherapy in the offi ce or instit ution of the 
+prescribing physician or other qualifie d health care p rofession al, inclu ding provisio n of 
+allergenic extra ct; 2 or more injections  
+95130 Professional services for allergen immunotherapy in the office or insti tution of the 
+prescrib ing physicia n or other qualified health care professional, inclu ding prov ision of 
+allerg enic extr act; single s tinging insect venom  
+95131  Professional services  for allergen immunotherapy in the office or institution of the 
+prescribing  physician or other qu alified heal th care professional, including provision of 
+allerge nic extra ct; 2 stinging insect ve noms  
+95132  Professional services for allergen immunotherapy i n the office or institution of the 
+prescribing physician or other qualified  health care professio nal, includi ng provision of 
+allergenic extract; 3 stinging insec t venoms  
+95133  Professi onal serv ices for alle rgen immunotherapy in  the office or institution o f the 
+prescribing physician or other qualified health care professional, in cluding provision of 
+allergenic ex tract; 4 stinging insect venoms  
+95134  Professional services for al lergen im munothera py in the off ice or institution of  the 
+prescribing physician o r other qualified health care professional, including provision of 
+allergen ic extract; 5 stinging  insect veno ms 
+95144  Professional services for the supervision of prepar ation and provi sion of a ntigens for 
+allergen immunotherapy , single or multiple antigen s, single dose vials (specify number of 
+vials)  
+95145  Professional services  for the supervision o f preparatio n and provision of antigens for 
+allergen immunothera py (speci fy num ber of do ses); sin gle stinging insect venom  
+95146  Professional services for the  supervision of preparation and provision of antigens for 
+allergen immunoth erapy (specify number of doses); 2  single stinging insect venoms  
+95147  Professional s ervices f or the  supervis ion of pr eparation and  provision of antigen s for 
+allergen immunotherapy  (specify number of doses); 3 single stinging insect venoms  
+95148  Professi onal services for the supervision of preparation and provision of antigens for 
+allerge n immunot herapy  (specify  number o f doses); 4 s ingle stinging insect  venoms  
+95149  Professional services for the supervision of preparation and provision of antigens for 
+allergen immunotherapy (specify num ber of doses); 5 single stinging insect venoms  
+9516 5 Profess ional services for the s upervision of  preparation and prov ision of antigens for 
+allerg en immunotherapy ; single or multiple antigens (specify number of doses)  95170 Professional servi ces for the supervision of preparation and provision of antigens  for 
+allergen i mmu nother apy (spec ify number of  doses); whole body e xtract of biting insect or 
+other arthropod (specify number of doses)  
+95180  Rapid desensitization proce dure, each hour (e.g.,  insulin, pe nicillin, equine serum)  
+REIMBURSEMENT INFORMATION:  
+Reimburse ment f or allerg y testing  services inc ludes the following c omponents:  
+ Supplies (e.g., s terile diluents, syringes, needles)  
+ Monitoring the physical statu s of the individual  during testi ng 
+ Observati on, recording, and interpretation of the test result s 
+Reimbur sement  for alle rgy testi ng is based o n the number of each type of test performed by th e same 
+physician and is subject to the following limitations when the above  coverage criteria are  met:  
+Limita tions:  
+CPT Code:  Type of Test:  Limited To:  
+86005  Allergen sp ecific  IgE; qua litative,  multiallerge n 1 per year  
+95004  Percutaneous tests (scratch, puncture, prick) with 
+immediate type reaction  400 in 12 months  
+95017  Aller gy testing with venoms ; any combin ation of 
+percutaneous (scratch, puncture, prick) and  
+intracut aneous  (intrade rmal) tes ting 120 in 1 2 months  
+95018  Aller gy testing with drugs and bi ologicals; any 
+combination of percutaneous (scratch, puncture, prick) 
+and i ntracutaneous (intrade rmal) testin g 120 in 12 months  
+95024  Intracutaneous (intraderma l) tests with a llergenic  
+extracts , immediate t ype reaction  120 in 1 2 months  
+95027  Intracutaneo us (intradermal) tests, sequential and 
+incremental, with allergenic extract s for airborne 
+allerge ns, immediat e type reaction  120 in 12 months  
+95028  Intracutaneo us (intra dermal ) tests w ith aller genic 
+extract s, delayed type react ion 120 in 12 months  
+95044  Patch or application test(s)  200 in 12 months  
+95052  Photo patch test(s)  200 in 12 months  
+95056  Photo tests  200 in 12 months  
+95060  Ophthalmic mucous membrane t ests 48 in 12 m onths 
+95065 Direc t nasal mucou s membrane test  48 in  12 months  
+95070, 95071  Inhalation bronchial challenge testing  48 in 12 months  
+95076 (95079 is an 
+add-on code that is 
+not r eported 
+alon e) Ingestion challenge test  4 per year  total  
+1 per y ear for a ny 
+given food The AAAAI  practice gu idelines make the fol lowing recommendations regard ing immunotherapy 
+frequency and duration:  
+ The build -up phase (also called updosing phase, induct ion phase or  dose -increase phase) 
+involves receiving injections with incr easing  amounts of allerge n, and gener ally ranges from 1 to  
+3 times per week. The durati on of this phase depends on the frequency of the injections but 
+generally ranges from 3 to 6 mon ths (at a fr equency of 2 times and 1 time per week, 
+respectively ). 
+ Cluste r immu notherapy  is an acc elerated bui ld-up schedule that e ntails administering several 
+injections at increasing doses  (generally 2 -3 per visit) sequentially in a  single day of treatme nt on 
+noncon secutive days.  
+ Rush immunotherapy is an accelerated immunothe rapy b uild-up schedule th at entails 
+administering incremen tal does of allergens at inte rvals varying between 15 and 60 minutes 
+over 1 to 3 days.  
+ The maintenance dose or effective ther apeutic dose  is the dose that provides therapeutic 
+efficacy with out signi ficant  adverse local or systemic reac tions; it may not be the initially 
+calculated proj ected effective dose . 
+ The maintenance phase begins when the effective ther aprutic dose is achiev ed; interval s 
+between injections can be progressively increased as tolera ted to  4 – 8 weeks for ve nom, and 2 
+to 4 weeks for inhalan ts. 
+ Venom immunotherapy (VIT)  injections generally are given at weekly intervals.  
+ VIT intervals between  maintenance dose inje ctions can i ncrease to 4 weeks the first year of VIT 
+and eventua lly to ev ery 6  – 8 weeks  during su bsequent yea rs. 
+ Clinical improvem ent is usually observed withi n one (1) year after the individual  reaches 
+maintenance or effective thera peutic dose.  
+ The decis ion to conti nue or stop  therapy should be made after 3 – 5 years . 
+o Consider disc ontinuing  VIT after  3 – 5 years . 
+o The duration of fir e ant immunotherapy has not b een clearly established, but most 
+allergists recommend contin uing therapy 4 – 5 years.  
+Reimburse ment for allergy immunotherapy  is based on the number of procedu res perfo rmed a nd is 
+subject to th e limitation s below:  
+Limitations:  
+CPT Code  Procedure  Limited t o 
+95115, 95117**  Administration of extract (allergen 
+vaccine)  152 tota l injections within 12  
+months  
+95120, 95125  Allergenic extract (allergen vaccine) 
+including adm inistr ation 100 total doses within 12  months  
+95144  Allerg enic extract, single dose vials 
+(specify number of vials)  156 doses within 12 months 
+(specify number of  vials)  95165  Allerge nic extract,  single or multiple 
+antigens (specific number of dos es) 156 t otal d oses with in 12 months  
+95130 – 95134  Stinging insect  venom, including 
+administration  52 total doses within 12 months  
+95145 – 95149, 
+95170  Stinging insect venom  52 total doses w ithin 12 mon ths 
+OR 
+40 total doses within 3 months  for 
+rapid dese nsitizati on 
+95180 Rapid  desensitizat ion 4 hou rs for a specific sub stance  
+(excluding aspirin)  
+No s pecific code  Aspirin desensitization  12 hours per year  
+Allergy testin g or immunotherapy ser vices in exc ess of the above limitations are subject to medical 
+review of  docum entation supporting med ical nec essity.  The following  information may be required 
+docu mentation to support medical necessity:  physician history and physical , care provider notes,  and all 
+laboratory studies . 
+LOINC Codes:  
+DOCUMENTATION TABLE  LOINC 
+CODES  LOINC  TIME 
+FRAME 
+MODIFIER 
+CODE LOINC  TIME FRAME MODIFIER 
+CODES NARRATIVE  
+Physician histor y and physical  28626 -0 18805 -2 Include all data of the selected type 
+that represents observa tions made 
+six months or fewer before starting 
+date of service f or the cl aim. 
+Attending  physician vis it note  18733 -6 18805 -2 Inclu de all data of the selected type 
+that represents observations made 
+six months or fewer before starting 
+date of service for th e claim.  
+Physician initial a ssessment  18736 -9 18805 -2 Include a ll data o f the selected type 
+that repr esents o bservations made 
+six months or fewer before starting 
+date of service for the claim.  
+Attending physician progress 
+note  18741 -9 18805 -2 Include all  data of the  selected type 
+that represents observations made 
+six months o r fewe r before starting 
+date of servi ce for the claim . 
+Allergy tests  18716 -1 18805 -2 Inclu de all data of the selected type 
+that represents observations made 
+six months or fewer befor e starting 
+date of service for the claim . 
+Laboratory s tudies  (i.e., ELIS A, 
+RAST, PRIST,  Mast)  26436 -6 18805 -2 Include all data of the selected type 
+that represents  observations made six months or fewer before starting 
+date of service  for the claim . 
+PROGR AM EXCEPTION S: 
+Federal Employee Program (FEP):  Follow FEP guidel ines.  
+State Acc ount Orga nization (SAO) : Follow  SAO guidelines.  
+Medi care Advantage:  
+The following Nat ional Coverage Determinations (NCDs) were reviewed on the last guideli ne reviewed 
+date  and are located a t cms.gov :  
+Antigens Prepared for Sublingual Adminis tration ( 110.9)  
+Food All ergy T esting a nd Treat ment (110.11)  
+Challenge Ingestion Food (110.12)  
+Cytoto xic Food Tests (110.13)  
+The following Local Coverage Determinations (L CDs) were reviewed on the last gui deline reviewed date  
+and are located at cms.gov :  
+Allergy Tes ting (L33261) 
+Allergen Immuno therapy (L37800 ) 
+If this Medical Coverage Guideline contains a  step therapy requirement, in compliance with Florida law 
+627.42393, members or providers may request a step therapy protocol exemption to this requirement if 
+based on medical necessity. The process for requesting a protocol exemption can be found at Coverage 
+Protocol Exemption Reque st 
+DEFINITIONS:  
+ALCAT:  antigen leukocyte cellular antibody) automated food allergy testing; is reported to identify fo od 
+sensitivity by usi ng a modified  Coulter Counter linked to a computer program to mea sure the change  in 
+white  blood cells i ncubated  with purified food a nd mold extract.  
+Allergen:  any substance that indicates a state of, or brings on, manifestations of all ergy; an antigenic 
+substance capab le of producing immediate -type hypersensitivity.  
+Allergenic e xtract  (allerge n vaccine):  an extract  (allergen vaccine) o f allergenic components from a 
+crude preparation of an allergen (e.g., weed, grass, mite, animal dander ) used for diagnostic  skin testing  
+or for immunotherapy (hyposensitization) of allergy . 
+Allergy : an o ver-react ion of the bod y’s immu ne system, against pa rticular substances and particles 
+(allergens, antigens) such as pollen, animal dander, dust, insect par ticles.  
+Antigen:  the specific part icle that one is allergic to, such as the specific p art of pollen. Antihista mine:  drug tha t blocks  the allergic reactio n. 
+Asthma:  a reversible obstructive lung disorder characterized by increased responsiveness of the 
+airw ays; inflammation and  irritation o f the airways that may cause wheezing, sneezing, cou ghing, or  
+short ness of b reath.  
+Bronchi al chall enge:  see provocation  test; involves the inhalation of agents that trigger respiratory 
+responses (i.e., drugs causing airway  constriction, antige ns and chemic al sensitizers usually related to 
+occupational breat hing prob lems).  
+Conjunct ival challenge : see pr ovocation test; small  amount of antigen is applied to the lower 
+conjunctival sac.  
+Custer immunotherapy:  an accelerated build -up schedule that ent ails administ ering several injections at 
+increasing doses (genera lly 2 – 3 per v isit) seq uentially in a  single day of treatment on n onconsecutive 
+days.  The maintenance dose is generally achieved more rapidly than with a conventional (s ingle 
+injection per v isit) build -up scheduled (generally within 4 – 8 weeks).  
+Cytotoxi c testing : for determini ng sensitivity  to food s believed to cause a sthma, arthritis, constipation, 
+diarrhea hypertension, obesity, stomach disorders, and many other condi tions; used in the 19 80’s; 
+control led clinical studies have failed to demonstrate effe ctiveness  or re liability . 
+ELISA (enzym e linked  immunosorbent assay) : an in vitro assay for allergen specific IgE antibodies in 
+serum, indicating an allergy to the substan ce. 
+FAST (fluorescent  allergosorbe nt test):  an in vitro assay using a fluoregenic dete ction sys tem th at looks 
+for allergen s pecific IgE antibodies in ser um, indicating an allergy to the substance.  
+Food challenge test:  used to confirm or diagnose IgE - media ted hypersensitivity to specific f oods, food 
+additives and preservatives (metabisulfit e). Incre asing amo unts o f the suspecte d food a llergen is 
+ingested e very 15  – 20 minutes for 2 hours or until a reaction occurs or the amount is higher than that 
+expected to produce a reaction . One food it em is tested per day.  
+Idiopathic environmental intol erance : The ori ginal ter m, clinical ec ology, w as replaced by the te rm 
+multiple chemical sensitivity (MCS).  Most recently, it has been replaced by the term idiopathic 
+envi ronmental intolerance , a term refl ecting the uncertain nature of the condition and its  relation ship t o 
+chemica l exposure.  The centra l focus of the condit ion is the fact that the individual  describes recurrent, 
+nonspecific symptoms referable to multiple org an systems that the s ufferers beli eve are provoked by 
+exposure to low levels of chemic al, biolo gic, o r physica l agents.  The most com mon environmental 
+exposures include perfumes and scented products, pesticides, domestic and industrial solvents, new 
+carpets , car exhaust, gasoli ne and diesel  fumes, urban air pollution, cigarette smoke, plasti cs, and 
+formald ehyde. Certain foods, f ood addi tives, drugs, electro magnetic fields, and mercury in dental fillings 
+have also been reported as triggering events.  However s ymptoms do not bear a ny relationsh ip to 
+established toxic effects of the specific chem ical and occur at concen trations far b elow tho se expected 
+to elicit  toxicity.  
+Immunotherapy:  allergy injection therapy; the process of injecting small amounts of substanc es causing 
+the allerg y reaction; o ver a period of time, doses are progressively increa sed until  the b ody adjus ts to the subs tance, o r becomes desensitize d; other treatments include avoidance of the substance or taking 
+medications such as antihistamines to block the allergic re action.  
+In vi tro testing : within a glass or test tube; in an arti ficial en vironm ent. 
+In vivo testing:  used to i dentify allergic subs tances that are responsible for producing diseases such as 
+asthma, allergic rhinitis, eczema, urticaria , anaphylaxis, and ga strointestina l reactions.  
+In vivo:  within the living body.  
+Intrad ermal or Intrac utaneous test:  a small amount ( .001 to .05 ml) of an tigen extract (allergen vaccine) 
+is injected into the skin with a disp osable syringe attached to a 26 - to 30 - gauge needle o r with a 
+tube rculin type syr inge; a reaction is recorded 15 – 30 minutes a fter a pplicatio n. This type o f skin t esting 
+is more suitab le to individuals  with lower skin sensitivity or for antigens with lower potency.  Because of 
+the added risk of adverse syste mic reactions  due to the larger volume of antigen extract (allerg en 
+vaccin e) use d, these tests are typi cally pe rformed on the upper arm or forearm rather than the back, to 
+allow application of a tourniquet if necessary, and are perform ed in a setting with staff capable  of 
+handling adverse reactions and emergencies.  
+IP (Immuno -peroxida se test):  an in vitro a ssay for  allergen specific Ig E antibodies in serum, indicating an 
+allergy to the substance.  
+LEAP:  Lifestyle Eating and Performance d isease management pro gram (Don Sel f & Associates, Inc.) is 
+based on the theory that sy mptoms of  irritable bowe l syndrome and  other c ertain conditions are  caused 
+by reactions to specific foods and food additives.  The program includes individual  selection to ols, a self -
+directed stress manage ment program, and assessment tools for determining o utcomes.  
+MAST ( multiple thread allergo sorbent test):  an in vitro as say using an enzymatic detection system that 
+looks for allergen specific IgE antibodies in serum, indic ating an allergy to t he substance.  
+Mediator release test (MRT):  primarily used to dete ct intole rance to foods and additives in indiv iduals  
+with irritable  bowel syndrome.  Also used in individuals  with chronic fatigue syndrome, metabolic 
+conditions (e.g., di abetes, obesity), gas trointestinal  disorders (e.g., gastroesophageal reflux disease, 
+chronic ul cerati ve coliti s, and Crohn’s  disease ), neurologic disorde rs (e.g., migraine headaches, cluster 
+headaches), rheumatologic disorders (inflammatory arthritis, arth ralgias, fibromyalgia ), otolaryngo logic 
+disorders (e.g., perennial rhinitis, chronic s inusitis,  chron ic otitis  media with ef fusion),  dermatologic 
+conditi ons (e.g., eczema, urticaria, dermatitis), and in individuals  with behavioral conditions (e.g., 
+attenti on deficit disorder, hyperactivity , frequent mood swings, inability to concentrate).  This test 
+measur es the ag gregate releas e of inf lammatory mediators f rom the individual’s  immunocytes in vitro 
+after exposure to specific foods and food additives.  The resu lts of the mediator r elease test h ave been 
+used to design a n individual -specific diet  to treat  irritable bowe l syndrome by avoiding  foods and 
+additives that trigger significant inflammatory mediator release.  
+Nasal challenge:  see provocation test.  
+Patch (a pplication) test:  antigen is impre gnated into a small piece of gauze or filter paper d isc and 
+applied  to a str ip of aluminum  foil or  placed within an 8 m m diameter aluminum device (Finn chamber) 
+and applied to the skin and held in place with tape (a test s ystem known as the TR UE test uses multiple antigens incorporated into a gel delivery s ystem); r eactio ns are ob served and rec orded at  48 hours after 
+appl ication and may be read again 1 – 5 days after the first reading.  
+Prick or puncture test:  a drop of anti gen is placed directl y on the skin  then gently pricked through with a 
+sharp instrument  (needle,  lance t, or spe cially designe d plasti c device) at a 45  – 60 degree angle (prick 
+test) or 90 degree angle (puncture); reactions are recorded at 15  – 20 minutes af ter application.  
+PRIS T (paper radi oimmunosorbent test):  an in vitro assay for allergen  specific  IgE a ntibodies  in serum, 
+indicating an allergy to the sub stance.  
+Proteolytic enzyme:  when preparing mixtures of allergen extracts, the prescribing physician mus t take 
+into account t he cross -reac tivity of allergen extracts and the potential for al lergen de gradat ion cause d 
+by proteolyt ic enzym es (breakdown of prot eins).  
+Provocation test:  challenge test performed to duplicate the individual’s  main symptoms or signs by 
+controlled exposur e to a suspec ted antigen; can be delivered by ingestion (food, or al challe nge), 
+inhalatio n (bronchial c hallenge ), or by direct appli cation to the mucosal membrane of nares (nasal 
+challenge) or conjunctiva (conjunctival challenge).  
+RAST  (radio -allergo -sorbe nt test):  an in vitro assay for allergen specific IgE antibodies in serum;  
+desig ned to ai d in the diagn osis of IgE-mediated disorder s and in the formulation of allergen 
+immunotherapy.  
+Rhinitis:  inflammation of the nasal mucosa.  
+Rush im munotherapy:  an accel erated immuno therapy build -up schedule that involves administerin g 
+increme ntal d oses of a llergen at int ervals v arying b etween 15 and  60 minutes over 1 – 3 days until the 
+targeted therapeutic dose is achieved.  A rush immunotherapy sched ules for inhalant all ergens can be  
+associated with a greater risk of systemic reaction s, partic ularly  in high -risk individua ls (e.g. , those with 
+markedly  positive prick/puncture test responses), and premedication with antihistamines and 
+corticosteroids app ears to reduce the ri sk associated  with rush immunotherapy.  
+SAGE:  a cellular assay tha t tests f or del ayed food  sensitivity; the SAGE  method uses whole bl ood, rather 
+than serum, and tests simultaneously for multiple pathways.  
+Scratch tests:  the skin is supe rficially scratched w ith a blunt s carifying device in such a way as to prevent 
+excessi ve bleedi ng; a drop of a ntigen extract  (allerg en vaccine) is then a pplied to the scratch; antigen 
+and control sites are recorded 20 minutes after application.  
+Skin test:  applying a small amou nt of an anti gen extract (allergen vaccine) directly to the skin either by  
+intra dermal te sts or by epic utaneous , epidural, or percut aneous tests (scratch, prick, puncture, and 
+patch tests).  
+RELATED GUIDELINES:  
+Peanut ( Arachis h ypogae a) Allerg en Powder -dnfd (Palfor zia), 09 -J3000 -69 
+OTHER:  
+None applicable.  REFERENCES:  
+1. Abramson MJ, Puy  RM, Weiner JM.  Allergen immunotherapy for asthma.  Cochrane Database of 
+Systematic Re views 2003, Issue 4. Art. No.: CD001186 . DOI: 10.1002/ 14651858. CD0011 86. 
+2. Allergy Diagnostic Testing:  An Updated Practice Parameter.  I L Bernst ein, JT Li, et al.  Ann of All ergy 
+Asthma Immunology; March 2008; Vol 100, No. 3, Supplement 3 (updated 0 5/22/09).  
+3. American Academy o f Allergy, Asthma and  Immunology (AA AAI). Con dition s and Tre atments: Food 
+Allergy.  Accessed at https://www.aaaa i.org/ . 
+4. Ameri can Academy of Allergy, Asthm a and Immunology (AAAAI). Anaphylaxisda practice parameter 
+update 2015. Acc essed at htt ps://www.aaaai.o rg/. 
+5. American Academy  of Allergy, As thma and Immuno logy (AAA AI) and American Colle ge of Allergy, 
+Asthma and Immunology (ACAA I), Joint Council of Allergy,  Asthma and Immunology. Cox L, Nelson 
+H, Lockey R, Calabria C, Chacko T, Fi negold I, Ne lson M, Weber R,  Bernstein DI, Blessi ng-Moore J, 
+Khan DA, Lan g DM, Nicklas R A, Oppenheimer J, Port noy JM, Randolph C, Schuller DE, Spector S L, 
+Tilles S, Wallace D. Aller gen immunotherapy: a practice parameter third update. J Allergy Clin 
+Immuno l 2011 Jan;1 27(1 Suppl):S1 -55. 
+6. American Academy o f Allergy, Asth ma and Im munolo gy, Ameri can College of Allergy , Asthma and 
+Immunology, Joint Council of Allergy, Asthma and Immunolog y. Food allergy: A practice parameter 
+update  2014.  
+7. American Academy of Alle rgy, Asthma and Immunology ( AAAAI) and American C ollege of Aller gy, 
+Asthm a and Immunolog y (ACAAI) Task Force.  Sublingual immunotherapy: A comprehensive review 
+(05/06)  
+8. American Acade my of Allergy, Asthma and Immunology Position Statement:  The Use of 
+Standar dized Allerg en Extracts, (05 /97). 
+9. American Academ y of Allergy, A sthma and  Immun ology Wor kgroup Report:  Current  Approach to the 
+Diagnosis and Management of Adverse Reactions to Foods , (10/03).  
+10. American Academy of Allergy, Asthma and Immunology.  Physician Re ference Mate rials:  Position 
+Statement 2, Some Unt ested Diagnosti c and The rapeut ic Proced ures in Clinical Aller gy. 
+11. American Academy of Allergy, Asthma an d Immunology.  Physician Refer ence Materials:  Position 
+Statement 10, Skin Testing and Radio Allergosorben t Testing (R AST) for Diagnos is of Specific 
+Allerg ens Responsible  for IgE -Mediat ed Diseas es. 
+12. American Academy o f Allergy, Asthma and Immunology.  Physicia n Reference Materials:  Positi on 
+Statement 21, The Use of In Vitro Tests for IgE Antibody in the Specific  Diagnosis o f IgE-Mediated 
+Disorders and in the F ormulation of A llergen I mmunot herapy. 
+13. American Academy of All ergy, Asthma and Immunology.  Physician Ref erence Materials:  Position 
+Statement 24, Allergen Skin Testing From the Board of Directors.  
+14. American Aca demy of Alle rgy, Asthma and Immunology.  Physician  Reference Mate rials:  Position  
+Statemen t 35. Idiopathic envir onmental intolerance. J Allergy Clin Immun ol. 1999; 103:  36-40. 
+15. America n Academy of Allergy, Asthma, and Immunology Position Statement 8.  Controve rsial 
+Techni ques. J Allergy Clin Immunol.  1981; 6 7:333-338. 
+16. Amer ican Acad emy of  Allergy,  Asthma & Immunology P osition Statement – AAAAI support of the 
+EAACI Position Paper on IgG4. Adverse Reactions to Foods Committee (05/20 /10). 
+17. American Academy of Asthma , Allergy an d Immunotherapy (AAAAI).  Consultation  and referral 
+guidelines  citing the evi dence:  How the allergi st-immunologist can help.  J Allergy Clin I mmunol 
+2006;117:S495 -523. 18. American Academy of Allergy, Asthma and Immunology (AAAAI). Allergy Diagnostic  Testing: An  
+Updated Practic e Parameter. ANNALS O F ALLERGY, ASTH MA, & IMM UNOLOG Y March 2 008; 
+Volume 100, Numbe r 3, Supplement 3. Accessed at http://www. aaaai.org.  
+19. American Academy o f Allergy, Asthma and Immunology (AAAAI). Choosing Wisely Campaign 
+(2014): Ten Things P hysicians and Pa tients Should Questio n. Accessed at http://ww w.aaaa i.org. 
+20. American Academy of Alle rgy, Asthma, and Immunology (AAAAI). Aller gen immunotherapy: A 
+practice  parameter third update  (2011). Accessed at http://www.aaaai.org.  
+21. Barrett M D, Stephen.  Allergies:  Dubio us Diagnosis and Trea tment, (06/14/0 3; revise d 01/1 7/08). 
+22. Berg EA, et al. Drug all ergens and food --the cetuximab and galacto se-α-1,3-galactose story.  
+23. Bernstein IL, Li JT, Bernstein DI, Hamilton R, Spector SL, Tan R, Sicherer S,  Golden DB, Khan DA, 
+Nicklas  RA, Portnoy JM, Bles sing-Moore J, Cox L, Lang DM, Oppenhe imer J, Randolph CC, 
+Schuller DE, Tilles SA, Wallace DV, Levetin E , Weber R, American Academy o f Allergy, Asthma and 
+Immunology, American College of Allergy, Asthma and I mmunology. Allergy diagnosti c testing: an 
+updated  practice parameter. Part 1. Ann Alle rgy Asthma Immunol. 2008  Mar;100(3 Suppl 3):S15 -
+S66. 
+24. Biedermann T,  et al. Mammalian meat allerg y: a diagnostic challenge. Allergo J Int. 2015;24(3):81 -
+83. 
+25. Blue Cross Blue  Shield Association 2003 TEC  Assessment; “Subling ual Immunotherapy for 
+Allergies”.  
+26. Blue Cross Blue Shield Asso ciation Evidence Positioning System®. 2.01 .17 - Sublingual 
+Immunotherap y as a Technique of Allergen Specific Therapy, 11/ 21. 
+27. Blue Cross Blue Shiel d Association Evidence Posit ioning System®. 2.01. 93 - Antigen Leukocyte 
+Antibody Test,  11/21. 
+28. Burks AW, Ca lderon MA, Casale T et al. Update on allergy i mmunotherapy: American Academ y of 
+Allergy, Asthma & Immunology/European Academy of Allergy and Clinical Immunology/PRACTALL 
+consensu s report. J Allergy C lin Immunol 2013.  
+29. Cahill KN, et al.  Prostaglandin D ₂: a dominant mediator of aspirin -exacerbated respiratory disease. J 
+Allergy Clin  Immunol. 2015 Jan;135(1):245 -52. 
+30. Calderon MA, Alves B, Jacobson M, Hurwitz  B, Sheikh A, Durham S.  Allergen injection 
+immuno therapy for seasonal allergic rhini tis. Cochrane Da tabase of Systematic Reviews 2007, Issue 
+1. Art. No.:  CD001936.  DOI: 10.1002/1465 1858.CD001936.pub2.  
+31. Canonica GW, Cox L, Pawankar R et al. Sublingual immuno therapy: World Allergy Organ ization  
+position pape r 2013 update. The World Allergy Or ganization journ al 2014; 7(1):6.  
+32. Carr S, Chan E, Lavine E, Moote W. CSACI Position statement on t he testing of food -specific IgG. 
+Allergy Asthma Clin Immunol. 2012 Jul 26;8 (1):12.  
+33. Centers for Medicare a nd Medicaid Service s (CMS). Local Coverage Determi nation (LCD): Allerg y 
+Testing (L33261) (10/01/15) (revised 07/ 11/21 ). 
+34. Centers for  Medicare and Medicaid Services (CMS). Local Coverage Determination (LCD): Allergen 
+Immunotherapy (L378 00) (10/18/18) (revise d 07/11/21 ). 
+35. Center s for Medicare an d Medicaid Services (CMS) . Nationa l Coverage Determination  (NCD)  for 
+Antigens Prepared for Subl ingual Administration (110.9) (11/17/96).  
+36. Centers for Medicare and Medicaid  Services (CMS) . National Co verage Determination  (NCD) for 
+Food Aller gy Testing and Tr eatment  (110.11) (10/31/88).  
+37. Cente rs for Medicare and Medicaid Services (CMS) National Coverage  Determination  (NCD)  for 
+Challenge Ingestion Food  Testing (110.12) (08/01/7 8).  38. Centers for Medicare an d Medicaid Services (C MS) National Covera ge Determination  (NCD)  for 
+Cytotoxic Food Tests  (110.13) (08/05/85).  
+39. ClinicalTrials.gov. NCT01658475: P. Gingiva lis IgG Titer Test for Periodontitis. Okayama University 
+(August 2012).  
+40. ClinicalTrials.gov. NCT01592071 : IgG -mediated Food Te st for Weight Loss.  Immuno Laborator ies 
+(February 2014).  
+41. ClinicalTrial s.gov. NCT01353079 : Efficacy and Safety Study Of Short Ragwee d Pollen Sublingual -
+Oral Immunotherapy, Greer Laboratories (February 2015).   
+42. ClinicalTrials.gov. NCT005 99872: Efficacy Study of Sublingual Immun otherapy to Treat  Ragweed 
+Allergies. Greer Laborato ries (January 2014).  
+43. ClinicalTrials.gov. NCT00732654: The Saf ety and Efficacy of Sublingual/Oral Immunotherapy for the 
+Treatment of Milk  Protein Allergy. Johns Hopk ins University (May 20 17). 
+44. Commins SP, et  al. Delayed anap hylaxis, angioedema, or urticaria after consumption of red meat in 
+patients with IgE antibodies  specific for galactose -alpha -1,3-galactose. J Allergy Clin Immunol. 2009 
+Feb;123(2):426 -33. 
+45. Commins SP , et al. Delayed anaph ylaxis to alpha -gal, an oligosacchar ide in mammalian meat. 
+Allergol In t. 2016 Jan;65(1):16 -20. 
+46. Commins SP, et al. Delayed clinical and ex vivo response to mammalian meat in patients with IgE to 
+galactose -alpha-1,3-galactose. J Allergy  Clin Immunol. 2014 Ju l;134(1):108 -15. 
+47. Commins SP, et al. The relevance of tick bites to the  production of IgE antibodies to the mammalian 
+oligosaccharid e galactose -α-1,3-galactose. J Allergy Clin Immunol. 2011 May;127(5):1286 -93.e6.  
+48. Commins SP, Platts -Mills TA. Allergenicity of carbohydrates and  their role in anaphylactic events. 
+Curr Allergy As thma Rep. 2010 Jan;10(1):29 -33. 
+49. Commins SP, Platts -Mills TA. Delayed anaphylaxis to red meat in patients with IgE specific for 
+galactose alpha -1,3-galactose (alpha -gal). Curr Allergy Asthma Rep. 2013 Feb;1 3(1):72 -7. 
+50. Commins SP, Platts -Mills TA. Tick bites and red meat allergy. Curr Opin Allergy Clin Immunol. 2013 
+Aug;13(4):354 -9. 
+51. Cox L, Nelson H, Lockey R , et al.  Allergen immunotherapy: a p ractice parameter third update. J 
+Allergy Clin Immunol. 2011 Jan;12 7(1 Suppl):S1 -55. doi: 10.1016/j.jaci.2010.09.034. Epub 2010 Dec 
+3. Erratum in: J Allergy Clin Immunol. 2011 Mar ;127(3):840.  
+52. Cox LS, Larenas Linnemann D, et al. Sublingual immunotherapy: a comprehensive review. J Allergy 
+Clin Immunol. 2006 May;117(5):1021 -35. 
+53. ECRI Trends. Waste in healthcare from the speci alist’s chair. (04/01/2012).  
+54. First Coast Service Options (F CSO) Local Coverage Determination LCD# L29057 Allergy Tests, 
+(effective 01/01/13 ). (Retired 09/30/15)  
+55. First Coast Service Options (FCSO) Local Cov erage Determination LCD# L29056 Allergen 
+Immunother apy, ( effective 10/01/11 ). (Retired 09/30/15)  
+56. Fischer J, et  al. Clinica l spectrum of α -Gal syndrome: from immediate -type to delayed immediate -
+type reactions to mammalian innards and meat. Allergo J Int. 20 16;25:55 -62. Epub 2016 Mar 23.  
+57. Flicker S, Linhart B , Wild C, Wiedermann U, Valenta R. Passive immunization with allergen -specific 
+IgG antibodies for treatment and prevention of allergy. Immunobiology. 2013 Jun;218(6):884 -91. 
+58. Flaherty MG, et al. Diagnosis o f Life -Threatening Alpha -Gal Food Allergy Appears t o Be Patient 
+Driven. J Prim Care Community Health. 2017 Oct;8 (4):345 -348. 
+59. Fornadley MD, John.  Allergy Management for the Otolaryngologist.  Otolaryngologic Clinics of North 
+America, 31:111 -127, 02/98.  60. Gerez  IF, Shek LP, Chng HH, Lee BW. Diagnostic tests for  food allergy. Singapore Med J. 2010 
+Jan;51(1):4 -9. 
+61. Greenhawt  M, Oppenh eimer J, et al. Sublingual immunotherapy:  A focused allergen immunotherapy 
+practice parameter update (2017). Ann Allergy Asthma Immuno l 118 (2017) 276e282.  
+62. Hankin CS, Cox L, et al. Alle rgy immunotherapy among Medicaid -enrolled children with aller gic 
+rhinit is: Patterns of care, resource use, and costs. The Journal of Allergy and Clinical Immunology. 
+2008;1(121):227 -32. 
+63. HAYES Medical Techn ology Directory; Allergy Testing, In Vitro, RAST, a nd Other Immunoassays 
+ALLE0403.06 (04/23/98; updated 03/24/03 ; updated and renamed 8/04 “Allergy Testing for 
+Diagnosis of Allergic Rhinitis, In Vitro, Quantitative”).  (08/08/03; updated 10/23/07).  
+64. HAYES Me dical Technology Directory; Allergy Testing, In Viv o, (08/22/06; updated 09/08/07).  
+65. HAYES Search and Summary.  Sublingual I mmunotherapy Drops for Allergy Treatment (04/27/07).  
+66. Hoeks SB, de Groot H, Hoekstra MO. Sublingual immunotherapy in children with asth ma or 
+rhinoconjunctivitis: not enough evidence beca use of poor quality of the studies; a systematic review 
+of literature. Ned Tijdschr Geneeskd. 2008 Feb 2;152(5):261 -8. PMID: 18333541.  
+67. Ibrahim C, et al. A retrospective study of the clinical benefit from a cetylsalicylic acid desensitization 
+in patients wit h nasal polyposis and asthma. Allergy Asthma Clin Immunol. 20 14 Dec 11; 10(1):64.  
+68. Joint Council of Allergy, Asthma and Immunology (JCAAI) Practice Parameter.  Stinging insect 
+hypersensitivity: A Practice Par ameter Update (10/04).  
+69. Joint Council of Allergy, As thma and Immunology (JCAAI).  Physician’s Instruction Guide fo r the 
+Prep aration of Allergen Extract (02/20/09)  
+70. Joint Council of Allergy, Asthma and Immunology (JCAAI).  Practice Parameters for Allergy 
+Diagno stic Testing. Accessed 08/04/09.  
+71. Kennedy JL, et al.  Galactose -α-1,3-galactose and delayed anaphylaxis, angioedem a, and urt icaria in 
+children. Pediatrics. 2013 May;131(5):e1545 -52. 
+72. Kim JE, Yoo SR, Jeong MG, Ko JY, Ro YS. Hair zinc levels and the efficacy of  oral zinc 
+supplementation in patients with atopic dermatitis. Acta Derm Venereol. 2014 Sep;94(5):558 -62. 
+73. Kim JM , Lin SY, Suarez -Cuervo C, Chelladurai Y, Ramanathan M, Segal JB, Erekosima N. Allergen -
+specific immunotherapy for pediatric asthma and rhinocon junctivitis: a systematic review. Pediatrics. 
+2013 Jun 1;131(6):1155 -67. 
+74. Kollmann D, et al. The quantity and qua lity of α -gal-specific antibodies differ in individuals with and 
+without delayed red meat allergy.  
+75. Lewith GT, Kenyon JN, Broomfield J, Prescott P, Goddard J, Holgate ST. Is electrodermal testing as 
+effective as skin prick tests for diagnosing allergies? A double blind, randomised block design study. 
+BMJ. 2001 Jan 20;322(7279):131 -4. 
+76. Lin SY, Erekosima N,  Kim JM, et al. Sublingual Immunotherapy for the Treatment of Allergic 
+Rhinoconjunctivitis and Asthma: A Systematic Review. JAMA.  2013;309(12):1278 -1288. 
+doi:10.1001/jama.2013.2049.  
+77. Moffitt, JE, Golden, DB, et al.  Stinging insect hypersensitivity: a practice parameter update.  J Allergy 
+Clin Immunol 2004 Oct; 114(4):869 -86. 
+78. Mortuaire G, Michel J, et al. Specific immunotherapy in allergic rhinitis. European anna ls of 
+otorhinolaryngology, head and neck diseases. 2017 Sep 1;134(4):253 -8. 
+79. Mullin RJ, et al. Relationship between red meat allergy and sensitization to gelatin and galactose -α-
+1,3-galactose. J Allergy Clin Immunol. 2012 May;129(5):1334 -1342.e1.  80. National G uideline Clearinghouse.  Institute for Clinical Systems Improvement (ICSI) Diagnosis and 
+management of asthma, (01/08).  
+81. National Guideline Clearinghouse.  Joint Task Force on Practice Parameters, American College of 
+Allergy, Asthma and Immunology, American C ollege of Allergy, Asthma and Immunology, Joint 
+Council of Allergy, Asthma and Immunology.  Allergen immunotherapy:  a practice parameter second 
+update, (09/07).  
+82. National Guideline Clearinghouse. Moffitt JE, et al.  Stinging insect hypersensitivity:  a practic e 
+parameter update. J Allergy Clin Immunol 2004 Oct; 114(4):869 -86. 
+83. National Guideline Clearinghouse; American College of Allergy, Asthma, & Immunology.  Food 
+allergy:  a practice parameter.  Ann Allergy Asthma Immunol 2006 Mar;96(3 Suppl 2):S1 -68. This is 
+the current release of the guideline (accessed 09/23/14 ). 
+84. National Guideline Clearinghouse . Consultation and referral guidelines citing the evidence:  how the 
+allergist -immunologist can help.  (06/18/06; accessed 09/23/14 ). 
+85. NIAID -Sponsored Expert Panel, Boyce JA, Assa'ad A, et al. Guidelines for the diagnosis and 
+management of food allergy in the United States: report of the NIAID -sponsored expert panel. J 
+Allergy Clin Immunol 2010;126(6 Suppl):S1 -5S8. 
+86. Pieniawska -Śmiech K, Lewandowicz -Uszyńska A, Zemelka -Wiacek  M, Jutel M. Serum Allergen -
+Specific IgE among Pediatric Patients with Primary Im munodeficiency. Children (Basel). 2022 Mar 
+25;9(4):466. doi: 10.3390/children9040466.  
+87. Platts -Mills TA, et al. Anaphylaxis to the carbohydrate side chain alpha -gal. Immunol All ergy Clin 
+North Am. 2015 May;35(2):247 -60. Allergy. 2017 Feb;72(2):266 -273. 
+88. Platts -Mills TA, et al. Delayed Anaphylaxis Involving IgE to Galactose -alpha -1,3-galactose. Curr 
+Allergy Asthma Rep. 2015 Apr;15(4):12.  
+89. Ramsey N, Berin MC. Pat hogenesis of IgE -medi ated food allergy and implications for future 
+immunotherapeutics. Pediatr Allergy Immunol. 2021 Oct;32(7):1416 -1425. doi: 10.1111/pai.13501. 
+Epub 2021 Jun 17.  
+90. Saleh H, Embry S , Nauli A, Atyia S, Krishnaswamy G. Anaphylactic reactions to oligosaccharides in  
+red meat: a syndrome in evolution. Clin Mol Allergy. 2012 Mar 7;10(1):5.  
+91. Santos AF, Lack G. Basophil activation test: food challenge in a test tube or specialist research too l? 
+Clin Transl Allergy. 2016 Mar 15;6:10.  
+92. Scadding GW, Calderon MA, et al. Effect  of 2 Years of Treatment With Sublingual Grass Pollen 
+Immunotherapy on Nasal Response to Allergen Challenge at 3 Years Among Patients With 
+Moderate to Severe Seasonal Allergic  Rhinitis: The GRASS Randomized Clinical Trial. JAMA. 2017 
+Feb;317(6):615 -25. 
+93. Severino MG, Cortellini G, et al. Sublingual immunotherapy for large local reactions caused by 
+honeybee sting: a double -blind, placebo -controlled trial. J Allergy Clin Immunol. 2 008 Jul;122(1):44 -
+8. doi: 10.1016/j.jaci.2008.03.031. Epub 2008 May 12.  
+94. Shady MM,  Fathy HA, Ali A, Galal EM, Fathy GA, Sibaii H. Comparison of Serum IgG Antibody Test 
+with Gastric Biopsy for the Detection of Helicobacter Pylori Infection among Egyptian Chi ldren. Open 
+Access Maced J Med Sci. 2015 Jun 15;3(2):303 -6. 
+95. Shaker MS, Wallace DV , Golden DBK, Oppenheimer J, et al.  Anaphylaxis -a 2020 practice 
+parameter update, systematic review, and  Grading of Recommendations, Assessment, 
+Development and Evaluation (GRADE) analysis. J Allergy Clin Immunol. 2020 Apr;145(4):1082 -
+1123. doi: 10.1016/j .jaci.2020.01.017.  
+96. Shakoor Z, AlFaifi A, AlAmro B, AlTawil LN, AlOhaly RY. Prevalence of IgG -mediated food 
+intolerance among patients with allergic symptoms. Ann Saudi Med. 2016 Nov -Dec;36(6):386 -390. 97. Sieber J, Köbe rlein J, Mösges R. Sublingual immunothera py in daily medical practice: effectiveness 
+of different treatment schedules - IPD meta -analysis. Curr Med Res Opin. 2010 Apr;26(4):925 -32. 
+doi: 10.1185/03007991003659483. PMID: 20163297.  
+98. Skoner D, Gentile D, et al.  Sublingual immunotherapy in patients wit h allergic rhinoconjunctivitis 
+caused by ragweed pollen. J Allergy Clin Immunol. 2010 Mar;125(3):660 -6, 666.e1 -666.e4. doi: 
+10.1016/j.jaci.2009.12.931. Epub 2010 Feb 11.  
+99. Slayden TA, Shakir MKM, Hoang TD. A BULL IN A  PILL SHOP: ALPHA -GAL ALLERGY 
+COMPLICATIN G TREATMENT OPTIONS FOR POSTPROCEDURAL HYPOTHYROIDISM. AACE 
+Clin Case Rep. 2020;6(3):e101 -e104. Published 2020 May 11. doi:10.4158/ACCR -2019 -0495.  
+100. Spies JW, et al. The role of aspirin desensitization in patients wit h aspirin -exacerbated respiratory 
+disease  (AERD). Braz J Otorhinolaryngol. 2016 May -Jun;82(3):263 -8. 
+101. Stapel SO, Asero R, Ballmer -Weber BK, Knol EF, Strobel S, Veiths S, Kleine -Tebbe J.  Position 
+Paper:  Testing for IgG4 against food is not recommended as a d iagnostic tool:  EAACI Task Force 
+Report.  Allergy 2008:63:793 -796. 
+102. Steinke JW, et al. The alpha -gal story: lessons learned from connecting the dots. J Allergy Clin 
+Immunol. 2015 Mar;135(3):589 -96; quiz 597.  
+103. Stone CA Jr. et al. Anaphylaxis after zoster vacci ne: Implicating alpha -gal allergy as a po ssible 
+mechanism. J Allergy Clin Immunol. 2017 May;139(5):1710 -1713.e2.  
+104. Tripathi A, et al. Delayed anaphylaxis to red meat masquerading as idiopathic anaphylaxis. J Allergy 
+Clin Immunol Pract. 2014 May -Jun;2(3):259 -65. 
+105. U.S. Department of Health and Human S ervices, US Food and Drug Administration (FDA), Center 
+for Biologics Evaluation and Research (CBER).  Guidance for Industry; Testing Limits in Stability 
+Protocols for Standardized Grass Pollen Extracts. Nov. 2000.  
+106. U.S. Department of Health and Human Service s, US Food and Drug Administration (FDA), Center 
+for Biologics Evaluation and Research (CBER).  Guidance for Industry; On the Content and Format 
+of Chemistry Manufacturing and Controls Information and Establishment D escription Information for 
+an Allergenic Extract or Allergen Patch Test.  April 1999.  
+107. U.S. Food and Drug Administration (FDA); Vaccines, Blood, and Biologics.  Standardized Allergenic 
+Extracts.  Accessed 08/04/09.  
+108. U.S. Food and Drug Administration (FDA) Appro val, Oralair (04/2014).  
+109. U.S. Food and Dr ug Administration (FDA) Approval, Grastek (04/2014).  
+110. U.S. Food and Drug Administration (FDA) Approval, Ragwitek (04/2014).  
+111. Viswanathan RK, Biagtan MJ, Mathur SK. The role of autoimmune testing in chronic idiopathic 
+urticaria. Ann Allergy Asthma Immunol. 20 12 May;108(5):337 -341.e1.  
+112. Wilson DR, Torres Lima M, Durham SR.  Sublingual immunotherapy for allergic rhinitis.  Cochrane 
+Database of Systematic Reviews 2003, Issue 2.  Art. No.:  CD002893.  DOI: 
+10.1002/14651858.CD00289 3. 
+113. Wilson JM, et al. Galactose -α-1,3-Gala ctose: Atypical Food Allergen or Model IgE Hypersensitivity? 
+Curr Allergy Asthma Rep. 2017 Jan;17(1):8.  
+114. Wilson JM, Schuyler AJ, Workman L, et al. Investigation into the α -Gal Syndrome: Characteristics of 
+261 Childre n and Adults Reporting Red Meat Allergy. J Allergy Clin Immunol Pract. 2019;7(7):2348 -
+2358.e4. doi:10.1016/j.jaip.2019.03.031. PMID: 30940532.  
+115. Wolver SE, et al. A peculiar cause of anaphylaxis: no more steak? The journey to discovery of a 
+newly recognized allergy to galactose -alpha -1,3-galactose found in mammalian meat. J Gen Intern 
+Med. 2013 Feb;28(2):322 -5. 116. Zeng ZC et al. Detection of Cytomegalovirus (CMV) Infection in Wheezing Infants by Urine DNA and 
+Serum IgG Testing. Med Sci Monit. 2017 Mar 11;23:1242 -1246. 
+117. Zhong C, Yang W, et al. Clinical e valuation for sublingual immunotherapy with Dermatophagoides 
+farinae drops in adult patients with allergic asthma. Ir J Med Sci. 2018 May;187(2):441 -446. doi: 
+10.1007/s11845 -017-1685 -x. Epub 2017 Oct 14. PMID: 29032 417. 
+COMMITTEE APPROVAL:  
+This Medical Cov erage Guideline (MCG) was approved by the Florida Blue Medical Policy and Coverage 
+Committee on 06/23/22 . 
+GUIDELINE UPDATE INFORMATION:  
+05/15/01  Medical Coverage Guideline Reformatted and Revised.  
+01/01/02  HCPCS  coding changes.  
+01/01/03  HCPCS coding changes.  
+05/15/03  Reviewed; limitation changed for allergenic extract.  
+05/15/04  Scheduled review; added “mediator release test” to list of non -covered services; 
+formatting revisions.  
+05/15/05  Scheduled review ; no chan ge in coverage statemen t. 
+10/15/05  Revision consisting of adding information regarding SAGE food allergy test.  
+05/15/06  Scheduled review:  added investigational statement for sublingual immunotherapy for 
+allergies and added additional tests and i mmunother apies for idiopathic en vironmental 
+illness; updated references.  
+09/15/06  Revision consisting of adding 83516, 83518, 83519, 83520, and 86005 to the list of allergy 
+tests.  
+01/01/07  Annual HCPCS coding update (deleted 95078.)  
+05/15/07  Scheduled r eview; re formatted guideline; no  change in coverage statement.  
+01/01/08  Annual HCPCS coding update:  descriptor revisions for codes 95004, 95024, and 95027.  
+07/15/08  Scheduled review; no change in position statement; updated references.  
+01/01/09  Annual H CPCS codi ng update:  revised desc riptors for 95010 and 95015.  
+01/09/09  Revisions consisting of addition of criteria regarding IgG food allergy testing; reference 
+added.  
+11/15/09  Scheduled review; no position statement changes; medical society information added 
+regarding mixing of allerg en extracts; reimbursement limitations revised; definitions 
+added; references updated.  
+01/01/10  Annual HCPCS coding update : revised descriptors for 83516, 83518, 83519, and 83520.  
+04/15/10  Revision to Billing/Coding and Re imburseme nt sections regarding 8 3516, 83518, and 
+83519.  
+12/15/10  Scheduled review; Position Statement unchanged; added information regarding LEAP 
+program; coding section revised; related ICD -10 codes added; references updated; 
+formatting changes.  
+04/15/1 1 Revisio n to Reimbursement sect ion of the guideline regarding allergen extracts.  
+07/15/11  Revision; formatting changes.  
+10/01/11  Revision to Reimbursement section . 12/15/11  Revisions to Billing/Coding  (deleted code 83520)  and Reimbursement sections.  
+03/15/12  Revision; Reimbursement section updated.  
+11/15/12  Annual review; position statement reformatted, references updated, formatting changes.  
+01/01/13  Annual HCPCS coding update: added 95017, 95018, 95076, and 95079;  revised descriptors 
+for 95004 , 950 27, 95120 , 95125, 95130, 95131, 95132, 95133, and 95134; deleted 95010, 
+95015, and 95075.  
+11/15/13  Annual review; position statements unchanged; Program Exceptions section updated; 
+references updated.  
+11/15 /14 Annual review; position statement regarding sublingua l immunotherapy revised ; 
+references updated; formatting changes.  
+06/15/16  Added CPT code 86001.  
+08/15/17  Scheduled review.  Deleted “In vitro testing for allergen specific IgG”  from the list of 
+testing considered medically necessary . Added addit ional test ing considered experime ntal 
+or investigational. Deleted coverage statement for sublingual immunotherapy (SLIT) using 
+Oralair®, Grastek®, or Ragwitek®.  Revised Reimbursement Information section. Updated 
+references.  Reformatted guideline.  
+11/10/17  Revision:  Added note regarding c overage of sublingual immunotherapy.  
+01/01/18  Annual CPT/HCPCS coding update:  added 86008; revised 86003, 86005.  
+03/15/18  Revision: added criteria for aspirin desensitization; revised Reimbursement Information section; 
+updated refe rences.  
+08/15/18  Unsch eduled review. Maintained position statement and updated references.  
+11/15/19  Revision.  Added (E/I) coverag e statement for sublingual  immunotherapy  antigen drops . Update d 
+references.  
+04/01/20  Quarterly CPT/HCPCS coding upd ate: adde d 0165U.  
+07/01/20  Quar terly CPT/HCPCS coding update:  added 0178U; revised code descriptor 0165U.  
+08/15/20  Scheduled review.  Revised list of allergy tests considered E/I. Updated references.  
+01/01/21  Annual CPT/HCPCS coding update . Revised  95070 ; deleted  95071 . 
+08/15/21  Revis ion. Updated list of services considered environmental therapy.  
+07/15/22  Scheduled review. Added non -coverage stateme nt for allergy immunotherapy administered outside a 
+medical facility. U pdated referen ces. 
+05/22/23  Update to Progra m Exceptions section.  
+ 
+ 

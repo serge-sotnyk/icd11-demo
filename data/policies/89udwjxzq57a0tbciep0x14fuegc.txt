@@ -1,0 +1,239 @@
+-->
+Amivantamab-vmjw (Rybrevant)
+Clinical Policy Bulletins
+Medical Clinical Policy Bulletins
+Print 
+opens a dialog
+Share 
+opens in a new window
+Number: 0995
+Table Of Contents
+Policy
+Applicable CPT / HCPCS / ICD-10 Codes
+Background
+References
+Policy
+Note
+: Requires Precertification. 
+Precertification of amivantamab-vmjw (Rybrevant) is required of all Aetna participating providers and members in applicable
+plan designs. For precertification of amivantamab-vmjw (Rybrevant), call (866) 752-7021 (commercial), (866) 503-0857
+(Medicare), or fax (888) 267-3277. 
+I
+. 
+Criteria for Initial Approval
+Non-Small Cell Lung Cancer (NSCLC)
+Aetna considers amivantamab-vmjw (Rybrevant) medically necessary for treatment of NSCLC when 
+all
+ of the following
+criteria are met:
+A
+. 
+Member has locally
+ 
+advanced or metastatic disease; 
+and
+B
+. 
+Member has EGFR exon 20 insertion mutations; 
+and
+C
+. 
+Disease has progressed on or after platinum-based chemotherapy; 
+and
+D
+. 
+The requested medication is used as a single agent.
+Aetna considers all other indications as experimental and investigational.
+II
+. 
+Continuation of Therapy
+Aetna considers continuation of amivantamab-vmjw (Rybrevant) therapy medically necessary in members requesting
+reauthorization for an indication listed in Section I when there is no evidence of unacceptable toxicity or disease
+progression while on the current regimen.
+Dosage and Administration
+Amivantamab-vmjw (Rybrevant) is available as 350 mg/7 mL (50 mg/mL) solution in a single-dose vial for intravenous
+infusion.
+Non-small Cell Lung Cancer (NSCLC)
+The recommended doses of Rybrevant are based on baseline body weight as the following:
+For less than 80 kg, the recommended dose is 1050 mgFor greater than or equal to 80 kg, the recommended dose is 1400 mg.
+Rybrevant is administered weekly (total of 4 doses) during weeks 1 to 4, with the initial dose as split infusion in week 1 on
+day 1 and day 2. During weeks 2 to 4, the infusion is on day 1,  then given every 2 weeks starting at week 5 until disease
+progression or unacceptable toxicity.
+Source: Janssen, 2021a
+Table:
+CPT Codes / HCPCS Codes / ICD-10 Codes
+Information in the [brackets] below has been added for clarification purposes.   Codes requiring a
+7th character are represented by "+"
+ 
+:
+Information in the [brackets] below has been added for clarification purposes.   Codes requiring
+a 7th character are represented by "+"
+:
+Code
+Code Description
+Other CPT codes related to the CPB
+:
+96413 -
+hyphen
+ 96417
+Chemotherapy administration
+HCPCS codes covered if selection criteria are met
+:
+J9061
+Injection, amivantamab-
+hyphen
+vmjw, 2 mg
+ICD-
+hyphen
+10 codes covered if selection criteria are met
+:
+C34.00 -
+hyphen
+ C34.92
+Malignant neoplasm of bronchus and lung [non-
+hyphen
+small cell lung cancer]
+Background
+U.S. Food and Drug Administration (FDA)-Approved Indications 
+Rybrevant is indicated for the treatment of adult patients with locally advanced or metastatic NSCLC with epidermal
+growth receptor factor (EGFR) exon 20 insertion mutations, as detected by an FDA-approved test, whose disease has
+progressed on or after platinum-based chemotherapy.
+Amivantamab-vmjw is available as Rybrevant (Janssen Biotech, Inc.) and is a low-fucose human immunoglobulin GI-based
+bispecific antibody that binds the extracellular domains of epidermal growth receptor factor (EGFR) and mesenchymal-
+epithelial transition (MET). In 
+in vitro
+ and 
+in vivo
+ studies, amivantamab-vmjw was able to disrupt EGFR and MET signaling
+functions through blocking ligand binding and, in exon 20 insertion mutation models, degradation of EGFR and MET. Tumor
+cells with EGFR and MET on their surface are targeted for destruction by immune effector cells through antibody-dependent
+cellular cytotoxicity (ADCC) and trogocytosis mechanisms. Amivantamab-vmjw is produced by mammalian cell line (Chinese
+Hamster Ovary [CHO] using recombinant DNA technology (Janssen, 2021a).
+Per the prescribing information, amivantamab-vmjw (Rybrevant) carries the following warnings and precautions:
+Infusion-related reactions (IRR): In clinical trial, IRR was noted in 66% of patients treated with Rybrevant and 97% of
+the reported IRRs were Grade 1 to 2, 2.2% were Grade 3, and 0.4% were Grade 4;
+Interstitial lung disease (ILD)/pneumonitis: In clinical trial, ILD/pneumonitis was noted in 3.3% of patients treated with
+Rybrevant, with 0.7% of patients experiencing Grade 3 ILD/pneumonitis;
+Dermatologic adverse reactions: In clinical trial, rash was noted in 74% of patients treated with Rybrevant, including
+Grade 3 rash in 3.3% of patients;
+Ocular toxicity: The occurrence of ocular toxicity including keratitis, dry eye symptoms, conjunctival redness, blurred
+vision, visual impairment, ocular itching, and uveitis has been noted with Rybrevant therapy; keratitis occurred in 0.7%
+of patients and uveitis occurred in 0.3% of patients with all events being Grade 1 to 2;
+Embryo-fetal toxicity.
+The most frequent adverse reactions (≥20%) were rash, IRR, paronychia, musculoskeletal pain, dyspnea, nausea, fatigue,
+edema, stomatitis, cough, constipation, and vomiting (Janssen, 2021a).The most frequent Grade 3 or 4 laboratory abnormalities (≥2%) were decreased lymphocytes, decreased albumin,
+decreased phosphate, decreased potassium, increased alkaline phosphatase, increased glucose, increased gamma-
+glutamyl transferase, and decreased sodium(Janssen, 2021a).
+Non-Small Cell Lung Cancer (NSCLC)
+Globally, lung cancer is the most prevalent cancer type and the leading cause cancer-related mortality, of which, non-small
+cell lung cancer is responsible for 80% to 85% of all lung cancers per the American Cancer Society. An estimated 2% to 3%
+of patients with non-small cell lung cancer will have epidermal growth factor receptor (EGFR) exon 20 insertion mutations,
+which are a group of mutations on a protein that result in rapid cell proliferation and ensuing cancer spread. EGFR exon 20
+insertion mutations are the third most prevalent type of EGFR mutation (FDA, 2021).
+On May 21, 2021, the U.S. Food and Drug Administration (FDA) approved Rybrevant (amivantamab-vmjw) for the treatment
+of adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with epidermal growth factor
+receptor (EGFR) exon 20 insertion mutations, as detected by an FDA-approved test, whose disease has progressed on or
+after platinum-based chemotherapy. The FDA granted accelerated approval based on Priority Review and Breakthrough
+Therapy designation for the non-small cell lung cancer indication. The FDA approval was based on supporting data from the
+ongoing Phase I CHRYSALIS study (Janssen, 2021b).
+The Phase I CHRYSALIS study consisted of a multicenter, open-label, multi-cohort clinical trial which included patients with
+locally advanced or metastatic NSCLC with EGFR exon 20 insertion mutations whose disease had progressed on or after
+platinum-based chemotherapy. Rybrevant was administered as an intravenous infusion at 1050 mg (for patient baseline
+body weight < 80 kg) or 1400 mg (for patient baseline body weight ≥80 kg) once weekly for 4 weeks, then every 2 weeks
+thereafter until disease progression or unacceptable toxicity. The efficacy of Rybrevant was evaluated in a population of 81
+patients with NSCLC with EGFR exon 20 insertion mutation with measurable disease who received prior platinum-based
+chemotherapy. The primary efficacy outcome measure was overall response rate (ORR) with an additional efficacy outcome
+measure as duration of response (DOR). The confirmed ORR was 40% (95% confidence interval [CI], 29% to 51%), with
+3.7% achieving complete responses (CR) and 36% having partial responses (PR). The median DOR was 11.1 months (95%
+CI, 6.9 months to not estimable) with 63% of patients having a DOR of 6 months or more (Janssen, 2021a).
+References
+The above policy is based on the following references:
+1
+. 
+Janssen Biotech, Inc. Rybrevant (amivantamab-vmjw) injection, for intravenous use. Prescribing Information. Horsham,
+PA: Janssen; revised December 2021a.
+2
+. 
+Janssen Biotech, Inc. Rybrevant (amivantamab-vmjw) receives FDA approval as the first targeted treatment for
+patients with non-small cell lung cancer with EGFR exon 20 insertion mutations. Press Release. Horsham, PA:
+Janssen; May 21, 2021b.
+3
+. 
+National Comprehensive Cancer Network (NCCN). Amivantamab-vmjw. NCCN Drugs and Biologics Compendium,
+Plymouth Meeting, PA: NCCN; March 2022.
+4
+. 
+U.S. Food and Drug Administration (FDA). FDA approves first targeted therapy for subset of non-small cell lung
+cancer. FDA News Release. Silver Spring, MD: FDA; May 21, 2021.
+Policy History
+Last Review
+ 
+ 07/27/2022
+Effective: 08/10/2021
+Next Review: 05/25/2023
+Review History
+Definitions
+Additional Information
+Clinical Policy Bulletin Notes
+ 
+opens a dialog
+ 
+ 
+opens a dialog
+ 
+ 
+opens a dialog
+ 
+ 
+opens a dialog
+Copyright Aetna Inc. All rights reserved. Clinical Policy Bulletins are developed by Aetna to assist in administering plan
+benefits and constitute neither offers of coverage nor medical advice. This Clinical Policy Bulletin contains only a partial,general description of plan or program benefits and does not constitute a contract. Aetna does not provide health care
+services and, therefore, cannot guarantee any results or outcomes. Participating providers are independent contractors in
+private practice and are neither employees nor agents of Aetna or its affiliates. Treating providers are solely responsible for
+medical advice and treatment of members. This Clinical Policy Bulletin may be updated and therefore is subject to change.
+ 
+Glossary
+Aetna Mobile App
+Careers
+Accessibility Services
+Terms of Use
+Investor Info
+FAQs
+Program Provisions
+Interest-Based Ads Policy
+Legal Notices
+Plan Disclosures
+Nondiscrimination Notice
+Site Map
+Privacy Center
+State Directory
+Copyright 
+©
+ 2001-2023 Aetna Inc.
+Language services can be provided by calling the number on your member ID card. For additional language assistance:
+Español
+  
+Ti
+ế
+ng Vi
+ệ
+t
+   
+Tagalog
+Pусский
+ﺔﻴﺑﺮﻌﻟا
+Kreyòl
+Français
+Polski
+Português
+Italiano
+Deutsch
+   
+ﯽﺳرﺎﻓ
+Other Languages…
+close popup
+You are now leaving the Aetna website
+.
+Links to various non-Aetna sites are provided for your convenience only. Aetna Inc. and its subsidiary companies are not responsible or liable for the
+content, accuracy, or privacy practices of linked sites, or for products or services described on these sites.
+Continue 

@@ -1,0 +1,292 @@
+Afinitor/Afinitor Disperz (everolimus)
+Pharmacy Coverage Policy
+Effective Date:  January 01, 2022
+Revision Date:  July 27, 2022
+Review Date:  July 20, 2022
+Line of Business:  Medicare, Commercial, Medicaid ‐ South Carolina
+Policy Type:  Prior AuthorizationPage: 1 of 8
+Humana's documents are updated regularly online. When printed, the version of this document becomes uncontrolled. Do not rely on printed copies for the most up‐to date version.
+Refer to http://apps.humana.com/tad/tad_new/home.aspx  to verify that this is the current version before utilizing.
+Disclaimer Background
+Description Medical Terms
+Coverage Determination References
+Disclaimer State and federal law, as well as contract language, including definitions and specific inclusions/exclusions, take
+precedence over clinical policy and must be considered first in determining eligibility for coverage. Coverage may also
+differ for our Medicare and/or Medicaid members based on any applicable Centers for Medicare & Medicaid Services
+(CMS) coverage statements including National Coverage Determinations (NCD), Local Medical Review Policies (LMRP)
+and/or Local Coverage Determinations. See the CMS website at  http://www.cms.hhs.gov/ . The member's health plan
+benefits in effect on the date services are rendered must be used. Clinical policy is not intended to pre‐empt the
+judgment of the reviewing medical director or dictate to health care providers how to practice medicine. Health care
+providers are expected to exercise their medical judgment in rendering appropriate care. Clinical technology is
+constantly evolving, and we reserve the right to review and update this policy periodically.  No part of this publication
+may be reproduced, stored in a retrieval system or transmitted, in any shape or form or by any means, electronic,
+mechanical, photocopying or otherwise without permission from Humana.
+Description Afinitor (everolimus) is an antineoplastic agent. Afinitor (everolimus) is an inhibitor of
+mTOR (mammalian target of rapamycin), a serine‐threonine kinase, downstream of the
+PI3K/AKT pathway. The mTOR pathway is dysregulated in several human cancers.
+Afinitor (everolimus) binds to an intracellular protein, FKBP‐12, resulting in an inhibitory
+complex formation and inhibition of mTOR kinase activity. Afinitor (everolimus) reduces
+the activity of S6 ribosomal protein kinase (S6K1) and eukaryotic elongation factor 4E‐
+binding protein (4E‐BP), downstream effectors of mTOR, involved in protein synthesis.
+ 
+In addition, Afinitor (everolimus) inhibited the expression of hypoxia‐inducible factor
+(e.g., HIF‐1) and reduced the expression of vascular endothelial growth factor (VEGF).
+Inhibition of mTOR by Afinitor (everolimus) has been shown to reduce cell proliferation,
+angiogenesis, and glucose uptake in  in vitro and/or in vivo studies.
+Afinitor (everolimus) is indicated for the treatment of patients with advanced renal cell
+carcinoma  after initial failure of a tyrosine kinase inhibitor, postmenopausal women
+with advanced hormone receptor‐positive, HER2‐negative breast cancer (advanced HR+
+BC) in combination with exemestane after failure of treatment with letrozole or
+anastrozole, progressive neuroendocrine tumors of pancreatic origin (PNET) and
+progressive, well‐ differentiated, non‐functional gastrointestinal, or lung origin that are
+unresectable,  locally advanced or metastatic, renal angiomyolipoma and tuberous
+sclerosis complex (TSC) and TSC associated partial onset siezures (adults and pediatrics).
+ 
+Afinitor (everolimus) and Afinitor Disperz (everolimus tablets for oral suspension) are
+indicated for pediatric and adult patients with tuberous sclerosis complex (TSC) who
+have subependymal giant cell astrocytoma (SEGA) that requires therapeutic intervention
+but cannot be curatively resected. The effectiveness is based on demonstration of
+durable objective response, as evidenced by reduction in SEGA tumor volume.
+Improvement in disease‐related symptoms and overall survival in patients with SEGA
+and TSC has not been demonstrated.
+ 
+Everolimus  is available as brand and generic Afinitor  2.5mg, 5mg, 7.5mg, 10mg . 
+Everolimus tablets for oral suspension are available as brand and generic Afinitor
+Disperz 2mg, 3mg and 5mg tablets.
+Coverage
+DeterminationPlease note the following regarding medically accepted indications:
+All reasonable efforts have been made to ensure consideration of medically accepted
+indications in this policy. Medically accepted indications are defined by CMS as those
+uses of a covered Part D drug that are approved under the federal Food, Drug and
+Cosmetic Act, or the use of which is supported by one or more citations included or
+approved for inclusion in any of the compendia described in section 1927(g)(1)(B)(i) of
+the Act. These compendia guide review of off‐label and off‐evidence prescribing and are
+subject to minimum evidence standards for each compendium. Currently, this review
+includes the following references when applicable and may be subject to change per
+CMS:
+American Hospital Formulary Service‐Drug Information (AHFS‐DI)
+National Comprehensive Cancer Network (NCCN) Drugs and Biologics Compendium
+Truven Health Analytics Micromedex DrugDEX
+Elsevier/Gold Standard Clinical Pharmacology
+Wolters Kluwer Lexi‐Drugs
+Afinitor (everolimus)  will require prior authorization. This agent may be considered
+Afinitor/Afinitor Disperz (everolimus)
+Effective Date: 1/1/2022
+Revision Date: 7/27/2022
+Review Date: 7/20/2022
+Line of Business:  Medicare, Commercial, Medicaid ‐ South Carolina
+Policy Type: Prior Authorization
+Humana's documents are updated regularly online. When printed, the version of this document becomes uncontrolled. Do not rely on printed copies for the most up‐to date version.
+Refer to http://apps.humana.com/tad/tad_new/home.aspx  to verify that this is the current version before utilizing.Page: 2 of 8  
+See the DISCLAIMER . All Humana member health plan contracts are NOT the same. All legislation/regulations on this subject
+may not be included. This document is for informational purposes only.
+medically necessary when the following criteria are met:
+Tuberous sclerosis complex (TSC)‐associated partial‐onset seizures [Adults and
+Pediatrics]
+The member has diagnosis of tuberous sclerosis complex (TSC)‐associated partial‐
+onset seizures  AND
+The member is 2 years of age or older  AND
+Afinitor Disperz (everolimus tablets for oral suspension) is being used as adjunctive
+therapy
+ 
+ 
+Waldenström's Macroglobulinemia/Lymphoplasmacytic Lymphoma
+The member has a diagnosis of recurrent or not responsive to primary treatment or
+relapsed Waldenström's Macroglobulinemia/Lymphoplasmacytic Lymphoma  AND
+Afinitor (everolimus) will be used as monotherapy
+Advanced Renal Cell Carcinoma (RCC)
+The member has a diagnosis of advanced/metastatic renal cell carcinoma (stage IV)
+AND
+The member has experienced intolerance on Cabometyx (cabozantinib) as second
+line therapy [e.g., severe hypertension/hypertensive crisis, cardiac failure, venous
+thromboembolic event within the last 6 months, arterial thromboembolic event
+within the last 12 months, severe hemorrhage, reversible posterior
+leukoencephalopathy, unmanageable fistula/GI perforation, nephrotic syndrome]
+AND
+Afinitor (everolimus) is given as monotherapy or being given in combination with
+Afinitor/Afinitor Disperz (everolimus)
+Effective Date: 1/1/2022
+Revision Date: 7/27/2022
+Review Date: 7/20/2022
+Line of Business:  Medicare, Commercial, Medicaid ‐ South Carolina
+Policy Type: Prior Authorization
+Humana's documents are updated regularly online. When printed, the version of this document becomes uncontrolled. Do not rely on printed copies for the most up‐to date version.
+Refer to http://apps.humana.com/tad/tad_new/home.aspx  to verify that this is the current version before utilizing.Page: 3 of 8  
+See the DISCLAIMER . All Humana member health plan contracts are NOT the same. All legislation/regulations on this subject
+may not be included. This document is for informational purposes only.
+Lenvima (lenvatinib) 
+ 
+ 
+ 
+Neuroendocrine Tumors
+The member has disease that is unresectable, locally advanced or metastatic  AND
+one of the following applies:
+The member has a diagnosis of progressive neuroendocrine tumors of
+pancreatic origin (PNET)  OR
+The member has a diagnosis of progressive, well‐differentiated, non‐functional
+neuroendocrine tumors of gastrointestinal or lung
+Subependymal Giant Cell Astrocytoma (SEGA) with TSC
+The member has a diagnosis of SEGA associated with tuberous sclerosis  AND
+ 
+The member requires therapeutic intervention but is not a candidate for curative
+surgical resection.
+ 
+ 
+Angiomyolipoma and Tuberous Sclerosis Complex (TSC)
+The member has a diagnosis of renal angiomyolipoma and tuberous sclerosis
+complex AND
+ 
+Immediate surgery is not required.
+ 
+Afinitor/Afinitor Disperz (everolimus)
+Effective Date: 1/1/2022
+Revision Date: 7/27/2022
+Review Date: 7/20/2022
+Line of Business:  Medicare, Commercial, Medicaid ‐ South Carolina
+Policy Type: Prior Authorization
+Humana's documents are updated regularly online. When printed, the version of this document becomes uncontrolled. Do not rely on printed copies for the most up‐to date version.
+Refer to http://apps.humana.com/tad/tad_new/home.aspx  to verify that this is the current version before utilizing.Page: 4 of 8  
+See the DISCLAIMER . All Humana member health plan contracts are NOT the same. All legislation/regulations on this subject
+may not be included. This document is for informational purposes only.
+Metastatic Breast Cancer
+The member has a diagnosis of hormone receptor‐positive and human epidermal
+growth factor receptor 2‐negative metastatic disease  AND
+The member has been treated with endocrine therapy (e.g., letrozole, anastrazole)
+within one year  AND
+The member will use Afinitor (everolimus) in combination with exemestane or
+fulvestrant (Faslodex) 
+Afinitor (everolimus)  will be approved in six month durations.
+ 
+ 
+Coverage
+LimitationsEverolimus  therapy is not considered medically necessary for members with the
+following concomitant conditions:
+Members that have experienced disease progression while on Afinitor (everolimus).
+Experimental/Investigational Use – Indications not supported by CMS recognized
+compendia or acceptable peer reviewed literature.
+Background This is a prior authorization policy about Afinitor (everolimus)/Afinitor Disperz
+(everolimus tablets for oral suspension). 
+ 
+Dosage Adjustments (please see full Prescribing Information for further details):
+ 
+Management of severe and/or intolerable adverse reactions may require temporary
+Afinitor/Afinitor Disperz (everolimus)
+Effective Date: 1/1/2022
+Revision Date: 7/27/2022
+Review Date: 7/20/2022
+Line of Business:  Medicare, Commercial, Medicaid ‐ South Carolina
+Policy Type: Prior Authorization
+Humana's documents are updated regularly online. When printed, the version of this document becomes uncontrolled. Do not rely on printed copies for the most up‐to date version.
+Refer to http://apps.humana.com/tad/tad_new/home.aspx  to verify that this is the current version before utilizing.Page: 5 of 8  
+See the DISCLAIMER . All Humana member health plan contracts are NOT the same. All legislation/regulations on this subject
+may not be included. This document is for informational purposes only.
+Management of severe and/or intolerable adverse reactions may require temporary
+dose reduction and/or interruption of Afinitor (everolimus) therapy. If dose
+reduction is required, the suggested dose is approximately 50% lower than the dose
+previously administered.
+ 
+Hepatic impairment:  For patients with moderate hepatic impairment (Child‐Pugh
+class B), reduce the dose to 5 mg daily. .
+ 
+Strong CYP3A4 inducers:  Avoid the use of concomitant strong CYP3A4 inducers (e.g.,
+dexamethasone, phenytoin, carbamazepine, rifampin, rifabutin, phenobarbital). If
+patients require co‐administration of a strong CYP3A4 inducer, consider increasing
+the Afinitor (everolimus) dose from 10 mg daily up to 20 mg daily (based on
+pharmacokinetic data), using 5 mg increments. This dose of Afinitor (everolimus) is
+predicted to adjust the AUC to the range observed without inducers. However, there
+are no clinical data with this dose adjustment in patients receiving strong CYP3A4
+inducers. If the strong inducer is discontinued, the Afinitor (everolimus) dose should
+be returned to the dose used prior to initiation of the strong CYP3A4 inducer.
+ 
+Strong or moderate CYP3A4 inhibitors:  Due to significant increases in exposure of
+Afinitor (everolimus), co‐administration with strong or moderate inhibitors of
+CYP3A4 (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, nefazodone,
+saquinavir, telithromycin, ritonavir, amprenavir, indinavir, nelfinavir, delavirdine,
+fosamprenavir, voriconazole, aprepitant, erythromycin, fluconazole, grapefruit juice,
+verapamil or diltiazem) or P‐glycoprotein (PgP) should be avoided.  If patients
+require co‐administration of a moderate CYP3A4 and/or PgP inhibitor, please refer
+to prescribing information for further details.
+ 
+Routine Afinitor (everolimus) whole blood therapeutic drug concentration
+monitoring is recommended for all patients using a validated assay. Trough
+concentrations should be assessed approximately 2 weeks after commencing
+treatment change in dose, change in hepatic function, etc. . Dosing should be
+titrated to attain trough concentrations of 5 to 15 ng/mL.
+Afinitor/Afinitor Disperz (everolimus)
+Effective Date: 1/1/2022
+Revision Date: 7/27/2022
+Review Date: 7/20/2022
+Line of Business:  Medicare, Commercial, Medicaid ‐ South Carolina
+Policy Type: Prior Authorization
+Humana's documents are updated regularly online. When printed, the version of this document becomes uncontrolled. Do not rely on printed copies for the most up‐to date version.
+Refer to http://apps.humana.com/tad/tad_new/home.aspx  to verify that this is the current version before utilizing.Page: 6 of 8  
+See the DISCLAIMER . All Humana member health plan contracts are NOT the same. All legislation/regulations on this subject
+may not be included. This document is for informational purposes only.
+Do not combine Afinitor (everolimus) Tablets and Afinitor Disperz (everolimus) to
+achieve the desired total dose.
+ 
+Afinitor (everolimus) should not be utilized in the following:
+ 
+Hypersensitivity to everolimus, other rapamycin derivatives, or to any of the
+excipients. Hypersensitivity reactions manifested by symptoms including, but not
+limited to, anaphylaxis, dyspnea, flushing, chest pain, or angioedema (e.g., swelling
+of the airways or tongue, with or without respiratory impairment) have been
+observed with everolimus and other rapamycin derivatives.
+ 
+Patients with systemic invasive fungal infections should not receive Afinitor
+ 
+Concomitant administration with other strong or moderate CYP3A4 inhibitors should
+be avoided. Strong CYP3A4 inducers should also be avoided
+ 
+Concomitant use with Torisel (temsirolimus)  and Rapamune (sirolimus) .
+ 
+Concomitant use with a tyrosine kinase inhibitor is not recommended at this time
+due to lack of evidence supporting safe and effective use. This  combination also
+demonstrates a significant 3A4 drug interaction that represents both a safety and
+pharmacokinetic concern. Further data to support concomitant use is required.
+Members with functional carcinoid tumors (safety and efficacy have not been
+established)
+ 
+Members with metastatic breast cancer that have been treated previously with
+exemestane.
+ 
+Women who are pregnant or lactating and have not been apprised of the risks
+associated with Afinitor (everolimus) therapy (Pregnancy Category D)
+ 
+Afinitor/Afinitor Disperz (everolimus)
+Effective Date: 1/1/2022
+Revision Date: 7/27/2022
+Review Date: 7/20/2022
+Line of Business:  Medicare, Commercial, Medicaid ‐ South Carolina
+Policy Type: Prior Authorization
+Humana's documents are updated regularly online. When printed, the version of this document becomes uncontrolled. Do not rely on printed copies for the most up‐to date version.
+Refer to http://apps.humana.com/tad/tad_new/home.aspx  to verify that this is the current version before utilizing.Page: 7 of 8  
+See the DISCLAIMER . All Humana member health plan contracts are NOT the same. All legislation/regulations on this subject
+may not be included. This document is for informational purposes only.
+Medical Terms Afinitor; everolimus; renal cell carcinoma; SEGA; PNET; TSC; angiomyolipoma; breast
+cancer; mTOR inhibitor; pharmacy
+References  
+ 
+National Comprehensive  Cancer Network. Clinical Practice Guidelines and Drugs &
+Biologics Compendium  update periodically.
+ 
+Afinitor and Afinitor Disperz [prescribing information]. Novartis Pharmaceuticals
+Corporation. East Hanover, NJ. May 2020.See also Coverage Limitations  section of this policy.
+For Tuberous sclerosis complex (TSC)‐associated partial‐onset seizures indication, the
+EXIST 3 trial included patients with a history of inadequate control of partial‐onset
+seizures despite treatment with greater than or equal to 2 sequential AED regimens. 
+ 
+ 
+Provider
+Claims CodesFor medically billed requests, please visit  www.humana.com/PAL . Select applicable
+Preauthorization and Notification List(s) for medical and procedural coding information.
+Afinitor/Afinitor Disperz (everolimus)
+Effective Date: 1/1/2022
+Revision Date: 7/27/2022
+Review Date: 7/20/2022
+Line of Business:  Medicare, Commercial, Medicaid ‐ South Carolina
+Policy Type: Prior Authorization
+Humana's documents are updated regularly online. When printed, the version of this document becomes uncontrolled. Do not rely on printed copies for the most up‐to date version.
+Refer to http://apps.humana.com/tad/tad_new/home.aspx  to verify that this is the current version before utilizing.Page: 8 of 8  
+See the DISCLAIMER . All Humana member health plan contracts are NOT the same. All legislation/regulations on this subject
+may not be included. This document is for informational purposes only.

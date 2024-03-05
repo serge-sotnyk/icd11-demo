@@ -1,0 +1,363 @@
+ 
+ 
+Medical and Drug
+Policies
+Policies & Guidelines
+Advanced Imaging
+Draft Policies
+Autism Spectrum Mandate
+Behavioral Health
+Blue Advantage Policies
+Advanced Imaging
+Draft Policies
+Genetic Testing
+Draft Genetic Testing Policies
+Medical Policies
+Draft Policies
+Final Policies
+Provider-Administered Drug Policies (Excluding Oncology)
+Current Provider-Administered Drug Policies
+Draft Provider-Administered Drug Policies
+Previous Provider-Administered Drug Policies
+Provider-Administered Oncology Drug Policies
+Current Provider-Administered Oncology Drug Policies
+Draft Provider-Administered Oncology Drug Policies
+Previous Provider-Administered Oncology Drug Policies
+Radiation Therapy
+Draft Policies
+Chronic Condition Management
+Genetic Testing
+Draft Genetic Testing Policies
+HealthSmartRx Smart RxAssist Program
+Hemophilia Drugs
+Draft Hemophilia Drug Policies
+Final Hemophilia Drug Policies
+Hemophilia Drug Prior Authorization
+PEEHIP Hemophilia Drug Program
+Medical Policies
+Draft Medical Policies
+Final Medical Policies
+Provider-Administered Drug Policies (Excluding Oncology)
+Draft Provider-Administered Drug Policies
+Final Provider-Administered Drug Precertification Policies
+Mandatory Site of Service
+Provider-Administered Drug Claim Edit Policies
+Voluntary Site of Service
+Provider-Administered Oncology Drug Policies
+Current Provider-Administered Oncology Drug Policies
+Draft Provider-Administered Oncology Drug Policies
+Radiation Therapy
+Draft Policies
+Self-Administered Drug Policies
+Draft Self-Administered Drug Policies
+Final Self-Administered Drug Policies
+Self-Administered Drug Prior Authorization Forms
+Transgender Services
+ 
+vp-0008
+ 
+Print
+ 
+ 
+BackAloxi® (palonosetron) (Intravenous)
+Policy Number: VP-0008
+Last Review Date: 03/31/2023
+Date of Origin:
+ 10/17/2008
+Dates Reviewed: 
+06/2009, 12/2009, 09/2010, 12/2010, 02/2011, 03/2011, 06/2011, 09/2011, 12/2011, 03/2012, 06/2012, 09/2012,
+12/2012, 03/2013, 06/2013, 09/2013, 12/2013, 03/2014, 06/2014, 09/2014, 12/2014, 03/2015, 05/2015, 08/2015, 11/2015, 02/2016,
+05/2016, 08/2016, 11/2016, 02/2017, 05/2017, 08/2017, 11/2017, 02/2018, 05/2018, 04/2019, 04/2020, 04/2021, 04/2022, 04/2023
+FOR PEEHIP Members Only -Coverage excludes the provider-administered medication(s) outlined in this drug policy from
+being accessed through a specialty pharmacy. It must be obtained through buy and bill.
+I. Length of Authorization
+Coverage will be provided for 6 months and may be renewed, unless otherwise specified.
+PONV: Coverage will be provided for 1 dose and may not be renewed.
+II. Dosing Limits
+A
+. 
+Quantity Limit (max daily dose) [NDC unit]:
+Aloxi 0.25 mg/5 mL solution for injection: 1 vial per 7 day supply
+Aloxi 0.075 mg/1.5 mL solution for injection: 1 vial
+B
+. 
+Max Units (per dose and over time) [HCPCS Unit]:
+CINV:
+10 billable units per 7 days
+PONV:
+3 billable units x 1 dose only
+III. Initial Approval Criteria
+Coverage is provided in the following conditions:
+For PEEHIP Members Only
+If patient is receiving moderately emetogenic chemotherapy (MEC) the patient must have tried and had an inadequate
+response, intolerance or contraindication to another 5HT3-antagonist (i.e., ondansetron or granisetron) while receiving
+the current chemotherapy regimen; 
+AND
+Prevention of Chemotherapy induced Nausea and vomiting (CINV) in Adults † 
+Patient is receiving highly emetogenic chemotherapy (HEC)
+*
+; 
+OR
+Patient is receiving moderately emetogenic chemotherapy (MEC); 
+AND
+Palonosetron is NOT covered for:
+Breakthrough emesis; 
+OR
+Repeat dosing in multi-day emetogenic chemotherapy regimens
+Prevention of Chemotherapy induced Nausea and vomiting (CINV) in Pediatric Patients 
+†
+ 
+Patient is at least 1 month old and less than 17 years old; 
+AND
+Patient is receiving emetogenic chemotherapy; 
+AND
+ Palonosetron is NOT covered for:
+Breakthrough emesis; 
+OR
+ 
+Repeat dosing in multi-day emetogenic chemotherapy regimens
+Prevention of post-operative nausea and vomiting (PONV) in Adults † 
+*Highly emetogenic chemotherapy (HEC)
+:
+Highly Emetogenic Chemotherapy (HEC)
+1-4,6
+1-4,6
+1Carboplatin
+Carmustine
+Cisplatin
+Cyclophosphamide
+Dacarbazine
+Doxorubicin
+Epirubicin
+Fam-trastuzumab deruxtecan-nxki
+Ifosfamide
+Mechlorethamine
+Melphalan ≥140 mg/m
+Sacituzumab govitecan-hziy
+Streptozocin
+The following can be considered HEC in certain patients
+Dactinomycin
+Daunorubicin
+Idarubicin
+Irinotecan
+Methotrexate ≥250mg/m
+Oxaliplatin
+Trabectedin
+The following regimens can be considered HEC
+FOLFOX
+FOLFIRI
+FOLFIRINOX; FOLFOXIRI
+AC (any anthracycline +
+cyclophosphamide)
+**
+ 
+Failure is defined as:
+Two or more documented episodes of vomiting attributed to the current chemotherapy regimen
+† 
+FDA Approved Indication(s); 
+‡
+ Compendium Recommended Indication(s); 
+Ф
+ Orphan Drug
+IV. Renewal Criteria
+ 
+Coverage may be renewed based upon the following criteria:
+Patient continues to meet indication-specific relevant criteria such as concomitant therapy requirements (not including
+prerequisite therapy), performance status, etc. identified in section III; 
+AND
+Disease response; 
+AND
+Absence of unacceptable toxicity from the drug. Examples of unacceptable toxicity include: serotonin syndrome, severe
+QT prolongation, severe hypersensitivity reactions (including anaphylaxis and anaphylactic shock), etc.
+V. Dosage/Administration
+ 
+Indication
+Dose
+Preve
+n
+tion of chemotherapy-induced nausea and vomiting
+in adults
+Administer 0.25 mg intravenously, no more frequently than weekly, prior to emetogenic
+chemotherapy
+Prevention of chemotherapy-induced nausea and vomiting
+in pediatrics
+Administer 20 mcg/kg (max of 1.5 mg) intravenously, no more frequently than weekly,
+prior to emetogenic chemotherapy
+Post-operative nausea and vomiting
+Administer 0.075 mg intravenously immediately before the induction of anesthesia
+VI. Billing Code/Availability Information
+HCPCS Code:
+J2469 – Injection, palonosetron HCl, 25 mcg: 1 billable unit = 25 mcg (0.025 mg)
+NDC:
+Aloxi 0.25 mg/5 mL solution for injection; single-dose vial: 69639-103-xx
+*
+Aloxi 0.075 mg/1.5 mL solution for injection; single-dose vial: 69639-103-xx (not commercially available)
+*
+Generics available from multiple manufacturers
+VII. References
+1
+. 
+Aloxi [package insert]. Switzerland; Helsinn Healthcare SA; April 2020. Accessed March 2023.
+2
+. 
+Referenced with permission from the NCCN Drugs & Biologics Compendium (NCCN Compendium
+) palonosetron.
+National Comprehensive Cancer Network, 2023. The NCCN Compendium
+ is a derivative work of the NCCN Guidelines
+.
+NATIONAL COMPREHENSIVE CANCER NETWORK
+, NCCN
+, and NCCN GUIDELINES
+ are trademarks owned by the
+National Comprehensive Cancer Network, Inc.” To view the most recent and complete version of the Compendium, go
+online to NCCN.org. Accessed March 2023.
+3
+. 
+Referenced with permission from the NCCN Drugs & Biologics Compendium (NCCN Compendium
+) Antiemesis. Version
+1.2023. National Comprehensive Cancer Network, 2023. The NCCN Compendium
+ is a derivative work of the NCCN
+2
+2
+1-3
+1
+®
+®
+®
+®
+®
+®
+®
+®
+®
+®
+®Guidelines
+. NATIONAL COMPREHENSIVE CANCER NETWORK
+, NCCN
+, and NCCN GUIDELINES® are trademarks
+owned by the National Comprehensive Cancer Network, Inc.” To view the most recent and complete version of the
+Compendium, go online to NCCN.org. Accessed March 2023.
+4
+. 
+Roila F, Molassiotis A, Herrstedt J, et al. MASCC and ESMO Consensus Guidelines for the Prevention of Chemotherapy
+and Radiotherapy-Induced Nausea and Vomiting: ESMO Clinical Practice Guidelines. Ann Oncol (2016) 27 (suppl 5): v119-
+v133.
+5
+. 
+Hesketh PJ, Kris MG, Basch E, et al. Antiemetics: American Society of Clinical Oncology Clinical Practice Guideline
+Update. J Clin Oncol. 2017 Oct 1;35(28):3240-3261.
+6
+. 
+Hesketh PJ, Kris MG, Basch E, et al. Antiemetics: ASCO Guideline Update. Journal of Clinical Oncology 2020 38:24, 2782-
+2797.
+Appendix 1 – Covered Diagnosis Codes
+ICD-10
+ICD-10 Description
+R11.0
+Nausea
+R11.10
+Vomiting, unspecified
+R11.11
+Vomiting without nausea
+R11.12
+Projectile vomiting
+R11.2
+Nausea with vomiting, unspecified
+T41.0X5A
+Adverse effect of inhaled anesthetics, initial encounter
+T41.1X5A
+Adverse effect of intravenous anesthetics, initial encounter
+T41.205A
+Adverse effect of unspecified general anesthetics, initial encounter
+T41.295A
+Adverse effect of other general anesthetics, initial encounter
+T41.45XA
+Adverse effect of unspecified anesthetic, initial encounter
+T45.1X5A
+Adverse effect of antineoplastic and immunosuppressive drugs, initial encounter
+T45.1X5D
+Adverse effect of antineoplastic and immunosuppressive drugs, subsequent encounter
+T45.1X5S
+Adverse effect of antineoplastic and immunosuppressive drugs, sequela
+T45.95XA
+Adverse effect of unspecified primarily systemic and hematological agent , initial encounter
+T45.95XD
+Adverse effect of unspecified primarily systemic and hematological agent, subsequent encounter
+T45.95XS
+Adverse effect of unspecified primarily systemic and hematological agent, sequela
+T50.905A
+Adverse effect of unspecified drugs, medicaments and biological substances, initial encounter
+T50.905D
+Adverse effect of unspecified drugs, medicaments and biological substances, subsequent encounter
+T50.905S
+Adverse effect of unspecified drugs, medicaments and biological substances, sequela
+T88.59XA
+Other complications of anesthesia, initial encounter
+Z51.11
+Encounter for antineoplastic chemotherapy
+Z51.12
+Encounter for antineoplastic immunotherapy
+Appendix 2 – Centers for Medicare and Medicaid Services (CMS)
+Medicare coverage for outpatient (Part B) drugs is outlined in the Medicare Benefit Policy Manual (Pub. 100-2), Chapter 15, §50
+Drugs and Biologicals. In addition, National Coverage Determination (NCD), Local Coverage Determinations (LCDs) and Local
+Coverage Article (LCAs) may exist and compliance with these policies is required where applicable. 
+They can be found at:
+http://www.cms.gov/medicare-coverage-database/search.aspx
+. 
+Additional indications may be covered at the discretion of the
+health plan.
+Medicare Part B Covered Diagnosis Codes (applicable to existing NCD/LCD/LCA)
+: N/A
+Medicare Part B Administrative Contractor (MAC) Jurisdictions
+Jurisdiction
+Applicable State/US Territory
+Contractor
+E (1)
+CA,HI, NV, AS, GU, CNMI
+Noridian Healthcare Solutions, LLC
+F (2 & 3)
+AK, WA, OR, ID, ND, SD, MT, WY, UT, AZ
+Noridian Healthcare Solutions, LLC
+5
+KS, NE, IA, MO
+Wisconsin Physicians Service Insurance Corp (WPS)
+6
+MN, WI, IL
+National Government Services, Inc. (NGS)
+H (4 & 7)
+LA, AR, MS, TX, OK, CO, NM
+Novitas Solutions, Inc.
+8
+MI, IN
+Wisconsin Physicians Service Insurance Corp (WPS)
+®
+®
+®CPT codes, descriptions and data copyright ©BCBSPREVIOUSYEAR American Medical Association. All rights reserved. Applicable FARS/DFARS apply.
+CDT codes, descriptions and data copyright ©BCBSPREVIOUSYEAR American Dental Association. All rights reserved.
+© BCBSCURRENTYEAR Blue Cross and Blue Shield of Alabama is an independent licensee of the Blue Cross and Blue Shield Association. 
+N (9)
+FL, PR, VI
+First Coast Service Options, Inc.
+J (10)
+TN, GA, AL
+Palmetto GBA, LLC
+M (11)
+NC, SC, WV, VA (excluding below)
+Palmetto GBA, LLC
+L (12)
+DE, MD, PA, NJ, DC 
+(includes Arlington & Fairfax counties and
+the city of Alexandria in VA)
+Novitas Solutions, Inc.
+K (13 & 14)
+NY, CT, MA, RI, VT, ME, NH
+National Government Services, Inc. (NGS)
+15
+KY, OH
+CGS Administrators, LLC
+Medicare Part B Administrative Contractor (MAC) Jurisdictions
+Jurisdiction
+Applicable State/US Territory
+Contractor
+ 
+ 

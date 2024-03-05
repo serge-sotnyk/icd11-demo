@@ -1,0 +1,4447 @@
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+    
+  
+ 
+ 
+  
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Page 1 of 66 Intraoperative Radiation Therapy (IORT)  - Medical Clinical Policy Bulletins | Aetna  	 
+Intraoperative Radiation Therapy 
+ 
+(IORT) 
+ 
+POLICY HISTORY 
+Last Review: 09/29/2021 
+Effective: 03/17/2006 
+Next Review: 08/11/2022 
+Review His tory 
+Deﬁnitions 
+Additional Information 
+Clinical Policy Bulletin  
+Notes Number: 0721 
+POLICY 
+*Please see amendment for Pennsylvania Medicaid at the end of this CPB. 
+I.  
+  
+ Aetna  considers  intraoperative  radiation  therapy  (IORT)  medically  
+necessary for the treatment of cervical cancer, colorectal 
+cancer, soft tissue sarcoma (including retroperitoneal sarcoma),  
+and uterine  cancer.  
+II.Aetna  considers  the  use  of  single -fraction  electron -beam  IORT  at 
+the  time  of  breast  conserving  surgery  (i.e.,  lumpectomy)  medically 
+  
+necessary for individuals with  breast cancer when the following  
+ 
+selection criteria are  met: 
+  
+A.  Documented  diagnosis  of  early  stage  (0,  I or  II)  breast  cancer;  
+and  
+B.  Negative lymph nodes;  and  
+C.  Technically clear surgical margins;  and  
+D.  Used  to  treat  tumors  less  than  or  equal  to  5  cm  in  diameter.  
+III. 	Aetna  considers  intraoperative  radiation  therapy  experimental  and 
+investigational for the treatment of the following indications (not  
+ 
+an all -inclusive  list)  because  its  eﬀectiveness  for  these  indications 
+	 
+has not been  established: 
+        
+ 
+ 
+ 
+ 
+          
+         
+         
+      
+ 
+     
+             
+            
+           
+            
+   
+         
+  Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 2 of 66 
+Brain  tumors  (e.g.,  glioblastomas)  and  brain  metastasis  
+Cho
+langiocarcinoma  
+Conjunctival neoplasms  (e.g., lymphoma, sebaceous  
+carcinoma, and squamous cell carcinoma)  
+Gastric cancer  
+Head  and  neck  cancers  (e.g.,  esophageal  cancer,  and  middle  
+ear  tumors)  
+Osteosarcoma 
+Panc r
+eatic cancer  
+Pro
+state cancer  
+Ren
+al cell carcinoma 
+Spin
+al metastases  
+Sporadic renal angiomyolipoma  
+Thymoma  
+Vertebral metastases.  
+See  also  CPB  0083  - Stereotactic  Radiosurgery  (../1_99/0083.html);  
+CPB 0270 -  Proton Beam, Neutron Beam, and Carbon Ion  
+Radiotherapy (../200_299/0270.html); CPB  0371 -  Brachytherapy  
+(../300_399/0371.html);  CPB  0590  - Intensity  Modulated  Radiation  
+Therapy  (../500_599/0590.html).  
+BACKGROUND 
+The usual method for delivering radiation is external beam with high-
+energy photons. However, the external beam doses required to achieve 
+local tumor control can exceed the radiation tolerance of some normal organs and other structures of the body. 
+Intra-operative radiation therapy (IORT) is being investigated as a 
+technique to deliver a high dose of radiation to a locally advanced tumor 
+while attempting to protect adjacent normal tissues at the time of surgery. 
+It is delivered with applicators and cones attached to the treatment head 
+of high -energy medical linear accelerators. After all or most of the cancer 
+is surgically removed, a large, single- dose of high -energy radiation is 
+aimed directly at the tumor site. Nearby healthy tissue is protected with 
+special shields.       
+ 
+     
+    
+     
+   
+   
+ 
+          
+   
+          
+        
+     
+   
+         
+            
+            
+    
+ 
+ 
+       
+         
+       
+       
+        
+             
+        
+         
+        
+          
+   
+ 
+    
+     
+    
+          
+            
+        
+         
+           Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 3 of 66 
+The goal of IORT is to enhance local tumor control. Most patients 
+receiving IORT are concurrently treated with high- dose external beam 
+photon irradiation. The term “intraoperative radiation therapy” may also 
+refer to intra -operative brachytherapy, the temporary or permanent 
+implantation of radioactive seeds. 
+Intra-operative radiation therapy is usually a component of a multi ­
+disciplinary treatment approach for localized cancers that cannot be 
+completely removed or that have a high risk of recurring in nearby 
+tissues. For patients with colorectal cancer, IORT has been associated with i mproved local control. Several case series have demonstrated that 
+adjuvant IORT has the potential to improve response rates with 
+acceptable toxicities and improve survival with locally advanced colorectal 
+cancer (Taylor et al, 2002; Ratto et al, 2003; Hashiguchi et al, 2003; 
+Pacelli et al, 2004). Thus, the positive impact of IORT on local control of colorectal cancer appears to justify the inclusion of this therapeutic 
+modality. 
+Pacelli et al (2004) reported early and long- term results of pre -operative 
+radiotherapy plus IORT to total mesorectal excision of middle and lower 
+T3 rectal cancer patients (n = 113). Five- year, disease- specific survival 
+was 81.4 % for those patients receiving pre- operative radiotherapy plus 
+IORT (n = 69) compared to 58.1 % for thos e patients in the mesorectal 
+excision group (n = 44). The rates of local recurrence at 5 years were 6.6 
+% and 23.2 % in pre- operative radiotherapy plus IORT group and total 
+mesorectal excision group, respectively. The authors concluded that pre­
+operative radiotherapy plus IORT associated with total mesorectal 
+excision reduced local recurrence rate and improved survival in T3 rectal 
+cancer compared with total mesorectal excision alone. 
+Persons from the American Society of Therapeutic Radiation and Oncology (ASTRO) have commented that “[c]urrently, it [IORT] is primarily used for treating rectal cancers, although in the near future it may be used for additional sites. Studies indicate that IORT might be used to treat head and neck, abdomen, and pelvic cancers, and cancers 
+in the extremities. IORT can reduce the length of treatment. The 
+Stanford Cancer Center states, 'In some cases, no further radiation 
+treatment is required following IORT making it a much more convenient       
+ 
+      
+          
+    
+ 
+        
+        
+     
+        
+        
+    
+          
+         
+ 
+           
+       
+          
+          
+             
+         
+   
+ 
+          
+        
+      
+   
+       
+          
+            
+      
+    
+ 
+      
+          
+      
+          
+          
+  
+        
+         Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 4 of 66 
+approach for delivering therapy. Furthermore, physicians are able to 
+shield surrounding organs from radiation, limiting side effects to healthy 
+tissue" (Demanes and Rieke, 2005). 
+The National Comprehensive Cancer Network (NCCN) Clinical Practice 
+Guidelines for Oncology recommends IORT for colorectal cancers and 
+uterine cancers. Regarding the use of IORT in colon cancer, NCCN 
+guidelines state: “Intraoperative radiation therapy, if available, should be 
+considered for patients with T4 or recurrent cancers as an additional boost. Preoperative radiation is preferred for these patients to aid 
+resectability. If IORT is not available, low dose external beam radiation 
+could be considered, prior to adjuvant chemotherapy” (NCCN, 2006). 
+NCCN guidelines also recommend the use of IORT in selected rectal 
+cancers: “Intraoperative radiation therapy, if available, should be considered for very close or positive margins after resection, as an additional boost especially for patients with T4 or recurrent cancers. If 
+IORT is not available, 10 to 20 Gy external beam radiation to a limited 
+volume could be considered soon after surgery, prior to adjuvant 
+chemotherapy" (NCCN, 2006). 
+Regarding the use of IORT for uterine cancers, NCCN guidelines state 
+that: “For patients previously treated with external -beam RT, 
+recommended salvage therapy includes pelvic exenteration with or 
+without IORT, palliative radiotherapy, hormonal therapy, or 
+chemotherapy. Radical surgery, such as pelvic exenteration, has been 
+performed with reported survival rates approximating 20 %. For patients 
+without prior RT to the site of recurrence, or with previous brachytherapy 
+only, surgical exploration of pelvis and abdomen should be performed 
+with or without IORT” (NCCN, 2005). 
+NCCN guidelines also discuss the use of IORT in cervical cancers: 
+“Patients with a localized recurrence of cervical cancer after surgery 
+should be evaluated for salvage radiotherapy. Salvage rates of approximately 40 % have been reported in such situations. For patients who experience pelvic recurrences with no prior radiation therapy or who 
+experience recurrences outside of the previously treated field, salvage therapy includes def initive pelvic radiation with or without platinum -based 
+chemotherapy with or without brachytherapy. Patients with central pelvic       
+ 
+        
+          
+    
+             
+        
+      
+    
+      
+          
+          
+    
+        
+  
+ 
+        
+           
+     
+  
+           
+      
+        
+        
+        
+       
+          
+ 
+              
+        
+           
+        
+           
+         
+        
+      
+       
+   
+         
+           Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 5 of 66 
+recurrent disease after radiation therapy should be evaluated for pelvic 
+exenteration, with or without IORT (or, in carefully selected patients with 
+small lesions, radical hysterectomy or interstitial reirradiation). Surgical 
+mortality is generally 5 % or lower, with survival rates between 20 % and 
+6 %. Concomitant measures with such radical procedures include 
+adequate rehabilitation programs dealing with the psychosocial and psychosexual consequences of the operation and reconstructive procedures. Recurrence after pelvic exenteration should be treated with platinum -based chemotherapy or best supportive care or be enrolled in a 
+clinical trial. Those with non-central disease should be treated with pelvic 
+exenteration/laterally extended endopelvic resection/IORT, platinum -
+based chemotherapy, best supportive care, or participation in a clinical trial” (NCCN , 2005). 
+A review of IORT in the management of locally advanced gynecological 
+malignancies by del Carmen et al (2000) reported that IORT can be 
+utilized to maximize local tumor control. According to del Carmen and colleagues, “[r]eview of the available literature indicates that IORT may 
+improve long-term local control and overall survival in women with pelvic 
+sidewall and/or para- aortic nodal recurrence. The most encouraging 
+results have been reported in cases with microscopic residual disease, following surgical debulking.” According to a more recent review by del Carmen and colleagues (2003), “[h]igher 5-year disease- free and overall 
+survival rates have been documented in women who have microscopic residual disease, compared withthose who have gross residual disease.” 
+Orecchia et al (2006) stated that IORT has been used in the treatment of 
+various malignancies, mostly in combination with external beam radiation 
+therapy. The long-term results suggest a positive impact on local controls 
+that appear to be associated with increased survival. Modern IORT can be performed either with electron beams or photons, and has been used 
+recently in early -stage cancer as a boost or as an exclusive treatment, 
+especially for breast tumors, with extremely promising results. The results of different clinical studies have shown the feasibility of the technique and it is expected that its application will become more 
+widespread in the immediate future. The authors noted that 
+intraoperative electron radiotherapy in the treatment of initial- stage breast 
+cancer may be an excellent alternative to external beam radiation therapy       
+ 
+         
+    
+ 
+ 
+      
+         
+          
+        
+          
+   
+          
+      
+     
+      
+       
+        
+        
+       
+     
+     
+        
+           
+        
+      
+        
+          
+       
+     
+        
+ 
+            
+     
+         
+         
+           
+        
+     
+  Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 6 of 66 
+in an appropriate selected group of patients; however, intensive long-term 
+follow -up is needed to better assess local control and possible side 
+effects. 
+Sauer and colleagues (2007) stated that breast -conserving surgery 
+followed by whole -breast radiotherapy (WBRT) has become the standard 
+treatment for the majority of patients with early breast cancer. While the 
+indications for systemic adjuvant treatment have continuously expanded, 
+there is a tendency to restrict post-operative radiotherapy to accelerated 
+partial breast irradiation (APBI) instead of WBRT. These investigators 
+described various techniques of APBI; and their respective advantages or 
+potential drawbacks. Moreover, they reviewed the scientific evidence in 
+the literature, which forms the basis for the consensus statements and recommendations of the German Society of Radiation Oncology, the 
+German Society of Senology, and the Working Group for Gynecological 
+Oncology of the German Cancer Society. The methods mainly used for APBI are: interstitial radiotherapy with multi -catheter technique, IORT, the 
+MammoSite, or 3 -D conformal external beam radiotherapy. These 
+techniques have marked differences in dose distribution and 
+homogeneity. The published range of local recurrence rates varies 
+between 0 % to 37 %, the median follow -up from 8 to 72 months. The 
+authors concluded that to-date, follow -up times mostly do not yet permit a 
+definite judgment concerning the long- term effectiveness and side effects 
+of APBI. The relevant societies in Germany support randomized clinical studies comparing APBI with WBRT in a well -defined subset of low -risk 
+patients. Moreover, the authors expressly discouraged the routine use of 
+APBI outside clinical trials. Until definite results show that APBI neither 
+impairs therapeutic outcome nor cosmetic results, WBRT remains the 
+gold standard in the treatment of early breast cancer. 
+The conclusion by Sauer et al (2007) is in agreement with that of 
+Mitsumori and Hiraoka (2008) who not ed that APBI is still an 
+investigational treatment in Japan, and the optimal method of radiation 
+delivery as well as its long-term safety and effectiveness should be 
+ascertained in clinical trials. In this regard, Blohmer et al (2008) stated 
+that ongoing prospective and randomized studies are investigating for 
+which patients IORT is sufficient as the sole irradiation method after previous surgery.       
+ 
+           
+         
+         
+     
+     
+         
+        
+          
+     
+        
+    
+         
+           
+         
+           
+ 
+     
+           
+    
+    
+   
+     
+           
+         
+      
+          
+      
+     
+            
+         
+       
+     
+          
+   
+      
+         
+  Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 7 of 66 
+Kalapurakal et al (2006) reported the findings of a phase I study in which 
+IORT (first dose level of 10 Gy) with the photon radiosurgery system was 
+used to treat children with recurrent brain tumors. A total of 14 children 
+received IORT; 8 had been previously irradiated. Thirteen children had ependymoma. The median follow -up period was 16 months. Three 
+patients (21 %) developed radiation necrosis on follow -up MRI scans 6 to 
+12 months after IORT. They had not been previously irradiated and had received 10 Gy to a depth of 5 mm. One required surgery and the other 2 had resolution of their lesions without treatment. All 3 patients were asymptomatic at the last follow -up. No other late toxicity was observed at 
+the last follow -up visit. Eight patients (57 %) had tumor control within the 
+surgical bed after IORT. The authors concluded that these findings demonstrated the safety and feasibility of IORT to a dose of 10 Gy to 2 mm in children with previously irradiated brain tumors, while IORT to a dose of 10 Gy at 5 mm was associated with a greater complication rate. 
+Bergenfeldt and Albertsson (2006) summar ized the development of 
+adjuvant therapy for pancreatic cancer over the last 20 years. Four randomized controlled trials compared long- term survival of different 
+treatments. The small GITSG -study supported combined 
+chemoradiation, but the EORTC -study found no significant effect. A 
+Norwegian study of adjuvant chemotherapy found an increased median survival, but no effect beyond 2 years. The large ESPAC -1 study showed 
+a benefit for 5- FU based chemotherapy, while chemoradiation had a 
+negative effect. Thus, evi dence favors adjuvant therapy, but 5- FU may 
+not be the ultimate drug. Support for gemcitabine is given by preliminary data from a German randomized trial, and further American and European studies are upcoming. However, post -operative therapy is 
+problemati c, as 20 to 30 % of resected patients never undergo treatment 
+because of slow recovery or other reasons. Pre- operative therapy has 
+some theoretical advantages, and moreover, patients with rapidly progressive disease may be spared surgery. Randomized contro lled 
+trials are lacking, but published results compared well with post-operative, 
+adjuvant therapy. The value of locally targeted therapy is difficult to assess. Reasonable results have been obtained with regional 
+chemotherapy, whereas IORT does not seem to increase survival despite 
+reducing local recurrences.       
+ 
+       
+       
+       
+       
+         
+      
+     
+      
+     
+      
+         
+         
+      
+        
+      
+             
+   
+  
+ 
+          
+   
+       
+       
+      
+       
+         
+       
+      
+        
+         
+       
+     
+          
+      
+            
+          
+           
+         
+           Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 8 of 66 
+Ruano- Ravina et al (2008) evaluated the safety and effectiveness of 
+IORT in pancreatic cancer. These investigators conducted a systematic 
+review of scientific literature from January 1995 to February 2007, including Medline, Embase, ISI Web of Science and HTA (Health 
+Technology Assessment). By applying a series of inclusion criteria, 2 
+independent reviewers selected those studies in which a minimum of 30 
+patients received IORT and which furnished survival results based on a minimum 3 -month follow -up. A tota l of 14 papers were included, 1 was 
+an IORT assessment report, 5 were cohort studies, and the remaining 8 were case series studies, 2 of which belonged to the same series. In 
+general, these studies showed that IORT could slightly increase survival 
+among patients with pancreatic cancer in localized stages. However, the 
+results were not conclusively in favor of IORT in the case of pancreatic 
+cancer in locally advanced and metastatic stages. There were no 
+published studies that assessed quality of life. The authors concluded 
+that there is no clear evidence to indicate that IORT is more effective than 
+other therapies in treating pancreatic cancer in locally advanced and 
+metastatic stages. 
+Showalter et al (2009) performed a retrospective analysis of patients who 
+underwent pancreatico- duodenectomy (PD) between 1995 and 2005 to 
+identify patients who underwent resection with and without IORT. Data 
+collected included age, gender, complications, margin status, stage, survival, and recurrence. Unadjusted analyses of the IORT and non-
+IORT groups were performed using Fisher's chi -square method for 
+discrete variables and Wilcoxon rank sum test for continuous variables. 
+To account for biases in patient selection for IORT, a propensity score 
+was calculated for e ach patient and adjusted statistical analyses were 
+performed for survival and recurrence outcomes. Between January 1995 
+and November 2005, a total of 122 patients underwent PD for peri ­
+ampullary tumors, including 99 pancreatic cancers. Of this group, 37 patients were treated with IORT, and there was adequate follow -up 
+information for a group of 46 patients who underwent PD without IORT. 
+The IORT group contained a higher percentage of Stage IIB or higher 
+tumors (65 %) than in the non-IORT group (39.1 %), though differences in 
+stage did not reach significance (p = 0.16). There was a non- significant 
+decrease in the rate of loco- regional recurrence in patients who had IORT 
+(39 % non- IORT versus 23 % IORT, p = 0.19). The median survival time 
+of patients who received IORT was 19.2 months, which was not       
+ 
+      
+           
+           
+       
+     
+         
+   
+              
+        
+ 
+     
+           
+        
+       
+        
+       
+      
+   
+         
+        
+         
+       
+       
+           
+    
+ 
+       
+        
+        
+             
+        
+   
+   
+       
+         
+          
+          
+          
+          Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 9 of 66 
+significantly different than patients managed without IORT, 21.0 months 
+(p = 0.78). In the propensity analyses, IORT did not significantly influence 
+survival or recurrence after PD. The authors concluded that IORT can be 
+safely added to management approaches for resectable pancreatic 
+cancer, with acceptable morbidity and mortality. However, IORT did not 
+improve loco- regional control and did not alter survival for patients with 
+resected pancreatic cancer. In the future, IORT may be combined with novel therapeutic agents in the setting of a clinical trial in order to attempt 
+to improve outcomes for patients with pancreatic cancer . 
+Czito and colleagues (2006) stated that the prognosis of patients with 
+biliary cancers is poor. Although surgery is potentially curative in selected 
+patients, local recurrence is common. The use of adjuvant or neoadjuvant radiation therapy improves local control and possibly survival. In locally advanced patients, radiation therapy provides palliation 
+and may prolong survival. Concurrently administered chemotherapy may 
+further enhance these results. Newer radiation therapy techniques, including intra -luminal transcatheter brachytherapy, IORT, intensity -
+modulated radiation therapy (IMRT), and 3-and 4-dimensional treatment 
+planning, permit radiation dose escalation without significant increases in 
+normal tissue toxicity, thus increasing the effective radiation dose. 
+Preliminary results of studies employing hepatic transplantation with radiation therapy are encouraging. Although these new approaches hold promise, the prognosis in patients with biliary cancers remains poor, and the integration of novel therapeutic strategies is indicated. 
+Tzeng et al (2006) noted that retroperitoneal soft -tissue sarcoma is an 
+uncommon cancer that is difficult to treat because of its location and 
+proximity to vital organs. Complete gross resection, often involving en bloc resection, is the standard of care as it represents the only treatment 
+that improves overall survival. Unlike extremity sarcoma, retroperitoneal 
+sarcoma tumor mortality is from local recurrence. Radiation therapy is 
+the only adjuvant treatment that has improved local control in several institutional series. However, there remains no definitive prospective, randomized controlled study that establishes the role of adjuvant radiation 
+versus no radiation. Owing to significant radiation morbidity with adjacent 
+organs, especially the small intestine, there exists no consensus on radiation timing, delivery method or dosing. Recent and current protocols 
+use pre- operative external -beam radiation with or without a method of       
+ 
+        
+        
+         
+         
+    
+ 
+       
+    
+       
+     
+      
+         
+ 
+              
+         
+            
+   
+         
+         
+          
+         
+        
+         
+            
+          
+    
+       
+       
+             
+           
+ 
+ 
+          
+           
+        
+         
+           
+      
+          Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 10 of 66 
+focal boost dosing. Methods of boost dosing include brachytherapy, 
+IORT and IMRT. Further studies are needed to definitively include 
+radiation therapy in the standard treatment of retroperitoneal soft-tissue 
+sarcoma and to find the optimal balance between acceptable radiation 
+toxicity and effective local control in treatment protocols . 
+Ballo and colleagues (2007) assessed the clinical outcomes of patients with localized retroperitoneal soft tissue sarcoma (STS) treated with 
+complete surgical resection and radiation. The medical records of 83 
+patients were reviewed retrospectively; 60 patients presented with primary disease and the remaining 23 had recurrence after previous surgical resection. With a median follow -up of 47 months, the actuarial 
+overall disease- specific survival (DSS), distant metastasis -free survival, 
+and local control (LC) rates were 44 %, 67 %, and 40 %, respectively. Of 
+the 38 patients dying of disease, local disease progression was the sole site of recurrence for 16 patients and was a component of progression for 
+another 11 patients. Multi -variate analysis indicated that histological 
+grade was associated with the 5 -year rates of DSS (low- grade, 92 %; 
+intermediate -grade, 51 %; and high- grade, 41 %, p = 0.006). Multi ­
+variate analysis also indicated an inferior 5 -year LC rate for patients 
+presenting with recurrent disease, positive or uncertain resection margins, 
+and age greater than 65 years. The data did not suggest an improved local control with higher doses of external -beam radiation therapy (EBRT) 
+or with the specific use of IORT. Radiation- related complications (10 % at 
+5 years) developed in 5 patients; all had received their EBRT post ­
+operatively. The authors concluded that although pre- operative radiation 
+therapy and aggressive surgical resection is well -tolerated in patients, 
+local disease progression continues to be a significant component of disease death. In this small cohort of patients, the use of higher doses of 
+EBRT or IORT did not result in clinically apparent improvements in outcomes. 
+Patel and DeLaney (2008) noted that bone sarcomas are rare primary 
+tumors. Radiation therapy (RT) can be useful in securing local control in 
+cases where negative surgical margins cannot be obtained or where 
+tumors are not resected. Recent technical advances in RT offer the 
+opportunity to deliver radiation to these tumors with higher precision, thus 
+allowing higher doses to the tumor target with lower doses to critical 
+normal tissues, which can improve local tumor control and/or reduce       
+ 
+        
+          
+   
+      
+      
+         
+   
+       
+          
+   
+  
+       
+ 
+ 
+       
+           
+       
+           
+          
+         
+      
+            
+            
+            
+       
+        
+           
+ 
+       
+       
+        
+     
+         
+          
+           
+           
+    
+    
+        Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 11 of 66 
+treatment -related morbidity. These researchers conducted a survey of 
+recent technical developments that have been applied to RT for bone 
+sarcomas. Radiation therapy techniques that show promise include 
+intensity -modulated photon RT, 3-D conformal proton RT, intensity -
+modulated proton RT, heavy charged- particle RT, IORT, and 
+brachytherapy. All of these techniques permit the delivery of higher radiation doses to the target and less dose to normal tissue than had been possible with conventional 3- D conformal radiation techniques. 
+Protons deliver substantially less dose to normal tissues than photons. 
+The authors concluded that data from clinical studies using these 
+advanced radiation techniques suggest that they can improve the 
+therapeutic ratio (the ratio of local control efficacy to the risk of complications). 
+In a feasibility study, Marucci et al (2008) evaluated the acute toxicity of 
+IORT delivered as an "early boost" after tumor resection in patients with locally advanced head and neck cancer. A total of 25 patients were enrolled in the study. All patients underwent surgery with radical intent, 
+and 17 had microvascular flap reconstruction. The IORT was delivered in 
+the operating room; 20 patients received adjuvant EBRT. Five patients 
+experienced various degrees of complications in the post -operative 
+period, all of which were treated conservatively. One patient had a partial 
+flap necrosis after EBRT that was treated with flap removal. Six deaths 
+were recorded during the mean follow -up period of 8 months; none of the 
+deaths was related to radiation treatment. The authors concluded 
+that these findings showed that the use of IORT as an early boost is 
+feasible with no increase in acute toxicity directly attributable to radiation. 
+Perry et al (2010) reported the use of high- dose- rate IORT (HDR -IORT) 
+for recurrent head- and-neck cancer (HNC) at a single institution. A total 
+of 34 subjects with recurrent HNC received 38 HDR -IORT treatments 
+using a Harrison-Anderson- Mick applicator with Iridium -192. A single 
+fraction (median of 15 Gy; range of 10 to 20 Gy) was delivered intra-operatively after surgical resection to the region considered at risk for 
+close or positive margins. In all patients, the target region was previously treated with EBRT (median dose of 63 Gy; range of 24 to 74 Gy). The 1­and 2-year estimates for in- field local progression-free survival (LPFS), 
+loco-regional PF S (LRPFS), distant metastases -free survival (DMFS), 
+and overall survival (OS) were calculated. With a median follow -up for       
+ 
+            
+       
+         
+       
+       
+              
+           
+         
+      
+      
+         
+       
+           
+ 
+            
+          
+           
+         
+         
+         
+    
+       
+      
+         
+          
+             
+             
+      
+              
+        
+               
+          
+          
+     
+         
+           
+           Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 12 of 66 
+surviving patients of 23 months (range of 6 to 54 months), 8 patients (24 
+%) are alive and without evidence of disease. The 1- and 2 -year LPFS 
+rates are 66 % and 56 %, respectively, with 13 (34 %) in -field 
+recurrences. The 1- and 2- year DMFS rates are 81 % and 62 %, 
+respectively, with 10 patients (29 %) developing distant failure. The 1­and 2-year OS rates are 73 % and 55 %, respectively, with a median time 
+to OS of 24 months. Severe complications included cellulitis (n = 5), 
+fistula or wound complications (n = 3), osteo- radionecrosis (n = 1), and 
+radiation -induced trigeminal neuralgia (n = 1). The authors concluded 
+that HDR- IORT has shown encouraging local control outcomes in 
+patients with recurrent HNC with acceptable rates of treatment -related 
+morbidity. They stated that longer follow -up with a larger cohort of 
+patients is needed to fully assess the benef it of this procedure. 
+Drognitz et al (2008) retrospectively analyzed the impact of IORT on long­
+term survival in patients with resectable gastric cancer. From 1991 to 2001, a total of 84 patients with gastric neoplasms underwent gastectomy 
+or subtotal resection with IORT (23 Gy, 6 to 15 MeV; IORT -positive 
+[IORT(+)] group). Patients with a history of additional neoadjuvant chemotherapy, histologically confirmed R1 or R2 resection, or reoperation 
+with curative intention after local recurrence were excluded from further 
+analysis. The remaining 61 patients were retrospectively matched with 61 patients without IORT (IORT -negative [IORT( -)] group) for Union 
+Internationale Contre le Cancer (UICC) stage, patient age, histologic grading, ex tent of surgery, and level of lymph node dissection. 
+Subgroups included post -operative UICC stages I (n = 31), II (n = 11), III 
+(n = 14), and IV (n = 5). Mean follow -up was 4.8 years in the IORT(+) 
+group and 5.0 years in the IORT( -) group. The overall 5 -year patient 
+survival rate was 58 % in the IORT(+) group versus 59 % in the IORT( -) 
+group (p = 0.99). Subgroup analysis showed no impact of IORT on 5­year patient survival for those with UICC stages I/II (76 % versus 80 %; p 
+= 0.87) and III/IV (21 % versus 14 %, IORT(+) versus IORT( -) group; p = 
+0.30). Peri -operative mortality rates were 4.9 % and 4.9 % in the IORT(+) 
+versus IORT( -) group. Total surgical complications were more common in 
+the IORT(+) than IORT( -) group (44.3 % versus 19.7 %; p < 0.05). The 
+loco-regional tumor recurrence rate was 9.8 % in the IORT(+) group. The 
+authors concluded that use of IORT was associated with low loco­      
+ 
+           
+         
+ 
+ 
+           
+           
+      
+              
+          
+      
+    
+          
+             
+           
+              
+        
+         
+          
+     
+          
+      
+        
+             
+  
+ 
+             
+        
+       
+       
+      
+      
+       
+       
+         
+         
+   
+      
+               
+           Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 13 of 66 
+regional tumor recurrence, but had no benefit on long-term survival while 
+significantl y increasing surgical morbidity in patients with curable gastric 
+cancer. 
+In a phase I -II study, Saracino et al (2008) examined the use of IORT 
+following radical prostatectomy for prostate cancer. A total of 34 patients 
+with localized prostate cancer with only 1 risk factor (Gleason score 
+greater than or equal to 7, Clinical Stage [cT] greater than or equal to 2c, 
+or prostate- specific antigen [PSA] of 11 to 20 ng/ml) and without clinical 
+evidence of lymph node metastases were treated with radical prost atectomy (RP) and IORT on the tumor bed. A dose -finding 
+procedure based on the Fibonacci method was employed. Dose levels of 
+16, 18, and 20 Gy were selected, which are biologically equivalent to total 
+doses of about 60 to 80 Gy administered with conventional fractionation, 
+using an alpha/beta ratio value of 3. At a median follow -up of 41 months, 
+24 (71 %) patients were alive with an undetectable PSA value. No patients died from disease, whereas 2 patients died from other malignancies. Loco- regional failures were detected in 3 (9 %) patients, 2 
+in the prostate bed and 1 in the common iliac node chain outside the 
+radiation field. A PSA rise without local or distant disease was observed 
+in 7 (21 %) cases. The overall 3- year biochemical progression- free 
+survival rate was 77.3 %. The authors concluded that this dose- finding 
+study showed the feasibility of IORT in prostate cancer also at the highest 
+administered dose. 
+In a phase II clinical study, Lemanski et al (2010) examined the feasibility 
+and the effectiveness of IORT as an alternative to conventional boost 
+radiation after breast -conserving surgery in elderly patients. These 
+investigators included 94 patients older than 65 years. Among them, 42 patients presented with all the inclusion criteria, i.e., stages pT0 to pT1 and pN0, ductal invasive unifocal carcinoma, and tumor -free margin of 
+greater than 2 mm. Intra- operative radiation therapy was delivered using 
+a dedicated linear accelerator. One 21- Gy fraction was prescribed and 
+specified at the 90 % isodose, using electrons. In- vivo dosimetry was 
+performed for all patients. The primary end point was the quality index. Secondary end points were quality -of-life, local recurrences, cosmetic 
+results, and specific and overall rates of survival. The median follow -up 
+was 30 months (range of 12 to 49 months), and median age was 72 years 
+(range of 66 to 80 years). The median tumor diameter was 10 mm. All       
+ 
+      
+         
+     
+       
+        
+     
+   
+  
+      
+     
+ Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 14 of 66 
+patients received the total prescribed dose. No acute grade 3 toxicities 
+were observed. End points for all but 1 patient corresponded to 
+acceptable quality index criteria. Pre- treatment quality -of-life scores were 
+maximal, and no significant decrease was observed during follow -up. 
+Cosmesis was good to excellent at 6 months. Two patients experienced 
+recurrence but underwent salvage mastectomy. The authors concluded 
+that these findings confirm that exclusive partial -breast IORT is feasible 
+for treating early -stage breast cancer in the elderly. Intra- operative 
+radiation therapy may be considered an alternative treatment for a 
+selected population and offers a safe 1- step treatment. 
+In  a prospective,  randomi zed,  non-inferiority trial, Vaidya et   al (2010)  
+compared targeted IORT  versus  whole breast radiotherapy for  breast  
+cancer.  Women aged 45 years  or  older  with  invasive  ductal  breast  
+carcinoma undergoing breast -conserving  surgery  were  enrolled  from  28 
+centers  in  9 countries.  Patients  were  randomly  assigned in  a 1:1  ratio  to  
+receive targeted IORT or  whole  breast  EBRT,  with  blocks  stratified  by  
+center  and by  timing of  delivery  of  targeted IORT. Neither  patients  nor  
+investigators  or  their  teams  were  masked  to  treatment  assignment.  Post­ 
+operative  discovery  of  pre-defined  factors  (e.g.,  lobular  carcinoma)  could 
+trigger  addition  of  EBRT  to targeted  IORT (in  an expected 15  %  of  
+patients).  The primary  outcome was  local  recurrence  in  the conserved 
+breast.  The  pre-defined  non-inferiority  margin  was  an  absolute  difference  
+of  2.5  %  in  the  primary  endpoint.  All  randomized  patients  were included 
+in the intention-to -treat  analysis.  A total  of  1,113 patients  were  randomly  
+allocated to targeted  IORT and 1,119 were  allocated to EBRT.  Of  996 
+patients  who  received  the  allocated  treatment  in  the  targeted  IORT  group,  
+854 (86 %)  received targeted IORT  only  and 142  (14 %)  received 
+targeted  IORT plus  EBRT.  In the EBRT group,  1,025 (92  %)  patients  
+received the allocated treatment. At  4 years, there were 6 l  ocal  
+recurrences in the  IORT group and 5  in  the  EBRT  group.  The Kap lan- 
+Meier  estimate  of  local  recurrence  in  the  conserved  breast  at  4  years  was  
+1.20  %  (95  %  confidence  interval  [CI]:  0.53  to  2.71)  in  the  targeted  IORT 
+and  0.95  %  (0.39  to  2.31)  in  the  EBRT  group  (difference  between  groups  
+0.25 %,  -1.04 to 1.54;  p =  0.41).  The frequency  of  any  complications  and  
+major  toxicity  was  similar  in the 2  groups  (for  major  toxicity,  targeted 
+IORT,  37  [3.3  %]  of  1,113  versus  EBRT,  44 [3.9  %]  of  1,119;  p  =  0.44).  
+Radiotherapy  toxicity  (Radiation  Therapy  Oncology  Group grade  3)  was 
+lower in the targeted IORT  group (6 patients [0.5 %]) than in the        
+ 
+        
+         
+             
+        
+  
+ 
+          
+           
+      
+      
+           
+       
+         
+          
+           
+        
+       
+        
+          
+        
+        
+           
+  
+ 
+      
+    
+      
+    
+      
+     
+       
+     
+         
+     
+    
+      
+        
+     Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 15 of 66 
+external EBRT group (23 patients [2.1 %]; p = 0.002). The authors 
+concluded that for selected patients with early breast cancer, a single 
+dose of radiotherapy delivered at the time of surgery by use of targeted 
+IORT should be considered as an alternative to EBRT delivered over several weeks. 
+Wenz and associates (2010) developed a novel approach to deliver IORT 
+during kyphoplasty and reported the first treated case, which dealt with a 
+60-year old patient with metastasizing breast cancer who under 
+chemotherapy and later presented with a newly diagnosed painful metastasis in the 12th thoracic vertebra. Under general anesthesia, a bi­
+pedicular approach into the vertebra was chosen with insertion of 
+specially designed metallic sleeves to guide the electron drift tube of the miniature X-ray generator. This was inserted with a novel sheet designed 
+for this approach protecting the drift tube. A radiation dose of 8 Gy in 5­mm dis tance (50 kV X -rays) was delivered. The kyphoplasty balloons 
+were inflated after IORT and polymethylmethacrylate cement was injected. The whole procedure lasted less than 90 minutes. The authors concluded that this novel, minimally invasive procedure can be performed 
+in standard operating rooms and may become a valuable option for patients with vertebral metastases providing immediate stability and local 
+control. They noted that a phase I/II study is under way to establish the optimal dosage. 
+Marchioro et al (2012) noted that intra- operative electron beam 
+radiotherapy (IOERT) for prostate cancer is a radiotherapeutic technique, giving high -doses of radiation during radical prostatectomy (RP). These 
+investigators presented the published treatment approaches for IORT analyzing functional outcome, morbidity, and oncological outcome in patients with clinical intermediate -high-risk prostate cancer. A systematic 
+review of the literature was performed, searching PubMed and Web of Science. A "free text" protocol u sing the term intraoperative radiotherapy 
+and prostate cancer was applied. A total of 10 records were retrieved and analyzed including more than 150 prostate cancer patients treated with 
+IOERT. The authors concluded that IOERT represents a feasible 
+technique with acceptable surgical time and minimal toxicity. They stated that a greater number of cases and longer follow -up time are needed in 
+order to assess the long-term side effects and oncological outcome.       
+ 
+      
+          
+        
+                
+            
+    
+       
+          
+            
+    
+ 
+           
+     
+        
+       
+  
+   
+       
+    
+    
+           
+       
+      
+       
+       
+ Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 16 of 66 
+Ruano- Ravina et al (2012) evaluated the safety and effectiveness of 
+IORT for early breast cancer through a systematic review. A total of 15 
+studies met the inclusion criteria. Most studies assessed the combined treatment with IORT (10 to 24 Gy) and EBRT (45 to 50 Gy) on early stage 
+breast cancer (T(0- 2)). Local control was over 95 % for 1 and 4 years of 
+follow -up and the 5- year OS was 99 %. The TARGIT -A study found a 
+similar survival comparing IORT with standard treatment. The incidence of acute and chronic complications was scarce. IORT is well-tolerated by 
+patients and acute and late toxicities are low. There are no differences in 
+survival for IORT -treated patients versus standard treatment . 
+Zurrida et al (2012) stated that wide tumor resection plus post-operative 
+whole breast irradiation is standard treatment for early breast cancer. Irradiation decreases recurrence rates, but may cause poor cosmesis, breast pain, and cardiac and lung toxicity. Accelerated partial breast irradiation is increasingly used in the hope of increasing convenience, 
+decreasing sequelae and maintaining cure rates. Intra- operative 
+radiotherapy with electrons is an attractive accelerated partial breast 
+irradiation technique because collimator placement is under the direct control of the surgeon who removes the tumor, the skin is spared, 
+shielding protects the chest wall and complete irradiation can be given in 
+a single intra -operative session (avoiding 5 to 7 weeks of whole breast 
+irradiation). The authors concluded that IORT with electrons seems as 
+safe as whole breast irradiation; however, long- term results on local 
+control and survival are not available yet. 
+The American  Co
+ llege of  Radiology  (ACR)'s  Appropriateness  Criteria® on 
+"Conservative surgery  and radiation  -- stage I  and II  breast  carcinoma"  
+(Bellon  et  al,  2011)  stated  that  "[t]here has  also been interest  in  single-  
+fraction intraoperative  radiation  therapy  (using  either  electrons  or  low- 
+energy  photons). At  present, however, there ar  e v ery limited follow -up 
+data,  and th is  remains  an  experimental  approach.  Accrual  is  ongoing  to a  
+phase III trial cosponsored by the National Surgical Bowel  and Breast  
+Program  and the  Radiation Therapy  Oncology  Group (RTOG®) 
+randomizing  patients  with  stage 0- II  cancer  who  have undergone 
+lumpectomy  to either  whole- breast  irradiation  or  PBI.  There  are other  
+randomized  trials  ongoing in  Canada and  Europe examining  this  
+question,  but  their  results  are  several  years  away".        
+ 
+      
+        
+          
+         
+        
+        
+        
+            
+       
+          
+     
+       
+       
+        
+  
+          
+         
+          
+     
+    
+ 
+         
+        
+         
+       
+      
+            
+     
+              
+         
+   
+          
+        
+     
+        
+   Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 17 of 66 
+Hershko et al (2012) described their experience with intra-operative 
+electron radiotherapy (IOeRT) at the Rambam Health Care Campus in 
+Haifa since they began utilizing this modality in 2006. From April 2006 to September 2010, 31 patients affected by unifocal invasive duct breast carcinoma less than or equal to 2 cm diameter received wide local 
+resection followed by intra-operative radiotherapy with electrons. Patients 
+were evaluated for early and late complications, and other events, 1 month after surgery and every 3 months thereafter for the duration of the 
+first 2 years. After a mean follow -up of 36 months, 7 patients developed 
+mild breast fibrosis and 3 suffered from mild post-operative infection. Rib 
+fractures were observed in 4 patients before routine lead shielding was initiated. Additional whole -breast irradiation was given to 4 patients. 
+None of the patients developed local recurrences or other ipsilateral cancers. Similarly, no contralateral cancers or distant metastases were 
+observed. The authors concluded that intra- operative electron 
+radiotherapy may be an alternative to external beam radiation therapy in 
+an appropriate selected group of early -stage breast cancer patients. 
+Moreover, they stated that long-term results of clinical trials are required 
+to better evaluate the indications and utility of this technique in the 
+management of breast cancer. 
+Leonardi et al (2012) evaluated late toxicity and cosmetic outcome after 
+intra-operative radiotherapy using electrons (ELIOT) as sole treatment 
+modality in early breast cancer patients. A total of 119 patients selected 
+randomly among 1,200 cases was analyzed. Late toxicities were documented using the LENT -SOMA scoring system, cosmesis was 
+evaluated with the Harvard scale, and a numeric rating scale was used to 
+assess symptoms. After a median follow -up of 71 months, grade II 
+fibrosis was observed in 38 patients (31.9 %) and grade III fibrosis in 7 patients (5.9 %). Post- operative complications (12.6 %) did not correlate 
+with late toxicity. Physicians and patients scored cosmesis as excellent 
+or good in 84 % and 77.3 % of the cases, respectively. Patient satisfaction was higher than 90 %. The authors concluded that in the study, ELIOT gives low and acceptable long- term toxicity. They stated 
+that a longer follow -up and a larger number of patients are needed to 
+confirm these promising results.       
+ 
+            
+          
+         
+       
+          
+       
+   
+              
+               
+         
+     
+             
+          
+     
+    
+ 
+ Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 18 of 66 
+Maluta et al (2012) reported the results of a single -institution, phase II trial 
+of accelerated partial breast irradiation (APBI) using a single dose of 
+intraoperative electron radiation therapy (IOERT) in patients with low-risk 
+early stage breast cancer. A cohort of 226 patients with low -risk, early 
+stage breast cancer were treated with local excision and axillary 
+management (sentinel node biopsy with or without axillary node 
+dissection). After the surgeon temporarily re- approximated the excision 
+cavity, a dose of 21 Gy using IOERT was delivered to the tumor bed, with 
+a margin of 2 cm laterally. With a mean follow -up of 46 months (range of 
+28 to 63 mont hs), only 1 case of local recurrence was reported. The 
+observed toxicity was considered acceptable. The authors concluded that APBI using a single dose of IOERT can be delivered safely in women 
+with early, low -risk breast cancer in carefully selected patients. Moreover, 
+they stated that a longer follow -up is needed to ascertain its efficacy 
+compared to that of the current standard treatment of whole- breast 
+irradiation. 
+Sawaki et  al  (
+ 2014) stated that IORT is  under  evaluation in br  east- 
+conser ving s urgery  because the feasibility of the IORT procedure  
+including  transportation of  the patient  under  general  anesthesia  is  not  
+well-established.  Thus,  this  prospective  single -center  pilot  study  aimed  to 
+test the feasibility of IORT at  a single  dose  of  21  Gy  in Japanese breast  
+cancer  patients.  The primary  endpoint  was  early  toxicity;  the  secondary  
+endpoint was late  toxicity. Patients with  histologically  or  cytologically 
+proven  primary  early  breast  cancer  were eligible.  Inclusion criteria  were  
+as  follows:  (i)  T  <  2.5  cm;  (ii)  desire  for  breast -conserving  surgery;  (iii)  
+age  greater than  50 years; (iv) surgical margin greater than 1 cm; (v)  
+intra -operative pathologically free margins; and (vi) sentinel node  
+negative.  Exclusion criteria w  ere  (i) contraindications to radiation  
+therapy; (ii) past radiation  therapy for the same breast or chest; (iii)  
+extensive intra -ductal component; and (iv) a tumor located in the  
+axillary tail of the breast.  All  patients  gave  written  informed consent .  
+Partial  resection  was  performed  with  at  least  a  margin  of  1  cm  around  the 
+tumor.  The  patient  was  transported  from  the  surgical  suite  to  the  radiation 
+room.  Radiation  at  21 Gy  was  delivered  directly  to  the mammary  gland.  
+Toxicity  was  evaluated  with  the  Common  Terminology  Criteria  for  Adverse  
+Events  V4.0.  A total  of  5 patients  were  enrolled  in  this  pilot  study  and 
+received  21  Gy.  Follow -up  ranged  from  7.8  to  11.0  months  (median  of        
+ 
+        
+         
+     
+               
+            
+      
+            
+     
+   
+            
+           
+ 
+            
+     
+     
+     
+  
+            
+     
+       
+           
+         
+       
+             
+        
+          
+            
+       
+    
+  
+ 
+         
+        
+            
+   
+        
+         
+         
+    Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 19 of 66 
+10.2). Intraoperative transportation to the radiation room during the 
+surgical procedure under general anesthesia was performed safely in all 
+patients. Treatment -related toxicities within 3 months were deep 
+connective tissue fibrosis (grade 1, n = 3) and pain (grade 1, n = 3). 
+There was no case of wound infection, wound dehiscence, or soft tissue 
+necrosis. Overall, there was no severe adverse event. The authors 
+concluded that the procedure was tolerated very well in this first group of 
+Japanese female patients treated with IORT, as was the case with 
+European women. They stated that a longer follow -up is needed for the 
+evaluation of any potential late side effects or recurrences; and a phase II 
+study is now being conducted for the next group of patients. 
+Engel et al (2013) noted IORT with low-energy x-rays is increasingly used 
+in breast -conserving therapy (BCT). Previous non- randomized studies 
+have observed mammographic changes in the tumor bed to be more pronounced after IORT. The purpose of this study was to re- assess the 
+post-operative changes in a randomized single -center subgroup of 
+patients from a multi -center trial (TARGIT- A). In this subgroup (n = 48) 27 
+patients received BCT with IORT, 21 patients had BCT with standard 
+whole -breast radiotherapy serving as controls. Overall 258 post ­
+operative mammograms (median follow -up of 4.3 years, range of 3 to 8) 
+were retrospectively evaluated by 2 radiologists in consensus focusing on 
+changes in the tumor bed. Fat necroses showed to be significantly more 
+frequent (56 % versus 24 %) and larger (8.7 versus 1.6 sq cm, median) after IORT than those in controls. Scar calcifications were also 
+significantly more frequent after IORT (63 % versus 19 %). The authors 
+stated that the high incidence of large fat necroses in this study confirmed 
+previous study findings. However, the overall higher incidence of calcifications in the tumor bed after IORT represents a new finding, requiring further attention. 
+Vanderwalde et al (2013) performed a phase II study of pre- excision 
+IORT for early -stage breast cancer. Patients greater than or equal to 48 
+years of age with invasive ductal carcinoma, less than or equal to 3 cm, and clinically node- negative were eligible for this study, w hich was 
+approved by institutional review board. Ultrasound was used to select 
+electron energy and cone size to cover the tumor plus 1.5 to 2.0 cm 
+lateral margins and 1 cm deep margins (90 % isodose). Fifteen Gy was delivered with a Mobetron irradiator, and immediate needle -localized       
+ 
+       
+        
+        
+        
+        
+           
+     
+       
+       
+          
+            
+           
+           
+         
+      
+       
+    
+   
+ 
+          
+             
+        
+         
+   
+ 
+            
+          
+   
+          
+      
+       
+        
+     
+      
+        
+    
+              Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 20 of 66 
+partial mastectomy followed. Local event results were updated using the 
+Kaplan- Meier method. A total of 53 patients received IORT alone. 
+Median age was 63 years, and median tumor size was 1.2 cm. Of these, 
+81 % were positive for estrogen receptor or progesterone receptor, 11 % were positive for human epidermal growth factor receptor 2, and 15 % 
+were triple -negative. Also, 42 %, 49 %, and 9 % would have fallen into 
+the Suitable, Cautionary, and Unsuitable groups, r espectively, of the 
+American Society of Therapeutic Radiation Oncology consensus 
+statement for accelerated partial breast irradiation. Median follow -up was 
+69 months. Ipsilateral events occurred in 8 of 53 patients. The 6- year 
+actuarial rate of ipsilateral events was 15 % (95 % CI: 7 % to 29 %). The 
+crude event rate for Suitable and Cautionary groups was 1 of 22 (5 %) and 7 of 26 (27 %), respectively. Overall survival was 94.4 %, and breast cancer -specific survival was 100 %. The authors concluded that the rate 
+of local events in this study is a matter of concern, especially in the 
+Cautionary group. On the basis of these findings, pre- excision IORT, as 
+delivered in this study, may not provide adequate local control for less 
+favorable early -stage breast cancers. 
+An UpToDate review on “Role of radiation therapy in breast conservation 
+therapy” (Pierce and Sabel, 2013) does not mention the use of IORT as a 
+management tool. Furthermore, the NCCN’s clinical practice guideline on 
+“Breast cancer” (Version 3.2013) does not mention IORT as a management fool for breast conservation. 
+Zygogianni et al (2012) noted that pancreatic cancer is rarely curable, and 
+the OS rate at 5 years is under 4 %. This study aimed to assess the efficacy, effectiveness and safety of IORT as treatment in pancreatic 
+cancer, by means of a systematic review of the literature. These investigators searched Pubmed from 1980 until 2010 by means of 
+prospective randomized trials. The aim was to assess the potential 
+impact of IORT on local control, quality of life and OS. The search was 
+restricted to articles published in English. Intra- operative radiation 
+therapy offers the opportunity to administer high -doses of irradiation to 
+areas of neoplastic involvement while attempting simultaneously to spare 
+normal tissues in the region from potentially damaging radiation exposure. However, the results were not in favor of IORT in the case of       
+ 
+       
+            
+         
+ 
+          
+          
+          
+        
+          
+    
+          
+       
+        
+        
+     
+        
+         
+         
+      
+           
+        
+         
+      
+            
+       
+         
+      
+   
+     
+           
+    
+ 
+         
+    
+         
+        
+          
+         
+             Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 21 of 66 
+pancreatic cancer in locally advanced and metastatic stages. The 
+authors concluded that there is no clear evidence to indicate that IORT is 
+more effective than other therapies in treating pancreatic cancer. 
+Niewald et al (2009) retrospectively evaluated the results after a regimen 
+of surgery, IORT, and external beam radio -therapy (EBRT) for soft-tissue 
+sarcomas. A total of 38 consecutive patients underwent IORT for soft -
+tissue sarcoma; 29 were treated for primary tumors, 9 for r ecurrences. 
+There were 14 cases with liposarcomas, 8 with leiomyosarcomas, 7 with 
+malignant fibrous histiocytomas; 27/38 tumors were located in the 
+extremities, the remaining ones in the retro -peritoneum or the chest. 
+Radical resection was attempted in all patients; a R0-resection was achieved in 15/38 patients, R1 in 12/38 pats and R2 in 4/38 pats. IORT 
+was performed using a J -125 source and a HDR (high dose rate) after -
+loading machine after suturing silicone flaps to the tumor bed. The total 
+dose applied ranged from 8- 15 Gy/0.5 cm tissue depth measured from 
+the flap surface. After wound healing, EBRT was applied in 31/38 patients with total doses of 23- 56 Gy dependent on resection status and 
+wound situation. The mean duration of follow -up was 2.3 years. A local 
+recurrence was found in 10/36 patients, lymph node metastases in 2/35, 
+and distant metastases in 6/35 patients. The actuarial local control rate was 63 %/5 years. The overall survival rate was 57 %/5 years. Ther e 
+was no statistically significant difference between the results after treatment for primaries or for recurrences. Late toxicity to the skin was found in 13/31 patients, wound healing problems in 5/31 patients. A 
+neuropathy was never seen. The authors concluded that the combination 
+of surgery, IORT, and EBRT yields favorable local control and survival 
+data, which were well within the range of the results reported in the 
+literature. The complication rates, however, are considerable although the complications are not severe, they should be taken into account when 
+therapy decisions are made. 
+Call et al (2014) reviewed outcomes for patients who received IORT for 
+upper -extremity sarcoma. These investigators identified patients with 
+upper -extremity tumors who were treated with EBRT, surgery, and IORT, 
+with or without chemotherapy. Kaplan- Meier estimates for overall survival 
+(OS), central control (CC), local control (LC), and distant control (DC) were obtained. A total of 61 patients were identified. Median age was 50 
+years (range of 13 to 95 years). Median follow -up was 5.9 years. Eleven       
+ 
+            
+           
+         
+            
+            
+     
+            
+             
+               
+            
+          
+     
+        
+          
+       
+     
+ 
+          
+           
+           
+           
+         
+             
+          
+        
+     
+ 
+         
+     
+      
+      
+   
+ 
+         
+         
+      
+      
+    
+       Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 22 of 66 
+patients had gross (R2; n = 1) or microscopic (R1; n = 10) disease at the 
+time of IORT. IORT doses ranged from 7.50 to 20.00 Gy. External beam 
+radiotherapy doses ranged from 19.80 to 54.00 Gy. OS at 5 and 10 years was 72 % and 58 %, respectively. LC at 5 and 10 years was 91% and 88%, respectively. DC at 5 and 10 years was 80% and 77%, respectively. 
+Patients treated for recurrent disease had inferior 5-year OS compared 
+with patients with first diagnoses (63% vs. 74%; P=0.02) and lower 5-year 
+LC (67 % versus 94 %; p < 0.01). For patients with R1 or R2 resections, LC at 5 and 10 years was 100 % and 86 %, respectively; for patients with 
+R0 resections, LC was 89 % at both 5 and 10 years (p = 0.98). Severe 
+toxicity attributable to treatment was noted for 4 patients (7 %). The 
+authors concluded that for upper -extremity sarcoma, treatment including 
+IORT was associated with excellent LC, limb preservation, and survival. LC rates were excellent for patients with positive margins after resection. 
+Patients with recurrent disease had worse outcomes, but limb 
+preservation was achievable for most patients. 
+An UpToDate review on “Local treatment for primary soft tissue sarcoma 
+of the extremities and chest wall” (Delaney et al, 2013) states that “For patients treated preoperatively, 50 Gy is administered in 25 fractions over 
+five weeks followed three to four weeks later by a conservative resection. 
+A boost dose to 66 Gy may be given postoperatively or intraoperatively 
+for microscopically positive margins and to 75 Gy if there is gross residual 
+disease. In patients with frozen section evidence of close or positive 
+margins, a boost can be delivered by placement of brachytherapy catheters or intraoperative electron beam radiation therapy ”. 
+Also, NCCN’s clinical practice guideline on “Soft tissue sarcoma” (Version 
+1.2013) states that “Advances in RT technology such as brachytherapy, 
+intensity -modulated radiation therapy (IMRT), andintraoperative radiation 
+therapy (IORT) have led to the improvement of treatment outcomes in patients with STS”. 
+Sedlmayer et al (2013) evaluated the outcome after partial breast re-irradia tion for in-breast tumor recurrence (IBTR) following second breast 
+conserving surgery (BCS) as alternative to salvage mastectomy. A survey of the literature was performed including publications between 2002 and 2012 (PubMed). Strategies comprised partial b reast 
+radiotherapy by external beam radiotherapy (EBRT), interstitial       
+ 
+     
+     
+           
+           
+       
+           
+          
+       
+         
+         
+          
+             
+         
+      
+  
+  
+        
+    
+           
+            
+       
+           
+      
+       
+   
+          
+        
+ 
+      
+      
+           
+         
+    
+         
+        
+       
+     
+       
+          Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 23 of 66 
+brachytherapy (BT) in low -, high -and pulse- dose rate technique, 
+combined EBRT/BT, and IORT. Published evidence is scarce, with 
+altogether 10 articles identified, in sum reporting about 310 patients. The 
+vast majority (82 %) was treated by brachytherapy. Selection criteria for a 
+second breast conservation attempt were comparable within all reports: 
+all women presented with T0-2 recurrent lesions, late onset after primary 
+treatment (70 months, mean of means) and no evidence of metastatic 
+disease before undergoing gross tumor resection with free surgical margins. Treatment doses were in a similar range for brachytherapy (LDR 30 to 55 Gy, HDR 30 to 34 Gy; PDR 40 to 50 Gy), biologically 
+comparable to the only series exclusively using EBRT (50 Gy). Follow -up 
+times amounted 49 months (mean of the means, range of 21 to 89). 
+Oncologic results were similar among the different methods with local control rates ranging between 76 % and 100 %, and disease free and 
+overall survival rates comparable to mastectomy series. Acute toxicity 
+was low in all cohorts. All authors reported cosmetic outcome, scoring 
+results from excellent -to-good in 60 to 80 % of patients, mostly without 
+using standardized evaluation schemes. Major late effects were fibrosis in re-irradiated parenchyma as a function of dose and volume, asymmetry 
+(primarily due to double surgery), and breast pain. There were hardly any 
+G3 and no G4 late reactions noted. The authors concluded that in a 
+highly selected group of patients with IBTR, partial breast irradiation after 
+second BCS is a viable alternative to mastectomy, yielding high breast preservation rates without compromising oncologic safety. Whereas the evidence for brachytherapy is more solid, there is still little information 
+about the effectiveness of PBI via EBRT or novel strategies like IORT, 
+which therefore should preferably be investigated within trials. 
+Shah et al (2014) analyzed the cost -efficacy of IORT compared with 
+whole -breast irradiation (WBI) and accelerated partial -breast irradiation 
+(APBI) for early -stage breast cancer. Data for this analysis came from 2 
+phase III trials: the TARGIT (Targeted Intraoperative Radiotherapy) trial 
+and the ELIOT (Electron Intraoperative Radiotherapy) trial. Cost analyses included a cost-minimization analysis and an incremental cost-
+effectiveness ratio analysis including a quality -adjusted life-year (QALY) 
+analysis. Cost analyses were performed comparing IORT with WBI 
+delivered using 3- dimensional conformal radiotherapy (3D -CRT), APBI 
+3D-CRT, APBI delivered with intensity -modulated radiotherapy (IMRT), 
+APBI single -lumen (SL), APBI multi -lumen (ML), and APBI interstitial (I).       
+ 
+             
+              
+            
+              
+       
+             
+           
+           
+          
+       
+        
+    
+        
+        
+          
+        
+  
+ 
+           
+    
+       
+     
+      
+      
+        
+           
+   
+      
+        
+     
+     
+         
+     
+       
+           
+     
+         
+             
+             Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 24 of 66 
+Per 1,000 patients treated, the cost savings with IORT were $3.6 to $4.3 
+million, $1.6 to $2.4 million, $3.6 to $4.4 million, $7.5 to $8.2 million, and 
+$2.8 to $3.6 million compared with WBI 3D -CRT, APBI IMRT, APBI SL, 
+APBI ML, and APBI I, respectively, with a cost decrement of $1.6 to $2.4 
+million compared with APBI 3D-CRT based on data from the TARGIT 
+trial. The costs per QALY for WBI 3D -CRT, APBI IMRT, APBI SL, APBI 
+ML, and APBI I compared with IORT were $47,990 to $60,002; $17,335 
+to $29,347; $49,019 to $61,031; $108,162 to $120,173; and $36,129 to 
+$48,141, respectively, based on data from the ELIOT trial. These results 
+were consistent with APBI and WBI being cost -effective compared with 
+IORT. The authors concluded that based on cost-minimization analyses, 
+IORT represents a potential cost savings in the management of early -
+stage breast cancer. However, absolute reimbursement is misleading, 
+because when additional medical and non- medical costs associated with 
+IORT are factored in, WBI and APBI represent cost-effective modalities 
+based on cost -per-QALY analyses. They (WBI and APBI) remain the 
+standard of care. 
+Vaidya et al (2014) stated that the TARGIT -A trial compared risk-adapted 
+radiotherapy using single- dose targeted intraoperative radiotherapy 
+(TARGIT) versus fractionated EBRT for breast cancer. These investigators reported 5- year results for local r ecurrence and the first 
+analysis of OS. TARGIT -A was a randomized, non-inferiority trial. 
+Women aged 45 years and older with invasive ductal carcinoma were enrolled and randomly assigned in a 1:1 ratio to receive TARGIT or whole -breast EBRT, with blocks stratified by center and by timing of 
+delivery of targeted intraoperative radiotherapy: randomization occurred 
+either before lumpectomy (pre- pathology stratum, TARGIT concurrent 
+with lumpectomy) or after lumpectomy (post -pathology stratum, TARGIT 
+given subsequently by reopening the wound). Patients in the TARGIT 
+group received supplemental EBRT (excluding a boost) if unforeseen 
+adverse features were detected on final pathology, thus radiotherapy was 
+risk-adapted. The primary outcome was absolute difference in local 
+recurrence in the conserved breast, with a pre- specified non-inferiority 
+margin of 2.5 % at 5 years; pre- specified analyses included outcomes as 
+per timing of randomization in relation to lumpectomy. Secondary outcomes included complications and mortality. Patients were enrolled at 
+33 centers in 11 countries, between March 24, 2000, and June 25, 2012. 
+A total of 1,721 patients were randomized to TARGIT and 1,730 to EBRT.       
+ 
+ 
+    
+  
+  
+          
+       
+        
+          
+          
+      
+      
+       
+           
+   
+          Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 25 of 66 
+Supplemental  EBRT  after  TARGIT  was necessary  in  15.2 %  [239  of  
+1,571]  of  patients  who  received  TARGIT  (21.6  %  pre-pathology,  3.6  %  
+post-pathology).  A total  of  3,451 patients  had a  median  follow -up of  2 
+years  and 5  months  (IQR  12  to 52  months),  2,020 of  4  years,  and 1,222  
+of  5 years.  The 5-y ear  risk for local  recurrence in the conserved br  east  
+was  3.3 %  (95 %  CI:  2.1 to  5.1)  for  TARGIT  versus  1.3 %  (0.7  to 2.5)  for  
+EBRT  (p  = 0.042).  TARGIT  concurrently  with lumpectomy  (pre-pathology,  
+n  =  2,298)  had  much  the  same  results  as  EBRT:  2.1  %  (1.1  to  4.2)  versus  
+1.1  %  (0.5  to  2.5;  p  =  0.31).  With  delayed  TARGIT  (post -pathology,  n  = 
+1,153)  the  between- group  difference  was  larger  than  2.5  %  (TARGIT  5.4  
+%  [3.0  to  9.7]  versus  EBRT  1.7  %  [0.6  to  4.9];  p  =  0.069).  Overall,  breast 
+cancer  mortality  was  much  the  same  between  groups  (2.6  %  [1.5  to  4.3]  
+for  TARGIT  versus  1.9  %  [1.1  to  3.2]  for  EBRT;  p  =  0.56)  but  there  were 
+significantly  fewer  non-breast -cancer  deaths  with  TARGIT  (1.4  %  [0.8  to 
+2.5]  versus  3.5 %  [2.3 to 5.2];  p  =  0.0086),  attributable  to  fewer  deaths  
+from  cardiovascular  causes  and  other  cancers.  Overall  mortality  was  3.9  
+%  (2.7  to  5.8)  for  TARGIT  versus  5.3  %  (3.9  to  7.3)  for  EBRT  (p  =  0.099).  
+Wound- related  complications  were  much  the  same  between groups  but  
+grade  3  or  4  skin  complications  were  significantly  reduced  with  TARGIT  (4 
+of  1,720  versus  13 of  1,731,  p  =  0.029).  The authors  concluded  that  
+TARGIT  concurrent  with lumpectomy  within  a  risk-adapted approach 
+should  be  considered  as  an  option  for  eligible  patients  with  breast  cancer  
+carefully  selected  as  per  the  TARGIT -A  trial  protocol,  as  an  alternative  to 
+post-operative  EBRT.  
+Alvar
+ado et al (2014) stated that the TARGIT -A Trial is an international 
+randomized, prospective trial comparing IORT for equivalence to EBRT 
+following lumpectomy for invasive breast cancer in selected low -risk 
+patients; early results suggested that outcomes are similar. In addition to 
+effectiveness data and cost considerations, the preferences of patients 
+should help inform practice. This study was undertaken to explore and 
+quantify preference in choosing between IORT and the current standard, 
+EBRT. Eligible subjects were current or past candidates for breast -
+conserving surgery and radiation being seen at the Universi ty of 
+California, San Francisco Breast Care Center. A trade- off technique 
+varying the risk of local recurrence for IORT was used to quantify any 
+additional accepted risk that these patients would accept to receive either 
+treatment. Patients were first pres ented with a slideshow comparing 
+EBRT with the experimental IORT option before being asked their       
+ 
+     
+      
+         
+         
+            
+       
+       
+  
+          
+            
+     
+   
+          
+   
+ 
+          
+        
+            
+    
+ 
+        
+            
+ 
+ 
+       
+        
+           
+         
+            
+             
+     
+          
+          
+      
+       
+          
+       
+             
+         Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 26 of 66 
+preferences given hypothetical 10-year local recurrence risks. Patients 
+were then given a questionnaire on demographic, social and clinical 
+factors. Data from 81 patients were analyzed. The median additional 
+accepted risk to have IORT was 2.3 % ( -9 to 39 %), mean 3.2 %. Only 7 
+patients chose to accept additional risk for EBRT; 22 accepted IORT at no 
+additional risk; and the remaining 52 chose IORT with some additional risk. Patients weigh trade -offs of risks and benefits when presented with 
+medical treatment choices. The authors concluded that these findings showed that the majority of breast cancer patients will accept a small increme nt of local risk for a simpler delivery of radiation. Moreover, they 
+stated that further studies that incorporate outcome and side effect data from the TARGIT -A trial clarify the expected consequences of a local 
+recurrence, and include an expanded range of radiation options that could 
+help guide clinical decision making in this area. 
+UpToDate reviews on “Overview of the treatment of newly diagnosed, 
+non-metastatic breast cancer” (Taghian et al, 2014) and “Treatment 
+protocols for breast cancer” (Brenner et al, 2014) did not mention IORT 
+as a management tool. 
+Furthermore, NCCN’s clinical practice guideline on “Breast cancer” 
+(Version 3.2014) does not mention the use of IORT as a management 
+tool. 
+Habl and colleagues (2013) analyzed their experience with IOERT 
+followed by moderate doses of EBRT in patients with locally recurrent 
+renal cell carcinoma. From 1992 to 2010, a total of 17 patients with histologically proven, locally recurrent renal cell carcinoma (median tumor 
+size of 7 cm) were treated by surgery and IOERT with a median dose of 
+15 Gy. All patients met the premise of curative intent including 7 patients 
+with oligo -metastases at the time of recurrent surgery, which were 
+resected and/or irradiated. The median time interval from primary surgery 
+to local recurrence was 26 months; 11 patients received additional 3D ­
+conformal EBRT with a median dose of 40 Gy. Surgery resulted in free 
+but close margins in 6 patients (R0), while 9 patients suffered from microscopic (R1) and 2 patients from macroscopic (R2) residual disease. 
+After a median follow -up of 18 months, 2 local recurrences were 
+observed, resulting in an actuarial 2-year local control rate of 91 %. Eight 
+patients developed distant failures, predominantly to liver and bone,       
+ 
+        
+      
+      
+        
+        
+   
+     
+    
+         
+        
+  
+    
+ 
+ 
+        
+            
+ Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 27 of 66 
+resulting in an actuarial 2 -year PFS of 32 %. An improved PFS rate was 
+found in patients with a larger time interval between initial surgery and 
+recurrence (greater than 26 months) . The actuarial 2- year OS rate was 
+73 %. Lower histological grading (G1/2) was the only factor associated with improved OS. Peri -operative complications were found in 4 patients; 
+no IOERT specific late toxicities were observed. The authors concluded that c ombination of surgery, IOERT and EBRT resulted in high local 
+control rates with low toxicity in patients with locally recurrent renal cell cancer despite an unfavorable surgical outcome in the majority of patients. However, PFS and OS were still limited due to a high distant 
+failure rate, indicating the need for intensified systemic treatment 
+especially in patients with high tumor grading and short interval to recurrence. 
+Also, NCCN’s clinical practice guideline on “Kidney cancer” (Version 
+3.2014) does not mention the use of IORT as a management tool. 
+Silverstein  et  al  (2014a)  rep
+ orted  that  2  randomized  IORT  trials  for  early - 
+stage  breast  cancer  were  recently  published.  The ELIOT  Trial  used 
+electrons  (IOERT),  and the  TARGIT -A Trial  Update used  50-kV X -rays  
+(IORT).  These studies  were compared for  similarities  and differences.  
+The  results  were  analyzed  and  used  to  determine  which  patients  might  be 
+suitable for single -dose treatment.  The primary sources of  data w ere the  
+ELIOT  Trial  and TARGIT -A  Trial,  as  well  as  a  comprehensive  analysis  of  
+the  peer-reviewed  literature  of  APBI  using  50-kV  X-rays  or  electrons.  
+Studies  published  or  presented prior  to March 2014 were  analyzed  for  
+efficacy,  patient  restrictions,  complications,  and  outcome.  With  a  median 
+follow -up of  5.8 years,  the 5-year  recurrence r  ates for ELIOT versus  
+EBRT  patients  were  4.4  %  and 0.4  %,  respectively,  p  =  0.0001.  A low - 
+risk  ELIOT  group was  identified  with  a  5-year  recurrence  rate of  1.5 %.  
+With  a  median  follow -up  of  29  months,  the  5-year  recurrence  rates  for  the 
+TARGIT -A  versus  EBRT  patients  were  3.3  %  and  1.3  %,  respectively,  p  =  
+0.042.  The authors  concluded that  with  5.8 years  of  median  follow -up,  
+IOERT  appears  to  have  a subset  of  low-risk  women for whom IOERT is  
+acceptable.  With 29  months  of  median follow -up the  results  of  IORT  with  
+50-kV devices  are  promising,  but  longer  follow -up data are  needed.  They  
+stated that  at the c  urrent time, single- fraction IOERT  or IORT  patients 
+should  be treated  under  strict  institutional  protocols.        
+ 
+ 
+    
+          
+           
+  
+    
+    
+  
+       
+      
+       
+        
+   
+   
+        
+         
+              Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 28 of 66 
+Esposito  et  al  (2015)  noted that  IORT  constitutes  a  paradigm  shift  from  
+the conventional  3  to  5 weeks  of  whole -breast  EBRT.  Intra-operative  
+radiotherapy  enables  delivery  of  radiation at  the time  of  excision  of  the 
+breast tumor, targeting the area at   highes t risk  of recurrence, while  
+minimizing excessive radiation  exposure  to  healthy  breast  tissue.  The 
+rationale for  IORT is  based on the  observation  that  over  90  %  of  local  
+recurrences  after  breast -conserving  surgery  occur  at  or  near  the  original  
+operation  site.  These  investigators  reviewed  trials  of  IORT  delivered  with 
+different techniques  and de vices. Intra- operative radiotherapy is  a very  
+attractive opt  ion for  delivering radiotherapy,  reducing the traditional  
+fractionated  treatment  to  a  single  fraction  admin istered at  the time of  
+surgery.  It  has  been shown to  be associated  with  reduced toxicity  and  
+has  several  potential  benefits  over  EBRT.  Only  2  randomized clinical  
+trials  (RCTs)  have  been published to- date.  The  TARGIT -A  and ELIOT  
+trials  have  demonstrated  that  IORT  is  associated  with  a  low  rate  of  local 
+recurrence,  although  higher  than  that  after  EBRT  (TARGIT -A:  3.3  versus  
+1.3 %  respectively,  p  =  0.042;  ELIOT:  4.4  versus  0.4  %,  p  <  0.001).  
+However,  the  local  recurrence  rate  for  IORT  fell  within  the  predefined  2.5  
+%  non-inferiority  margin  in  TARGIT -A,  and  the  7.5  %  equivalence  margin 
+in  ELIOT.  The  authors  concluded  that  longer  follow -up  data  from  existing  
+trials,  optimization  of  patient  criteria  and  cost-effectiveness  analyses  are 
+needed.  
+Giordano 
+et al (2014) noted that glioblastoma multi -forme (GBM) is the 
+most frequent primary malignant brain tumor in adults. Despite multi -
+modal therapies, almost all GBM recur within a narrow margin around the 
+initial resected lesion. Thus, novel therapeutic intensification strategies 
+must target both, the population of dispersed tumor cells around the 
+cavity and the post -operative microenvironment. Intra- operative 
+radiotherapy is a pragmatic and effective approach to sterilize the 
+margins from per sistent tumor cells, abrogate post -injury proliferative 
+stimuli and to bridge the therapeutic gap between surgery and radio-chemotherapy. These researchers have set up INTRAGO, a phase I/II 
+dose- escalation study to evaluate the safety and tolerability of IORT 
+added to standard therapy in newly diagnosed GBM. In contrast to 
+previous approaches, the study involves the application of isotropic low -
+energy (kV) x -rays delivered by spherical applicators, providing optimal 
+irradiation properties to the resection cavity. INTRAGO includes patients 
+aged 50 years or older with a Karnofsky performance status of at least 50       
+ 
+         
+         
+         
+          
+      
+        
+           
+         
+      
+ Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 29 of 66 
+% and a histologically confirmed (frozen sections) supra-tentorial GBM. 
+Safety and tolerability (i.e., the maximum tolerated dose, MTD) will be 
+assessed using a classical 3 + 3 dose- escalation design. Dose-limiting 
+toxicities (DLT) are wound healing deficits or infections requiring surgical 
+intervention, IORT -related cerebral bleeding or ischemia, symptomatic 
+brain necrosis requiring surgical intervention and early termination of 
+EBRT (before the envisaged dose of 60 Gy) due to radiotoxicity. 
+Secondary end- points are PFS and OS. The study is registered with 
+clinicaltrials.gov, number:NCT02104882 (Registration Date: 03/26/2014). 
+Wernicke  et  al  (2014)  noted  t hat  resected  brain  metastases  (BrMs)  have  
+a  high  rate  of  local  recurrence  without  adjuvant  therapy.  Adjuvant  whole - 
+brain  radiotherapy  remains  the standard of  care  with  a local  control  rate  
+greater  than  90 %.  However,  whole- brain radiotherapy  is delivered over  
+10  to  15  days,  which  can  delay  other  therapy  and  is  associated  with  acute 
+and long-term toxicities. Permanent  cesium -131 ((131)Cs) implants  can  
+be  used  at  the  time  of  metastatic  resecti on,  thereby  avoiding  the  need  for 
+any  additional therapy. In a phas   e I/II  clinical trial, these researchers  
+evaluated the  safety,  feasibility,  and efficacy  of  a novel  therapeutic  
+approach with  permanent  (131)Cs  brachytherapy  at  the resection for  
+brain  meta stases.  After  institutional  review  board  approval  was  obtained,  
+24  patients  with  a  newly  diagnosed  metastasis  to  the  brain  were  accrued 
+to  a  prospective  protocol  between  2010  and  2012.  There  were  10  frontal, 
+7  parietal,  4  cerebellar,  2  occipital,  and 1  temporal BrMs.  Histology  
+included lung cancer  (n =  16),  breast  cancer  (n =  2),  kidney  cancer  (n  =  
+2),  melanoma  (n  =  2),  colon  cancer  (n  =  1),  and  cervical  cancer  (n  =  1).  
+Stranded (131)Cs  seeds  were  placed  as  permanent  volume implants.  
+The prescription  dose  was  80 Gy  at  a 5-mm  depth from the resection  
+cavity  surface.  Distant  metastases  were treated  with  stereotactic  
+radiosurgery  (SRS)  or  whole- brain  radiotherapy,  depending  on the  
+number  of  lesions.  The primary  end-point  was local (resection cavity)  
+freedom  from  progression  (FFP).  Secondary  end-points  included  regional  
+FFP,  distant  FFP,  median  survival,  OS,  and  toxicity.  The  median  follow -up 
+was  19.3  months  (range  of  12.89  to  29.57  months).  The  median  age  was  
+65 years  (range of  45  to 84  years).  The median  size  of  resected tumor  
+was  2.7 cm  (range of  1.5  to 5.5 cm),  and the median  volume of  resected 
+tumor  was  10.31 cm(3)  (range of  1.77 to  87.11  cm(3)).  The median 
+number  of  seeds  used  was  12  (range  of  4  to  35),  with  a  median  activity  of  
+3.82  mCi  per  seed (range of  3.31 to  4.83  mCi)  and total  activity  of 46.91        
+ 
+ 
+         
+        
+     
+          
+       
+      
+         
+           
+                 
+          
+           
+             
+                  
+             
+         
+            
+          
+             
+       
+      
+       
+        
+         
+           
+           Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 30 of 66 
+mCi (range of 15.31 to 130.70 mCi). Local FFP was 100 %. There was  1 
+adjacent  leptomeningeal  recurrence,  resulting  in  a  1-year  regional  FFP  of  
+93.8  %  (95  %  CI:  63.2  %  to  99.1  %).  One- year  distant  FFP  was  48.4  % 
+(95  %  CI:  26.3  %  to  67.4  %).  Median  OS  was  9.9  months  (95  %  CI:  4.8  
+months,  upper  limit  not  estimated)  and  1-year  OS  was  50.0  %  (95  %  CI:  
+29.1  %  to  67.8  %).  Complications  included CSF  leak  (n =  1),  seizure  (n  =  
+1),  and infection (n =  1).  There  was  no radiation necrosis.  The authors  
+concluded that  the  use of  post-resection  permanent  (131)Cs  
+brachytherapy  implants  resulted  in  no local  recurrences  and  no radiation  
+necrosis. This treatment was  safe, well -tolerated,  and convenient for  
+patients,  resulting in a s  hort radiation treatment  course, high r  esponse  
+rate,  and minimal toxicity.  They  stated that these findings  merit further  
+study  with a multi -center trial.  
+In a non
+-randomized, prospective study, Weil et al (2015) examined the 
+feasibility of IORT using a portable radiation source to treat newly 
+diagnosed, surgically resected, solitary BrM. A total of 23 patients with 
+histologically confirmed BrM were treated with an Intra-beam device that 
+delivered 14 Gy to a 2- mm depth to the resection cavity during surgery. 
+In a 5 -year minimum follow -up period, PFS from the time of surgery with 
+simultaneous IORT averaged (± SD) 22 ± 33 months (range of 1 to 96 
+months), with survival from the time of BrM treatment with surgery+IORT 
+of 30 ± 32 months (range of 1 to 96 months) and OS from the time of first 
+cancer diagnosis of 71 ± 64 months (range of 4 to 197 months). For the 
+Graded Prognostic Assessment (GPA), patients with a score of 1.5 to 2.0 
+(n = 12) had an average post -treatment survival of 21 ± 26 months (range 
+of 1 to 96 months), those with a score of 2.5 to 3.0 (n = 7) had an average 
+post-treatment survival of 52 ± 40 months (range of 5 to 94 months), and 
+those with a score of 3.5 to 4.0 (n = 4) had an average post -treatment 
+survival of 17 ± 12 months (range of 4 to 28 months). A BrM at the 
+treatment site recurred in 7 patients 9 ± 6 months post -treatment, and 5 
+patients had new but distant BrM 17 ± 3 months after surgery+IORT. Six 
+patients later received whole- brain radiation therapy, 7 patients received 
+radiosurgery, and 2 patients received both treatments. The median 
+Karnofsky Performance Scale scores before and 1 and 3 months after 
+surgery were 80, 90, and 90, respectively; at the time of this writing, 3 patients remain alive with a central nervous system (CNS) progression-
+free survival of greater than 90 months without additional BrM treatment. 
+The authors concluded that the findings of this study demonstrated the       
+ 
+              
+           
+          
+   
+     
+ 
+ 
+       
+        
+      
+           
+            
+         
+       
+       
+          
+           
+      
+           
+      
+        
+          
+           
+        
+     
+             
+           
+          
+      
+       
+          
+           
+         
+               
+      
+           
+       
+      
+          Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 31 of 66 
+feasibility of resection combined with IORT at a dose of 14 Gy to a 2-mm 
+peripheral margin to treat a solitary BrM. Local control, distant control, 
+and long-term survival were comparable to those of other commonly used 
+modalities. They stated that surgery combined with IORT seems to be a 
+potential adjunct to patient treatment for CNS involvement by systemic 
+cancer. 
+In a retrospective case- series study, Marr and colleagues (2015) 
+described the results of patients with diffuse conjunctival neoplasms 
+treated with radioactive phosphorus 32 (32P) -impregnated flexible film. 
+This study was conducted between January 1, 2010, and January 1, 2013 
+at Memorial Sloan- Kettering Cancer Center. A total of 7 eyes (6 patients) 
+were treated for diffuse conjunctival squamous cell carcinoma, sebaceous 
+carcinoma, or lymphoma that had recurrent or residual disease after primary treatment. Patients underwent mapping biopsies and detailed conjunctival drawings to delineate the pathologic extent of the disease. 
+The brachytherapy film used for treatment was the RIC Conformal Source 
+Model 100 (RIC -100, RI Consultants). The RIC -100 is a flexible, thin 
+(approximately 0.5-mm) film made of a polymer chemically bound to 32P. 
+The radioactive 32P film was pla ced intra- operatively, allowed to stay in 
+place until the prescription dose was reached, and then removed. The 
+median dose at the prescription point (1 mm from the surface of the film) 
+was 15 Gy (range of 5 to 17 Gy). Patients were tested for best -corrected 
+visual acuity (BCVA), recurrence-free survival, and adverse events scored 
+by using the Adult Comorbidity Evaluation- 27 scale. Between 2010 and 
+2013, 7 eyes of 6 patients were treated. The median age of patients was 
+70 years. All patients had a recurrent or persistent neoplasm: 4 patients with squamous cell carcinoma, 1 with sebaceous carcinoma, and 1 with metachronous bilateral lymphomas were treated. The median treatment time was 19 minutes (range of 10 to 52 minutes). The median follow -up 
+was 24.9 months (range of 3.1 to 38.2 months). Recurrence-free survival 
+24 months after brachytherapy was 75 % (95 % CI: 19 to 89.1). Two 
+moderate adverse events and 1 severe adverse event occurred. Visual acuity was stable or improved in 5 of the 7 eyes (i.e., better than 20/70 in 
+the 5 patients who retained their treated eye). The authors concluded that these findings showed the use of an intra-operative high-dose rate of 
+32P brachytherapy in selected cases of recalcitrant diffuse conjunctival neoplasms. They stated that this technique offers a novel adjunct in the 
+treatment of these cancers; further follow -up and study are needed.       
+ 
+ 
+       
+       
+     
+           
+     
+ 
+     
+        
+       
+       
+       
+     
+            
+      
+      
+       
+      
+            
+       
+ 
+          
+  
+         
+          Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 32 of 66 
+Pancreatic Cancer 
+National Comprehensive Cancer Network’s clinical practice guideline on 
+”Pancreatic adenocarcinoma” (Version 1.2016) states that “The role of 
+IORT is controversial …. Overall, there is no clear established role for IORT in patients with pancreatic cancer, and the panel believe it should 
+only be performed at specialized centers”. 
+Cai et al (2013) evaluated long- term outcomes, intra- operative radio- 
+therapy (IORT) -related toxicity, and prognostic factors for overall survival 
+(OS) among patients with unresectable locally advanced pancreatic cancer (LAPC) who received IORT as part of their treatment at the 
+Massachusetts General Hospital (MGH). Medical records were reviewed 
+for 194 consecutive patients with unresectable LAPC who were treated with IORT at MGH between 1978 and 2010; OS was calculated using the 
+Kaplan- Meier method. Prognostic factors were evaluated at the 
+univariate level by the log -rank test and at the multi -variate level by the 
+Cox proportional hazards model. Rates of disease progression and 
+treatment toxicity were calculated. The 1-year, 2- year, and 3-year 
+survival rates were 49 %, 16 %, and 6 %, respectively; 6 patients (3 %) 
+survived for more than 5 years. The median OS was 12.0 months. 
+Among  183 pati
+ ents  with  known post -IORT  disease status, the 2-year  
+local  progression-free  survival  (PFS)  and  distant  metastasis -free  survival 
+rates  were  41 %  and  28 %,  respectively.  On multi -variate  analysis,  an  
+IORT  applicator  diameter  less  than  or  equal  to  8  cm  (hazards  ratio  [HR], 
+0.51;  95  %  confidence interval  [95  %  CI]:  0.30  to 0.84  [p  =  .009]),  a  
+Charlson  age-comorbidity  index  less  than  or  equal  to  3  (HR,  0.47;  95  % 
+CI:  0.31  to  0.73  [p  =0  .001]),  and  receipt  of  chemotherapy  (HR,  0.46;  95  
+%  CI:  0.33  to 0.66  [p <  0.001])  predicted  improved  OS.  The median OS 
+for  patients  with  all  3  positive  prognostic  factors  was  21.2  months.  The 
+authors  concluded  that  well-selected patients  with  LAPC  with small  
+tumors  and  low  Charlson  age-comorbidity  indices  can  achieve  good  long- 
+term  survival  outcomes  with a t reatment regimen that incorporates  
+chemotherapy  and  IORT.  
+This st
+udy had several drawbacks: It is a single -institution, retrospective 
+study with significant treatment heterogeneity; these researchers were unable to assess several potentially valuable prognostic factors such as 
+performance status; and the patient cohort was fairly homogeneous, with       
+ 
+           
+         
+      
+      
+      
+             
+  
+ 
+           
+         
+        
+        
+      
+       
+    
+         
+        
+       
+    
+       
+   
+      
+       
+        
+       
+       
+           
+         
+         
+      
+             
+       
+          
+          
+       
+        
+       
+         
+     Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 33 of 66 
+a relatively small number of patients in the patient groups with poor 
+prognostic factors. Nevertheless, as what to the authors’ knowledge was 
+the largest study in the literature to- date to examine patients with LAPC 
+who were treated with IORT, the current study offered new insight into 
+some simple clinical guidelines that may help to identify those patients with LAPC who are most likely to achieve long-term survival after a multi -
+modality treatment regimen. 
+Keane et al (2016) stated that improved outcomes with FOLFIRINOX or 
+gemcitabine with nab-paclitaxel in the treatment of metastatic pancreatic 
+adenocarcinoma (PDAC) have prompted incorporation of these regimens 
+into neoadjuvant treatment of locally advanced unresectable PDAC. 
+Whereas some patients remain unresectable on surgical exploration, 
+others are able to undergo resection after intensive neoadjuvant 
+treatment. These researchers evaluated outcomes and toxicity 
+associated with use of intensive neoadjuvant treatment followed by IORT 
+in combination with resection or exploratory laparotomy. These investigators retrospectively analyzed patients with locally advanced 
+unresectable or borderline -resectable PDAC who received intensive 
+neoadjuvant treatment with induction chemotherapy and chemo ­
+radiotherapy followed by exploratory laparotomy in an IORT -equipped 
+operating suite between 2010 and 2015. Surgical outcomes and overall 
+survival (OS) were compared. Of 68 patients, 41 (60.3 %) underwent 
+resection, 18 (26.5 %) had unresectable disease, and 9 (13.2 %) had 
+distant metastases. Of 41 resectable patients, 22 received IORT for 
+close/positive resection margins on intra-operative frozen section. There 
+was no significant difference in operative times or morbidity with addition 
+of IORT to resecti on. Median OS was 26.6 months for all patients who 
+underwent resection, 35.1 months for patients who underwent resection 
+and IORT, and 24.5 months for patients who underwent resection alone 
+(p = NS). Of 18 patients with unresectable disease, all but 1 received IORT, with median OS of 24.8 months. IORT was associated with 
+increased hospital stay (4 versus 3.5 days), but no significant difference 
+in operative times or morbidity. The authors concluded that IORT in addition tointensive neoadjuvant chemotherapy and chemo- radiotherapy 
+was not associated with increased toxicity when used with resection or exploratory laparotomy, and was associated with encouraging survival rates in patients with close/positive margins and patients with 
+unresectable disease. Moreover, they stated that further follow -upis       
+ 
+         
+       
+    
+ 
+ 
+      
+         
+        
+       
+           
+        
+          
+   
+  
+         
+         
+          
+            
+        
+          
+      
+     
+        Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 34 of 66 
+needed, but these improved results suggested that certain patients with 
+well-controlled systemic disease may benefit from aggressive local 
+therapy that includes IORT; prospective trials are ongoing. 
+This  study  had s everal  drawbacks:  (i) it is a retrospective, single - 
+institution study, and patient numbers were small (n =  22). This may  
+have  limited  power  to  see  a diﬀerence  in  toxicities  with  addition  of  
+IORT  to  resection  or  surgical  exploration,  (ii)  as  these  researchers  only 
+had access to patients who were scheduled for surgical exploration,  
+they could not assess patients  who  progressed during neoadjuvant  
+treatment.  This  spoke  to  the  importance  of  rigorous  re-staging  before 
+surgical exploration, as there were patients who will progress during  
+neoadjuvant treatment, (iii) overall follow -up time  remained  
+somewhat  limited  (median  follow -up  =  20.8  months),  which  may  have  
+limited ability to see long -term toxicities, (iv) randomized  data on the  
+use  of  FOLFIRINOX,  gemcitabine  with  nab-paclitaxel,  or  FOLFOX  in  the  
+neoadjuvant setting  were not yet available.  Whereas  retrospective  
+series  have  been  promising,  prospective  data  are  needed  to  fully  assess  
+these  regimens.  
+Krempi
+en and Roeder (2017) noted that despite the important 
+improvements made in the fields of surgery, chemotherapy and radiation 
+therapy, pancreatic cancer remains one of the most lethal malignancies. 
+Improved outcomes with novel chemotherapy regimens led again to 
+increased attention on the role of localized radiotherapy, since local tumor 
+progression causes significant morbidity and mortality in patients. Even 
+after resection local failure rates are as high as 50 to 80 %. The 
+immediate proximity to critical structures (bone marrow, spinal cord, kidneys, liver, and intestine) limits th e dose of radiation that can be 
+administered to the tumor bed with conventional external beam radiation 
+therapy (EBRT). The IORT appears to be an ideal therapeutic strategy for this disease, having the advantage of enabling the delivery of high doses of radiation to areas that are at risk for microscopic disease, saving 
+critical organs and reducing the possibility of inducing radiotoxicity. This 
+technique allows a theoretical increase in the radiation therapeutic index 
+to tumor compared to the adjacent organs at risk (OAR). The authors 
+updated and commented on IORT in the multi -disciplinary management 
+of pancreatic cancer. They concluded that the available data       
+ 
+       
+         
+          
+         
+     
+   
+          
+   
+     
+       
+            
+            
+ 
+            
+    
+        
+        
+      
+      
+        
+         
+   
+       
+      
+         
+      
+       
+         
+          
+     
+            
+               
+          
+          
+        
+    
+      
+    Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 35 of 66 
+demonstrated that IORT is a safe addition to the treatment of pancreatic 
+cancer and standard neoadjuvant or adjuvant therapies, with the intention 
+of improving local control for patients with resectable pancreatic cancer. 
+Series of patients with unresectable pancreatic cancer showed that most 
+patients experienced pain relief and improved local control. In select 
+studies, inclusion of IORT led to improved survival. Improved outcomes 
+with novel chemotherapy regimens led again to increased attention on the 
+role of localized radiotherapy, since local tumor progression causes signifi cant morbidity and mortality in patients. Intra- operative radiation 
+therapy (IORT) techniques allow increasing the effective radiation dose 
+and improving local tumor control. However, at present, no phase III data 
+clearly defines the role of IORT in the management of pancreatic cancer. 
+Jin and colleagues (2020) noted that several studies examining the role of 
+IORT in the treatment of resectable PC have been published; however, 
+their results remain inconsistent. By conducting a systematic review and meta -analysis, this study aimed to compare clinical outcomes in patients 
+with resectable PC who underwent surgery with or without IORT. The 
+Medline/PubMed, Embase, and Cochrane Library data- bases were 
+searched to identify relevant studies published up to February 28, 2019. The main outcome measures included median survival time (MST), local 
+recurrence (LR), post -opera tive complications, and operation- related 
+mortality. Pooled effect estimates were obtained by performing a 
+random -effects meta -analysis. A total of 1,095 studies were screened for 
+inclusion, of which 15 studies with 834 patients were included in the meta -analysis. Overall, 401 patients underwent pancreatic resection with 
+IORT and 433 underwent surgery without IORT. The pooled analysis revealed that IORT group experienced favorable OS (median survival rate 
+[MSR], 1.20; 95 % CI: 1.06 to 1.37, p = 0.005), compared with patients who did not receive IORT. Additionally, the pooled data showed a 
+significantly reduced LR rate in the IORT group compared with that in the 
+non-IORT group (relative risk [RR], 0.70; 95 % CI: 0.51 to 0.97, p = 0.03). 
+The incidences of post -operative complications (RR, 0.95; 95 % CI: 0.73 
+to 1.23) and operation- related mortality (RR, 1.07; 95 % CI: 0.44 to 2.63) 
+were similar between the IORT and non- IORT groups. The authors 
+concluded that IORT significantly improved loco- regional control and OS 
+in patients with resectable PC, without increasing post -operative 
+complications and operation- related mortality rates.       
+ 
+ 
+ 
+ 
+        
+            
+         
+      
+           
+        
+       
+    Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 36 of 66 
+The authors stated that this meta- analysis  had several  drawbacks.  First,  
+most  of the included trials  had small sample sizes.  Nevertheless,  
+analysis  of  the  pooled  data  clearly  showed a  superior  effect  of  surgery  
+combined  with  IORT  with  regards  to  MST  and  LR  when  compared  to  non- 
+IORT  groups.  As  post-operative complications  and operation- related 
+mortality  rates  were  similar  between  the  2  groups,  applying  IORT  did  not  
+cause  additional  risks  or  side  effects  to the  patients.  Second,  there  was  
+substantial  heterogeneity in the meta- analysis. In fact,  owing to potential  
+confounders, such  as  population  characteristics,  year  of  publication,  the  
+study sample sizes,  etc.,  these investigators conducted s  ubgroup and 
+sensitivity  analyses  to  identify  the  source  of  heterogeneity  and  confirm  the 
+stability of these findings. Risk estimates barely changed after  analyses  
+with  fixed effects  models;  however,  substantial  heterogeneity  remained.  
+When the analysis  only  included studies  from  selected  periods  when the  
+publications  were  produced  (before  or  after  2000),  the  overall  polled  data  
+showed  a  significant  difference  that  favored  combined  IORT  (MSR,  1.20,  
+95 %  CI:  1.06 to  1.37;  p =  0.005),  especially  for  studies  conducted after  
+2000  (MSR,  1.22,  95  %  CI:  1.07  to  1.40;  p  =  0.004),  which  appeared  to  be 
+attributable to combination therapy.  Using s  ensitivity analysis, the  main  
+source of  heterogeneity  was  identified  from  the  study  by  Shibamoto  et  al  
+(1990)  wherein the  imbalance  of  sample  sizes  between  the IORT  and 
+non-IORT  groups  was  significant  (n =  4 and 48,  respectively).  After  
+excluding  this  single  study,  the  heterogeneity  reduced  from  moderate  (I2  
+=  65.3  %;  p =  0.000)  to  low  level  (I2 = 30.6  %;  p  =  0.132),  and  the  pooled 
+estimate  still  reached  statistical  significance  (MSR  =  1.17;  95  %  CI:  1.06 
+to  1.28,  p =  0.002).  Third,  most  of  the included studies in the present  
+meta -analysis  were  retrospective  analyses;  thus,  further  large  RCTs  are 
+needed to  confirm  these  findings.  
+Soft Tissue Sarcoma 
+National Comprehensive Cancer Network’s clinical practice guideline on 
+”Soft tissue sarcoma” (Version 2.2016) states that “The use of IORT has 
+provided encouraging results in patients with retroperitoneal STS …. 
+IORT with or without EBRT has been effective in terms of local control 
+and survival in patients with primary and recurrent retroperitoneal STS …. 
+An ongoing study (NCT01566123) is examining preoperative RT,followed 
+by surgery with IORT in patients with high -risk retroperitoneal sarcoma. 
+Preliminary results suggest promising local control and OS rates”.       
+ 
+ 
+      
+     
+           
+      
+        
+    
+        
+        
+        
+         
+         
+         
+         
+  
+         
+        
+        
+        
+    
+   
+      
+    
+          
+          
+            
+            
+           
+   
+ 
+ 
+ 
+       
+          
+         
+    
+         
+            Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 37 of 66 
+Spinal Metastases 
+Bludau and associates (2015) stated that as a consequence of more 
+effective systemic therapy, the survival of patients suffering from malignant tumors has been significantly improved but a longer life span is 
+often associated with a higher incidence of osseous metastases. The 
+majority of these metastases are localized in the spine causing pain, 
+instability and neurological impairments. The inter -disciplinary 
+management of spinal metastases previously consisted of stabilization followed by fractionated EBRT. A reduction in procedural severity and 
+morbidity as well as consideration of self -sufficiency and hospitalization 
+time are important target parameters for these palliative patients. 
+Kyphoplasty combined with IORT (Kypho-IORT) is one of several modern 
+treatment options, which involves a minimally invasive procedure with local high -dose trans -pedicular irradiation of the spine with low-energy (50 
+kV) X -rays. Immediately following irradiation, stabilization of the spine is 
+carried out using kyphoplasty via the same access route so that a single stage procedure with excellent pain reduction and good local tumor control can be achieved. These researchers presented clinical data for this procedure and the different fields of indications were critically reviewed and compared to other therapeutic options. Methodological 
+improvements and options for further individualization of therapy were 
+demonstrated. The authors concluded that Kypho- IORT procedure is a 
+safe, feasible and beneficial modern therapeutic option for instant stabilization and local tumor control in patients with spinal metastases. 
+More than 100 operations have been successfully performed so that the 
+method can be deemed suitable for inclu sion in the clinical routine. They 
+noted that a phase II dose escalation study has now been completed and 
+submitted for publication and a 2-arm non-inferiority trial (phase III study) 
+for comparison with conventional irradiation is in progress . 
+Breast Cancer 
+Valente et al (2016) noted that single- dose IORT is an emerging 
+treatment for women with early stage breast cancer. These researchers 
+defined the frequency of IORT use, patient selection, and outcomes of 
+patients treated in North America. A multi -institutional retrospective 
+registry was created, and 19 institutions using low-kilovoltage IORT for 
+the treatment of breast cancer entered data on patients treated at their       
+ 
+          
+       
+     
+        
+     
+      
+        
+         
+         
+       
+        
+           
+       
+    
+     
+          
+         
+          
+         
+          
+   
+ Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 38 of 66 
+institution before July 31, 2013. Patient selection, IORT treatment details, 
+complications, and recurrences were analyzed. From 2007 to July 31, 
+2013, a total of 935 women were identified and treated with lumpectomy and IORT. A total of 822 patients had at least 6 months' follow -up 
+documented and were included in the analysis. The number of IORT 
+cases performed increased significantly over time (p < 0.001). The median patient age was 66.8 years. Most patients had disease that was less than 2 cm in size (90 %) and was estrogen- positive (91 %); most 
+patients had invasive ductal cancer (68 %). Of those who had a sentinel lymph node procedure performed, 89 % had negative sentinel lymph 
+nodes. The types of IORT performed were primary IORT in 79 %, 
+secondary IORT in 7 %, or planned boost in 14 %. Complications were 
+low. At a median follow -up of 23.3 months, crude in -breast recurrence 
+was 2.3 % for all patients treated. The authors concluded that IORT use 
+for the treatment of breast cancer is significantly increasing in North 
+America, and physicians are selecting low-risk patients for this treatment 
+option. Low complication and local recurrence rates support IORT as a 
+treatment option for selected women with early stage breast cancer. The 
+main drawback of this study were: it was a retrospective analysis (of a 
+registry) of the results of a novel treatment; and follow -up was only mid- 
+term (23.3 months). 
+Harness  et  al  (
+ 2018)  conducted  a metaanalysis  to  assess  single -fraction  
+electron IORT  during breast  conserving  surgery.  The study  identified  13 
+publications.  The analysis  demonstrated  a  pooled  monthly  local  
+recurrence  rate of  0.02%  per  person- month  (95%  confidence  interval  CI  
+0.00–0.06%)  for the studies with a follow -up  period  shorter  than 5  years,  
+0.03%  per  person- month  (95%  CI  0.02– 0.06%) for  studies  with  a  follow - 
+up period of  5  years  or  longer,  and 0.02%  per  person- month  (95%  CI  
+0.01–0.04%)  overall. A  key limitation  of this  metaanalysis  is that it was  
+based primarily  on  poor  quality  evidence.  Only  one study  included in  the  
+analysis  was  randomized,  with the remaining studies  either  single- arm 
+prospective  analyses  or  observational,  single-institution  studies. This  
+hindered the  ability  to  make  direct  comparisons  between  the recurrence  
+rates  after  treatment  with  IORT  and the recurrence  rate  after  treatment  
+with  alternative  radiation  options  because  the  study  populations  may  have  
+been  different.  Additionally,  outcomes  beyond  5  years  were  not  available 
+in  all  the  studies  due  to  limited  long-term  follow -up  data  to  date.        
+ 
+           
+         
+         
+        
+    
+    
+           
+              
+          
+           
+      
+         
+    
+     
+        
+           
+       
+          
+      
+ 
+      
+           
+     
+ 
+    
+   
+       
+     
+      
+          
+ 
+       
+      
+        
+         
+       
+           
+           
+        Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 39 of 66 
+An UpToDate review on “Adjuvant radiation therapy for women with newly 
+diagnosed, non- metastatic breast cancer” (De Los Santos, 2017) states 
+that “Caution with intraoperative radiation therapy --Ongoing research is 
+aimed at exploring other modalities of RT that will minimize toxicities 
+without reducing effectiveness. An example of this is intraoperative 
+radiation therapy (IORT), which condenses the entire therapeutic dose 
+into a single fraction, permitting surgery and radiation to be completed in 
+one day. At this time, however, we suggest that use of IORT be limited to 
+a clinical trial because the available data suggest an association with a higher risk of in -breast tumor recurrences (IBTR). For patients in whom 
+the duration of therapy required for standard WBRT is a concern, hypo- 
+fractionated WBRT schedules are a viable option. Two trials, the 
+TARGeted Intraoperative radiation Therapy -A (TARGIT -A) and the 
+External versus intraoperative RT (ELIOT) trials, suggest that IORT is associated with an increased risk of IBTR compared with WBRT 
+(absolute increase of approximately 4 % over 5 years). In women with high-risk breast cancers (e.g., grade 3, ER -negative, or triple- negative), 
+the absolute increased risk was on the order of 15 to 20 %. Longer -term 
+follow -up (at 10 to 15 years) is warranted”. 
+Furthermore, National Comprehensive Cancer Network’sclinical practice 
+guideline on “Breast cancer” (Version 2.2017) does not mention the use 
+of IORT as a management tool. 
+Liu and colleagues (2017) noted that APBI technology has theoretical advantages in comparison with traditional adjuvant radiation therapy (WBI) after BCS. However, published RCTs have shown inconsistent outcomes. Thus, these researchers carried out a comprehensive assessment of the safety and effectiveness of APBI technology is needed. Searches for relevant RCTs of APBI versus WBI were 
+performed using the following sources: PubMed, Embase, Cochrane 
+Library, Web of Science. Two independent observers evaluated the identified studies. The meta -analysi s was conducted using RevMan 5.2 
+software. A total of 7 studies of 7,452 patients were included in this 
+analysis. All 7 studies reported local recurrence as an outcome. Meta -
+analysis of 5 trials that included 6,486 patients showed significantly 
+different 5-year local recurrence rates for APBI and WBI groups (HR = 
+4.54, 95 % CI: 1.78 to 11.61, p = 0.002). Further analysis showed that this difference may be related to the choice of treatment methods.       
+ 
+      
+           
+           
+            
+      
+          
+           
+        
+         
+   
+ 
+        
+   
+    
+          
+        
+       
+        
+          
+      
+        
+      
+          
+          
+          
+         
+    
+         
+            
+          
+         
+     
+       
+          
+    
+          
+      
+         
+          Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 40 of 66 
+Benefit was conferred to the APBI group for the outcome of non- breast 
+cancer deaths. There was no significant difference between the 2 groups 
+in terms of nodal recurrence, systemic recurrence, OS, or mortality rates. 
+Toxicity side effects and cosmetic effects were similar in both groups, but 
+IORT appeared to have a greater acute response. The authors 
+concluded that although the analysis showed that patients receiving APBI 
+had a higher local recurrence rate, subgroup analyses suggested that this 
+might be related to therapeutic options. They stated that patients who 
+receive accurate radiotherapy may have greater benefits; APBI is a promising treatment technology. 
+Vaidya and associates (2017) stated that the clinical effectiveness of 
+targeted IORT (TARGIT -IORT) has been confirmed in the random ized 
+TARGIT -A (targeted IORT -alone) trial to be similar to a several weeks' 
+course of whole -breast EBRT in patients with early breast cancer. These 
+researchers determined the cost-effectiveness of TARGIT -IORT toinform 
+policy decisions about its wider implementation. TARGIT -A randomized 
+clinical trial (ISRCTN34086741) which compared TARGIT with traditional 
+EBRT and found similar breast cancer control, particularly when TARGIT 
+was given simultaneously with lumpectomy. Cost -utility analysis using 
+decision analytic modelling by a Markov model. A cost -effectiveness 
+Markov model was developed using TreeAge Pro V.2015. The decision 
+analytic model compared 2 strategies of radiotherapy for breast cancer in 
+a hypothetical cohort of patients with early breast cancer based on the published health state transition probability data from the TARGIT -A trial. 
+Analysis was performed for United Kingdom (UK) setting and National Health Service (NHS) healthcare payer's perspective using NHS cost 
+data and treatment outcomes were simulated for both strategies for a 
+time horizon of 10 years. Model health state utilities were drawn from the 
+published literature. Future costs and effects were discounted at the rate 
+of 3.5 %. To address uncertainty, 1- way and probabilistic sensitivity 
+analyses were performed. Main outcome measure was quality -adjusted 
+life-years (QALYs). In the base case analysis, TARGIT -IORT was a 
+highly cost -effective strategy yielding health gain at a lower cost than its 
+comparator EBRT. Discounted TARGIT -IORT and EBRT costs for the 
+time horizon of 10 years were £12,455 and £13,280, respectively. 
+TARGIT -IORT gained 0.18 incremental QALY as the discounted QALYs 
+gained by TARGIT -IORT were 8.15 and by EBRT were 7.97 showing 
+TARGIT -IORT as a dominant strategy over EBRT. Model outputs were       
+ 
+      
+          
+     
+ 
+       
+           
+           
+      
+         
+         
+            
+             
+          
+           
+          
+          
+          
+        
+          
+   
+            
+              
+             
+      
+ 
+ Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 41 of 66 
+robust to 1- way and probabilistic sensitivity analyses. The authors 
+concluded that the TARGIT -IORT is a dominant strategy over EBRT, 
+being less costly and producing higher QALY gain. 
+Takanen and co- workers (2017) reported their experience with full -dose 
+21 Gy IORT in early breast cancer patients after BCS to define most 
+important selection factors. A total of 758 patients, subjected to BCS and 
+IORT, were retrospectively analyzed evaluating most important clinical 
+outcomes. Median follow -up was 5.2 years. Results from Cox analyses 
+defined 2 groups of patients, "suitable" (age greater than 50 years, non-lobular histology, tumor size less than or equal to 2 cm, pN0 or pNmic, ki67 les than or equal to 20 %, non-triple negative receptor status and G1 
+to G2) and "unsuitable" for IORT, with a higher rate of breast related 
+events moving from "suitable" to "unsuitable" group. The 5- year rate of 
+ipsilateral breast tumor recurrence (IBTR) was 1.8 % in suitable group with significant differences versus unsuitable (1.8 versus 11.6 %, p < 0.005). Same differences between 2 groups were evidenced in true local 
+relapse (0.6 versus 6.9 %, p < 0.005) and i n new ipsilateral BC (1.1 
+versus 4.7 %, p < 0.015). The authors concluded that in their current 
+practice they consider the following pre- operative factors to select 
+patients suitable for IORT: age greater than 50 years, absence of lobular 
+histology, tumor size less than or equal to 2 cm, pN0 or pNmic, according 
+to APBI consensus statement, including also ki67 less than or equal to 20 
+%, non- triple negative receptor status and G1- G2. 
+In this  multi -cen
+ ter  study,  Lai  and associates  (2017)  reported the  patient  
+selection  criteria  for  and  preliminary  oncologic  outcomes  associated  with 
+IORT  delivered by  the Xoft  Axxent  eBx  system  for  early -stage breast  
+cancer  in  Taiwan.  Patients  with  early  breast  cancer  in  Taiwan received 
+BCS and received  IORT with  Xoft  Axxent  eBx  System  during  2013 to 
+2015 was  searched from  database of  Taiwan  IORT  study  cooperative  
+group  (T-IORTSCG).  Patients’  clinicopathologic  characteristics  and  early  
+post-operative  results  were  collected  and reported.  During the  study  
+period,  26 hospitals  in  Taiwan performed  a total  of  261 Xoft  IORT  
+procedures  for  breast  cancer.  The mean age of  them  was  52.9 ±  9.8  
+years  (37  to  72),  and  tumor  size  was  1.5  ±  0.8  cm  (range  of  0.1  to  4.2  cm) 
+for  invasive  cancer  and 1.2 ±  0.8 cm  (range  of  0.2  to 3.0 cm)  for d uctal  
+carcinoma  in-situ  (DCIS)  lesions.  Lymph  node  metastasis  was  found  in  6 
+(2.3  %)  patients.  The  patients  received  IORT  in  Taiwan  differed  markedly        
+ 
+  
+    
+           
+            
+         
+            
+         
+           
+      
+ 
+    
+       
+      
+     
+          
+     
+         
+         
+       
+              
+            
+       
+          
+        
+      
+         
+        
+      
+        
+       
+  
+ 
+   
+         Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 42 of 66 
+from those used in the ELIOT and TARGIT -A studies. Specifically, 
+patients selected for IORT in Taiwan tended to be younger, their tumors 
+tended to be larger and the prevalence of lymph node metastasis tended 
+to be lower. Among these 261 patients, 8 (3.1 %) patients required WBI. 
+During a mean follow -up of 15.6 months, loco-regional recurrence was 
+observed in 2 (0.8 %) patients. The authors concluded that in real world experience, patients received IORT differed quite significantly withcriteria 
+formulated by trials. The preliminar y results of IORT in Taiwan showed it 
+was well -acceptable by patients and clinicians. 
+Correa and colleagues (2017) updated the APBI consensus statement 
+published in 2009 and provided guidance on use of IORT for partial 
+breast irradiation in early -stage breast cancer, based on published 
+evidence complemented by expert opinion. These researchers carried 
+out a systematic PubMed search using the same terms as the original consensus statement, which yielded 419 articles; 44 articles were 
+selected. The authors synthesized the published evidence and, through a 
+series of conference calls and e-mails , reached consensus regarding the 
+recommendations. The new recommendations included lowering the age 
+in the "suitability group" from 60 to 50 years and in the "cautionary group" 
+to 40 years for patients who meet all other elements of suitability. 
+Patients with low -risk ductal carcinoma in- situ (DCIS), as per Radiation 
+Therapy Oncology Group 9804 criteria, were categorized in the "suitable" 
+group. The task force agreed to maintain the current criteria based on 
+margin status. Recommendat ions for the use of IORT for breast cancer 
+patients included: counseling patients regarding the higher risk of IBRT 
+with IORT compared with WBI; the need for prospective monitoring of 
+long- term local control and toxicity with low -energy radiograph IORT 
+given limited follow -up; and restriction of IORT to women with invasive 
+cancer considered "suitable". This updated consensus statement provided the following recommendation: 
+Patients interested in cancer control equivalent to that achieved  
+with  WBI post -lumpectomy for breast conservation  should be  
+counseled that in 2 clinical trials the  risk of IBTR was higher with  
+IORT. (High  quality of evidence (HQE),  recommendation rated as  
+“Strong”).  
+Electron
+ beam IORT should be restricted to women with invasive 
+cancer considered “suitable” for partial breast irradiation based on       
+ 
+           
+   
+ 
+        
+  
+   
+ 
+          
+      
+             
+     
+       
+        
+            
+      
+          
+          
+      
+     
+           
+              
+              
+              
+         
+            
+              
+        
+             
+        
+          
+  
+ 
+  
+        
+          
+    Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 43 of 66 
+the  results  of  a  multi -variate  analysis  with  median  follow -up  of  5.8  
+years. (Moderate quality of evidence (MQE), recommendation  
+rated as  “Strong”).  
+Low -energy x
+-ray IORT for PBI should be used within the context of 
+a prospective registry or clinical trial, per ASTRO Coverage with 
+Evidence Development (CED) statement. When used, it should be restricted to women with invasive cancer considered “suitable” for 
+partial breast irradiation based on the data at the time of this 
+review. (MQE, recommendation rated as “Weak”). 
+Sorrentino and colleagues (2018) stated that IORT could be not -inferior to 
+EBRT in selected patients, but toxicities, self -perception of body image, 
+quality of life, and resumption of work or daily activities have been poorly 
+explored. These researchers compared these outcomes between EBRT, 
+IORT full -dose (IORT -f) and IORT boost (IORT -b). A total of 443 
+consecutive patients, candidates for BCS, were in cluded: EBRT was 
+performed in 220 patients (49.7 %), IORT -f in 140 patients (31.6 %), and 
+IORT -b in 83 patients (18.7 %). Radiotherapy -related toxicities were 
+registered. Patients were evaluated at 6 months for Body Image after Breast Cancer Questionnaire (BIBCQ) to assess possible changes in self-
+perception of body image and limitations. A 2nd questionnaire explored the impact of EBRT, IORT -f and IORT -b on resumption of work and 
+normal daily activities. EBRT had a higher risk of breast fibrosis and retraction (OR 3.58, 95 % CI: 1.024 to 12.526, p = 0.046) and breast 
+edema (OR 6, 95 % CI: 2.077 to 17.335, p = 0.001) compared to IORT -f, 
+but a lower risk of seroma compared to IORT -b (OR 0.36, 95 % CI: 0.166 
+to 0.785, p = 0.01). The BIBCQ scores showed a better outcome in arm 
+concerns with IORT -f (-3.3) versus IORT -b (-1.3, p = 0.002) and EBRT 
+(-1.7, p = 0.006), although biased by the lower rate in axillary dissections. 
+Return to daily activities occurred after 70.6 days with EBRT versus 41 
+days with IORT -f (p < 0.0001) and 53.3 days with IORT -b (p = 0.07), 
+without any effect of age or axillary dissection. The authors concluded that IORT could reduce adverse effects, allowing faster resumption of job 
+and house- works. 
+Thangarajah and co- workers (2018) stated that mastectomy is the 
+standard procedure in patients with inIBTR or breast cancer after irradiation of the chest due to Hodgkin's disease. In certain cas es, a 
+second BCS in combination with IORT is possible. To- date, data       
+ 
+    
+           
+          
+          
+        
+      
+      
+     
+      
+         
+          
+        
+         
+            
+      
+     
+           
+    
+ Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 44 of 66 
+concerning BCS in combination with IORT in pre -irradiated patients are 
+limited. This was the 1st pooled analysis of this special indication with a 
+mature follow -up of 5 years. Patients with IBTR after EBRT (treated in 2 
+centers) for breast cancer were included. Patients with previous EBRT including the breast tissue due to other diseases were also included. 
+IORT was performed with the Intrabeam -device using low kV X- rays. 
+Clinical data including outcome for all patients and toxicity for a 
+representative cohort (LENT -SOMA scales) were obtained. Statistical 
+analyses were done including Kaplan- Meier estimates for local 
+recurrence, distant metastasis and OS. A total of 41 patients were 
+identified (39 patients with IBTR, 2 with Hodgkin`s disease in previous 
+medical history). Median follow -up was 58 months (range of 4 to 170). 
+No grade 3/4 acute toxicity occurred within 9 weeks. Local recurrence-free survival rate was 89.9 % and OS was 82.7 % at 5 years; 7 patients developed metastasis within the whole follow -up. The authors concluded 
+that BCS in combination with IORT in IBTR in pre-irradiated patients is a feasible method to avoid mastectomy with a low risk of side effects and an excellent local control and good OS. 
+Barrou and  assoc
+ iates  (2018)  stated  that  the spread of  systematic  
+screening and  the emergence  of  oncoplastic  techniques  allow  more 
+breast  conservative  treatment  associating lumpectomy  and  EBRT.  In 
+order to further facilitate the patient's treatment,  IORT has  been 
+developed.  The oncological  safety  of  this  technique  has  been studied,  
+and  is  considered  acceptable.  Many  questions  remain  unsolved  in  regard 
+of  the toxicity  of  this  procedure  as  well  as  the patient's  selection  criteria.  
+In this study, these investigators  presented the first  results  and 
+complications  rate  of  patients  treated by  IORT  in  a  single  French 
+institution.  Between 2012 and 2015,  all  patients  with  breast  cancer  
+treated  in a 1 -step  procedure  associating  lumpectomy  and IORT  were 
+retrospectively included in a m  ono-centric cohort. Acute and l  ong-term 
+toxicities  were  evaluated using  CTCAE v4.0  classification.  A total  of  280 
+breast  cancers  were treated  using  IORT procedure.  Additional  EBRT 
+was  requested for  45.7 %  patients.  The acute complications  rate was  
+14.6  %,  with  5  surgical  revisions  needed  (1.78  %).  With  a  median  follow - 
+up of  911 days,  the  long-term  grade- 3  toxicity rate  was 1.1  %.  The only  
+risk  factor  for  local  fibrosis  was  EBRT  (OR  =  1.99;  IC95  [1.05  to  3.81],  p  = 
+0.036);  3  patients  (1.07 %)  were  diagnosed with  local  recurrence.  The 
+results  from  this  cohort  confirmed  the  low  complication  and  recurrence        
+ 
+        
+             
+        
+       
+           
+            
+ 
+   
+   
+      
+        
+      
+        
+    
+            
+     
+      
+         
+    
+            
+      
+       
+ 
+ 
+ 
+ 
+       
+          
+           
+          
+        
+                  
+          
+          
+          
+        
+            
+           
+         Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 45 of 66 
+rate of IORT procedure. The authors concluded that a good selection of 
+patients is needed in order to lower the EBRT rate and allow therapeutic 
+de-escalation. The classification of tumors into IHC subsets appeared a 
+good selection gate. They stated that IORT appeared to have a low 
+toxicity rate with an acceptable local recurrence risk, and should therefore 
+be considered as an option in the treatment of early breast cancer. 
+An UpToDate review on “Radiation therapy techniques in cancer 
+treatment” (Mitin, 2018) states that “Intraoperative radiation therapy (IORT) is the delivery of radiation at the time of surgery. Whereas the dose delivered by external beam radiation therapy ( EBRT) is limited by 
+the tolerance of surrounding normal tissues, IORT allows exclusion of 
+part or all of the dose-limiting sensitive structures by operative mobilization and/or direct shielding of these structures. A single -fraction 
+treatment is used, and dose is limited by structures (nerves, fixed organs) 
+that cannot be displaced. The decision to deliver IORT is often made 
+intraoperatively, based upon clinical and frozen- section pathology 
+evaluation. Areas at high risk of local recurrence (positive margins, incompletely resected tumors) can be visualized and targeted while the patient is under anesthesia. The use of IORT was initiated in the 1960s in Japan, and currently, a linear accelerator -based electron treatment 
+approach is used in approximately 90 centers in at least 16 countries worldwide”. 
+Head and Neck Cancers 
+Cristalli and colleagues (2016) evaluated the safety, effectiveness and functional outcomes of IORT followed by IMRT in locally advanced stage 
+tumors involving the middle ear. Data on 13 consecutive patients treated 
+for malignant tumor of external auditory canal involving the middle ear were retrospectively reviewed. Median follow -up was 33 months (range 
+of 6 to 133); 5 (38 %) patients were stage III and 8 (62 %) were Stage IV 
+according to the University of Pittsburgh staging system. Lateral temporal 
+bone resection (LTBR) was performed in all cases; LTBR was associated 
+with parotidectomy in 5 (38 %) cases, and with neck dissection and parotidectomy in 6 (46 %) cases. No patients had gross residual tumor. 
+Surgical treatment was followed by IORT (12 Gy) and IMRT (50 Gy). 
+Adjuvant chemotherapy was used in 4 (30 %) cases. Pre-operative and 
+post-operative audiometric tests were performed to assess hearing loss;       
+ 
+         
+      
+      
+          
+        
+            
+           
+      
+         
+       
+         
+           
+         
+             
+  
+ 
+    
+         
+         
+             
+           
+          
+        
+        
+          
+         
+     
+       
+       
+            
+           
+           
+   
+    
+        
+          
+        
+    Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 46 of 66 
+5-year local -control (LC), 5-year distant -metastasis (DM), 5-year disease­
+free-survival (DFS) and 5- year OS were calculated with Kaplan- Meyer 
+method. Significant changes in bone conduction were reported after 
+treatment. Partial flap necrosis was the only early complication observed 
+in 3 (23 %) cases, while meningeal fistula was seen in 1 (7.6 %) case as 
+a late complication. The 5-year LC rate was 68 %; the 5-year DM rate 
+was 90 %; the 5- year DFS rate was 61 %; and the 5 -year OS rate was 
+69 %. The authors c oncluded that IORT followed by IMRT for the 
+treatment of advanced external auditory canal and middle ear tumors appeared to be safe. No intra- operative death was reported; IORT may 
+reduce the post -operative irradiation of remnant tissue obtaining the same 
+full dose on the tumor bed. No complications of the residual external ear were observed; detriment of neurosensory hearing may be expected. 
+They stated that future studies are needed to confirm the benefit of this 
+procedure in the ear. 
+Kyrgias and colleagues (2016) noted that multi -modality therapy 
+constitutes the standard treatment of advanced and recurrent head and 
+neck cancer. Since loco-regional recurrence comprises a major obstacle 
+in attaining cure, the role of IORT as an add- on in improving survival and 
+local control of the disease has been investigated. IORT allows delivery 
+of a single tumoricidal dose of radiation to areas of potential residual microscopic disease while minimizing doses to normal tissues. 
+Advantages of IORT include the conformal delivery of a large dose of 
+radiation in an exposed and precisely defined tumor bed, minimizing the 
+risk of a geographic miss creating the potential for subsequent dose reduction of EBRT. This strategy allows for shortening overall treatment 
+time and dose escalation. These investigators summarized recent published work on the use of IORT as an adjuvant modality to treat 
+common head and neck cancer in the primary or recurrent setting. They 
+searched the Medline, Scopus, Ovid, Cochrane, Embase, and ISI Web of 
+Science databases for articles published from 1980 up to March 2016. 
+Based on relevant publications it appeared that including IORT in the 
+multi -modal treatment may contribute to improved local control. However, 
+the benefit in OS is unclear. The authors concluded that IORT appeared 
+to be a safe, promising adjunct in the management of head and neck 
+cancer and yet further well -organized clinical trials are needed to 
+determine its role more precisely.       
+ 
+  
+     
+          
+          
+          
+         
+ 
+ 
+ 
+   
+         
+   
+   
+       
+        
+        
+       
+        
+         
+     
+       Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 47 of 66 
+Gao and colleagues (2017) stated that the treatment effects IORT for 
+gastric and esophageal cancer remain uncertain. In a meta -analysis, 
+these researches examined if IORT was associated with more favorable 
+oncologic outcomes when compared to non-IORT for patients who have 
+gastric or esophageal cancer. PubMed, Embase, and the references of 
+relevant studies were systematically searched up to March 2016. 
+Outcomes  were  ana lyzed with  fixed- effect  or  random -effect  models,  and 
+the meta- analysis  was  completed with  odds  ratio  (OR),  HR,  and 95 %  CI  
+as  effect  values.  A total  of  11  studies  were  included,  9  for  gastric  cancer 
+and 2  for  esophageal  cancer.  The studies  included 1,581 patients,  570 in  
+the IORT  group and 1,011 in  the control  group.  There was  no  significant  
+difference  in  OS between  the IORT  group and control  group (HR  =  0.91,  
+95 %  CI:  0.73 to  1.13;  p  =  0.38).  Two s ubgroups  based on cancer type  
+also had  the similar  results  (gastric  group:  HR  =  0.98,  95  %  CI:  0.78  to  
+1.24,  p  =  0.87;  esophagus  group:  HR  =  0.63,  95  %  CI:  0.37 to  1.05,  p =  
+0.08). Besides, IORT  showed favorable effects for  patients  with c ancer in  
+stage  II  and  stage III  and had the  advantage of  loco- regional  control.  
+Regarding the c  omplications, the oc  currence rate had  no significant  
+difference  between  the  IORT  group  and  control  group  (OR  =  1.15;  95  % 
+CI:  0.77  to  1.72;  p  =  0.50).  The  authors  concluded  that  according  to  this  
+meta -analysis,  IORT  did not  extend the  OS  in  gastric  cancer  and 
+esophageal  cancer  patients,  but  had  a  favorable  effect  for  specific  stage 
+patients to show loco- regional  control,  and  did not  increase  the risk  of  
+complications.  
+Sporadic Renal Angiomyolipoma 
+Fernandez -Pello and colleagues (2020) noted that little is known 
+regarding the natural history of sporadic angiomyolipoma (AML); there is 
+uncertainty regarding the indications of treatment and therapeutic 
+options. These researchers evaluated the indications, effectiveness, 
+harms, and follow -up of different management modalities for sporadic 
+AML to provide guidance for clinical practice. They carried out a 
+systematic review of the literature, incorporating Medli ne, Embase, and 
+the Cochrane Library (from January 1, 1990 to June 30, 2017), in accordance with Preferred Reporting Items for Systematic Reviews and 
+Meta -Analyses guidelines. No restriction on study design was imposed. 
+Patients with sporadic AML were included. The main interventions 
+included active surveillance, surgery (nephron- sparing surgery and       
+ 
+      
+     
+       
+      
+          
+       
+   
+       
+       
+      
+     
+          
+            
+             
+  
+      
+        
+       
+     
+       
+         
+     
+    
+          
+    
+ 
+ 
+ 
+         
+          
+          
+     
+           
+   
+      
+       
+        
+        
+         Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 48 of 66 
+radical nephrectomy), selective arterial embolization, and percutaneous 
+or laparoscopic thermal abla tions (radiofrequency, microwaves, or 
+cryoablation). The outcomes included indications for active treatment, 
+AML growth rate, AML recurrence rate, risk of bleeding, post -treatment 
+renal function, adverse events (AEs) of treatments, and modalities of 
+follow -up. Risk of bias assessment was performed using standard 
+Cochrane methods. Among 2,704 articles identified, 43 were eligible for 
+inclusion (0 RCTs, 9 non-randomized comparative retrospective studies, 
+and 34 single -arm case series). Most studies were retrospective and 
+uncontrolled, and had a moderate- to-high risk of bias. The authors 
+concluded that in active surveillance series, spontaneous bleeding was reported in 2 % of patients and active treatment was undertaken in 5 %. Active surveillance was the most chosen option in 48 % of the cases, followed by surgery in 31 % and selective arterial embolization in 17 % of 
+the cases. Selective arterial embolization appeared to reduce AML 
+volume but required secondary treatment in 30 % of the cases. Surgery 
+(particularly nephron- sparing surgery) was the most effective treatment in 
+terms of recurrence and need for secondary procedures. Thermal ablation was an infrequent option. The association between AML size 
+and the risk of bleeding remained unclear; as such the traditional 4-cm 
+cut-off should not per se trigger active treatment. These researchers 
+stated that in spite of the limitations and uncertainties relating to the evidence base, the findings may be used to guide and inform clinical practice, until more robust data emerge. This review does not mention IORT as a therapeutic option. 
+Thymoma 
+Cui and colleagues (2020) noted that IORT has been used to treat 
+different residual solid tumors after tumor removal and has shown many 
+advantages over other treatment methods. However, the use of IORT for 
+invasive thymoma has not been reported. These researchers examined the safety and efficacy of INTRABEAM IORT for the treatment of invasive 
+thymoma. Among the patients admitted to the authors’ hospital from 
+September to December 2016 who were diagnosed with invasive 
+thymoma, 14 were selected as study subjects. With medical histories taken beforehand, 8 of these patients were diagnosed with Masaoka stage IIA and 6 with Masaoka stage IIB; furthermore, 5 of the patients 
+were diagnosed with myasthenia gravis (MG). INTRABEAM radiation (8       
+ 
+           
+        
+       
+      
+    
+         
+   
+   
+             
+       
+        
+       
+        
+   
+      
+             
+            
+       
+      
+          
+         
+    
+   
+    
+      
+ 
+ 
+      
+          
+     
+          
+    
+  
+ 
+      
+         
+         
+  Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 49 of 66 
+to 10 Gy, low energy) was delivered to the post -operative tumor bed of 
+each patient during surgery. The intra- and post -operative complications 
+were observed and evaluated, and the improvement in symptoms was 
+assessed. An additional 23 patients with stage II thymoma undergoing radical surgery from April to August 2016 were chosen as the contro l 
+group. One month after the operation, only 1 patient in the IORT group had cough, increased levels of leucocytes and neutrophils, and pulmonary inflammation on chest computed tomography. Reactive inflammation and pleural effusion in the 2 groups were similar (p > 0.05). 
+There was no significant difference between the 2 groups in the 
+improvement of MG (p > .05). Post -operative chest computed 
+tomography and routine blood examination at 3 and 12 months showed 
+that all the patients recovered, with normal hemogram levels and no pulmonary fibrosis around the radiation field. In addition, ultrasonic cardiography and electrocardiography demonstrated no significant 
+difference before or after surgery within the IORT group. At the end of the 
+follow -up, all the patients were alive, no relapse or remote metastasis was 
+observed in the IORT group, and 2 in- patients in the control group had 
+experienced relapse at 24 and 26 months. There was a significant 
+difference in DFS between the 2 groups (p = 0.00). It is safe t o 
+administer low-energy INTRABEAM IORT at a dose of approximately 10 
+Gy in patients with stage II invasive thymoma. The authors concluded that INTRABEAM IORT did not significantly increase operation- or 
+radiation -related complications and had no significant effect on vital 
+organs such as the lungs and heart; its long- term efficacy is worth 
+expecting. 
+The authors stated that the objective of this study was to examine the safety and primary efficacy; therefore, these researchers did not have a 
+large sample size in this study. Due to the limited sample size and the non-RCT design of the study, these investigators plan to design a 
+prospective trial to confirm the effectiveness of INTRABEAM IORT in 
+treating invasive thymoma in the near future. 
+Furthermore, National Comprehensive Cancer Network’sclinical practice 
+guideline on “Thymomas and thymic carcinomas” (Version 1.2020) does 
+not mention intraoperative radiation therapy as a management / therapeutic option.       
+ 
+ 
+ 
+ 
+ 
+  Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 50 of 66 
+Appendix 
+Breast Cancer Staging 
+Stage 0  (also known as ductus carcinoma in -situ (DCIS)). Cancer is  
+conﬁned  to  the  lobules  or d ucts  in t he  breast.  It  has  
+not metastasized to surrounding tissue. Stage 0 cancer is called  
+non-invasive. Some stage  0 cancers become inva sive later.  
+Stage I. The tumor is small (or may  be too small to see) and  
+invasive. It may or may not have metastasized to the lymph nodes  
+close to the breast.  
+Stage II. There may be no  tumor found in the breast, but cancer  
+can be found that has  metastasized to axillary lymph nodes or  
+nodes close to the breastbone. There might also  be a tumor  
+between 2 and 5 cm in the breast with small cancers in some of  
+the lymph nodes. Or, the tumor could be larger than 5 cm with no  
+cancer in the nodes.  
+Stage  IIIA. Cancer has metastasized to 4 to 9 axillary nodes or to  
+nodes near the  breastbone but not to other  parts of the body. Or,  
+there could be a tumor larger than 5 cm and cancer  that has  
+metastasized to 3 axillary nodes or to nodes near the breastbone.  
+Stage II
+IB. The tumor has metastasized to the chest wall or to the  
+skin of the breast causing an ulcer or swelling. It may also  
+have  metastasized  to  axillary  nodes  but  not  to  other  parts  of  the 
+body.  
+Stage IIIC. Cancer of any size has metastasized to at least 10  
+axillary nodes. It may also have metastasized to the skin of the  
+breast or  breast wall, but not too  distant  parts of the body.  
+Stage IV. The cancer is metastatic (i.e., it has spread  to other  
+organs such as the bones, lungs, brain, or liver).  
+Adapted  from  Gersten  T. Breast  cancer  staging.  MedlinePlus.  Last 
+updated:  October  21,  2017.  Breast Cancer Sta ging  
+(https://medlineplus.gov/ency/patientinstructions/000911.htm)        
+ 
+ 
+  
+  
+      
+  
+      
+  
+     
+   
+         
+   
+      
+        
+      
+  
+  
+    
+ 
+  
+  
+  
+  
+  Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 51 of 66 
+Code Code Description 
+CPT codes covered if selection criteria are met : 
+77424 Intraoperativeradiationtreatment delivery, x-ray,single 
+treatment session 
+ 
+77425 Intraoperative radiation treatmentdelivery, electrons, 
+ 
+single treatment session 
+ 
+77469 Intraoperative radiation treatment management 
+Other CPT codes related to the CPB : 
+19294 Preparation of tumor cavity, with placement of a 
+ 
+radiation therapy applicator for intraoperative radiation 
+ 
+therapy (IORT) concurrent with partial mastectomy (List 
+separately in addition to code for primary procedure) 
+ 
+19301 Mastectomy, partial (e.g.,lumpectomy, tylectomy, 
+ 
+quadrantectomy, segmentectomy) 
+ 
+19302 Mastectomy, partial ( e.g., lumpectomy, tylectomy, 
+ 
+quadrantectomy, segmentectomy); with axillary 
+ 
+lymphadenectomy 
+ 
+77261 - 
+77299  Clinical treatment planning 
+77300 - 
+77399  Medical  radiation  physics,  dosimetry,  treatment  devices,  
+and special  services  
+77401 - 
+77417  Radiation treatment delivery 
+77427 - 
+77499  Radiation treatment management 
+77750 - 
+77799  Clinical brachytherapy 
+ICD-10 codes covered if selection criteria are met :       
+ 
+  
+   
+ 
+    
+        
+   
+      
+    
+  
+     Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 52 of 66 
+Code Code Description 
+C18.0 - 
+C21.8  Malignant  neoplasm  of  colon,  rectosigmoid junction,  
+rectum,  anus  and  anal  canal  
+C46.1 Kaposi's sarcoma of soft tissue 
+C49.0 Malignant  neoplasm  of  connective  and  soft  tissue  of  
+head, face and   neck  
+C49.4 - 
+C49.5  Malignant  neoplasm  of  connective  and  soft  tissue  of  
+abdomen  and  of  pelvis  [retroperitoneal  sarcoma]  
+C50.011 - 
+C50.929  Malignant neoplasm of breast 
+C53.0 - 
+C54.9  Malignant neoplasm of cervix uteri and of corpus uteri 
+D05.00 - 
+D05.92  Carcinoma in situ of breast 
+ICD-10 codes not  covered for indications listed in the CPB  (not  
+all-inclusive) :  
+C00.0 - 
+C15.9  Malignant  neoplasm  of  lip,  oral  cavity,  pharynx  and 
+esophagus  [head and neck  cancer]  
+C16.0 - 
+C16.9  Malignant neoplasm of stomach [gastric cancer] 
+C22.0 - 
+C22.8  Malignant  neoplasm  of  liver  and  intrahepatic  bile  ducts 
+[cholangiocarcinoma]  
+C25.0 - 
+C25.9  Malignant neoplasm of pancreas 
+C30.0 -C33 Malignant  neoplasm  of  nasal  cavity  and middle  ear,  
+accessory  sinuses,  larynx  and  trachea  [head  and  neck  
+cancer]  
+C37 Malignant neoplasm of thymus 
+C40.00 - 
+C41.9  Malignant  neoplasm  of  bone  and  articular  cartilage  
+[osteosarcoma]        
+ 
+ 
+         
+        
+     
+       
+         
+ 
+       
+          
+       
+          
+      
+        
+ 
+ 
+ 
+ 
+ 
+ 
+   
+     
+  Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 53 of 66 
+Code  Code Description 
+C49.0 Malignant neoplasm of connective and soft tissue of 
+head, face and neck [head and neck cancer] 
+C61 Malignant neoplasm of prostate 
+C64.1 - 
+C64.9  Malignant neoplasm of kidney, except renal pelvis 
+C69.00 - 
+C71.9  Malignant  neoplasm  of  eye  and  adnexa,  meninges  and  
+brain  [head and neck  cancer  and brain  tumors]  
+[conjunctival  neoplasms  (e.g., lymphoma,  sebaceous  
+carcinoma,  and  squamous  cell  carcinoma)  and 
+glioblastomas]  
+C72.20 - 
+C72.59  Malignant  neoplasm  of  cranial  nerves  [head  and  neck  
+cancer  and  brain  tumors]  
+C73 Malignant neoplasm of thyroid gland [head and neck 
+cancer] 
+C75.0 - 
+C75.4  Malignant  neoplasm  of  other  endocrine  glands  [head 
+and neck  cancer]  
+C76.0 Malignant neoplasm of head, face and neck 
+C79.31,  
+C79.49 ­ 
+C79.52  Secondary  malignant  neoplasm  of  brain,  other  parts  of  
+nervous  system,  bone and bone marrow  [vertebral  
+metastases]  
+D02.3 Carcinoma in situ of other parts of respiratory system 
+Carcinoma in situ of accessory sinuses; Carcinoma in 
+situ of middle ear; Carcinoma in situ of nasal cavities 
+[middle ear tumors or head and neck cancers] 
+D17.71 Benign lipomatous neoplasm of kidney [sporadic renal 
+angiomyolipoma] 
+The above policy is based on the following references: 
+1. Agencia de Evaluacion de Tecnologias Sanitarias (AETS). 
+Intraoperative radiation therapy [summary]. IPE-99/22 (Public 
+report). Madrid, Spain: AETS; 1999.       
+  
+    
+       
+ 
+   
+         
+  
+           
+        
+ 
+ 
+             
+     
+           
+        
+ 
+          
+ 
+ 
+  
+    
+ 
+ 
+    
+ 
+   
+  
+  
+   
+ 
+        
+            
+ 
+   
+        
+  
+  
+ 
+          
+  Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 54 of 66 
+2. Alvarado MD, Conolly J, Park C, et al. Patient preferences 
+ 
+regarding intraoperative versus external beam radiotherapy 
+ 
+following breast- conserving surgery. Breast Cancer Res Treat. 
+ 
+2014;143(1):135 -140. 
+ 
+3. Ballo MT, Zagars GK, Pollock RE, Retroperitoneal soft tissue 
+ 
+sarcoma: An analysis of radiation and surgical treatment. Int J 
+Radiat Oncol Biol Phys. 2007;67(1):158 -163. 
+ 
+4. Barrou J, Tallet A, Cohen M, et al. Contribution of intraoperative 
+radiotherapy (IORT) for therapeutic de-escalation in early breast 
+ 
+cancer: Report of a single institution's experience. Breast J. 
+ 
+2018;24(5):715 -723. 
+ 
+5. Bellon JR, Haﬀty BG, Harris EE, et al, Expert Panel on Radiation 
+ 
+Oncology --Breast. ACR Appropriateness Criteria conservative 
+ 
+surgery and radiation --stage I and II breast carcinoma [online 
+ 
+publication]. Reston, VA: American College of Radiology (ACR); 
+ 
+2011. 
+ 
+6. Bergenfeldt M, Albertsson M. Current state of adjuvant therapy in 
+resected pancreatic adenocarcinoma. Acta Oncol. 
+2006;45(2):124 -135. 
+ 
+7. Blohmer JU, Kimmig R, Kummel S, et al. Intraoperative radiotherapy 
+of breast cancer. Gynakol Geburtshilﬂiche Rundsch. 2008;48(2):63 ­
+67. 
+8. Bludau F, Reis T, Schneider F, et al. Kyphoplasty combined with 
+intraoperative radiotherapy (Kypho -IORT). Alternative therapy for
+ 
+patients with oligometastatic spinal metastases. Radiologe. 
+2015;55(10):859 -867. 
+ 
+9. Brenner T, Duggal S, Natale J, Wirth SM. Treatment protocols for 
+breast cancer. UpToDate [online serial]. Wal tham, MA: UpToDate; 
+reviewed June 2014. 
+10. Bussieres E, Gilly FN, Rouanet P, et al. Recurrences of rectal 
+cancers: Results of a multimodal approach with intraoperative 
+radiation therapy. French Group of IORT. Intraoperative Radiation 
+Therapy. Int J Radiat Oncol Biol Phys. 1996;34(1):49 -56. 
+11. Cai S, Hong TS, Goldberg SI, et al. Updated long -term outcomes 
+and prognostic factors for patients with unresectable locally 
+advanced pancreatic cancer treated with intraoperative 
+radiotherapy at the Massachusetts General Hospital, 1978 to 2010. 
+Cancer. 2013;119(23):4196 -4204. 
+12. Call JA, Staﬀord SL, Petersen IA, Haddock MG. Use of 
+intraoperative radiotherapy for upper -extremity soft -tissue 
+sarcomas: Analysis of disease outcomes and toxicity. Am J Clin 
+Oncol. 2014;37(1):81 -85.       
+        
+ 
+   
+       
+ 
+  
+ 
+        
+  
+ 
+            
+ 
+  
+ 
+ 
+           
+ 
+   
+         
+   
+  
+              
+     
+  
+           
+ 
+       
+   
+ 
+  
+      
+  
+          
+       
+           
+ 
+      
+  
+        
+     Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 55 of 66 
+13. Calvo FA, Meirino RM, Orecchia R. Intraoperative radiation 
+therapy part 2. Clinical results. Crit Rev Oncol Hematol. 
+2006;59(2):116- 127. 
+14. Calvo FA, Santos M, Azinovic I. Intraoperative radiotherapy. Literature updating with an overview of results presented at the 6th 
+International Symposium of Intraoperative Radiation Therapy. 
+Rays. 1998;23(3):439- 461. 
+15. Coelho TM, Fogaroli RC, Pellizzon ACA, et al. Intraoperative 
+radiation therapy for the treatment of recurrent retroperitoneal 
+and pelvic tumors: A single -institution analysis. Radiat Oncol. 
+2018;13(1):224. 
+16. Correa C, Harris EE, Leonardi MC, et al. Accelerated partial breast 
+irradiation: Executive summary for the update of an ASTRO 
+evidence- based consensus statement. Pract Radiat Oncol. 
+2017;7(2):73- 79. 
+17. Cox, JD. Clinical Applications of New Modalities. In: Moss; Radiation Oncology. 7th ed. JD Cox, ed. St Louis, MO: Mosby; 
+1994:974- 976. 
+18. Cristalli G, Mercante G, Marucci L, et al. Intra operative radiation 
+therapy as adjuvant treatment in locally advanced stage tumors 
+involving the middle ear: A hypothesis -generating retrospective 
+study. Acta Otorhinolaryngol Ital. 2016;36(2):85- 90. 
+19. Cui TX, Dai JG, Li JM, et al. Safety and eﬃcacy of INTRABEAM 
+intraoperative radiotherapy for invasive thymoma. Medicine 
+(Baltimore). 2020;99(27):e20964. 
+20. Cuncins -Hearn A, Saunders C, Walsh D, et al. A systematic review of 
+intraoperative radiotherapy in early stage breast cancer. ASERNIP ­
+S Report No. 27. North Adelaide, SA: Australian Safety and Eﬃcacy Register of New Interventional Procedures – Surgical (ASERNIP -S); 
+2002:1- 80. 
+21. Czito BG, Anscher MS, Willett CG. Radiation therapy in the 
+treatment ofcholangiocarcinoma. Oncology (Williston Park). 
+2006;20(8):873- 884; discussion 886- 8888, 893- 895. 
+22. De Los Santos JF. Adjuvant radiation therapy for women with 
+newly diagnosed, non- metastatic breast cancer. UpToDate 
+[online serial]. Waltham, MA: UpToDate; reviewed May 2017. 
+23. del Carmen MG, Eisner B, Willet CG, et al. Intraoperative radiation 
+therapy in the management of gynecologic and genitourinary 
+malignancies. Surg Oncol Clin N Am. 2003;12(4):1031- 1042. 
+24. del Carmen MG, McIntyre JF, Goodman A. The role of 
+intraoperative radiation therapy (IORT) in the treatment of locally 
+advanced gynecologic malignancies. Oncologist. 2000;5(1):18- 25.       
+ 
+ 
+        
+ 
+   
+ 
+ 
+ 
+          
+  
+  
+          
+ 
+  
+         
+ 
+  
+           
+ 
+  
+          
+ 
+  
+ 
+         
+  
+          
+      
+       
+      
+      
+  
+ 
+  
+ 
+          
+ 
+  
+      
+          Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 56 of 66 
+25. Delaney TF, Harmon DC, Gebhardt MC. Local treatment for 
+primary soft tissue sarcoma of the extremities and chest wall. 
+UpToDate [online serial]. Waltham, MA: UpToDate; reviewed July 
+2013. 
+26. Dowdy SC, Mariani A, Cliby WA, et al. Radical pelvic resection and 
+intraoperative radiation therapy for recurrent endometrial cancer: 
+Technique and analysis of outcomes. Gynecol Oncol. 
+2006;101(2):280 -286. 
+27. Drognitz O, Henne K, Weissenberger C, et al. Long -term results 
+after intraoperative radiation therapy for gastric cancer. Int J 
+Radiat Oncol Biol Phys. 2008;70(3):715 -721. 
+28. Eble MJ, Lehnert T, Herfarth C, et al. Intraoperative radiotherapy as 
+adjuvant treatment for sta ge II/III rectal carcinoma. Recent 
+Results Cancer Res. 1998;146:152 -160. 
+29. Eble MJ, Lehnert T, Treiber M, et al. Moderate dose intraoperative 
+and external beam radiotherapy for locally recurrent rectal 
+carcinoma. Radiother Oncol. 1998;49(2):169 -174. 
+30. Engel D, Schnitzer A, Brade J, et al. Are mammographic changes in 
+the tumor bed more pronounced after intraoperative 
+radiotherapy for breast cancer? Subgroup analysis from a 
+randomized trial (TARGIT -A). 2013;19(1):92 -95. 
+31. Esposito E, Anninga B, Harris S, et al. Intraoperative radiotherapy in 
+early breast cancer. Br J Surg.2015;102(6):599 -610. 
+32. Esposito E, Compagna R, Rinaldo M, et al. Intraoperative 
+radiotherapy in elderly patients with breast cancer: Is there a 
+clinical applicability? Review of the current evidence. Int J Surg. 
+2016;33 Suppl 1:S88 -S91. 
+33. Fernandez- Pello S, Hora M, Kuusk T, et al. Management of 
+sporadic renal angiomyolipomas: A systematic review of 
+available evidence to guide recommendations from the 
+European Association of Urology Renal Cell Carcinoma 
+Guidelines Panel. Eur Urol Oncol. 2020;3(1):57 -72.
+ 
+34. Gao P, Tsai C, Yang Y, et al. Intraoperative radiotherapy in gastric 
+and esophageal cancer: Meta -analysis of long -term outcomes and 
+complications. Miner va Med. 2017;108(1):74 -83. 
+35. Garton GR, Gunderson LL, Webb MJ, et al. Intraoperative 
+radiation therapy in gynecologic cancer: Update of the 
+experience at a single institution. Int J Radiat Oncol Biol Phys. 
+1997;37(4):839 -843. 
+36. Gemignani ML, Alektiar KM, Leitao M, et al. Radical surgical 
+resection and high -dose intraoperative radiation therapy (HDR ­
+IORT) in patients with recurrent gynecologic cancers. Int J Radiat       
+ 
+  
+     
+        
+   
+        
+      
+  
+          
+      
+   
+ 
+           
+  
+  
+    
+         
+  
+             
+  
+  
+ 
+        
+         
+          
+        
+  
+  
+     
+  
+  
+       
+  
+   
+     
+         
+ 
+ 
+           
+  Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 57 of 66 
+Oncol Biol Phys. 2001;50(3):687 -694. 
+37. Giordano FA, Brehmer S, Abo -Madyan Y, et al. INTRAGO: 
+Intraoperative radiotherapy in glioblastoma multiforme --a 
+phase I/II dose escalation study. BMC Cancer. 2014;14:992. 
+ 
+38. Glujovsky D. Intraoperative radiation therapy in pelvic gynecologic 
+ 
+malignancies [summary]. Technical Information Brief No. 24.Buenos 
+ 
+Aires, Argentina: Institute for Clinical Eﬀectiveness and Health 
+Policy (IECS); September 2004. 
+39. Gunderson LL, Nelson H, Martenson JA, et al. Locally advanced 
+primary colorectal cancer:Intraoperative electron and external 
+ 
+beam irradiation +/ - 5-FU. Int J Radiat Oncol Biol Phys. 
+ 
+1997;37(3):601 -614. 
+ 
+40. Habl G, Uhl M, Hensley F, et al. Intraoperative electron radiation 
+ 
+therapy (IOERT) in patients with locally recurrent renal cell 
+ 
+carcinoma. Radiat Oncol. 2013;8:282. 
+ 
+41. Hahnloser D, Haddock MG, Nelson H. Intraoperative radiotherapy 
+ 
+in the multimodality approach to colorectal cancer. Surg Oncol Clin
+ 
+N Am. 2003;12(4):993 -1013. 
+ 
+42. Harness JK, Davies K, Via C, et al. Meta- analysis of local invasive 
+ 
+breast cancer recurrence after electron int raoperative 
+radiotherapy. Ann Surg Oncol. 2018;25(1):137 -147. 
+ 
+43. Hashiguchi Y, Sekine T, Kato S, et al. Indicators for surgical 
+ 
+resection and intraoperative radiation therapy for pelvic 
+ 
+recurrence of colorectal cancer. Dis Colon Rectum. 2003;46(1):31 -39.
+ 
+44. Hellman S. Principles of Cancer Management: Radiation Therapy. In: 
+Cancer: Principles and Practice of Oncology. 6th ed. VT DeVita 
+ 
+Jr, S Hellman, SA Rosenberg, eds. Philadelphia, PA: Lippincott 
+Williams & Wilkins; 2001:285 -286. 
+ 
+45. Hershko D, Abdah -Bortnyak R, Nevelsky A, et al. Breast -
+conserving surgery and intraoperative electron radiotherapy in 
+early breast cancer: Experience at the Rambam Health Care 
+Campus. Isr Med Assoc J. 2012;14(9):550 -554. 
+ 
+46. Jin L, Shi N, Ruan S , et al. The role of intraoperative radiation 
+ 
+therapy in resectable pancreatic cancer: A systematic review and
+ 
+meta- analysis. Radiat Oncol. 2020;15(1):76. 
+ 
+47. Kalapurakal JA, Goldman S, Stellpﬂug W, et al. Phase I study of 
+	
+intraoperative radiotherapy with photon radiosurgery system in 
+children with recurrent brain tumors: Preliminary report of ﬁrst
+ 
+dose level (10 Gy). Int J Radiat Oncol Biol Phys. 2006;65(3):800 ­
+808. 
+48. Keane FK, Wo JY, Ferrone CR, et al. Intraoperative radiotherapy in the
+ 
+era of intensive neoadjuvant chemotherapy and
+       
+ 
+ 
+       
+    
+  
+       
+        
+          
+   
+  
+ 
+         
+          
+  
+         
+ 
+    
+ 
+ 
+      
+  
+          
+   
+     
+              
+  
+  
+  
+      
+ 
+  
+            
+      
+ 
+ 
+  
+ 
+  Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 58 of 66 
+chemoradiotherapy for pancreatic adenocarcinoma. Am J Clin 
+ 
+Oncol. 2018;41(6):607 -612
+ 
+49. Krempien R, Roeder F. Intraoperative radiation therapy (IORT) in 
+pancreatic cancer. Radiat Oncol. 2017;12: 8.
+ 
+50. Kriegmair MC, Bertolo R, Karakiewicz PI, et al; Young Academic 
+ 
+Urologists Kidney Cancer working group of the European 
+Association of Urology. Systematic review of the management of 
+local kidney cancer relapse. Eur Urol Oncol. 2018;1(6):512 -523. 
+ 
+51. Kyrgias G, Hajiioannou J, Tolia M, et al. Intraoperative radiation 
+ 
+therapy (IORT) in head and neck cancer: A systematic review. 
+ 
+Medicine (Baltimore). 2016;95(50):e5035. 
+ 
+52. Lai H -W, Liu L -C, Ouyang F, et al. Multi -center study on patient 
+selection for and the oncologic safety of intraoperative 
+radiotherapy (IORT) with the Xoft Axxent® eBx® System for the 
+management of early stage breast cancer in Taiwan. PLoS One. 
+ 
+2017; 12(11): e0185876. 
+ 
+53. Lemanski C, Azria D, Gourgon -Bourgade S, et al. Intraoperative 
+radiotherapy in early -stage breast cancer: Results of the 
+montpellier phase II trial. Int J Radiat Oncol Biol Phys. 
+2010;76(3):698 -703. 
+ 
+54. Leonardi MC, Ivaldi GB, Santoro L, et al. Long -term side eﬀects and
+ 
+cosmetic outcome in a pool of bre ast cancer patients treated 
+ 
+with intraoperative radiotherapy with electrons as sole
+ 
+treatment. Tumori. 2012;98(3):324 -330. 
+ 
+55. Letter from D. Jeﬀrey Demanes, M.D., Chair, American Society for
+ 
+Therapeutic Radiation Oncology (ASTRO) Regulatory Subcommittee 
+and John W. Rieke, M.D., Chair, ASTRO Managed Care Workgroup 
+ 
+to Aetna regarding IORT, December 9, 2005. 
+ 
+56. Liu G, Dong Z, Huang B, et al. Eﬃcacy and safety of accelerated 
+ 
+partial breast irradiation: A meta -analysis of published 
+ 
+randomized studies. Oncotarget.2017;8(35):59581 -59591. 
+ 
+57. Lowy AM, Rich TA, Skibber JM, et al. Preoperative infusional 
+ 
+chemoradiation, selectiveintraoperative radiation, andresection for
+ 
+locally advanced pelvic recurrence of colorectal adenocarcinoma. 
+ 
+Ann Surg. 1996;223(2):177 -185. 
+ 
+58. Maluta S, Dall'Oglio S, Marciai N, et al. Accelerated partial breast 
+ 
+irradiation using only intraoperative electron radiation therapy in 
+early stage breast cancer. Int J Radiat Oncol Biol Phys. 
+ 
+2012;84(2):e145 -e152. 
+ 
+59. Marchioro G, Volpe A, Tarabuzzi R, et al. Radical prostatectomy and 
+ 
+intraoperative radiation therapy in high -risk prostate cancer. Adv 
+Urol. 2012;2012:687230. 
+       
+   
+ 
+      
+  
+           
+  
+ 
+   
+       
+  
+        
+  
+         
+   
+        
+         
+  
+   
+       
+    
+  
+  
+        
+  
+        
+     
+  
+        
+ 
+  
+ 
+       
+  
+   
+ 
+  
+       
+  
+ 
+        Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 59 of 66 
+60. Marr BP, Abramson DH, Cohen GN, et al. Intraoperative high -dose 
+rate of radioactive phosphorus 32 brachytherapy for diﬀuse 
+recalcitrant conjunctival neoplasms: A retrospective case series and report of toxicity. JAMA Ophthalmol. 2015;133(3):283- 289. 
+61. Marucci L, Pichi B, Iaccarino G, et al. Intraoperative radiation therapy as an "early boost" in locally advanced head and neck 
+cancer: Preliminary results of a feasibility study. Head Neck. 
+2008;30(6):701- 708. 
+62. Mitin T. Radiation therapy techniques in cancer treatment. 
+UpToDate [online serial]., Waltham, MA: UpToDate; reviewed 
+May 2018. 
+63. Mitsumori M, Hiraoka M. Current status of accelerated partial 
+breast irradiation. Breast Cancer. 2008;15(1):101- 107. 
+64. Mundy L, Merlin T. Intra -operative radiation therapy: Applied to 
+women undergoing breast cancer surgery aimed at reducing 
+tumour recurrence. Horizon Scanning Prioritising Summary ­
+Volume 2. Adelaide, SA: Adelaide Health Technology Assessment 
+(AHTA) on behalf of National Horizon Scanning Unit (HealthPACT 
+and MSAC); 2003. 
+65. Nakfoor BM, Willett CG, Shellito PC, et al. The impact of 5­ﬂuorouracil and intraoperative electron beam radiation therapy on 
+the outcome of patients with locally advanced primary rectal and 
+rectosigmoid cancer. Ann Surg. 1998;228(2):194- 200. 
+66. National Comprehensive Cancer Network (NCCN). Cervical 
+cancer. NCCN Clinical Practice Guidelines in Oncology. Version 
+1.2005. Jenkintown, PA: NCCN; 2005. 
+67. National Comprehensive Cancer Network (NCCN). Colon cancer. 
+NCCN Clinical Practice Guidelines in Oncology. Version 2.2006. 
+Jenkintown, PA: NCCN; 2006. 
+68. National Comprehensive Cancer Network (NCCN). Rectal cancer. 
+NCCN Clinical Practice Guidelines in Oncology. Version 2.2006. Jenkintown, PA: NCCN; 2006. 
+69. National Comprehensive Cancer Network (NCCN). Uterine cancers. NCCN Clinical Practice Guidelines in Oncology. Version 
+1.2005. Jenkintown, PA: NCCN; 2005. 
+70. National Comprehensive Cancer Network (NCCN). Breast cancer. 
+NCCN Clinical Practice Guidelines in Oncology, version 3.2013. Fort Washington, PA: NCCN; 2013.. 
+71. National Comprehensive Cancer Network (NCCN). Breast cancer. 
+NCCN Clinical Practice Guidelines in Oncology, version 
+3.2014. Fort Washington, PA: NCCN; 2013. 
+72. National Comprehensive Cancer Network (NCCN). Breast cancer.       
+ 
+ 
+       
+  
+ 
+  
+       
+  
+ 
+        
+   
+ 
+        
+  
+       
+        
+ 
+    
+       
+   
+        
+ 
+          
+ 
+      
+  
+  
+ 
+  
+         
+  
+         
+ 
+  
+   
+         
+  
+  
+   
+      
+  
+          Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 60 of 66 
+NCCN Clinical Practice Guidelines in Oncology, version 
+ 
+2.2017. Fort Washington, PA: NCCN; 2017. 
+ 
+73. National Comprehensive Cancer Network (NCCN). Kidney cancer. 
+ 
+NCCN Clinical Practice Guidelines in Oncology, version 
+ 
+3.2014. Fort Washington, PA: NCCN; 2014. 
+ 
+74. National Comprehensive Cancer Network (NCCN). Pancreatic 
+ 
+adenocarcinoma. NCCN Clinical Practice Guidelines in Oncology, 
+ 
+version 1.2016. Fort Washington, PA: NCCN; 2016. 
+ 
+75. National Comprehensive Cancer Network (NCCN). Soft tissue 
+sarcoma. NCCN Clinical Practice Guidelines in Oncology, version 
+ 
+1.2013. Fort Washington, PA: NCCN; 2013. 
+ 
+76. National Comprehensive Cancer Network (NCCN). Soft tissue 
+sarcoma. NCCN Clincial Practice Guidelines in Oncology, version 
+ 
+2.2016. Fort Washington, PA: NCCN; 2016. 
+ 
+77. National Comprehensive Cancer Network (NCCN). Thymomas 
+ 
+and thymic carcinomas. NCCN Clincial Practice Guidelines in 
+ 
+Oncology, version 1.2020. Fort Washington, PA: NCCN; 2020. 
+78. Niewald M, Fleckenstein J, Licht N, et al. Intraoperative 
+ 
+radiotherapy (IORT) combined with external beam radiotherapy 
+ 
+(EBRT) for soft-tissue sarcomas - -a retrospective evaluation of 
+ 
+the Homburg experience in the years 1995 -2007. Radiat Oncol. 
+2009;4:32. 
+ 
+79. Orecchia R, Luini A, Veronesi P, et al. Electron intraoperative 
+treatment in patients with early -stage breast cancer: Data 
+ 
+update. Expert Rev Anticancer Ther. 2006;6(4):605 -611. 
+ 
+80. Pacelli F, Di Giorgio A, Papa V, et al. Preoperative radiotherapy 
+ 
+combined with intraoperative radiotherapy improve results of
+ 
+total mesorectal excision in patients with T3 rectal cancer. Dis 
+ 
+Colon Rectum. 2004;47(2):170 -179. 
+ 
+81. Patel S, DeLaney TF. Advanced -technology radiation therapy for
+ 
+bone sarcomas. Cancer Control. 2008;15(1):21 -37.
+ 
+82. Perry DJ, Chan K, Wolden S, et al. High -dose -rate intraoperative 
+radiation therapy for recurrent head -and-neck cancer. Int J 
+ 
+Radiat Oncol Biol Phys. 2010;76(4):1140 -1146. 
+ 
+83. Picot J, Copley V, Colquitt JL, et al. The INTRABEAM Photon 
+ 
+Radiotherapy System for the adjuvant treatment of early breast 
+ 
+cancer: A systematic review and economic evaluation. Health 
+ 
+Technol Assess. 2015;19(69):1 -190. 
+ 
+84. Pierce LJ, Sabel MS. Role of radiation therapy in breast 
+ 
+conservation therapy. UpToDate [online serial]. Waltham, MA: 
+UpToDate; reviewed July 2013. 
+ 
+85. Ratto C, Valentini V, Morganti AG, et al. Combined -modality       
+         
+  
+ 
+          
+  
+ 
+        
+  
+  
+          
+  
+  
+  
+       
+  
+ 
+         
+ 
+  
+        
+  
+ 
+          
+  
+ 
+           
+ 
+ 
+  
+       
+        
+  
+ 
+        
+ 
+ 
+    
+        
+            
+  
+         
+ Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 61 of 66 
+therapy in locally advanced primary rectal cancer. Dis Colon 
+ 
+Rectum. 2003;46(1):59 -67.
+ 
+86. Roeder F, Morillo V, Saleh -Ebrahimi L, et al. Intraoperative 
+radiation therapy (IORT) for soft tissue sarcoma -ESTRO IORT 
+ 
+Task Force / ACROP recommendations. Radiother Oncol. 
+ 
+2020;150:293 -302. 
+ 
+87. Ruano -Ravina A, Almazán Ortega R, Guedea F. Intraoperative 
+radiotherapy in pancreatic cancer: A systematic review. 
+ 
+Radiother Oncol. 2008;87(3):318 -325. 
+ 
+88. Ruano -Ravina A, Cantero- Muñoz P, Eraso Urién A. Eﬃcacy and
+ 
+safety of intraoperative radiotherapy in breast cancer: A 
+ 
+systematic review. Cancer Lett. 2011;313(1):15 -25.
+ 
+89. Russo S, Butler J, Ove R, Blackstock AW. Locally advanced 
+ 
+pancreatic cancer: Areview.Semin Oncol. 2007;34(4):327 -334. 
+ 
+90. Saracino B, Gallucci M, De Carli P, et al. Phase I -II study of 
+ 
+intraoperative radiation therapy (IORT) after radical 
+ 
+prostatectomy for prostate cancer. Int J Radiat Oncol Biol Phys. 
+2008;71(4):1049 -1056. 
+ 
+91. Sauer R, Sautter -Bihl ML, Budach W, et al. Accelerated partial 
+breast irradiation: Consensus statement of 3 German Oncology 
+ 
+societies. Cancer. 2007;110(6):1187 -1194. 
+ 
+92. Sawaki M, Kondo N, Horio A, et al. Feasibility of intraoperative 
+radiation therapy for early breast cancer in Japan: A single -center 
+ 
+pilot study and literature review. Breast Cancer. 2014;21(4):415 ­
+422. 
+93. Schild SE, Gunderson LL, Haddock MG, et al. The treatment of 
+locally advanced colon cancer. Int J Radiat Oncol Biol Phys. 
+1997;37(1):51 -58.
+ 
+94. Sedlmayer F, Zehentmayr F, Fastner G. Partial breast re -
+irradiation for local recurrence of breast carcinoma: Beneﬁt and 
+long term side eﬀects. Breast. 2013;22 Suppl 2:S141 -S146. 
+ 
+95. Shah C, Badiyan S, Khwaja S, et al. Evaluating radiotherapy 
+ 
+options in breast cancer: Does intraoperative radiotherapy 
+ 
+represent the most cost -eﬃcacious option? Clin Breast Cancer. 
+ 
+2014;14(2):141 -146. 
+ 
+96. Sharma S, Odunsi K, Driscoll D, et al. Pelvic exenterations for 
+gynecological malignancies: Twenty-year experience at Roswell 
+ 
+Park Cancer Institute. Int J Gynecol Cancer. 2005;15(3):475 -482. 
+ 
+97. Shibamoto Y, Manabe T, Baba N, et al. High dose, external beam 
+and intraoperative radiotherapy in the treatment of resectable 
+ 
+and unresectable pancreatic cancer. Int J Radiat Oncol Biol Phys. 
+ 
+1990;19(3):605 -611. 
+       
+ 
+ 
+ 
+       
+ 
+          
+             
+  
+          
+             
+  
+   
+      
+ 
+ 
+       
+          
+ 
+  
+           
+   
+ 
+       
+            
+        
+  
+ 
+   
+       
+      
+  
+         
+   
+         
+ 
+ 
+   
+  
+  
+ Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna 	 Page 62 of 66 
+98. Showalter TN, Rao AS, Rani Anne P, et al. Does intraoperative 
+radiation therapy improve local tumor control in patients 
+ 
+undergoing pancreaticoduodenectomy for pancreatic 
+ 
+adenocarcinoma? A propensity score analysis. Ann Surg Oncol. 
+ 
+2009;16(8):2116 -2122. 
+ 
+99. Silverstein MJ, Fastner G, Maluta S, et al. Intraoperative radiation 
+therapy: A critical analysis of the ELIOT and TARGIT trials. Part 1 -­
+ELIOT. Ann Surg Oncol. 2014a;21(12):3787 -3792. 
+100.	 Silverstein MJ, Fastner G, Maluta S, et al. Intraoperative radiation 
+therapy: A critical analysis of the ELIOT and TARGIT trials. Part 2 -­
+TARGIT. Ann Surg Oncol. 2014b;21(12):3793 -3799. 
+101.	 Skandarajah AR, Lynch AC, Mackay JR, et al. The role of 
+intraoperative radiotherapy in solid tumors. Ann Surg Oncol. 
+2009;16(3):735 -744. 
+102.	 Sorrentino L, Fissi S, Meaglia I, et al. One -step intraoperative 
+radiotherapy optimizes conservative treatment of breast cancer 
+with advantages in quality of life and work resumption. Breast. 
+2018;39:123 -130. 
+103.	 Stevens KR, JR. The Colon and Rectum. In: Moss; Radiation 
+Oncology. 7th ed. JD Cox, ed. St Louis, MO: Mosby; 1994:480 -481. 
+104.	 Taghian A, El -Ghamry MN, Merajver SD. Overview of the treatment 
+of newly diagnosed, non -metastatic breast cancer. UpToDate 
+[online serial]. Waltham, MA: UpToDate; reviewed June 2014. 
+105.	 Takanen S, Gambirasio A, Gritti G, et al. Breast cancer electron 
+intraoperative radiotherapy: Assessment of preoperative 
+selection factors from a retrospective analysis of 758 patients 
+and review of literature. Breast Cancer Res Treat. 
+2017;165(2):261 -271. 
+106.	 Taylor WE, Donohue JH, Gunderson LL, et al. The Mayo Clinic 
+experience with multimodality treatment of locally advanced or 
+recurrent colon cancer. Ann Surg Oncol. 2002;9(2):177 -85. 
+107.	 Thangarajah F, Heilmann J, Malter W, et al. Breast conserving 
+surgery in combination with intraoperative radiotherapy after 
+previous external beam therapy: An option to avoid mastectomy. 
+Breast Cancer Res Treat. 2018;168(3):739 -744. 
+108.	 Tzeng CW, Fiveash JB, Heslin MJ. Radiation therapy for 
+retroperitoneal sarcoma. Expert Rev Anticancer Ther. 
+2006;6(8):1251 -1260. 
+109.	 Vaidya A, Vaidya P, Both B, et al. Health economics of targeted 
+intraoperative radiotherapy (TARGIT -IORT) for early breast canc er: 
+A cost -eﬀectiveness analysis in the United Kingdom. BMJ Open. 
+2017;7(8):e014944.       
+  
+        
+       
+  
+             
+  
+  
+       
+  
+  
+ 
+         
+  
+   
+       
+ 
+             
+ 
+  
+  
+            
+   
+ 
+ 
+    
+ 
+ 
+ 
+  
+ 
+        
+ 
+ 
+    
+      
+  
+            
+ 
+  
+  
+      Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna 	 Page 63 of 66 
+110.	 Vaidya JS, Joseph DJ, Tobias JS, etal. Targeted intraoperative 
+radiotherapy versus whole breast radiotherapy for breast cancer 
+(TARGIT -A trial): An international, prospective, randomised, non-
+inferiority phase 3 trial. Lancet. 2010;376(9735):91 -102. 
+111.	 Vaidya JS, Wenz F, Bulsara M, et al; TARGIT trialists' group. Risk-
+adapted targeted intraoperative radiotherapy versus whole -
+breast radiotherapy for br east cancer: 5 -year results for local 
+control and overall survival from the TARGIT -A randomised trial. 
+Lancet. 2014;383(9917):603 -613. 
+112.	 Valente SA, Tendulkar RD, Cherian S, et al. TARGIT -R 
+(Retrospective): North American experience with intraoperative 
+radiation using low-kilovoltage X-rays for breast cancer. Ann Surg 
+Oncol. 2016;23(9):2809 -2815. 
+113.	 Valentini V, Balducci M, Tortoreto F, et al. Intraoperative 
+radiotherapy: Current thinking. Eur J Surg Oncol. 2002;28(2):180 ­
+185. 
+114.	 Valentini V, Morganti AG, De Franco A, et al. Chemoradiation with or 
+without intraoperative radiation therapy in patients with locally 
+recurrent rectal carcinoma: Prognostic factors and long term 
+outcome. Cancer. 1999;86(12):2612 -2624. 
+115.	 Van De Voorde L, Delrue L, van Eijkeren M, De Meerleer G. 
+Radiotherapy and surgery -An indispensable duo in the 
+treatment of retroperitoneal sarcoma. Cancer. 
+2011;117(19):4355 -4364. 
+116.	 Vanderwalde NA, Jones EL, Kimple RJ, et al. Phase 2 study of pre­
+excision single -dose intraoperative radiation therapy for early -
+stage breast cancers: Six -year update with application of the 
+ASTRO accelerated partial breast irradiation consensus statemen t 
+criteria. Cancer. 2013;119(9):1736 -1743. 
+117.	 Weil RJ, Mavinkurve GG, Chao ST, et al. Intraoperative 
+radiotherapy to treat newly diagnosed solitary brain metastasis: 
+Initial experience and long -term outcomes. J Neurosurg. 
+2015;122(4):825 -832. 
+118.	 Wenz F, Schneide r F, Neumaier C, et al. Kypho -IORT --a novel 
+approach of intraoperative radiotherapy during kyphoplasty for 
+vertebral metastases. Radiat Oncol. 2010;5:11. 
+119.	 Wernicke AG, Yondorf MZ, Peng L, et al. Phase I/II study of 
+resection and intraoperative cesium -131 radioisotope 
+brachytherapy in patients with newly diagnosed brain 
+metastases. J Neurosurg. 2014;121(2):338 -348. 
+120.	 Wilkowski R, Wolf M, Heinemann V. Primary advanced 
+unresectable pancreatic cancer. Recent Results Cancer Res.       
+ 
+ 
+        
+  
+  
+ 
+ 
+         
+ 
+ 
+  
+       
+  
+     
+        
+ 
+ 
+  
+        
+  Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna 	 Page 64 of 66 
+2008;177:79 -93. 
+121.	 Willett CG, Czito BG, Tyler DS. Intraoperative radiation therapy. J 
+Clin Oncol. 2007;25(8):971 -977. 
+ 
+122.	 Yap OW, Kapp DS, Teng NN, et al. Intraoperative radiation therapy 
+ 
+in recurrent ovarian cancer. Int J Radiat Oncol Biol Phys. 
+2005;63(4):1114 -1121. 
+ 
+123.	 Yeung JM, Ngan S, Lynch C, Heriot AG. Intraoperative 
+radiotherapy and colorectal cancer. Minerva Chir. 
+ 
+2010;65(2):161 -171. 
+ 
+124.	 Yu WW, Guo YM, Zhang Q, Fu S. Beneﬁts from adjuvant 
+	
+intraoperative radiotherapy treatment for gastric cancer: A meta -
+analysis. Mol Clin Oncol. 2015;3(1):185 -189. 
+ 
+125.	 Zurrida S, Leonardi MC, Del Castillo A, et al. Accelerated partial 
+ 
+breast irradiation in early breast cancer: Focus on intraoperative 
+treatment with electrons (ELIOT). Womens Health (Lond Engl). 
+ 
+2012;8(1):89 -98.
+ 
+126.	 Zygogianni GA, Kyrgias G, Kouvaris J, et al. Intraoperative 
+ 
+radiation therapy on pancreatic cancer patients: A review of the 
+literature. Minerva Chir. 2011;66(4):361 -369. 
+       
+ 
+ 
+ 
+ 
+ 
+ 
+   
+     
+       
+                
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 65 of 66 
+Copyright Aetna Inc. All rights reserved. Clinical Policy Bulletins are developed by Aetna to assist in administering plan be nefits and 
+constitute neither offers of coverage nor medical advice. This Clinical Policy Bulletin contains only a partial, general description of plan or 
+program benefits and does not constitute a contract. Aetna does not provide health care services and, therefore, cannot guarantee any results or outcomes. Participating providers are independent contractors in private practice and are neither employees nor agents of Aetna or 
+its affiliates. Treating providers are solely responsible for medical advice and treatment of members. This Clinical Policy Bulletin m ay be 
+updated and therefore is subject to change. 
+Copyright © 2001 -2021 Aetna Inc.       
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Intraoperative Radiation Therapy (IORT) -Medical Clinical Policy Bulletins | Aetna Page 66 of 66 
+AETNA BETTER HEALTH® OF PENNSYLVANIA 
+Amendment to 
+ 
+Aetna Clinical Policy Bulletin Number: 0721 Intraoperative 
+ 
+Radiation Therapy (IORT) 
+ 
+There are no amendments for Medicaid. 
+annual 11/01/2021 
