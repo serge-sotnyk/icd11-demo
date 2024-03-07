@@ -1,0 +1,6 @@
+chromadb
+streamlit
+pandas
+transformers
+tokenizers
+numpy
