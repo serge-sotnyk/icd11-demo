@@ -44,8 +44,10 @@ filenames = sorted([Path(f).name for f in filenames])
 with st.sidebar:
     st.subheader("Policy Documents")
     fn_to_num = {f: i for i, f in enumerate(filenames)}
-    filename = st.radio("Select a policy document", list(filenames),
-                        format_func=lambda x: f"{fn_to_num[x]}: {x}")
+    fn_to_size = {f: (Path("data") / "policies" / f).stat().st_size for f in filenames}
+    filename = st.radio(
+        "Select a policy document", list(filenames),
+        format_func=lambda x: f"{fn_to_num[x]}: {x} ({fn_to_size[x] / 1024:.2f} KB)")
 
 
 @st.cache_data(max_entries=10_000)
@@ -67,9 +69,18 @@ def render_doc(filename: str):
     paragraphs = txt.splitlines()
     st.subheader(filename)
     threshold = st.slider("Threshold", min_value=400, max_value=2000, value=1000, step=5)
+
+    pb_txt = f"Processing {len(paragraphs)} paragraphs..."
+    pb = st.progress(0, text=pb_txt)
+    categories = []
+    for n, p in enumerate(paragraphs):
+        pb.progress(n / len(paragraphs), text=pb_txt)
+        categories.append(get_categories(p, threshold))
+    pb.progress(1, text="Processing has done!")
+
     df = pd.DataFrame.from_dict({
         "Paragraph": paragraphs,
-        "Category": [", ".join(get_categories(p, threshold)) for p in paragraphs],
+        "Category": [", ".join(c) for c in categories],
     })
     st.table(df)
 
